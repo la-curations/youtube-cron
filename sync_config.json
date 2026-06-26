@@ -1,14 +1,20 @@
 [
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
-    "name": "Popcornflix"
+    "name": "Popcornflix",
+    "nextPageToken": null,
+    "isHistoryComplete": false
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
-    "name": "FilmRise Movies"
+    "name": "FilmRise Movies",
+    "nextPageToken": null,
+    "isHistoryComplete": false
   },
   {
     "channelId": "UCGBzBkV-MinlBvHBzZawfLQ",
-    "name": "Movie Central"
+    "name": "Movie Central",
+    "nextPageToken": null,
+    "isHistoryComplete": false
   }
 ]
