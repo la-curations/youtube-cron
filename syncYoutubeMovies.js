@@ -85,7 +85,7 @@ async function cleanTitlesWithAIBatch(videoTitles) {
 
     const content = res.choices[0].message.content.trim();
     const parsed = JSON.parse(content);
-    
+
     return videoTitles.map((original, index) => {
       const resolved = parsed.movies && parsed.movies[index];
       return {
@@ -155,7 +155,7 @@ async function fetchTmdbMetadata(title, year, imdbId, originalLang) {
     // Path B: Try Title Search
     let searchUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
     if (year) {
-      searchUrl += `&year=${year}`;
+      searchUrl += `&primary_release_year=${year}`;
     }
     if (originalLang) {
       searchUrl += `&language=${originalLang}`;
@@ -201,8 +201,9 @@ async function startSync() {
   const channelsConfig = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
   const masterMovies = JSON.parse(fs.readFileSync(MASTER_PATH, 'utf8'));
 
-  // Create active lookup map for duplicate check
+  // Create active lookup maps for duplicate checks
   const existingYtIds = new Set(masterMovies.map(m => m.ytId));
+  const existingTmdbIds = new Set(masterMovies.map(m => m.tmdbId));
 
   // Determine next auto-increment ID
   let nextId = masterMovies.length > 0 ? Math.max(...masterMovies.map(m => m.id)) + 1 : 1;
@@ -305,6 +306,12 @@ async function startSync() {
         const tmdbData = await fetchTmdbMetadata(cleanMeta.title, cleanMeta.year, imdbId, cleanMeta.language);
 
         if (tmdbData) {
+          // Check if TMDb ID is already in the database to prevent re-upload duplicates
+          if (existingTmdbIds.has(tmdbData.id)) {
+            console.log(`    SKIPPED (Duplicate TMDb ID: ${tmdbData.id}): "${tmdbData.title}"`);
+            continue;
+          }
+
           console.log(`    MATCHED TMDb: "${tmdbData.title}" (ID: ${tmdbData.id})`);
           processedMovies.push({
             ytId: videoId,
@@ -317,6 +324,7 @@ async function startSync() {
             channelName: channel.name,
             addedAt: new Date().toISOString().split('T')[0]
           });
+          existingTmdbIds.add(tmdbData.id);
         } else {
           console.log(`    NO MATCH found on TMDb for: "${cleanMeta.title}"`);
         }
