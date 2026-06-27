@@ -78,7 +78,7 @@ async function cleanTitlesWithAIBatch(videoTitles) {
   if (!GROQ_API_KEY) {
     return videoTitles.map(title => ({
       originalTitle: title,
-      title: cleanTitleFallback(title),
+      title: title,
       year: null,
       language: null
     }));
@@ -118,68 +118,29 @@ async function cleanTitlesWithAIBatch(videoTitles) {
       const resolved = parsed.movies && parsed.movies[index];
       return {
         originalTitle: original,
-        title: resolved ? resolved.title : cleanTitleFallback(original),
+        title: resolved ? resolved.title : original,
         year: resolved ? resolved.year : null,
         language: resolved ? resolved.language : null
       };
     });
   } catch (err) {
-    console.warn(`Groq AI batch cleanup failed, falling back to regex:`, err.message);
+    console.warn(`Groq AI batch cleanup failed, falling back to original title:`, err.message);
     return videoTitles.map(title => ({
       originalTitle: title,
-      title: cleanTitleFallback(title),
+      title: title,
       year: null,
       language: null
     }));
   }
 }
 
-// Regex fallback for title cleaning
-function cleanTitleFallback(title) {
-  let cleaned = title
-    // Remove typical brackets and parentheses contents about movies/HD
-    .replace(/[\(\[][^\)\]]*(movie|film|hd|1080p|720p|4k|full|action|drama|thriller|complete|free)[^\)\]]*[\)\]]/gi, '')
-    // Remove actor parentheses e.g. "(Edward Norton, Jessica Biel)"
-    .replace(/\([^\)]+,[^\)]+\)/g, '')
-    // Remove typical promo suffixes
-    .replace(/\s*\|\s*Full\s+.*Movie.*$/gi, '')
-    .replace(/\s*-\s*Full\s+.*Movie.*$/gi, '')
-    .replace(/\s*\|\s*Free\s+.*Movie.*$/gi, '')
-    .replace(/\s*-\s*Free\s+.*Movie.*$/gi, '')
-    .replace(/\s*\|\s*Action\s+Movie.*$/gi, '')
-    .replace(/\s*-\s*Action\s+Movie.*$/gi, '')
-    .replace(/\s*\|\s*Drama\s+Movie.*$/gi, '')
-    .replace(/\s*-\s*Drama\s+Movie.*$/gi, '')
-    // Clean up spaces
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  return cleaned;
-}
-
-// Extract IMDb ID from video description
-function extractImdbId(description) {
-  if (!description) return null;
-  const match = description.match(/imdb\.com\/title\/(tt\d+)/i) || description.match(/\b(tt\d{7,9})\b/i);
-  return match ? match[1].toLowerCase() : null;
-}
-
-// 3. TMDb API: Search movie by IMDb ID or Title/Year
-async function fetchTmdbMetadata(title, year, imdbId, originalLang) {
+// 3. TMDb API: Search movie by Title/Year
+async function fetchTmdbMetadata(title, year, originalLang) {
   if (!TMDB_API_KEY) {
     throw new Error('Missing TMDB_API_KEY environment variable');
   }
 
   try {
-    // Path A: Try IMDb ID search (100% accurate)
-    if (imdbId) {
-      const url = `https://api.themoviedb.org/3/find/${imdbId}?api_key=${TMDB_API_KEY}&external_source=imdb_id`;
-      const res = await makeRequest(url);
-      if (res.movie_results && res.movie_results.length > 0) {
-        return res.movie_results[0];
-      }
-    }
-
     // Path B: Title-based search
     if (year) {
       // 1. Try with name + year + lang
@@ -382,11 +343,8 @@ async function startSync() {
         const cleanMeta = cleanedMetaList[i];
         console.log(`  Searching TMDb for: "${cleanMeta.title}" (Original: "${videoTitle}")`);
 
-        // B. Parse description for IMDb ID
-        const imdbId = extractImdbId(description);
-
-        // C. TMDb Lookup
-        const tmdbData = await fetchTmdbMetadata(cleanMeta.title, cleanMeta.year, imdbId, cleanMeta.language);
+        // B. TMDb Lookup
+        const tmdbData = await fetchTmdbMetadata(cleanMeta.title, cleanMeta.year, cleanMeta.language);
 
         if (tmdbData) {
           // Check if TMDb ID is already in the database to prevent re-upload duplicates
