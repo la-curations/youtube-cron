@@ -44,6 +44,34 @@ async function fetchPlaylistItems(playlistId, pageToken = null) {
   return makeRequest(url);
 }
 
+// 1b. YouTube API: Fetch video details batch to get duration
+async function fetchVideoDetailsBatch(videoIds) {
+  if (videoIds.length === 0) return [];
+  const key = getYoutubeKey();
+  const results = [];
+  for (let i = 0; i < videoIds.length; i += 50) {
+    const chunk = videoIds.slice(i, i + 50);
+    const idStr = chunk.join(',');
+    const url = `https://www.googleapis.com/youtube/v3/videos?part=contentDetails&id=${idStr}&key=${key}`;
+    const res = await makeRequest(url);
+    if (res.items) {
+      results.push(...res.items);
+    }
+  }
+  return results;
+}
+
+// Helper to parse ISO 8601 duration to seconds
+function parseDurationToSeconds(durationStr) {
+  if (!durationStr) return 0;
+  const match = durationStr.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  const hours = parseInt(match[1] || '0', 10);
+  const minutes = parseInt(match[2] || '0', 10);
+  const seconds = parseInt(match[3] || '0', 10);
+  return hours * 3600 + minutes * 60 + seconds;
+}
+
 // 2. Groq AI: Clean YouTube titles in a single batch request
 async function cleanTitlesWithAIBatch(videoTitles) {
   if (videoTitles.length === 0) return [];
@@ -220,13 +248,22 @@ async function startSync() {
     channel.isHistoryComplete = channel.isHistoryComplete !== undefined ? channel.isHistoryComplete : false;
 
     const limitPerPage = channel.limitPerPage || 50;
-    const newItemsFound = [];
+    let newItemsFound = [];
 
     // --- PHASE 1: Fetch New Daily Uploads (Page 1 Only) ---
     try {
       console.log('Step 1: Checking for new uploads...');
       const response = await fetchPlaylistItems(playlistId, null);
       const items = response.items || [];
+
+      // If this is a new channel or token is missing, initialize token from Page 1 response
+      if (!channel.nextPageToken && !channel.isHistoryComplete) {
+        channel.nextPageToken = response.nextPageToken || null;
+        if (!response.nextPageToken) {
+          channel.isHistoryComplete = true;
+        }
+        hasConfigChanges = true;
+      }
 
       for (const item of items) {
         const videoId = item.snippet?.resourceId?.videoId;
@@ -274,6 +311,37 @@ async function startSync() {
         }
       } catch (err) {
         console.error(`Failed to crawl history for ${channel.name}:`, err.message);
+      }
+    }
+
+    // --- PHASE 2.5: Filter by Duration (>= 1 hour) ---
+    if (newItemsFound.length > 0) {
+      console.log(`Checking durations for ${newItemsFound.length} discovered items...`);
+      try {
+        const videoIds = newItemsFound.map(item => item.snippet?.resourceId?.videoId).filter(Boolean);
+        const detailsList = await fetchVideoDetailsBatch(videoIds);
+        
+        const durationMap = {};
+        for (const detail of detailsList) {
+          if (detail.id && detail.contentDetails?.duration) {
+            durationMap[detail.id] = detail.contentDetails.duration;
+          }
+        }
+
+        const initialCount = newItemsFound.length;
+        newItemsFound = newItemsFound.filter(item => {
+          const videoId = item.snippet?.resourceId?.videoId;
+          const durationStr = durationMap[videoId];
+          const durationSec = parseDurationToSeconds(durationStr);
+          return durationSec >= 3600; // 1 hour (3600 seconds)
+        });
+
+        const skippedCount = initialCount - newItemsFound.length;
+        if (skippedCount > 0) {
+          console.log(`Skipped ${skippedCount} videos that are under 1 hour in duration.`);
+        }
+      } catch (err) {
+        console.error(`Failed to filter videos by duration:`, err.message);
       }
     }
 

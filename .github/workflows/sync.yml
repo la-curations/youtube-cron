@@ -41,3 +41,10 @@ jobs:
           else
             echo "No updates to commit."
           fi
+
+      - name: Purge jsDelivr Cache
+        run: |
+          curl -i https://purge.jsdelivr.net/gh/la-curations/youtube-cron@main/movies_all.json
+          curl -i https://purge.jsdelivr.net/gh/la-curations/youtube-cron@main/movies_delta.json
+          curl -i https://purge.jsdelivr.net/gh/la-curations/youtube-cron/movies_all.json
+          curl -i https://purge.jsdelivr.net/gh/la-curations/youtube-cron/movies_delta.json
