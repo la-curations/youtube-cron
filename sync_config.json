@@ -2,19 +2,19 @@
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
     "name": "Popcornflix",
-    "nextPageToken": "EAAaHlBUOkNESWlFRVV4TVRreFJESTFPRVF5UVVVMlFqZw",
+    "nextPageToken": "",
     "isHistoryComplete": false
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
     "name": "FilmRise Movies",
-    "nextPageToken": "EAAaHlBUOkNESWlFRUkxUkVFNFF6QTNOa1E0UWpSQk4wRQ",
+    "nextPageToken": "",
     "isHistoryComplete": false
   },
   {
     "channelId": "UCGBzBkV-MinlBvHBzZawfLQ",
     "name": "Movie Central",
-    "nextPageToken": "EAAaHlBUOkNESWlFRFZGUVRCQk1UQXdSVFJCTkRrNFFVRQ",
+    "nextPageToken": "",
     "isHistoryComplete": false
   }
 ]

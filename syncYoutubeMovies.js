@@ -296,7 +296,7 @@ async function startSync() {
       try {
         const videoIds = newItemsFound.map(item => item.snippet?.resourceId?.videoId).filter(Boolean);
         const detailsList = await fetchVideoDetailsBatch(videoIds);
-        
+
         const durationMap = {};
         for (const detail of detailsList) {
           if (detail.id && detail.contentDetails?.duration) {
@@ -361,6 +361,8 @@ async function startSync() {
             poster_path: tmdbData.poster_path,
             genre_ids: tmdbData.genre_ids || [],
             year: tmdbData.release_date ? tmdbData.release_date.split('-')[0] : String(cleanMeta.year || ''),
+            release_date: tmdbData.release_date || null,
+            rating: tmdbData.vote_average || null,
             original_language: tmdbData.original_language || cleanMeta.language,
             channelName: channel.name,
             addedAt: new Date().toISOString().split('T')[0]
