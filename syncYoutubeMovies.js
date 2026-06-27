@@ -180,26 +180,41 @@ async function fetchTmdbMetadata(title, year, imdbId, originalLang) {
       }
     }
 
-    // Path B: Try Title Search
-    let searchUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
+    // Path B: Title-based search
     if (year) {
-      searchUrl += `&primary_release_year=${year}`;
-    }
-    if (originalLang) {
-      searchUrl += `&language=${originalLang}`;
-    }
+      // 1. Try with name + year + lang
+      let url1 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}&primary_release_year=${year}`;
+      if (originalLang) {
+        url1 += `&language=${originalLang}`;
+      }
+      const res1 = await makeRequest(url1);
+      if (res1.results && res1.results.length > 0) {
+        return res1.results[0];
+      }
 
-    const searchRes = await makeRequest(searchUrl);
-    if (searchRes.results && searchRes.results.length > 0) {
-      return searchRes.results[0];
-    }
+      // 2. Try with name + year (ignoring lang)
+      const url2 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}&primary_release_year=${year}`;
+      const res2 = await makeRequest(url2);
+      if (res2.results && res2.results.length > 0) {
+        return res2.results[0];
+      }
 
-    // Secondary fallback without year if search failed
-    if (year) {
-      const fallbackUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
-      const fallbackRes = await makeRequest(fallbackUrl);
-      if (fallbackRes.results && fallbackRes.results.length > 0) {
-        return fallbackRes.results[0];
+      // 3. Try name only. If results has exactly one row, take it; otherwise skip.
+      const url3 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
+      const res3 = await makeRequest(url3);
+      if (res3.results && res3.results.length === 1) {
+        return res3.results[0];
+      }
+    } else {
+      // AI has no year
+      // 1. Try name and lang (if present). If results has exactly one row, take it; otherwise skip.
+      let url1 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
+      if (originalLang) {
+        url1 += `&language=${originalLang}`;
+      }
+      const res1 = await makeRequest(url1);
+      if (res1.results && res1.results.length === 1) {
+        return res1.results[0];
       }
     }
 
