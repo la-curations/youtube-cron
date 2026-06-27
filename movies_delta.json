@@ -1,5 +1,1487 @@
 [
   {
+    "ytId": "3dx4ERHlJZo",
+    "tmdbId": 1228816,
+    "title": "A Nanny's Revenge",
+    "poster_path": "/jEyeJurm8IjhwTpfdWtDe7XjexG.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2024",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 198
+  },
+  {
+    "ytId": "v_-E4Z3mrBU",
+    "tmdbId": 9802,
+    "title": "The Rock",
+    "poster_path": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "1996",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 197
+  },
+  {
+    "ytId": "ncxBMIhGRGs",
+    "tmdbId": 1173558,
+    "title": "Burning Betrayal",
+    "poster_path": "/3MxgXI3VO7QCNnP0mPBjxLIemNM.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "year": "2023",
+    "original_language": "pt",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 196
+  },
+  {
+    "ytId": "nEmrEDuUtaA",
+    "tmdbId": 759413,
+    "title": "Without a Body",
+    "poster_path": "/za9TPrBLqYcS3hxe6amdeVce2EL.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 195
+  },
+  {
+    "ytId": "ATfu8SdJ35c",
+    "tmdbId": 1003990,
+    "title": "Children of the Pines",
+    "poster_path": "/fdkDk2KRBJahPs5ptVvnhZjvtT.jpg",
+    "genre_ids": [
+      27,
+      18,
+      9648,
+      53
+    ],
+    "year": "2023",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 194
+  },
+  {
+    "ytId": "T4rQb2cfH2k",
+    "tmdbId": 470984,
+    "title": "Calico Skies",
+    "poster_path": "/rmYkgkhBhsohTovE3ZHY5JVhuze.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2017",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 193
+  },
+  {
+    "ytId": "0kD6Ebiuwbc",
+    "tmdbId": 340868,
+    "title": "Deadly Sanctuary",
+    "poster_path": "/jqyhdfwOnCU0o2TbutqsW0OGKXd.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "year": "2015",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 192
+  },
+  {
+    "ytId": "aIhTK_mlh4I",
+    "tmdbId": 465934,
+    "title": "A Deadly Affair",
+    "poster_path": "/kYc3EcLNZwGTAyJ0xxZ48R3yWvx.jpg",
+    "genre_ids": [
+      10770,
+      53
+    ],
+    "year": "2017",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 191
+  },
+  {
+    "ytId": "0ecQfqRAJ0E",
+    "tmdbId": 1288246,
+    "title": "The Huntsman",
+    "poster_path": "/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "year": "2026",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 190
+  },
+  {
+    "ytId": "Yw_zPWyH8qA",
+    "tmdbId": 664553,
+    "title": "What We Found",
+    "poster_path": "/7AfgLRtFAEWW9GDC1ahHNAMtmQc.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2020",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 189
+  },
+  {
+    "ytId": "jNdQ6vLND6c",
+    "tmdbId": 1711441,
+    "title": "Torn",
+    "poster_path": "/4GTWpDR6bUrFmC4LmHYVlExqkT.jpg",
+    "genre_ids": [
+      12,
+      18,
+      14,
+      10402
+    ],
+    "year": "2026",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 188
+  },
+  {
+    "ytId": "z7guoFkrN9o",
+    "tmdbId": 1515104,
+    "title": "Red Plague",
+    "poster_path": "/3ZvTqlMgdDRD9vMOvWFQBGMzOw9.jpg",
+    "genre_ids": [
+      53,
+      18,
+      878
+    ],
+    "year": "2025",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 187
+  },
+  {
+    "ytId": "pc7RD0WKpIs",
+    "tmdbId": 1014422,
+    "title": "The Legend of Hawes",
+    "poster_path": "/baRmzUPP3QkDEAFOlS4b33AHXWp.jpg",
+    "genre_ids": [
+      27,
+      37
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 186
+  },
+  {
+    "ytId": "iBmLpbLmpVY",
+    "tmdbId": 9792,
+    "title": "The Hills Have Eyes",
+    "poster_path": "/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2006",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 185
+  },
+  {
+    "ytId": "q6HS19unoZ8",
+    "tmdbId": 1036903,
+    "title": "All Gone Wrong",
+    "poster_path": "/9fockXg6Svg6XiEpZ1JPsC5BJhC.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "year": "2021",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 184
+  },
+  {
+    "ytId": "RhimxXyPSvk",
+    "tmdbId": 455551,
+    "title": "The Recall",
+    "poster_path": "/A2sQAzHavtot2brA42pHXKgf3ww.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2017",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 183
+  },
+  {
+    "ytId": "reMGv0yHk98",
+    "tmdbId": 1048264,
+    "title": "My Perfect Wedding",
+    "poster_path": "/htojvHxN7aM5sQ1x6WrTMzk4ubD.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 182
+  },
+  {
+    "ytId": "Hmbrye1XjG0",
+    "tmdbId": 1294338,
+    "title": "Heart's Creek",
+    "poster_path": "/lLkI8o0bfInS9srLPsAcFRBgfl5.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      10770,
+      10751
+    ],
+    "year": "2024",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 181
+  },
+  {
+    "ytId": "06IKWhmN0V8",
+    "tmdbId": 15749,
+    "title": "While She Was Out",
+    "poster_path": "/ehhJzxVV566RxPKmotY4E6xU477.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2008",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 180
+  },
+  {
+    "ytId": "FQ1QAApVD-s",
+    "tmdbId": 1160748,
+    "title": "Bystanders",
+    "poster_path": "/8HsqONRZUGZKl7Tw347TxU37LZc.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 179
+  },
+  {
+    "ytId": "4RWJryTZkuM",
+    "tmdbId": 427750,
+    "title": "Inspired to Kill",
+    "poster_path": "/p7WbbFRfa5jIFBynKQZYdm1HBX3.jpg",
+    "genre_ids": [
+      10770,
+      53
+    ],
+    "year": "2016",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 178
+  },
+  {
+    "ytId": "tJuAJA_ZH_E",
+    "tmdbId": 1160171,
+    "title": "Prisoner of the Dawn",
+    "poster_path": "/jqPVoD9sZsk4EfNTK4uQAADMfy4.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2023",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 177
+  },
+  {
+    "ytId": "PijTERClaEk",
+    "tmdbId": 404764,
+    "title": "Texas Rein",
+    "poster_path": "/d33PyM6NPwZGFuteWpvI1Twad7h.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10751
+    ],
+    "year": "2016",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 176
+  },
+  {
+    "ytId": "i0FrlVQjcAI",
+    "tmdbId": 387660,
+    "title": "DinoGator",
+    "poster_path": "/mwnqPV7XoD4MvOVpRF0dHWASO3s.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "2024",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 175
+  },
+  {
+    "ytId": "n0qg4LAEWrk",
+    "tmdbId": 969686,
+    "title": "4 Horsemen: Apocalypse",
+    "poster_path": "/dt3mo4tArf2llDiht91cnvUtSgT.jpg",
+    "genre_ids": [
+      878,
+      27,
+      10770
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 174
+  },
+  {
+    "ytId": "NGSLf3rnWg4",
+    "tmdbId": 514614,
+    "title": "The Nomad",
+    "poster_path": "/1Lw5H8gpL1BUnQkkZPKsKD916I6.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "1967",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 173
+  },
+  {
+    "ytId": "-IH-71DafUE",
+    "tmdbId": 1200208,
+    "title": "The Shamrock Spitfire",
+    "poster_path": "/AsSxBwz8ubOSneq3C2bBkqAHpz.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "year": "2024",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 172
+  },
+  {
+    "ytId": "3gz-vDTVLH0",
+    "tmdbId": 339145,
+    "title": "The Girl in the Book",
+    "poster_path": "/zVvOHOz5848dZ5x7mGqxBWzsPmS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 171
+  },
+  {
+    "ytId": "upIOtemr8tU",
+    "tmdbId": 41809,
+    "title": "Under the Radar",
+    "poster_path": "/slKMZBxlcx3t3SbwSrylhgZqRIS.jpg",
+    "genre_ids": [],
+    "year": "2004",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 170
+  },
+  {
+    "ytId": "Zmz7N3GhuFc",
+    "tmdbId": 296,
+    "title": "Terminator 3: Rise of the Machines",
+    "poster_path": "/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "year": "2003",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 169
+  },
+  {
+    "ytId": "nsf8nnX-bKg",
+    "tmdbId": 791910,
+    "title": "Rise of the Mummy",
+    "poster_path": "/qahz9340FEDIo4FsNK3aFwzcw9C.jpg",
+    "genre_ids": [
+      14,
+      27,
+      878
+    ],
+    "year": "2021",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 168
+  },
+  {
+    "ytId": "N41-dPfI_5U",
+    "tmdbId": 47277,
+    "title": "Mother Teresa of Calcutta",
+    "poster_path": "/sLADewOUdA9vjBde2VaLrhfKxWo.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2003",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 167
+  },
+  {
+    "ytId": "ewa3u0yU2_U",
+    "tmdbId": 565275,
+    "title": "The Sunlit Night",
+    "poster_path": "/crMgeJWwAPhcE5kE8QLiVdhuyJe.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "2020",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 166
+  },
+  {
+    "ytId": "FCVQ70H4Ars",
+    "tmdbId": 555176,
+    "title": "Haven's End",
+    "poster_path": "/it1aYaF2cHE2kTYoSeyw0kTbRhy.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2018",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 165
+  },
+  {
+    "ytId": "rvpyqOy7KXo",
+    "tmdbId": 578671,
+    "title": "White Lie",
+    "poster_path": "/c36SFlCl8wxDNWjsPNZyTUvvTBv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2019",
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-27",
+    "id": 164
+  },
+  {
+    "ytId": "xm1wgDsrgUk",
+    "tmdbId": 793180,
+    "title": "Love, Bubbles & Crystal Cove",
+    "poster_path": "/vOVeFmOkNhORu88Tu44D6bnkCQP.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749,
+      18
+    ],
+    "year": "2021",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 163
+  },
+  {
+    "ytId": "DGJfl0E_084",
+    "tmdbId": 67277,
+    "title": "All Forgotten",
+    "poster_path": "/6nc9NRFk4HQYpBadzQZsQREz612.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2001",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 162
+  },
+  {
+    "ytId": "Qqu2NASymfM",
+    "tmdbId": 397415,
+    "title": "Vengeance: A Love Story",
+    "poster_path": "/kPUFcGPI9FChybFHIJJBZZLiIlg.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "2017",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 161
+  },
+  {
+    "ytId": "_WNAtaYTRno",
+    "tmdbId": 106160,
+    "title": "My Stepson, My Lover",
+    "poster_path": "/uTUHJCG4wSUAxbfYeUktNtxFJDr.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1997",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 160
+  },
+  {
+    "ytId": "jxA9d4WmseE",
+    "tmdbId": 743225,
+    "title": "Love's Second Chance",
+    "poster_path": "/zvtxpwStJcxRkRMRwBrfs2w3vqH.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2020",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 159
+  },
+  {
+    "ytId": "hgbWGIQzgRo",
+    "tmdbId": 795640,
+    "title": "Love's Sweet Recipe",
+    "poster_path": "/neHdPF3jA7CmdZcy73IExYq7z34.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749
+    ],
+    "year": "2021",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 158
+  },
+  {
+    "ytId": "iUmhSUMZDgY",
+    "tmdbId": 479613,
+    "title": "A Song for Christmas",
+    "poster_path": "/4PjXNuqhkrhcMYUJTzsPQmRnXgN.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "2017",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 157
+  },
+  {
+    "ytId": "ixSUguTtviw",
+    "tmdbId": 757972,
+    "title": "A Christmas Hero",
+    "poster_path": "/dXHIEr6cBSL88JNg2RN0YKQedba.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      14
+    ],
+    "year": "2020",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 156
+  },
+  {
+    "ytId": "lV1nW_BwoVE",
+    "tmdbId": 615585,
+    "title": "A Storybook Christmas",
+    "poster_path": "/uSuwoiwP6HVCEG7vyyCPWbMydXn.jpg",
+    "genre_ids": [
+      10749,
+      10770,
+      35
+    ],
+    "year": "2019",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 155
+  },
+  {
+    "ytId": "m4wgDm-a7NU",
+    "tmdbId": 999022,
+    "title": "A Screenshot to Santa",
+    "poster_path": "/uVCuOktDbEZ2XbSuRyjg2nLyTMU.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "year": "2023",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 154
+  },
+  {
+    "ytId": "OsuY1bDCMe8",
+    "tmdbId": 51763,
+    "title": "The Long Walk Home",
+    "poster_path": "/7T2oVjLHHIDY6FQH9e04oOgPWQa.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "year": "1990",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 153
+  },
+  {
+    "ytId": "tdPYVVpFIHs",
+    "tmdbId": 70809,
+    "title": "The Family Holiday",
+    "poster_path": "/yaiNVXioQwNaGP73CBbMnYfGW6y.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      10749
+    ],
+    "year": "2007",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 152
+  },
+  {
+    "ytId": "bU566BTsJbc",
+    "tmdbId": 21501,
+    "title": "Christmas Story",
+    "poster_path": "/9SBgvVBhaedbQods3ZcIRY2NS4X.jpg",
+    "genre_ids": [
+      14,
+      10751
+    ],
+    "year": "2007",
+    "original_language": "fi",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 151
+  },
+  {
+    "ytId": "tnkwNFbIu1s",
+    "tmdbId": 315906,
+    "title": "Santa, Baby!",
+    "poster_path": "/l2kBnGOHWs7Mo1wzBgEVUzI5B9y.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10402,
+      10770
+    ],
+    "year": "2001",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 150
+  },
+  {
+    "ytId": "6nJ8n3MIiZY",
+    "tmdbId": 996806,
+    "title": "A Christmas Karen",
+    "poster_path": "/g24L8aeCgPiIqjLWVYDl7kMts1w.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 149
+  },
+  {
+    "ytId": "GJytAtSuEew",
+    "tmdbId": 75765,
+    "title": "The Santa Trap",
+    "poster_path": "/zlx3K70M8QFf9X9K00I0a67MDFK.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10751
+    ],
+    "year": "2002",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 148
+  },
+  {
+    "ytId": "KdKTvs58YRA",
+    "tmdbId": 25133,
+    "title": "Transylvania 6-5000",
+    "poster_path": "/5Avsb4cCfGdPrd6gt94EOG4pLgr.jpg",
+    "genre_ids": [
+      35,
+      27,
+      14
+    ],
+    "year": "1985",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 147
+  },
+  {
+    "ytId": "tf7sVfOjWYU",
+    "tmdbId": 172391,
+    "title": "Khumba",
+    "poster_path": "/bG32hRPM9LguHXj2tbyeILJisOK.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "year": "2013",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 146
+  },
+  {
+    "ytId": "971Q1K0Kp8o",
+    "tmdbId": 22060,
+    "title": "Spirit Trap",
+    "poster_path": "/xYlBOIJOwUdgeSHDwk40RGSxSK5.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2005",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 145
+  },
+  {
+    "ytId": "qS-2ap2R5bs",
+    "tmdbId": 10166,
+    "title": "The Witches",
+    "poster_path": "/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg",
+    "genre_ids": [
+      14,
+      10751,
+      27
+    ],
+    "year": "1990",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 144
+  },
+  {
+    "ytId": "0HBGUkSY_nM",
+    "tmdbId": 167028,
+    "title": "Crossed Over",
+    "poster_path": "/9Ie6IO8EBDJ8JpTZdmNMlrc45Da.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2002",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 143
+  },
+  {
+    "ytId": "cnxlg5YujRU",
+    "tmdbId": 9871,
+    "title": "Ginger Snaps",
+    "poster_path": "/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
+    "genre_ids": [
+      14,
+      27,
+      18,
+      53
+    ],
+    "year": "2000",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 142
+  },
+  {
+    "ytId": "OTEVa1x3z_k",
+    "tmdbId": 1139129,
+    "title": "Arachnado 2: Flaming Spiders",
+    "poster_path": "/Ajvw3fw0BFr0INiwHcNDdM3nEud.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-06-27",
+    "id": 141
+  },
+  {
+    "ytId": "OGiG7zyBJts",
+    "tmdbId": 1386734,
+    "title": "Spiral",
+    "poster_path": "/c9eu1QidEhtOPoIayxdbJhyaYqA.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18
+    ],
+    "year": "2025",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 140
+  },
+  {
+    "ytId": "AfaJK7mmFFc",
+    "tmdbId": 291729,
+    "title": "Sacred Cargo",
+    "poster_path": "/5kEw8eOYxP5SxEnDjlPm3xQQsaE.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "1996",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 139
+  },
+  {
+    "ytId": "i52eyclFE9w",
+    "tmdbId": 71907,
+    "title": "The Circuit",
+    "poster_path": "/sCJy5vtYouRCDbut05pVcI8Ks18.jpg",
+    "genre_ids": [
+      18,
+      28,
+      10751,
+      10770
+    ],
+    "year": "2008",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 138
+  },
+  {
+    "ytId": "LnmuVuQClHg",
+    "tmdbId": 274478,
+    "title": "Freedom Strike",
+    "poster_path": "/gGrF9MFWzSZHojBqYO5eNLmdNOq.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "1998",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 137
+  },
+  {
+    "ytId": "tJMwwnJmioc",
+    "tmdbId": 16067,
+    "title": "Final Days of Planet Earth",
+    "poster_path": "/dW8lvvTmxZ5CTZKRwtqTrO1K1sA.jpg",
+    "genre_ids": [
+      28,
+      878,
+      18,
+      27
+    ],
+    "year": "2006",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 136
+  },
+  {
+    "ytId": "76aSjLj_Qqc",
+    "tmdbId": 12155,
+    "title": "Alice in Wonderland",
+    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      12
+    ],
+    "year": "2010",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 135
+  },
+  {
+    "ytId": "e87DCZZDw5g",
+    "tmdbId": 110080,
+    "title": "Stranger with My Face",
+    "poster_path": "/aYWP39ZEQ96P6dmPWWnnRZpyrnf.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18,
+      10770
+    ],
+    "year": "2009",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 134
+  },
+  {
+    "ytId": "Lcm-fPFqDas",
+    "tmdbId": 15056,
+    "title": "The Curse of King Tut's Tomb",
+    "poster_path": "/lS8HiWOO7YcezktLKFmBJmitAzo.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      53,
+      27
+    ],
+    "year": "2006",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 133
+  },
+  {
+    "ytId": "5jUB68KMveU",
+    "tmdbId": 184143,
+    "title": "Rio Diablo",
+    "poster_path": "/e6767DoCK3njTL7ZNLpy0qUBSna.jpg",
+    "genre_ids": [
+      37,
+      10770
+    ],
+    "year": "1993",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 132
+  },
+  {
+    "ytId": "TEucuVX34Ig",
+    "tmdbId": 84512,
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "poster_path": "/cJo4TgftAmU7rJdpEUiU2rIEJ77.jpg",
+    "genre_ids": [
+      18,
+      27,
+      878
+    ],
+    "year": "1913",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 131
+  },
+  {
+    "ytId": "zndBbGP2rKo",
+    "tmdbId": 17081,
+    "title": "Final Approach",
+    "poster_path": "/ggiEWXZpWWXwcnrqs78qP2DsZub.jpg",
+    "genre_ids": [
+      53,
+      28,
+      10770
+    ],
+    "year": "2008",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 130
+  },
+  {
+    "ytId": "IE4-maKPnIM",
+    "tmdbId": 329711,
+    "title": "The Devil's Mistress",
+    "poster_path": "/wklPUZn4WbX3XIdr0PpISKdyVwm.jpg",
+    "genre_ids": [
+      27,
+      37
+    ],
+    "year": "1965",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 129
+  },
+  {
+    "ytId": "rMbA9-fcTuA",
+    "tmdbId": 38044,
+    "title": "Depth Charge",
+    "poster_path": "/omkJfYslpEa04O8LxeoQXJ9ICo7.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10770
+    ],
+    "year": "2008",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 128
+  },
+  {
+    "ytId": "vGHIiUc_r4Y",
+    "tmdbId": 212986,
+    "title": "Exploding Sun",
+    "poster_path": "/tWMyMxtpN1hHCUwkkX2oA6Gku2i.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2013",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 127
+  },
+  {
+    "ytId": "oFQnApqKwrw",
+    "tmdbId": 759507,
+    "title": "Blackout",
+    "poster_path": "/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "2022",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 126
+  },
+  {
+    "ytId": "G86HHHVzk60",
+    "tmdbId": 334584,
+    "title": "Blackout",
+    "poster_path": "/bfWuTuK8a1Iq63SPHItZk5zw8Bc.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "year": "2012",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 125
+  },
+  {
+    "ytId": "waknyKg2zwA",
+    "tmdbId": 157185,
+    "title": "Tin Can Man",
+    "poster_path": "/2IMSeaHnjPCYSJ2P2J8BjvbMWZ4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2007",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 124
+  },
+  {
+    "ytId": "bM0uvCqUFeQ",
+    "tmdbId": 35040,
+    "title": "Croc",
+    "poster_path": "/c3moWZrfZRp38FWystfNYTrGOh4.jpg",
+    "genre_ids": [
+      27,
+      28,
+      10770
+    ],
+    "year": "2007",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 123
+  },
+  {
+    "ytId": "bL0fXxvBSA8",
+    "tmdbId": 373380,
+    "title": "Tsunami - Killer Wave",
+    "poster_path": "/ycb7d4jdk5RFXz06MoxUcZHIIzJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2005",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 122
+  },
+  {
+    "ytId": "gzIyCzApFEU",
+    "tmdbId": 8349,
+    "title": "The Red Baron",
+    "poster_path": "/lUuryram6Aoa11dCgoXohR8avjU.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36,
+      10752
+    ],
+    "year": "2008",
+    "original_language": "de",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 121
+  },
+  {
+    "ytId": "cYFSdMa_aCY",
+    "tmdbId": 215946,
+    "title": "Canopy",
+    "poster_path": "/mH9034IF5coeMB5PLtk2XsP73lp.jpg",
+    "genre_ids": [
+      10752,
+      12,
+      18
+    ],
+    "year": "2014",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 120
+  },
+  {
+    "ytId": "F7qVp9tXkbg",
+    "tmdbId": 37661,
+    "title": "Icon",
+    "poster_path": "/ugEkcKQeG4alcEFqtFGuFhmCC9L.jpg",
+    "genre_ids": [
+      10770,
+      28,
+      18,
+      53
+    ],
+    "year": "2005",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 119
+  },
+  {
+    "ytId": "LgatG42Uqko",
+    "tmdbId": 216675,
+    "title": "Haunting Sarah",
+    "poster_path": "/ruboVNsZruitxcDc8IPfG7jftLP.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10770
+    ],
+    "year": "2005",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 118
+  },
+  {
+    "ytId": "JhLGjvTPgQw",
+    "tmdbId": 1192209,
+    "title": "Noah's Ark",
+    "poster_path": "/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
+    "genre_ids": [
+      16,
+      10402,
+      35,
+      14,
+      10751
+    ],
+    "year": "2024",
+    "original_language": "pt",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 117
+  },
+  {
+    "ytId": "sDGIgGqTPOg",
+    "tmdbId": 1619735,
+    "title": "DELETE",
+    "poster_path": "/hyswIvTqdd9MkQdjgyN09Etgk2d.jpg",
+    "genre_ids": [
+      878,
+      99
+    ],
+    "year": "2013",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 116
+  },
+  {
+    "ytId": "jrnRramlYFc",
+    "tmdbId": 198214,
+    "title": "Ring of Fire",
+    "poster_path": "/22vGiN2A2o4GJTFFJq8UAfVaLGn.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2013",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 115
+  },
+  {
+    "ytId": "yHIb9HmuFyc",
+    "tmdbId": 109174,
+    "title": "Silent Predators",
+    "poster_path": "/h1rYsziZnMRzBLBv8LCU6YNzf4X.jpg",
+    "genre_ids": [
+      27,
+      53,
+      10770,
+      28
+    ],
+    "year": "1999",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 114
+  },
+  {
+    "ytId": "60-fTh93PBY",
+    "tmdbId": 313311,
+    "title": "The Son of Dragon",
+    "poster_path": "/gFJbyas5C0wJpGWsDoDlqWQGg7O.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "1992",
+    "original_language": "cn",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 113
+  },
+  {
+    "ytId": "cxHT2vhHDb4",
+    "tmdbId": 11603,
+    "title": "Rear Window",
+    "poster_path": "/zmbPjkZhlnt0JEOU9xMYtbjNXuL.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10770
+    ],
+    "year": "1998",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 112
+  },
+  {
+    "ytId": "0-PxY4CvWMc",
+    "tmdbId": 397165,
+    "title": "The Ascent",
+    "poster_path": "/22SQ1ohoehKAKhVHpHjMTUC7XtS.jpg",
+    "genre_ids": [
+      10752,
+      12
+    ],
+    "year": "1994",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 111
+  },
+  {
+    "ytId": "dWQQmjxifJs",
+    "tmdbId": 16926,
+    "title": "Prairie Fever",
+    "poster_path": "/aRSF1lfFwXBpWlvXthPrb9tS6vA.jpg",
+    "genre_ids": [
+      28,
+      37,
+      10770
+    ],
+    "year": "2008",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 110
+  },
+  {
+    "ytId": "uFqyHj0qo60",
+    "tmdbId": 332280,
+    "title": "Shark Killer",
+    "poster_path": "/hja3kPXLLpHI95hf5k6ICViCS5d.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "year": "2015",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 109
+  },
+  {
+    "ytId": "APHEt3Uw29M",
+    "tmdbId": 42302,
+    "title": "Blood Monkey",
+    "poster_path": "/hlLBHQww3prIKEaSAavHgj8qhyl.jpg",
+    "genre_ids": [
+      28,
+      12,
+      27
+    ],
+    "year": "2007",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 108
+  },
+  {
+    "ytId": "vAnDh2U0_80",
+    "tmdbId": 2965,
+    "title": "20,000 Leagues Under the Sea",
+    "poster_path": "/8kVSztb6A7gA0K4eFJIxjzgdiH0.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878,
+      10770
+    ],
+    "year": "1997",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 107
+  },
+  {
+    "ytId": "pbMisSSsG88",
+    "tmdbId": 109438,
+    "title": "Moonshine Highway",
+    "poster_path": "/yMP7LIz7d61VjUFXxgYglzCXfvf.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      10770
+    ],
+    "year": "1996",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 106
+  },
+  {
+    "ytId": "j883-LC2Yy8",
+    "tmdbId": 59127,
+    "title": "Eye of the Beast",
+    "poster_path": "/fqDYQBx7qYPONr0MsQTc6f7BvvA.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648,
+      10770
+    ],
+    "year": "2007",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 105
+  },
+  {
+    "ytId": "Ko8jBzUXsTE",
+    "tmdbId": 1062722,
+    "title": "Frankenstein",
+    "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "genre_ids": [
+      18,
+      14,
+      27
+    ],
+    "year": "2025",
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-27",
+    "id": 104
+  },
+  {
     "ytId": "3nXJEr3H86w",
     "tmdbId": 43941,
     "title": "Kandahar Break",
@@ -852,737 +2334,5 @@
     "channelName": "FilmRise Movies",
     "addedAt": "2026-06-27",
     "id": 49
-  },
-  {
-    "ytId": "gaHiCF_keWs",
-    "tmdbId": 13401,
-    "title": "The Accidental Husband",
-    "poster_path": "/hbmHBXL7KyqNapDj6m3pqdV1qx3.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2008",
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 48
-  },
-  {
-    "ytId": "zONMiGHxDqg",
-    "tmdbId": 317917,
-    "title": "Blue Demon",
-    "poster_path": "/p24z54Tb7tTFtHbAhD5SYNqZnpT.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "1965",
-    "original_language": "es",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 47
-  },
-  {
-    "ytId": "5eds315AebY",
-    "tmdbId": 286538,
-    "title": "Bokeh",
-    "poster_path": "/cedeEgSeKpsFZH9z9LgWbEqILlW.jpg",
-    "genre_ids": [
-      18,
-      878,
-      53
-    ],
-    "year": "2017",
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 46
-  },
-  {
-    "ytId": "RyuLqnUFaC4",
-    "tmdbId": 912809,
-    "title": "Love, Game, Match",
-    "poster_path": "/8FGivyRD459et1VvmHwVoWE9mwH.jpg",
-    "genre_ids": [
-      10770,
-      35,
-      10749,
-      10751
-    ],
-    "year": "2022",
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 45
-  },
-  {
-    "ytId": "bopJV_Xk_Ls",
-    "tmdbId": 174326,
-    "title": "A Birder's Guide to Everything",
-    "poster_path": "/o30xzZyqVvTTv4qsDkHUdyJFd4Y.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2013",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 44
-  },
-  {
-    "ytId": "NG4UEfI2qes",
-    "tmdbId": 326359,
-    "title": "Frozen Fever",
-    "poster_path": "/mPrDJ7puYzPLG5kPM96iNszF2sM.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      12,
-      35
-    ],
-    "year": "2015",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 43
-  },
-  {
-    "ytId": "wgBnLO4Pnb0",
-    "tmdbId": 19761,
-    "title": "Saturn 3",
-    "poster_path": "/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "year": "1980",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 42
-  },
-  {
-    "ytId": "ra0vF8YSvps",
-    "tmdbId": 397852,
-    "title": "Rendel",
-    "poster_path": "/tZiNrIRYblaJZE9m0M80IU1E2zP.jpg",
-    "genre_ids": [
-      28,
-      14,
-      80
-    ],
-    "year": "2017",
-    "original_language": "fi",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 41
-  },
-  {
-    "ytId": "oOzODYq1i1A",
-    "tmdbId": 1147710,
-    "title": "Hijack 1971",
-    "poster_path": "/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80
-    ],
-    "year": "2024",
-    "original_language": "ko",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 40
-  },
-  {
-    "ytId": "B7RsU9_DTfU",
-    "tmdbId": 22167,
-    "title": "Knightriders",
-    "poster_path": "/lawtQYZvwrjHMNkvrKWAF93tIoK.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "1981",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 39
-  },
-  {
-    "ytId": "RNhrBGZZ_Tc",
-    "tmdbId": 353081,
-    "title": "Mission: Impossible - Fallout",
-    "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
-    "genre_ids": [
-      28,
-      12
-    ],
-    "year": "2018",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 38
-  },
-  {
-    "ytId": "paIAWYmmRb4",
-    "tmdbId": 291593,
-    "title": "Eyes of a Witness",
-    "poster_path": null,
-    "genre_ids": [
-      10770,
-      18
-    ],
-    "year": "1991",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 37
-  },
-  {
-    "ytId": "LE2NLUd92sQ",
-    "tmdbId": 28126,
-    "title": "Fugitive Rage",
-    "poster_path": "/4hmwjp3tHruxE3Xi98FuMGCLiVw.jpg",
-    "genre_ids": [
-      28,
-      80,
-      18
-    ],
-    "year": "1996",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 36
-  },
-  {
-    "ytId": "lfxmhvRHzkI",
-    "tmdbId": 44396,
-    "title": "Nightmare at the End of the Hall",
-    "poster_path": "/7xf1WJN4QD8Co54kIfjQWPoNkzu.jpg",
-    "genre_ids": [
-      10770,
-      53,
-      18,
-      27
-    ],
-    "year": "2008",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 35
-  },
-  {
-    "ytId": "_9uzCpsANQs",
-    "tmdbId": 799982,
-    "title": "Lair",
-    "poster_path": "/aEYZ9DJMPfoZqz8jCnB64IsJFEz.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 34
-  },
-  {
-    "ytId": "QRqB4T28fuU",
-    "tmdbId": 265019,
-    "title": "Preservation",
-    "poster_path": "/ppoOXtJZBPXq9Qf2v9pxaa8UeQg.jpg",
-    "genre_ids": [
-      53,
-      27
-    ],
-    "year": "2014",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 33
-  },
-  {
-    "ytId": "tR45DY0nm_k",
-    "tmdbId": 844380,
-    "title": "Nix",
-    "poster_path": "/pmAFOmkhsTXJlRptAgoKn77Odue.jpg",
-    "genre_ids": [
-      27,
-      53,
-      18
-    ],
-    "year": "2022",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 32
-  },
-  {
-    "ytId": "oWMJSl_ARSA",
-    "tmdbId": 48358,
-    "title": "The Canterville Ghost",
-    "poster_path": "/daQl68yTtTnFIwKJoI3rrYsyvTO.jpg",
-    "genre_ids": [
-      10770,
-      14,
-      18,
-      10751
-    ],
-    "year": "1996",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 31
-  },
-  {
-    "ytId": "3sZpzJLmtFs",
-    "tmdbId": 46942,
-    "title": "The Ranger, the Cook and a Hole in the Sky",
-    "poster_path": "/s4GUo2bHhtjmJw8wCRyQzmNBx0a.jpg",
-    "genre_ids": [
-      18,
-      37,
-      10770
-    ],
-    "year": "1995",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 30
-  },
-  {
-    "ytId": "qDd3Wuliw3E",
-    "tmdbId": 481848,
-    "title": "The Call of the Wild",
-    "poster_path": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
-    "genre_ids": [
-      12,
-      10751,
-      18
-    ],
-    "year": "2020",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 29
-  },
-  {
-    "ytId": "ztv4mLg0MKE",
-    "tmdbId": 11533,
-    "title": "Jason and the Argonauts",
-    "poster_path": "/xHVxIgqD5CxlOI5GHxvVSt5Zh5Y.jpg",
-    "genre_ids": [
-      12,
-      10751,
-      14
-    ],
-    "year": "1963",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 28
-  },
-  {
-    "ytId": "az-f8rzvG2E",
-    "tmdbId": 154435,
-    "title": "Asian Connection",
-    "poster_path": "/xgO0GS7Kha9zzrCdWp7DzVyYoqX.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "1995",
-    "original_language": "cn",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 27
-  },
-  {
-    "ytId": "PCoR2-3_Acs",
-    "tmdbId": 50507,
-    "title": "Crazy Safari",
-    "poster_path": "/bULIYu1m6h9aJfV3Odz6k1DbZzc.jpg",
-    "genre_ids": [
-      35,
-      14
-    ],
-    "year": "1991",
-    "original_language": "cn",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 26
-  },
-  {
-    "ytId": "VwdoA0_t2vI",
-    "tmdbId": 1368337,
-    "title": "The Odyssey",
-    "poster_path": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-    "genre_ids": [
-      12,
-      28,
-      14
-    ],
-    "year": "2026",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 25
-  },
-  {
-    "ytId": "95hHoLwGowo",
-    "tmdbId": 575377,
-    "title": "Grand Larceny",
-    "poster_path": "/r8a09UhAx278XTqonaiQtAPaiDe.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "year": "1987",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 24
-  },
-  {
-    "ytId": "V-C8Bl9uqlU",
-    "tmdbId": 45096,
-    "title": "Eve of Destruction",
-    "poster_path": "/lssgv86oGv5zMvfRV0bxcZN9Yuk.jpg",
-    "genre_ids": [
-      878,
-      28,
-      53
-    ],
-    "year": "1991",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 23
-  },
-  {
-    "ytId": "eyihLtR4BH0",
-    "tmdbId": 33332,
-    "title": "Static",
-    "poster_path": "/pvmMiZGl5keHYhgsy1InHTTd9oc.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2008",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 22
-  },
-  {
-    "ytId": "ds_VNsWnqxs",
-    "tmdbId": 1265623,
-    "title": "Banger",
-    "poster_path": "/gPUMLcaT3lnxW8ugt4crxNGJTm2.jpg",
-    "genre_ids": [
-      35,
-      10402
-    ],
-    "year": "2025",
-    "original_language": "fr",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 21
-  },
-  {
-    "ytId": "rOriUu7g2T0",
-    "tmdbId": 179310,
-    "title": "Gone to Maui",
-    "poster_path": "/miy7p9xGzaypo1cSGCWh4piQVEO.jpg",
-    "genre_ids": [
-      35,
-      10770
-    ],
-    "year": "1999",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 20
-  },
-  {
-    "ytId": "nqFKzohbL3s",
-    "tmdbId": 155084,
-    "title": "13 Sins",
-    "poster_path": "/x4tC1s6oFG9nEyxVSM0FiIsLea1.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2014",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 19
-  },
-  {
-    "ytId": "SC68ayjjw1A",
-    "tmdbId": 627122,
-    "title": "EXPO",
-    "poster_path": "/rOq4rdpSVpQeBoksS3s0PiIWqoK.jpg",
-    "genre_ids": [
-      28,
-      80,
-      18
-    ],
-    "year": "2019",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 18
-  },
-  {
-    "ytId": "e_dJRW5H4gM",
-    "tmdbId": 565932,
-    "title": "Klippers",
-    "poster_path": "/4fdxLnwYSMOppdjKVBh4aGvt0xM.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "year": "2018",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 17
-  },
-  {
-    "ytId": "I7Poye0FJfg",
-    "tmdbId": 356538,
-    "title": "7/24",
-    "poster_path": "/2xvQiZZ1uh9d7hCPxpdKMeaVseQ.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "2014",
-    "original_language": "id",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 16
-  },
-  {
-    "ytId": "ElnVwfLTkEY",
-    "tmdbId": 771007,
-    "title": "The Savant",
-    "poster_path": "/219ivtib99vg8ET6LXdpyMciBLw.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "2019",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 15
-  },
-  {
-    "ytId": "zcvpZ1Kuta8",
-    "tmdbId": 742162,
-    "title": "The Coming",
-    "poster_path": "/dCaNEopCM73X9fPjSM701PLWA1O.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53
-    ],
-    "year": "2020",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 14
-  },
-  {
-    "ytId": "DiVWMrFv-r0",
-    "tmdbId": 1010283,
-    "title": "Free Dead or Alive",
-    "poster_path": "/hxQLof5zQmgqCzbsrA8OmC9PgBv.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2022",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 13
-  },
-  {
-    "ytId": "nhX-JhXTzL8",
-    "tmdbId": 380856,
-    "title": "A Stand Up Guy",
-    "poster_path": "/141aFvHTqRXQMgUYvKGDhfNa35C.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2016",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 12
-  },
-  {
-    "ytId": "OJXp6kMcmvo",
-    "tmdbId": 861294,
-    "title": "The Scrapper",
-    "poster_path": "/ydnOAvlBzdqMyBRBXyQpReSzxrH.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "year": "2021",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 11
-  },
-  {
-    "ytId": "Ux7mQo2xto8",
-    "tmdbId": 401484,
-    "title": "The Sweet Life",
-    "poster_path": "/3WEIsm0I3uLoySYXR0Er5yOk0c0.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      35
-    ],
-    "year": "2017",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 10
-  },
-  {
-    "ytId": "uAN5oS7GSxA",
-    "tmdbId": 377600,
-    "title": "Operator",
-    "poster_path": "/2rTV5khf9UdEVQdHFhdQ5Yu5OlR.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2015",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 9
-  },
-  {
-    "ytId": "OIG-xG6VC2Y",
-    "tmdbId": 876024,
-    "title": "The Cleaner",
-    "poster_path": "/vqBGCe4sdvScFSJVNkDxHAMDTYk.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "year": "2021",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 8
-  },
-  {
-    "ytId": "58Id__gyyA8",
-    "tmdbId": 17903,
-    "title": "A Frozen Flower",
-    "poster_path": "/jvGmbNUh0eq9ShQmMSof0DXXHWY.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2008",
-    "original_language": "ko",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 7
-  },
-  {
-    "ytId": "73X2Dru7cWU",
-    "tmdbId": 406110,
-    "title": "We've Forgotten More Than We Ever Knew",
-    "poster_path": "/w6tfy30klAnEoa3SiXY9rhwBD4B.jpg",
-    "genre_ids": [
-      18,
-      878
-    ],
-    "year": "2016",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 6
-  },
-  {
-    "ytId": "RhnJ-TsMaWw",
-    "tmdbId": 12407,
-    "title": "Stone of Destiny",
-    "poster_path": "/rZWhnQY4Efi0iYQpnagP4vyaYps.jpg",
-    "genre_ids": [
-      18,
-      80,
-      35
-    ],
-    "year": "2008",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 5
-  },
-  {
-    "ytId": "qCcdQEmOcSQ",
-    "tmdbId": 390364,
-    "title": "Bangkok Rush",
-    "poster_path": "/apLjqkbCVrFJKy6vl8TlfMiDTpJ.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2016",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 4
-  },
-  {
-    "ytId": "a852S03AFD0",
-    "tmdbId": 77494,
-    "title": "Mysteria",
-    "poster_path": "/pWYI1BYHEQMUiGXycBTc5ddvn7Q.jpg",
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "year": "2011",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 3
-  },
-  {
-    "ytId": "Na4t-pkzKDk",
-    "tmdbId": 805222,
-    "title": "Haphazard",
-    "poster_path": "/nivpvEdGjG8NvkIH1yNQh0biPDN.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2019",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 2
-  },
-  {
-    "ytId": "KlttRc_y9ww",
-    "tmdbId": 568242,
-    "title": "Skateboard or Die",
-    "poster_path": "/ztyoSul4S9bjA70o0m2I8faHf75.jpg",
-    "genre_ids": [],
-    "year": "2018",
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 1
   }
 ]
