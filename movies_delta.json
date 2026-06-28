@@ -1,5 +1,599 @@
 [
   {
+    "ytId": "ATfu8SdJ35c",
+    "tmdbId": 1003990,
+    "title": "Children of the Pines",
+    "poster_path": "/fdkDk2KRBJahPs5ptVvnhZjvtT.jpg",
+    "genre_ids": [
+      27,
+      18,
+      9648,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-12-24",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 125
+  },
+  {
+    "ytId": "T4rQb2cfH2k",
+    "tmdbId": 470984,
+    "title": "Calico Skies",
+    "poster_path": "/rmYkgkhBhsohTovE3ZHY5JVhuze.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-08-15",
+    "rating": 5.063,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 124
+  },
+  {
+    "ytId": "0ecQfqRAJ0E",
+    "tmdbId": 1288246,
+    "title": "The Huntsman",
+    "poster_path": "/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "year": "2026",
+    "release_date": "2026-02-06",
+    "rating": 6.712,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 123
+  },
+  {
+    "ytId": "jNdQ6vLND6c",
+    "tmdbId": 1711441,
+    "title": "Torn",
+    "poster_path": "/4GTWpDR6bUrFmC4LmHYVlExqkT.jpg",
+    "genre_ids": [
+      12,
+      18,
+      14,
+      10402
+    ],
+    "year": "2026",
+    "release_date": "2026-06-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 122
+  },
+  {
+    "ytId": "pc7RD0WKpIs",
+    "tmdbId": 1014422,
+    "title": "The Legend of Hawes",
+    "poster_path": "/baRmzUPP3QkDEAFOlS4b33AHXWp.jpg",
+    "genre_ids": [
+      27,
+      37
+    ],
+    "year": "2022",
+    "release_date": "2022-09-13",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 121
+  },
+  {
+    "ytId": "q6HS19unoZ8",
+    "tmdbId": 1036903,
+    "title": "All Gone Wrong",
+    "poster_path": "/9fockXg6Svg6XiEpZ1JPsC5BJhC.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-11-20",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 120
+  },
+  {
+    "ytId": "reMGv0yHk98",
+    "tmdbId": 1048264,
+    "title": "My Perfect Wedding",
+    "poster_path": "/htojvHxN7aM5sQ1x6WrTMzk4ubD.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-09-03",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 119
+  },
+  {
+    "ytId": "Hmbrye1XjG0",
+    "tmdbId": 1294338,
+    "title": "Heart's Creek",
+    "poster_path": "/lLkI8o0bfInS9srLPsAcFRBgfl5.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      10770,
+      10751
+    ],
+    "year": "2024",
+    "release_date": "2024-04-01",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 118
+  },
+  {
+    "ytId": "06IKWhmN0V8",
+    "tmdbId": 15749,
+    "title": "While She Was Out",
+    "poster_path": "/ehhJzxVV566RxPKmotY4E6xU477.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-10-27",
+    "rating": 5.52,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 117
+  },
+  {
+    "ytId": "4RWJryTZkuM",
+    "tmdbId": 427750,
+    "title": "Inspired to Kill",
+    "poster_path": "/p7WbbFRfa5jIFBynKQZYdm1HBX3.jpg",
+    "genre_ids": [
+      10770,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-11-13",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 116
+  },
+  {
+    "ytId": "tJuAJA_ZH_E",
+    "tmdbId": 1160171,
+    "title": "Prisoner of the Dawn",
+    "poster_path": "/jqPVoD9sZsk4EfNTK4uQAADMfy4.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-01-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 115
+  },
+  {
+    "ytId": "i0FrlVQjcAI",
+    "tmdbId": 387660,
+    "title": "DinoGator",
+    "poster_path": "/mwnqPV7XoD4MvOVpRF0dHWASO3s.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-10-19",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 114
+  },
+  {
+    "ytId": "n0qg4LAEWrk",
+    "tmdbId": 969686,
+    "title": "4 Horsemen: Apocalypse",
+    "poster_path": "/dt3mo4tArf2llDiht91cnvUtSgT.jpg",
+    "genre_ids": [
+      878,
+      27,
+      10770
+    ],
+    "year": "2022",
+    "release_date": "2022-04-29",
+    "rating": 6.004,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 113
+  },
+  {
+    "ytId": "3gz-vDTVLH0",
+    "tmdbId": 339145,
+    "title": "The Girl in the Book",
+    "poster_path": "/zVvOHOz5848dZ5x7mGqxBWzsPmS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-06-13",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 112
+  },
+  {
+    "ytId": "idj85KLhknw",
+    "tmdbId": 58803,
+    "title": "Dark Planet",
+    "poster_path": "/7dlcfwZGmeZ8q4TowgomgNKnxlx.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "1997",
+    "release_date": "1997-08-04",
+    "rating": 4.068,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 111
+  },
+  {
+    "ytId": "2z3m-7vmeKQ",
+    "tmdbId": 1418779,
+    "title": "Blood Brothers",
+    "poster_path": "/3DYtn0UZVBpY1RbQp7RdV6gR2Ku.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "year": "2014",
+    "release_date": "2014-07-29",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 110
+  },
+  {
+    "ytId": "wf4IYHOXrkM",
+    "tmdbId": 280855,
+    "title": "Like a Country Song",
+    "poster_path": "/8Zywh0bMQ6NKJPFoYTtuBrXDlVy.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-07-08",
+    "rating": 6.9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 109
+  },
+  {
+    "ytId": "aSVrwxvzxy4",
+    "tmdbId": 581633,
+    "title": "Tucker Therapy",
+    "poster_path": "/q2Uc5TLZEngj704YhwLFzt0o0Gc.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "year": "2019",
+    "release_date": "2019-05-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 108
+  },
+  {
+    "ytId": "jkyxnr6C2vQ",
+    "tmdbId": 435422,
+    "title": "Alcatraz Prison Escape: Deathbed Confession",
+    "poster_path": "/g5wMJnsHjcKNWzBx86iTKnGUxd4.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2015",
+    "release_date": "2015-03-15",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 107
+  },
+  {
+    "ytId": "9QL07ep7HA0",
+    "tmdbId": 78357,
+    "title": "Love Again",
+    "poster_path": "/hWFBQKV8GH7qthhv33ODU45jwRS.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2014",
+    "release_date": "2014-02-14",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 106
+  },
+  {
+    "ytId": "sJKquAZISZI",
+    "tmdbId": 637547,
+    "title": "The Way Home",
+    "poster_path": "/1Vao1lFmw3x96QX1ZXPVqe6M454.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2009",
+    "release_date": "2009-02-22",
+    "rating": null,
+    "original_language": "ru",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 105
+  },
+  {
+    "ytId": "6kaW6NKsPuQ",
+    "tmdbId": 309013,
+    "title": "Scream at the Devil",
+    "poster_path": "/w3puZVw0rnSBBQM88q82WeJ5rL5.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-10-30",
+    "rating": 5.147,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 104
+  },
+  {
+    "ytId": "-arEWlUVkJo",
+    "tmdbId": 48839,
+    "title": "Red Dirt Rising",
+    "poster_path": "/lA7thSP9izvKcMbTiGHJHkruNFz.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-10-31",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 103
+  },
+  {
+    "ytId": "hs7NLhk9I-Y",
+    "tmdbId": 20880,
+    "title": "Midnight Chronicles",
+    "poster_path": "/q9JKL5NFOTQEJ1mBaBIhWJrAoe3.jpg",
+    "genre_ids": [
+      14,
+      27,
+      9648
+    ],
+    "year": "2008",
+    "release_date": "2008-01-01",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 102
+  },
+  {
+    "ytId": "SOKQ-RAbxDM",
+    "tmdbId": 133206,
+    "title": "War Flowers",
+    "poster_path": "/q8TO6X6nt4qgEa6vSQXjplkXHF4.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-08-31",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 101
+  },
+  {
+    "ytId": "yRDc2J058KM",
+    "tmdbId": 381170,
+    "title": "American Conjuring",
+    "poster_path": "/jacLN4jpJrU7qbJVVnbnwABb0D5.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-06-21",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 100
+  },
+  {
+    "ytId": "--1SYALseco",
+    "tmdbId": 496195,
+    "title": "The Daniel Connection",
+    "poster_path": "/i9xK6UgtwOE1CjjpVKgu4Ha1F9C.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-03-01",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 99
+  },
+  {
+    "ytId": "a9viV-FBZ_A",
+    "tmdbId": 54771,
+    "title": "Tony n' Tina's Wedding",
+    "poster_path": "/AmgWdDAvuQ8b5oxE6iR09i3UUhw.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2004",
+    "release_date": "2004-05-03",
+    "rating": 5.383,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 98
+  },
+  {
+    "ytId": "r-qM74i9rTA",
+    "tmdbId": 419328,
+    "title": "Burst Theory",
+    "poster_path": "/kB8J76uYpVkfJaHhkIvdal6mFCL.jpg",
+    "genre_ids": [],
+    "year": "2016",
+    "release_date": "2016-10-16",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 97
+  },
+  {
+    "ytId": "3Z2RMmj4RPc",
+    "tmdbId": 103424,
+    "title": "Witchtrap",
+    "poster_path": "/4GW3hR4R6sY0BNObEsAvLngrTiU.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "year": "1989",
+    "release_date": "1989-04-21",
+    "rating": 5.216,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 96
+  },
+  {
+    "ytId": "1OW4_dKlybc",
+    "tmdbId": 271331,
+    "title": "United Passions",
+    "poster_path": "/oQhVvz3N86DdHnYGsZ9Y2420II5.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-06-19",
+    "rating": 3.541,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 95
+  },
+  {
+    "ytId": "4z7iUWs-Ox4",
+    "tmdbId": 395933,
+    "title": "Operation: Neighborhood Watch!",
+    "poster_path": "/3FgDBTvTDyC8gfKXMCplZRmeA0o.jpg",
+    "genre_ids": [
+      12,
+      10751
+    ],
+    "year": "2015",
+    "release_date": "2015-10-02",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 94
+  },
+  {
+    "ytId": "GiZ3zqppDV8",
+    "tmdbId": 57008,
+    "title": "Alice in Murderland",
+    "poster_path": "/eSwumW6Q56eafj4NFD5TGD1yBup.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-02-05",
+    "rating": 2.8,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 93
+  },
+  {
+    "ytId": "atBRGT7tKZU",
+    "tmdbId": 259958,
+    "title": "Alex of Venice",
+    "poster_path": "/6Ko4A0fC06dE40QQqw1wfKEao4r.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-04-17",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 92
+  },
+  {
+    "ytId": "huzhPzLwGz0",
+    "tmdbId": 352494,
+    "title": "Ripped",
+    "poster_path": "/x0wG7HmEM8udBzZCXu5Kl2mtUUc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-06-23",
+    "rating": 4.738,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 91
+  },
+  {
     "ytId": "NBaTC8JdwZQ",
     "tmdbId": 1096563,
     "title": "End of Loyalty",
