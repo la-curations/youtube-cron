@@ -1,5 +1,739 @@
 [
   {
+    "ytId": "gkD-FQXDq_k",
+    "tmdbId": 994906,
+    "title": "Dublin Crust",
+    "poster_path": "/8pPLUATyfMyZ50tte01KQ9FiDOP.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "year": "2023",
+    "release_date": "2023-09-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 210
+  },
+  {
+    "ytId": "-1q0mM7vXDg",
+    "tmdbId": 1549608,
+    "title": "Blindly in Love",
+    "poster_path": "/gzSuHiaP2owgQr3W6lp1Aqx7I6E.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-06-11",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 209
+  },
+  {
+    "ytId": "5eLs9a7MYKs",
+    "tmdbId": 1381217,
+    "title": "Sugarcane",
+    "poster_path": "/nL10LPMJBH2OeRP26rhnysLANSm.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2025",
+    "release_date": "2025-06-13",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 208
+  },
+  {
+    "ytId": "77U5puF7-TI",
+    "tmdbId": 1496378,
+    "title": "The Jurassic Games: Extinction",
+    "poster_path": "/oaspw8GHJHGJRDvVVERmt8iDb5K.jpg",
+    "genre_ids": [
+      878,
+      28,
+      14,
+      12,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-06-24",
+    "rating": 4.308,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 207
+  },
+  {
+    "ytId": "sBxoeoXM1wg",
+    "tmdbId": 78555,
+    "title": "Possessing Piper Rose",
+    "poster_path": "/p16wEmRuwnR66JSK3BA1MApxZQW.jpg",
+    "genre_ids": [
+      18,
+      10770,
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-10-24",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 206
+  },
+  {
+    "ytId": "dOkFKgZiuZA",
+    "tmdbId": 936137,
+    "title": "Just Swipe",
+    "poster_path": "/rIAIqx3nmZEXABm42wDsnsJwKFk.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2022",
+    "release_date": "2022-02-08",
+    "rating": 4.833,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 205
+  },
+  {
+    "ytId": "Bfr1iM3pnbE",
+    "tmdbId": 1597403,
+    "title": "Come Home",
+    "poster_path": "/vXFx3BUNt4GFs6hNC1DBTchQclp.jpg",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-12-12",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 204
+  },
+  {
+    "ytId": "igBsjqgmW_w",
+    "tmdbId": 1357770,
+    "title": "Unexpected Courage",
+    "poster_path": "/vY27gJEGoIIjVDOYIsuphDSfs3r.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2025",
+    "release_date": "2025-10-23",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 203
+  },
+  {
+    "ytId": "lfZh2J_GUd0",
+    "tmdbId": 192844,
+    "title": "Matt's Chance",
+    "poster_path": "/h7rWKoYTkKeCiJrePisVOCKavmb.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-01-31",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 202
+  },
+  {
+    "ytId": "eJVF8uga5z4",
+    "tmdbId": 46008,
+    "title": "Apocalypse: Caught in the Eye of the Storm",
+    "poster_path": "/kxr3kNRDolydXfG3kkiQAsi7heC.jpg",
+    "genre_ids": [
+      14,
+      53
+    ],
+    "year": "1998",
+    "release_date": "1998-09-27",
+    "rating": 3.278,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 201
+  },
+  {
+    "ytId": "h0Ti6QafMd8",
+    "tmdbId": 1549219,
+    "title": "She Wants My Daughter",
+    "poster_path": "/pjbnP835g8wvBEhnqZSe7vLnjz4.jpg",
+    "genre_ids": [
+      53,
+      80,
+      10770
+    ],
+    "year": "2025",
+    "release_date": "2025-09-19",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 200
+  },
+  {
+    "ytId": "4TX7a-o9ghk",
+    "tmdbId": 301730,
+    "title": "Turkey Shoot",
+    "poster_path": "/8f3twszUfCtInJo0VB1Bz3ptx0e.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-12-04",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 199
+  },
+  {
+    "ytId": "CohYsizFm4Q",
+    "tmdbId": 1454940,
+    "title": "Beggarman",
+    "poster_path": "/zszkANvz6x8QZuDFUZa9BACaLSw.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-03-29",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 198
+  },
+  {
+    "ytId": "o0Lu4gyui4Q",
+    "tmdbId": 56652,
+    "title": "Sinbad and the Minotaur",
+    "poster_path": "/t4fCnP7WMdLre8YcxESb7PbfcCI.jpg",
+    "genre_ids": [
+      14,
+      12
+    ],
+    "year": "2011",
+    "release_date": "2011-05-07",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 197
+  },
+  {
+    "ytId": "wCT_qFCIvM4",
+    "tmdbId": 955305,
+    "title": "Dig Me No Grave",
+    "poster_path": "/4W3480kuopauAHjnCmyM9JjUS2m.jpg",
+    "genre_ids": [
+      12,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-01-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 196
+  },
+  {
+    "ytId": "X5KRVBEH-P0",
+    "tmdbId": 1583195,
+    "title": "Vriksha: Every Second Chance has a Price",
+    "poster_path": "/anWXXoRNY9WVRBynMGAyEiXFaNw.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "2025",
+    "release_date": "2025-02-14",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 195
+  },
+  {
+    "ytId": "1CjAkmFpcS0",
+    "tmdbId": 1205225,
+    "title": "Gates of Flesh",
+    "poster_path": "/cOiuCeECSRqzpwuY6wYKQzvPcXm.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "year": "2025",
+    "release_date": "2025-04-08",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 194
+  },
+  {
+    "ytId": "2zTgnOUBrNY",
+    "tmdbId": 496186,
+    "title": "High Resolution",
+    "poster_path": "/nWjICXX6LOtKMzftEWvMH8PbH4p.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-10-01",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 193
+  },
+  {
+    "ytId": "9CVeXxBmTEk",
+    "tmdbId": 534039,
+    "title": "10 Things We Should Do Before We Break Up",
+    "poster_path": "/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2020",
+    "release_date": "2020-03-05",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 192
+  },
+  {
+    "ytId": "wReGpxnMOWg",
+    "tmdbId": 1125792,
+    "title": "Before We Begin",
+    "poster_path": "/hgKrlb4A8Yk8zjsRt1lTL0VHQyX.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-11-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 191
+  },
+  {
+    "ytId": "J3bZiY8isYE",
+    "tmdbId": 1024668,
+    "title": "Northern Shade",
+    "poster_path": "/y9QaP507ScoH0zu4J9x6QkNXYbl.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-02-24",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 190
+  },
+  {
+    "ytId": "AjCIp2nQ4E0",
+    "tmdbId": 913434,
+    "title": "Paris is in Harlem",
+    "poster_path": "/6isi2orTlbAT6Ojteb1zevStY3s.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      36
+    ],
+    "year": "2022",
+    "release_date": "2022-01-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 189
+  },
+  {
+    "ytId": "Ph21BOds6gU",
+    "tmdbId": 1158149,
+    "title": "Et Tu",
+    "poster_path": "/3dFjj1tbn0RlhLvW3G6TFO1U3Kv.jpg",
+    "genre_ids": [
+      35,
+      53,
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-07-25",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 188
+  },
+  {
+    "ytId": "qTADvHeVEMc",
+    "tmdbId": 1377413,
+    "title": "St. Patrick's Day Massacre",
+    "poster_path": "/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-03-10",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 187
+  },
+  {
+    "ytId": "p5pazigrq9A",
+    "tmdbId": 1639583,
+    "title": "Obsessions",
+    "poster_path": "/qJnbW7pmQNY7LCKC4HlYXvXP5mA.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-05-21",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 186
+  },
+  {
+    "ytId": "Sq3nB4163lo",
+    "tmdbId": 862962,
+    "title": "Gunfight at Dry River",
+    "poster_path": "/yefxiaYqcgvFBC1YOkK9gZfvOzE.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-09-10",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 185
+  },
+  {
+    "ytId": "atxp7E1KphA",
+    "tmdbId": 1443324,
+    "title": "Bad B*tch",
+    "poster_path": "/58xOmkIuZ8eJBoIJT0xxHr938Tl.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-05-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 184
+  },
+  {
+    "ytId": "oJOIydjM3vg",
+    "tmdbId": 1517392,
+    "title": "Let Me Go!",
+    "poster_path": "/rjEm3S7175coiObsbXk8i1IOv50.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-10-03",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 183
+  },
+  {
+    "ytId": "CWzfEMKYt60",
+    "tmdbId": 1296504,
+    "title": "Stand Your Ground",
+    "poster_path": "/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "year": "2025",
+    "release_date": "2025-05-09",
+    "rating": 4.493,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 182
+  },
+  {
+    "ytId": "bBmsDXLJxu0",
+    "tmdbId": 1144011,
+    "title": "Lock & Load",
+    "poster_path": "/qKPYsaqD32r59af7ww6VKQKY7Ge.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-07-24",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 181
+  },
+  {
+    "ytId": "5cSLK9jBJu8",
+    "tmdbId": 1449567,
+    "title": "Best Of Trades",
+    "poster_path": "/8qqVqNsiQbOGMXmoRDG7vgBDezf.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18,
+      12
+    ],
+    "year": "2025",
+    "release_date": "2025-06-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 180
+  },
+  {
+    "ytId": "lEMmpo3CKlc",
+    "tmdbId": 627391,
+    "title": "Let's Sing a Stephen Foster Song",
+    "poster_path": "/z7NdUZrKi79A0UaZkkCerHQ8CAI.jpg",
+    "genre_ids": [],
+    "year": "1948",
+    "release_date": "1948-05-08",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 179
+  },
+  {
+    "ytId": "WIeU3yNYZyU",
+    "tmdbId": 523938,
+    "title": "M.I.A. A Greater Evil",
+    "poster_path": "/839mlxsmlYTtsltEnmkjZqzkc3y.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648,
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-05-08",
+    "rating": 8.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 178
+  },
+  {
+    "ytId": "0AcMXcWN0Eg",
+    "tmdbId": 427562,
+    "title": "Valentine DayZ",
+    "poster_path": "/3T7stF66sMZi1qFnI092ReeiOh4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-09-25",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 177
+  },
+  {
+    "ytId": "h-ZsKON1Mts",
+    "tmdbId": 466532,
+    "title": "Clara",
+    "poster_path": "/uaWAjD4y64qkvGzgNNj9vDrjX2l.jpg",
+    "genre_ids": [
+      878,
+      18,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-11-30",
+    "rating": 7.379,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 176
+  },
+  {
+    "ytId": "xAYducrtUk4",
+    "tmdbId": 290825,
+    "title": "Yoga Hosers",
+    "poster_path": "/cc40P3lKEiK0H8ZSd8hmBBI0HEV.jpg",
+    "genre_ids": [
+      35,
+      14,
+      27,
+      28
+    ],
+    "year": "2016",
+    "release_date": "2016-07-08",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 175
+  },
+  {
+    "ytId": "OngrIrzpess",
+    "tmdbId": 748473,
+    "title": "Dropping The Soap",
+    "poster_path": "/u9v3naTiDZWjNI6lWyHwwZXcvEY.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-03-07",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 174
+  },
+  {
+    "ytId": "AkKBNfCogBI",
+    "tmdbId": 70863,
+    "title": "Poolboy: Drowning Out the Fury",
+    "poster_path": "/110wCwfzRRiGVdXtpAptgTPK3JJ.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "year": "2011",
+    "release_date": "2011-07-22",
+    "rating": 4.863,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 173
+  },
+  {
+    "ytId": "kqyp0A1XKlc",
+    "tmdbId": 30731,
+    "title": "Little Miss Magic",
+    "poster_path": "/hMQkZoyKUOxNhD2smlFZN6D0SMo.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "year": "1997",
+    "release_date": "1997-01-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 172
+  },
+  {
+    "ytId": "GkE06LylKKQ",
+    "tmdbId": 109453,
+    "title": "Mothers and Daughters",
+    "poster_path": "/tTu3xPJOIV4s6ZzNwjvcwGytMla.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-05-06",
+    "rating": 5.292,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 171
+  },
+  {
+    "ytId": "xVC1uhVeIdA",
+    "tmdbId": 417809,
+    "title": "Fatal Crossing",
+    "poster_path": "/nOuXSXTNX8x85wHky4Rphw4ry00.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648,
+      10749,
+      80
+    ],
+    "year": "2017",
+    "release_date": "2017-11-19",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 170
+  },
+  {
+    "ytId": "Om28iS-n1ts",
+    "tmdbId": 521139,
+    "title": "United We Fan",
+    "poster_path": "/irrar9pZrYzKp7hHh4GEVav3vbV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2018",
+    "release_date": "2018-04-28",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 169
+  },
+  {
+    "ytId": "cqwBx9CaZ0Y",
+    "tmdbId": 78205,
+    "title": "The Virgin of Juarez",
+    "poster_path": "/gV010Bcwv3vVKOe4bwn5iwTT8t7.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-03-13",
+    "rating": 6.875,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 168
+  },
+  {
     "ytId": "ewa3u0yU2_U",
     "tmdbId": 565275,
     "title": "The Sunlit Night",
@@ -1830,760 +2564,5 @@
     "channelName": "Popcornflix",
     "addedAt": "2026-06-28",
     "id": 61
-  },
-  {
-    "ytId": "rMbA9-fcTuA",
-    "tmdbId": 38044,
-    "title": "Depth Charge",
-    "poster_path": "/omkJfYslpEa04O8LxeoQXJ9ICo7.jpg",
-    "genre_ids": [
-      28,
-      53,
-      10770
-    ],
-    "year": "2008",
-    "release_date": "2008-06-30",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 60
-  },
-  {
-    "ytId": "vGHIiUc_r4Y",
-    "tmdbId": 212986,
-    "title": "Exploding Sun",
-    "poster_path": "/tWMyMxtpN1hHCUwkkX2oA6Gku2i.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2013",
-    "release_date": "2013-02-09",
-    "rating": 4.6,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 59
-  },
-  {
-    "ytId": "G86HHHVzk60",
-    "tmdbId": 334584,
-    "title": "Blackout",
-    "poster_path": "/bfWuTuK8a1Iq63SPHItZk5zw8Bc.jpg",
-    "genre_ids": [
-      53,
-      28
-    ],
-    "year": "2012",
-    "release_date": "2012-10-24",
-    "rating": 7.2,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 58
-  },
-  {
-    "ytId": "waknyKg2zwA",
-    "tmdbId": 157185,
-    "title": "Tin Can Man",
-    "poster_path": "/2IMSeaHnjPCYSJ2P2J8BjvbMWZ4.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2007",
-    "release_date": "2007-09-07",
-    "rating": 3.6,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 57
-  },
-  {
-    "ytId": "gzIyCzApFEU",
-    "tmdbId": 8349,
-    "title": "The Red Baron",
-    "poster_path": "/lUuryram6Aoa11dCgoXohR8avjU.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18,
-      36,
-      10752
-    ],
-    "year": "2008",
-    "release_date": "2008-03-29",
-    "rating": 6.629,
-    "original_language": "de",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 56
-  },
-  {
-    "ytId": "F7qVp9tXkbg",
-    "tmdbId": 37661,
-    "title": "Icon",
-    "poster_path": "/ugEkcKQeG4alcEFqtFGuFhmCC9L.jpg",
-    "genre_ids": [
-      10770,
-      28,
-      18,
-      53
-    ],
-    "year": "2005",
-    "release_date": "2005-01-01",
-    "rating": 5.682,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 55
-  },
-  {
-    "ytId": "LgatG42Uqko",
-    "tmdbId": 216675,
-    "title": "Haunting Sarah",
-    "poster_path": "/ruboVNsZruitxcDc8IPfG7jftLP.jpg",
-    "genre_ids": [
-      9648,
-      53,
-      10770
-    ],
-    "year": "2005",
-    "release_date": "2005-10-02",
-    "rating": 5.75,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 54
-  },
-  {
-    "ytId": "sDGIgGqTPOg",
-    "tmdbId": 1619735,
-    "title": "DELETE",
-    "poster_path": "/hyswIvTqdd9MkQdjgyN09Etgk2d.jpg",
-    "genre_ids": [
-      878,
-      99
-    ],
-    "year": "2013",
-    "release_date": "2013-02-16",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 53
-  },
-  {
-    "ytId": "jrnRramlYFc",
-    "tmdbId": 198214,
-    "title": "Ring of Fire",
-    "poster_path": "/22vGiN2A2o4GJTFFJq8UAfVaLGn.jpg",
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "year": "2013",
-    "release_date": "2013-05-27",
-    "rating": 5.15,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 52
-  },
-  {
-    "ytId": "yHIb9HmuFyc",
-    "tmdbId": 109174,
-    "title": "Silent Predators",
-    "poster_path": "/h1rYsziZnMRzBLBv8LCU6YNzf4X.jpg",
-    "genre_ids": [
-      27,
-      53,
-      10770,
-      28
-    ],
-    "year": "1999",
-    "release_date": "1999-06-13",
-    "rating": 5.276,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 51
-  },
-  {
-    "ytId": "cxHT2vhHDb4",
-    "tmdbId": 11603,
-    "title": "Rear Window",
-    "poster_path": "/zmbPjkZhlnt0JEOU9xMYtbjNXuL.jpg",
-    "genre_ids": [
-      18,
-      53,
-      10770
-    ],
-    "year": "1998",
-    "release_date": "1998-11-22",
-    "rating": 5.438,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 50
-  },
-  {
-    "ytId": "0-PxY4CvWMc",
-    "tmdbId": 397165,
-    "title": "The Ascent",
-    "poster_path": "/22SQ1ohoehKAKhVHpHjMTUC7XtS.jpg",
-    "genre_ids": [
-      10752,
-      12
-    ],
-    "year": "1994",
-    "release_date": "1994-09-15",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 49
-  },
-  {
-    "ytId": "dWQQmjxifJs",
-    "tmdbId": 16926,
-    "title": "Prairie Fever",
-    "poster_path": "/aRSF1lfFwXBpWlvXthPrb9tS6vA.jpg",
-    "genre_ids": [
-      28,
-      37,
-      10770
-    ],
-    "year": "2008",
-    "release_date": "2008-03-29",
-    "rating": 4.567,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 48
-  },
-  {
-    "ytId": "vAnDh2U0_80",
-    "tmdbId": 2965,
-    "title": "20,000 Leagues Under the Sea",
-    "poster_path": "/8kVSztb6A7gA0K4eFJIxjzgdiH0.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878,
-      10770
-    ],
-    "year": "1997",
-    "release_date": "1997-03-23",
-    "rating": 5.808,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 47
-  },
-  {
-    "ytId": "pbMisSSsG88",
-    "tmdbId": 109438,
-    "title": "Moonshine Highway",
-    "poster_path": "/yMP7LIz7d61VjUFXxgYglzCXfvf.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53,
-      10770
-    ],
-    "year": "1996",
-    "release_date": "1996-05-05",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 46
-  },
-  {
-    "ytId": "j883-LC2Yy8",
-    "tmdbId": 59127,
-    "title": "Eye of the Beast",
-    "poster_path": "/fqDYQBx7qYPONr0MsQTc6f7BvvA.jpg",
-    "genre_ids": [
-      27,
-      53,
-      9648,
-      10770
-    ],
-    "year": "2007",
-    "release_date": "2007-12-08",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 45
-  },
-  {
-    "ytId": "3nXJEr3H86w",
-    "tmdbId": 43941,
-    "title": "Kandahar Break",
-    "poster_path": "/uAnEuBWa0kPQ1ki8ln0QDmo0pjZ.jpg",
-    "genre_ids": [
-      28,
-      10749,
-      53,
-      10752
-    ],
-    "year": "2009",
-    "release_date": "2009-08-01",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 44
-  },
-  {
-    "ytId": "63sd5C-Qmto",
-    "tmdbId": 1215919,
-    "title": "My Sister's Bones",
-    "poster_path": "/4gr9WexfjVIji7LIH3D5zq4qAPc.jpg",
-    "genre_ids": [
-      18,
-      53,
-      27
-    ],
-    "year": "2026",
-    "release_date": "2026-01-30",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 43
-  },
-  {
-    "ytId": "EkWRuEKNjUs",
-    "tmdbId": 1213264,
-    "title": "When Jack Came Back",
-    "poster_path": "/3NC0FQrEk6DXmGC7CQpbrE6xT9p.jpg",
-    "genre_ids": [],
-    "year": "2022",
-    "release_date": "2022-03-04",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 42
-  },
-  {
-    "ytId": "Y5OBRZOJkqA",
-    "tmdbId": 392054,
-    "title": "KILD TV",
-    "poster_path": "/u86QUZ2KKfM1MWcSpLJdGTF8slJ.jpg",
-    "genre_ids": [
-      53,
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-03-01",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 41
-  },
-  {
-    "ytId": "nCt6E1feqC0",
-    "tmdbId": 858161,
-    "title": "Daft State",
-    "poster_path": "/y66piAnwfPDZL8bzdHMOcOjqyqe.jpg",
-    "genre_ids": [
-      53,
-      27,
-      9648
-    ],
-    "year": "2024",
-    "release_date": "2024-11-14",
-    "rating": 6.667,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 40
-  },
-  {
-    "ytId": "z6oRkZouvvY",
-    "tmdbId": 1341285,
-    "title": "Three Days or Else",
-    "poster_path": "/l7kHEQ4eTSvaHu4BbBc6JQiwFdp.jpg",
-    "genre_ids": [],
-    "year": "2024",
-    "release_date": "2024-02-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-27",
-    "id": 39
-  },
-  {
-    "ytId": "DSfDxwSP-rk",
-    "tmdbId": 115547,
-    "title": "The Rise & Fall of a White Collar Hooligan",
-    "poster_path": "/nTz7ohw4tYZEQ7W8t2Hs7HuotYh.jpg",
-    "genre_ids": [
-      53,
-      80
-    ],
-    "year": "2012",
-    "release_date": "2012-05-07",
-    "rating": 5.195,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 38
-  },
-  {
-    "ytId": "2WAPmomGM3M",
-    "tmdbId": 195408,
-    "title": "Tales from the Hollywood Hills: Natica Jackson",
-    "poster_path": "/eb5TfJzN3EZdD11wxsGyQZK4Gh3.jpg",
-    "genre_ids": [
-      18,
-      53,
-      10770
-    ],
-    "year": "1987",
-    "release_date": "1987-11-06",
-    "rating": 7.4,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 37
-  },
-  {
-    "ytId": "QofdbUNmczo",
-    "tmdbId": 266764,
-    "title": "Meet the Patels",
-    "poster_path": "/qPefACwGVov9QlJZI3GfxPzhaiZ.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      99
-    ],
-    "year": "2014",
-    "release_date": "2014-06-14",
-    "rating": 6.953,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 36
-  },
-  {
-    "ytId": "6q1yV2izVCs",
-    "tmdbId": 33326,
-    "title": "Phantom Racer",
-    "poster_path": "/AiyTWEj4pVIVFM1ltM6T95Yrwi3.jpg",
-    "genre_ids": [
-      27,
-      28,
-      53,
-      10770
-    ],
-    "year": "2009",
-    "release_date": "2009-08-22",
-    "rating": 4.56,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 35
-  },
-  {
-    "ytId": "-ImdQ9SoCM0",
-    "tmdbId": 272726,
-    "title": "Dude Where's My Dog?",
-    "poster_path": "/nUBGYq2qekustBm0Misdobk2FlJ.jpg",
-    "genre_ids": [
-      10751,
-      35
-    ],
-    "year": "2014",
-    "release_date": "2014-06-12",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 34
-  },
-  {
-    "ytId": "rGM9-9qFtfY",
-    "tmdbId": 75605,
-    "title": "Frogmen Operation Stormbringer",
-    "poster_path": "/zEIizk8khK3xaLBsXaiP1S8SCIq.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2002",
-    "release_date": "2002-12-03",
-    "rating": 4.231,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 33
-  },
-  {
-    "ytId": "qCePB3BSTu8",
-    "tmdbId": 76654,
-    "title": "U.S. Seals II: The Ultimate Force",
-    "poster_path": "/6RY597nT5OKxMp7buchCgWedLqX.jpg",
-    "genre_ids": [
-      28,
-      12
-    ],
-    "year": "2001",
-    "release_date": "2001-06-21",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 32
-  },
-  {
-    "ytId": "JSpiyxs1caA",
-    "tmdbId": 341744,
-    "title": "Truman",
-    "poster_path": "/p4MFl06ePJGKMIF7zFCJhex95Vi.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "2015",
-    "release_date": "2015-09-24",
-    "rating": 7.029,
-    "original_language": "es",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 31
-  },
-  {
-    "ytId": "3PUZC4_m9FY",
-    "tmdbId": 795088,
-    "title": "Save the Wedding",
-    "poster_path": "/yqfbrjaakA50tyzsjjHt9n09o5B.jpg",
-    "genre_ids": [
-      10749,
-      10770
-    ],
-    "year": "2021",
-    "release_date": "2021-03-01",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 30
-  },
-  {
-    "ytId": "LSp3fqHrxCY",
-    "tmdbId": 41656,
-    "title": "Octopus",
-    "poster_path": "/e8SvBSXyG8aejvpFsTz56b9gZsW.jpg",
-    "genre_ids": [
-      28,
-      27,
-      53,
-      878
-    ],
-    "year": "2000",
-    "release_date": "2000-09-21",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 29
-  },
-  {
-    "ytId": "I-EJAQ1oglE",
-    "tmdbId": 18015,
-    "title": "Shark Attack 3: Megalodon",
-    "poster_path": "/5jPTanuMn99GaLSSRVfaEwDVUWM.jpg",
-    "genre_ids": [
-      27,
-      53,
-      28,
-      12
-    ],
-    "year": "2002",
-    "release_date": "2002-11-26",
-    "rating": 4.731,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 28
-  },
-  {
-    "ytId": "NXHnRJqLw10",
-    "tmdbId": 45009,
-    "title": "Sharks in Venice",
-    "poster_path": "/f1eLcdXdYuhV38QoH3NrHXfYWCQ.jpg",
-    "genre_ids": [
-      27,
-      28,
-      12
-    ],
-    "year": "2008",
-    "release_date": "2008-10-06",
-    "rating": 3.917,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 27
-  },
-  {
-    "ytId": "yNB3YmKJh54",
-    "tmdbId": 214412,
-    "title": "The Runner",
-    "poster_path": "/mzNyDHOm6Ingz8tSVDOKq8f1mgI.jpg",
-    "genre_ids": [
-      18,
-      80,
-      53
-    ],
-    "year": "1999",
-    "release_date": "1999-09-09",
-    "rating": 5.389,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 26
-  },
-  {
-    "ytId": "YqOnz4xwq70",
-    "tmdbId": 381055,
-    "title": "Learning To See",
-    "poster_path": "/sXODZK9PX4t0WJMPzG76GkshhW1.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2016",
-    "release_date": "2016-03-13",
-    "rating": 7.9,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 25
-  },
-  {
-    "ytId": "gaHiCF_keWs",
-    "tmdbId": 13401,
-    "title": "The Accidental Husband",
-    "poster_path": "/hbmHBXL7KyqNapDj6m3pqdV1qx3.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2008",
-    "release_date": "2008-02-29",
-    "rating": 5.565,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-06-27",
-    "id": 24
-  },
-  {
-    "ytId": "bopJV_Xk_Ls",
-    "tmdbId": 174326,
-    "title": "A Birder's Guide to Everything",
-    "poster_path": "/o30xzZyqVvTTv4qsDkHUdyJFd4Y.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2013",
-    "release_date": "2013-04-21",
-    "rating": 5.721,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 23
-  },
-  {
-    "ytId": "ra0vF8YSvps",
-    "tmdbId": 397852,
-    "title": "Rendel",
-    "poster_path": "/tZiNrIRYblaJZE9m0M80IU1E2zP.jpg",
-    "genre_ids": [
-      28,
-      14,
-      80
-    ],
-    "year": "2017",
-    "release_date": "2017-09-22",
-    "rating": 5.5,
-    "original_language": "fi",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 22
-  },
-  {
-    "ytId": "B7RsU9_DTfU",
-    "tmdbId": 22167,
-    "title": "Knightriders",
-    "poster_path": "/lawtQYZvwrjHMNkvrKWAF93tIoK.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "1981",
-    "release_date": "1981-04-10",
-    "rating": 6.202,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 21
-  },
-  {
-    "ytId": "paIAWYmmRb4",
-    "tmdbId": 291593,
-    "title": "Eyes of a Witness",
-    "poster_path": null,
-    "genre_ids": [
-      10770,
-      18
-    ],
-    "year": "1991",
-    "release_date": "1991-03-30",
-    "rating": 7,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 20
-  },
-  {
-    "ytId": "LE2NLUd92sQ",
-    "tmdbId": 28126,
-    "title": "Fugitive Rage",
-    "poster_path": "/4hmwjp3tHruxE3Xi98FuMGCLiVw.jpg",
-    "genre_ids": [
-      28,
-      80,
-      18
-    ],
-    "year": "1996",
-    "release_date": "1996-11-19",
-    "rating": 3.111,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 19
-  },
-  {
-    "ytId": "lfxmhvRHzkI",
-    "tmdbId": 44396,
-    "title": "Nightmare at the End of the Hall",
-    "poster_path": "/7xf1WJN4QD8Co54kIfjQWPoNkzu.jpg",
-    "genre_ids": [
-      10770,
-      53,
-      18,
-      27
-    ],
-    "year": "2008",
-    "release_date": "2008-06-22",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-27",
-    "id": 18
   }
 ]

@@ -1,5 +1,739 @@
 [
   {
+    "ytId": "gkD-FQXDq_k",
+    "tmdbId": 994906,
+    "title": "Dublin Crust",
+    "poster_path": "/8pPLUATyfMyZ50tte01KQ9FiDOP.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "year": "2023",
+    "release_date": "2023-09-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 210
+  },
+  {
+    "ytId": "-1q0mM7vXDg",
+    "tmdbId": 1549608,
+    "title": "Blindly in Love",
+    "poster_path": "/gzSuHiaP2owgQr3W6lp1Aqx7I6E.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-06-11",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 209
+  },
+  {
+    "ytId": "5eLs9a7MYKs",
+    "tmdbId": 1381217,
+    "title": "Sugarcane",
+    "poster_path": "/nL10LPMJBH2OeRP26rhnysLANSm.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2025",
+    "release_date": "2025-06-13",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 208
+  },
+  {
+    "ytId": "77U5puF7-TI",
+    "tmdbId": 1496378,
+    "title": "The Jurassic Games: Extinction",
+    "poster_path": "/oaspw8GHJHGJRDvVVERmt8iDb5K.jpg",
+    "genre_ids": [
+      878,
+      28,
+      14,
+      12,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-06-24",
+    "rating": 4.308,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 207
+  },
+  {
+    "ytId": "sBxoeoXM1wg",
+    "tmdbId": 78555,
+    "title": "Possessing Piper Rose",
+    "poster_path": "/p16wEmRuwnR66JSK3BA1MApxZQW.jpg",
+    "genre_ids": [
+      18,
+      10770,
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-10-24",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 206
+  },
+  {
+    "ytId": "dOkFKgZiuZA",
+    "tmdbId": 936137,
+    "title": "Just Swipe",
+    "poster_path": "/rIAIqx3nmZEXABm42wDsnsJwKFk.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2022",
+    "release_date": "2022-02-08",
+    "rating": 4.833,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 205
+  },
+  {
+    "ytId": "Bfr1iM3pnbE",
+    "tmdbId": 1597403,
+    "title": "Come Home",
+    "poster_path": "/vXFx3BUNt4GFs6hNC1DBTchQclp.jpg",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-12-12",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 204
+  },
+  {
+    "ytId": "igBsjqgmW_w",
+    "tmdbId": 1357770,
+    "title": "Unexpected Courage",
+    "poster_path": "/vY27gJEGoIIjVDOYIsuphDSfs3r.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2025",
+    "release_date": "2025-10-23",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 203
+  },
+  {
+    "ytId": "lfZh2J_GUd0",
+    "tmdbId": 192844,
+    "title": "Matt's Chance",
+    "poster_path": "/h7rWKoYTkKeCiJrePisVOCKavmb.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-01-31",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 202
+  },
+  {
+    "ytId": "eJVF8uga5z4",
+    "tmdbId": 46008,
+    "title": "Apocalypse: Caught in the Eye of the Storm",
+    "poster_path": "/kxr3kNRDolydXfG3kkiQAsi7heC.jpg",
+    "genre_ids": [
+      14,
+      53
+    ],
+    "year": "1998",
+    "release_date": "1998-09-27",
+    "rating": 3.278,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 201
+  },
+  {
+    "ytId": "h0Ti6QafMd8",
+    "tmdbId": 1549219,
+    "title": "She Wants My Daughter",
+    "poster_path": "/pjbnP835g8wvBEhnqZSe7vLnjz4.jpg",
+    "genre_ids": [
+      53,
+      80,
+      10770
+    ],
+    "year": "2025",
+    "release_date": "2025-09-19",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 200
+  },
+  {
+    "ytId": "4TX7a-o9ghk",
+    "tmdbId": 301730,
+    "title": "Turkey Shoot",
+    "poster_path": "/8f3twszUfCtInJo0VB1Bz3ptx0e.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-12-04",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 199
+  },
+  {
+    "ytId": "CohYsizFm4Q",
+    "tmdbId": 1454940,
+    "title": "Beggarman",
+    "poster_path": "/zszkANvz6x8QZuDFUZa9BACaLSw.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-03-29",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 198
+  },
+  {
+    "ytId": "o0Lu4gyui4Q",
+    "tmdbId": 56652,
+    "title": "Sinbad and the Minotaur",
+    "poster_path": "/t4fCnP7WMdLre8YcxESb7PbfcCI.jpg",
+    "genre_ids": [
+      14,
+      12
+    ],
+    "year": "2011",
+    "release_date": "2011-05-07",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 197
+  },
+  {
+    "ytId": "wCT_qFCIvM4",
+    "tmdbId": 955305,
+    "title": "Dig Me No Grave",
+    "poster_path": "/4W3480kuopauAHjnCmyM9JjUS2m.jpg",
+    "genre_ids": [
+      12,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-01-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 196
+  },
+  {
+    "ytId": "X5KRVBEH-P0",
+    "tmdbId": 1583195,
+    "title": "Vriksha: Every Second Chance has a Price",
+    "poster_path": "/anWXXoRNY9WVRBynMGAyEiXFaNw.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "2025",
+    "release_date": "2025-02-14",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 195
+  },
+  {
+    "ytId": "1CjAkmFpcS0",
+    "tmdbId": 1205225,
+    "title": "Gates of Flesh",
+    "poster_path": "/cOiuCeECSRqzpwuY6wYKQzvPcXm.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "year": "2025",
+    "release_date": "2025-04-08",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 194
+  },
+  {
+    "ytId": "2zTgnOUBrNY",
+    "tmdbId": 496186,
+    "title": "High Resolution",
+    "poster_path": "/nWjICXX6LOtKMzftEWvMH8PbH4p.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-10-01",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 193
+  },
+  {
+    "ytId": "9CVeXxBmTEk",
+    "tmdbId": 534039,
+    "title": "10 Things We Should Do Before We Break Up",
+    "poster_path": "/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2020",
+    "release_date": "2020-03-05",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 192
+  },
+  {
+    "ytId": "wReGpxnMOWg",
+    "tmdbId": 1125792,
+    "title": "Before We Begin",
+    "poster_path": "/hgKrlb4A8Yk8zjsRt1lTL0VHQyX.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-11-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 191
+  },
+  {
+    "ytId": "J3bZiY8isYE",
+    "tmdbId": 1024668,
+    "title": "Northern Shade",
+    "poster_path": "/y9QaP507ScoH0zu4J9x6QkNXYbl.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-02-24",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 190
+  },
+  {
+    "ytId": "AjCIp2nQ4E0",
+    "tmdbId": 913434,
+    "title": "Paris is in Harlem",
+    "poster_path": "/6isi2orTlbAT6Ojteb1zevStY3s.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      36
+    ],
+    "year": "2022",
+    "release_date": "2022-01-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 189
+  },
+  {
+    "ytId": "Ph21BOds6gU",
+    "tmdbId": 1158149,
+    "title": "Et Tu",
+    "poster_path": "/3dFjj1tbn0RlhLvW3G6TFO1U3Kv.jpg",
+    "genre_ids": [
+      35,
+      53,
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-07-25",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 188
+  },
+  {
+    "ytId": "qTADvHeVEMc",
+    "tmdbId": 1377413,
+    "title": "St. Patrick's Day Massacre",
+    "poster_path": "/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-03-10",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 187
+  },
+  {
+    "ytId": "p5pazigrq9A",
+    "tmdbId": 1639583,
+    "title": "Obsessions",
+    "poster_path": "/qJnbW7pmQNY7LCKC4HlYXvXP5mA.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-05-21",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 186
+  },
+  {
+    "ytId": "Sq3nB4163lo",
+    "tmdbId": 862962,
+    "title": "Gunfight at Dry River",
+    "poster_path": "/yefxiaYqcgvFBC1YOkK9gZfvOzE.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-09-10",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 185
+  },
+  {
+    "ytId": "atxp7E1KphA",
+    "tmdbId": 1443324,
+    "title": "Bad B*tch",
+    "poster_path": "/58xOmkIuZ8eJBoIJT0xxHr938Tl.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-05-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 184
+  },
+  {
+    "ytId": "oJOIydjM3vg",
+    "tmdbId": 1517392,
+    "title": "Let Me Go!",
+    "poster_path": "/rjEm3S7175coiObsbXk8i1IOv50.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-10-03",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 183
+  },
+  {
+    "ytId": "CWzfEMKYt60",
+    "tmdbId": 1296504,
+    "title": "Stand Your Ground",
+    "poster_path": "/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "year": "2025",
+    "release_date": "2025-05-09",
+    "rating": 4.493,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 182
+  },
+  {
+    "ytId": "bBmsDXLJxu0",
+    "tmdbId": 1144011,
+    "title": "Lock & Load",
+    "poster_path": "/qKPYsaqD32r59af7ww6VKQKY7Ge.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-07-24",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 181
+  },
+  {
+    "ytId": "5cSLK9jBJu8",
+    "tmdbId": 1449567,
+    "title": "Best Of Trades",
+    "poster_path": "/8qqVqNsiQbOGMXmoRDG7vgBDezf.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18,
+      12
+    ],
+    "year": "2025",
+    "release_date": "2025-06-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 180
+  },
+  {
+    "ytId": "lEMmpo3CKlc",
+    "tmdbId": 627391,
+    "title": "Let's Sing a Stephen Foster Song",
+    "poster_path": "/z7NdUZrKi79A0UaZkkCerHQ8CAI.jpg",
+    "genre_ids": [],
+    "year": "1948",
+    "release_date": "1948-05-08",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 179
+  },
+  {
+    "ytId": "WIeU3yNYZyU",
+    "tmdbId": 523938,
+    "title": "M.I.A. A Greater Evil",
+    "poster_path": "/839mlxsmlYTtsltEnmkjZqzkc3y.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648,
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-05-08",
+    "rating": 8.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 178
+  },
+  {
+    "ytId": "0AcMXcWN0Eg",
+    "tmdbId": 427562,
+    "title": "Valentine DayZ",
+    "poster_path": "/3T7stF66sMZi1qFnI092ReeiOh4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-09-25",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 177
+  },
+  {
+    "ytId": "h-ZsKON1Mts",
+    "tmdbId": 466532,
+    "title": "Clara",
+    "poster_path": "/uaWAjD4y64qkvGzgNNj9vDrjX2l.jpg",
+    "genre_ids": [
+      878,
+      18,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-11-30",
+    "rating": 7.379,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 176
+  },
+  {
+    "ytId": "xAYducrtUk4",
+    "tmdbId": 290825,
+    "title": "Yoga Hosers",
+    "poster_path": "/cc40P3lKEiK0H8ZSd8hmBBI0HEV.jpg",
+    "genre_ids": [
+      35,
+      14,
+      27,
+      28
+    ],
+    "year": "2016",
+    "release_date": "2016-07-08",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 175
+  },
+  {
+    "ytId": "OngrIrzpess",
+    "tmdbId": 748473,
+    "title": "Dropping The Soap",
+    "poster_path": "/u9v3naTiDZWjNI6lWyHwwZXcvEY.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-03-07",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 174
+  },
+  {
+    "ytId": "AkKBNfCogBI",
+    "tmdbId": 70863,
+    "title": "Poolboy: Drowning Out the Fury",
+    "poster_path": "/110wCwfzRRiGVdXtpAptgTPK3JJ.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "year": "2011",
+    "release_date": "2011-07-22",
+    "rating": 4.863,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 173
+  },
+  {
+    "ytId": "kqyp0A1XKlc",
+    "tmdbId": 30731,
+    "title": "Little Miss Magic",
+    "poster_path": "/hMQkZoyKUOxNhD2smlFZN6D0SMo.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "year": "1997",
+    "release_date": "1997-01-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 172
+  },
+  {
+    "ytId": "GkE06LylKKQ",
+    "tmdbId": 109453,
+    "title": "Mothers and Daughters",
+    "poster_path": "/tTu3xPJOIV4s6ZzNwjvcwGytMla.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-05-06",
+    "rating": 5.292,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 171
+  },
+  {
+    "ytId": "xVC1uhVeIdA",
+    "tmdbId": 417809,
+    "title": "Fatal Crossing",
+    "poster_path": "/nOuXSXTNX8x85wHky4Rphw4ry00.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648,
+      10749,
+      80
+    ],
+    "year": "2017",
+    "release_date": "2017-11-19",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 170
+  },
+  {
+    "ytId": "Om28iS-n1ts",
+    "tmdbId": 521139,
+    "title": "United We Fan",
+    "poster_path": "/irrar9pZrYzKp7hHh4GEVav3vbV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2018",
+    "release_date": "2018-04-28",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 169
+  },
+  {
+    "ytId": "cqwBx9CaZ0Y",
+    "tmdbId": 78205,
+    "title": "The Virgin of Juarez",
+    "poster_path": "/gV010Bcwv3vVKOe4bwn5iwTT8t7.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-03-13",
+    "rating": 6.875,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 168
+  },
+  {
     "ytId": "ewa3u0yU2_U",
     "tmdbId": 565275,
     "title": "The Sunlit Night",
