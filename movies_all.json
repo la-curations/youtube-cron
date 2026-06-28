@@ -1,5 +1,367 @@
 [
   {
+    "ytId": "AfaJK7mmFFc",
+    "tmdbId": 291729,
+    "title": "Sacred Cargo",
+    "poster_path": "/5kEw8eOYxP5SxEnDjlPm3xQQsaE.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "1996",
+    "release_date": "1996-08-13",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 64
+  },
+  {
+    "ytId": "tJMwwnJmioc",
+    "tmdbId": 16067,
+    "title": "Final Days of Planet Earth",
+    "poster_path": "/dW8lvvTmxZ5CTZKRwtqTrO1K1sA.jpg",
+    "genre_ids": [
+      28,
+      878,
+      18,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-03-15",
+    "rating": 4.804,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 63
+  },
+  {
+    "ytId": "e87DCZZDw5g",
+    "tmdbId": 110080,
+    "title": "Stranger with My Face",
+    "poster_path": "/aYWP39ZEQ96P6dmPWWnnRZpyrnf.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18,
+      10770
+    ],
+    "year": "2009",
+    "release_date": "2009-08-26",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 62
+  },
+  {
+    "ytId": "Lcm-fPFqDas",
+    "tmdbId": 15056,
+    "title": "The Curse of King Tut's Tomb",
+    "poster_path": "/lS8HiWOO7YcezktLKFmBJmitAzo.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      53,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-04-11",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 61
+  },
+  {
+    "ytId": "rMbA9-fcTuA",
+    "tmdbId": 38044,
+    "title": "Depth Charge",
+    "poster_path": "/omkJfYslpEa04O8LxeoQXJ9ICo7.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-06-30",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 60
+  },
+  {
+    "ytId": "vGHIiUc_r4Y",
+    "tmdbId": 212986,
+    "title": "Exploding Sun",
+    "poster_path": "/tWMyMxtpN1hHCUwkkX2oA6Gku2i.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2013",
+    "release_date": "2013-02-09",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 59
+  },
+  {
+    "ytId": "G86HHHVzk60",
+    "tmdbId": 334584,
+    "title": "Blackout",
+    "poster_path": "/bfWuTuK8a1Iq63SPHItZk5zw8Bc.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "year": "2012",
+    "release_date": "2012-10-24",
+    "rating": 7.2,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 58
+  },
+  {
+    "ytId": "waknyKg2zwA",
+    "tmdbId": 157185,
+    "title": "Tin Can Man",
+    "poster_path": "/2IMSeaHnjPCYSJ2P2J8BjvbMWZ4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2007",
+    "release_date": "2007-09-07",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 57
+  },
+  {
+    "ytId": "gzIyCzApFEU",
+    "tmdbId": 8349,
+    "title": "The Red Baron",
+    "poster_path": "/lUuryram6Aoa11dCgoXohR8avjU.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36,
+      10752
+    ],
+    "year": "2008",
+    "release_date": "2008-03-29",
+    "rating": 6.629,
+    "original_language": "de",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 56
+  },
+  {
+    "ytId": "F7qVp9tXkbg",
+    "tmdbId": 37661,
+    "title": "Icon",
+    "poster_path": "/ugEkcKQeG4alcEFqtFGuFhmCC9L.jpg",
+    "genre_ids": [
+      10770,
+      28,
+      18,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-01-01",
+    "rating": 5.682,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 55
+  },
+  {
+    "ytId": "LgatG42Uqko",
+    "tmdbId": 216675,
+    "title": "Haunting Sarah",
+    "poster_path": "/ruboVNsZruitxcDc8IPfG7jftLP.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10770
+    ],
+    "year": "2005",
+    "release_date": "2005-10-02",
+    "rating": 5.75,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 54
+  },
+  {
+    "ytId": "sDGIgGqTPOg",
+    "tmdbId": 1619735,
+    "title": "DELETE",
+    "poster_path": "/hyswIvTqdd9MkQdjgyN09Etgk2d.jpg",
+    "genre_ids": [
+      878,
+      99
+    ],
+    "year": "2013",
+    "release_date": "2013-02-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 53
+  },
+  {
+    "ytId": "jrnRramlYFc",
+    "tmdbId": 198214,
+    "title": "Ring of Fire",
+    "poster_path": "/22vGiN2A2o4GJTFFJq8UAfVaLGn.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2013",
+    "release_date": "2013-05-27",
+    "rating": 5.15,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 52
+  },
+  {
+    "ytId": "yHIb9HmuFyc",
+    "tmdbId": 109174,
+    "title": "Silent Predators",
+    "poster_path": "/h1rYsziZnMRzBLBv8LCU6YNzf4X.jpg",
+    "genre_ids": [
+      27,
+      53,
+      10770,
+      28
+    ],
+    "year": "1999",
+    "release_date": "1999-06-13",
+    "rating": 5.276,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 51
+  },
+  {
+    "ytId": "cxHT2vhHDb4",
+    "tmdbId": 11603,
+    "title": "Rear Window",
+    "poster_path": "/zmbPjkZhlnt0JEOU9xMYtbjNXuL.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-11-22",
+    "rating": 5.438,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 50
+  },
+  {
+    "ytId": "0-PxY4CvWMc",
+    "tmdbId": 397165,
+    "title": "The Ascent",
+    "poster_path": "/22SQ1ohoehKAKhVHpHjMTUC7XtS.jpg",
+    "genre_ids": [
+      10752,
+      12
+    ],
+    "year": "1994",
+    "release_date": "1994-09-15",
+    "rating": 6.4,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 49
+  },
+  {
+    "ytId": "dWQQmjxifJs",
+    "tmdbId": 16926,
+    "title": "Prairie Fever",
+    "poster_path": "/aRSF1lfFwXBpWlvXthPrb9tS6vA.jpg",
+    "genre_ids": [
+      28,
+      37,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-03-29",
+    "rating": 4.567,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 48
+  },
+  {
+    "ytId": "vAnDh2U0_80",
+    "tmdbId": 2965,
+    "title": "20,000 Leagues Under the Sea",
+    "poster_path": "/8kVSztb6A7gA0K4eFJIxjzgdiH0.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-03-23",
+    "rating": 5.808,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 47
+  },
+  {
+    "ytId": "pbMisSSsG88",
+    "tmdbId": 109438,
+    "title": "Moonshine Highway",
+    "poster_path": "/yMP7LIz7d61VjUFXxgYglzCXfvf.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53,
+      10770
+    ],
+    "year": "1996",
+    "release_date": "1996-05-05",
+    "rating": 6.4,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 46
+  },
+  {
+    "ytId": "j883-LC2Yy8",
+    "tmdbId": 59127,
+    "title": "Eye of the Beast",
+    "poster_path": "/fqDYQBx7qYPONr0MsQTc6f7BvvA.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648,
+      10770
+    ],
+    "year": "2007",
+    "release_date": "2007-12-08",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 45
+  },
+  {
     "ytId": "3nXJEr3H86w",
     "tmdbId": 43941,
     "title": "Kandahar Break",
