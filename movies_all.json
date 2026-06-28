@@ -1,5 +1,468 @@
 [
   {
+    "ytId": "NBaTC8JdwZQ",
+    "tmdbId": 1096563,
+    "title": "End of Loyalty",
+    "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-03-07",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-06-28",
+    "id": 90
+  },
+  {
+    "ytId": "OaJftrcR8IM",
+    "tmdbId": 3056,
+    "title": "Frankenstein",
+    "poster_path": "/gmeccZOjv2l12NM7dTjHXTYHaC4.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      27,
+      878,
+      9648
+    ],
+    "year": "2004",
+    "release_date": "2004-10-09",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 89
+  },
+  {
+    "ytId": "Sxc54TpZAVc",
+    "tmdbId": 64806,
+    "title": "Something Beneath",
+    "poster_path": "/qIRVCiuXOGNT90BPbNy8XTJCDXz.jpg",
+    "genre_ids": [
+      10770,
+      27,
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-10-21",
+    "rating": 3.559,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 88
+  },
+  {
+    "ytId": "SM20KqjI2nI",
+    "tmdbId": 262004,
+    "title": "Black Fox: The Price of Peace",
+    "poster_path": "/3qvZvdQ7GtBigq4Tm38fz7OrMkX.jpg",
+    "genre_ids": [
+      37,
+      10770
+    ],
+    "year": "1995",
+    "release_date": "1995-08-04",
+    "rating": 5.6,
+    "original_language": "nl",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 87
+  },
+  {
+    "ytId": "PQ0nR72itUg",
+    "tmdbId": 42901,
+    "title": "In the Spider's Web",
+    "poster_path": "/2pLLgbkZQCThY4iMZpls2kO2O4n.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      10770
+    ],
+    "year": "2007",
+    "release_date": "2007-08-26",
+    "rating": 4.556,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 86
+  },
+  {
+    "ytId": "IYfyNDY45h4",
+    "tmdbId": 41241,
+    "title": "Hard Time: Hostage Hotel",
+    "poster_path": "/stzlbfdSdTK8Fv7yTmAEjiZxZPI.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      10770
+    ],
+    "year": "1999",
+    "release_date": "1999-11-14",
+    "rating": 6.864,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 85
+  },
+  {
+    "ytId": "JqZfAAVHzf8",
+    "tmdbId": 50053,
+    "title": "2010: Moby Dick",
+    "poster_path": "/nlH84l2lVZ7voCBZgDywJCGGHgX.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "year": "2010",
+    "release_date": "2010-11-23",
+    "rating": 3.028,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 84
+  },
+  {
+    "ytId": "36kL6LreQDg",
+    "tmdbId": 180909,
+    "title": "Hard Time: The Premonition",
+    "poster_path": "/k8dHFYF307jsxQo9kbWlHWLB0F1.jpg",
+    "genre_ids": [
+      80,
+      18,
+      878,
+      10770
+    ],
+    "year": "1999",
+    "release_date": "1999-02-27",
+    "rating": 5.714,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 83
+  },
+  {
+    "ytId": "GI2TFFWrBlc",
+    "tmdbId": 115418,
+    "title": "Black Fox",
+    "poster_path": "/oVrYXrPeiFzoa7qfXwAgbOHzR4m.jpg",
+    "genre_ids": [
+      10770,
+      37
+    ],
+    "year": "1995",
+    "release_date": "1995-07-28",
+    "rating": 6.429,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 82
+  },
+  {
+    "ytId": "UTCQHKLleAc",
+    "tmdbId": 55248,
+    "title": "Behemoth",
+    "poster_path": "/6zYYLkKruFLaExcZFSa5n4CSnP2.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2011",
+    "release_date": "2011-01-15",
+    "rating": 3.898,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 81
+  },
+  {
+    "ytId": "5s8X3HE4LQ4",
+    "tmdbId": 35429,
+    "title": "The Hive",
+    "poster_path": "/yWiSAvc5QnjIrenvjlQJbnLrH8.jpg",
+    "genre_ids": [
+      27,
+      878,
+      28
+    ],
+    "year": "2008",
+    "release_date": "2008-02-17",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 80
+  },
+  {
+    "ytId": "_fum5fULI0Q",
+    "tmdbId": 21922,
+    "title": "Sea Beast",
+    "poster_path": "/ta56QLWqHo5G3u9tQw2cS5NEMsF.jpg",
+    "genre_ids": [
+      27,
+      878,
+      10770,
+      53,
+      28
+    ],
+    "year": "2008",
+    "release_date": "2008-06-30",
+    "rating": 4.375,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 79
+  },
+  {
+    "ytId": "zVZIvwqguj8",
+    "tmdbId": 180907,
+    "title": "Hard Time",
+    "poster_path": "/d5HS9oSvc8hvCxbZOAQ3kQq4g0Q.jpg",
+    "genre_ids": [
+      28,
+      80,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-12-12",
+    "rating": 5.909,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 78
+  },
+  {
+    "ytId": "VBD_y5tXCGI",
+    "tmdbId": 37933,
+    "title": "Tales from Earthsea",
+    "poster_path": "/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg",
+    "genre_ids": [
+      16,
+      14,
+      12
+    ],
+    "year": "2006",
+    "release_date": "2006-07-29",
+    "rating": 6.5,
+    "original_language": "ja",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 77
+  },
+  {
+    "ytId": "fH1VGUSS4Ec",
+    "tmdbId": 150823,
+    "title": "The Shooter",
+    "poster_path": "/6q0jdPDPE9uKpRUw8px3zoJtQnm.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "1997",
+    "release_date": "1997-10-23",
+    "rating": 4.933,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 76
+  },
+  {
+    "ytId": "jBp6nUQw8L0",
+    "tmdbId": 892170,
+    "title": "Meteor Shower in Valentine's Day",
+    "poster_path": "/yQgIadkFhb8lcgzAQ9EGofCJbAP.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "year": "2009",
+    "release_date": "2009-01-01",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 75
+  },
+  {
+    "ytId": "pR2HPLfxh9c",
+    "tmdbId": 30641,
+    "title": "Grizzly Rage",
+    "poster_path": "/cILatTixNGrWtqh7odw8Kn8coYn.jpg",
+    "genre_ids": [
+      53,
+      27,
+      10770,
+      28,
+      12
+    ],
+    "year": "2007",
+    "release_date": "2007-06-07",
+    "rating": 4.109,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 74
+  },
+  {
+    "ytId": "UVN1C8bL-nM",
+    "tmdbId": 10865,
+    "title": "Atlantis: The Lost Empire",
+    "poster_path": "/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      878
+    ],
+    "year": "2001",
+    "release_date": "2001-06-02",
+    "rating": 7.044,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 73
+  },
+  {
+    "ytId": "fYmJAEsLE4o",
+    "tmdbId": 940733,
+    "title": "Jules Verne's Mysterious Island",
+    "poster_path": "/1CcsJ5Et60tkKCtiOAF7tckcEZo.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      878,
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-09-17",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 72
+  },
+  {
+    "ytId": "GqoNVON_ono",
+    "tmdbId": 985490,
+    "title": "Pochacco in Jack and the Beanstalk",
+    "poster_path": "/sITaFuANUxyAsigxggVa2nvgu2.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "year": "2010",
+    "release_date": "2010-03-16",
+    "rating": 9.5,
+    "original_language": "ja",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 71
+  },
+  {
+    "ytId": "M6h5AS971hY",
+    "tmdbId": 88751,
+    "title": "Journey to the Center of the Earth",
+    "poster_path": "/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12,
+      35,
+      10751
+    ],
+    "year": "2008",
+    "release_date": "2008-07-10",
+    "rating": 6.091,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 70
+  },
+  {
+    "ytId": "TThpB6rsELc",
+    "tmdbId": 59084,
+    "title": "American Prophet:  The Story of Joseph Smith",
+    "poster_path": "/gW6qkLco9TGVe8o7WoiCoAxJMTy.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "1999",
+    "release_date": "1999-11-26",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 69
+  },
+  {
+    "ytId": "Z6y-61JKLZk",
+    "tmdbId": 663925,
+    "title": "A Wing and a Prayer",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2015",
+    "release_date": "2015-04-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 68
+  },
+  {
+    "ytId": "1fxxGYcVj3I",
+    "tmdbId": 130739,
+    "title": "A Coffee in Berlin",
+    "poster_path": "/gy58pmCztFrpxaRM9rGhv93LgCP.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2012",
+    "release_date": "2012-11-01",
+    "rating": 7.193,
+    "original_language": "de",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 67
+  },
+  {
+    "ytId": "Q3Mj7qxt7-8",
+    "tmdbId": 40168,
+    "title": "Scarecrows",
+    "poster_path": "/xaUdO29mwujiz2NcicSAk4u1NIJ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1988",
+    "release_date": "1988-09-28",
+    "rating": 5.202,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 66
+  },
+  {
+    "ytId": "cL8pFcud8oA",
+    "tmdbId": 589626,
+    "title": "Ancient Alien America",
+    "poster_path": "/pzpRl5jA86imGeWEllLkBfbzGa5.jpg",
+    "genre_ids": [
+      99,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-01-01",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-28",
+    "id": 65
+  },
+  {
     "ytId": "AfaJK7mmFFc",
     "tmdbId": 291729,
     "title": "Sacred Cargo",
