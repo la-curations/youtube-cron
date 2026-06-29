@@ -1,5 +1,164 @@
 [
   {
+    "ytId": "RBSGGPCcFNY",
+    "tmdbId": 29516,
+    "title": "Contre-offensive",
+    "poster_path": "/y5eIotJDuRiaRgcFhIh00D2sc8h.jpg",
+    "genre_ids": [
+      878,
+      53,
+      28
+    ],
+    "year": "1999",
+    "release_date": "1999-09-14",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 399
+  },
+  {
+    "ytId": "W7ERqUUmIBg",
+    "tmdbId": 296854,
+    "title": "The Painting",
+    "poster_path": "/7XyF0a4FKsTKWcdqNM0UcS7dSle.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2001",
+    "release_date": "2001-10-27",
+    "rating": 7.286,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 398
+  },
+  {
+    "ytId": "uWtlMjwLqtY",
+    "tmdbId": 19033,
+    "title": "The Sasquatch Gang",
+    "poster_path": "/f7Vnrik2tsozzG1DRfgIBmJvUCx.jpg",
+    "genre_ids": [
+      35,
+      12,
+      18
+    ],
+    "year": "2006",
+    "release_date": "2006-03-08",
+    "rating": 5.889,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 397
+  },
+  {
+    "ytId": "blwiQYfQBYU",
+    "tmdbId": 14414,
+    "title": "Honeydripper",
+    "poster_path": "/x1L0yIPOKWL8KVx6oWlPRl4ExaC.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "year": "2007",
+    "release_date": "2007-09-10",
+    "rating": 5.881,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 396
+  },
+  {
+    "ytId": "Icj65df30T8",
+    "tmdbId": 115738,
+    "title": "Million Dollar Crocodile",
+    "poster_path": "/9J55Xj2qUlRTyp2PjLL7MjAO37H.jpg",
+    "genre_ids": [
+      80,
+      35,
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-06-08",
+    "rating": 4.3,
+    "original_language": "zh",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 395
+  },
+  {
+    "ytId": "lhW05vDhCLA",
+    "tmdbId": 54722,
+    "title": "Once Upon a Texas Train",
+    "poster_path": "/zQdCyU3inyiTnRpJwSpCnWYFFGL.jpg",
+    "genre_ids": [
+      28,
+      37,
+      10770
+    ],
+    "year": "1988",
+    "release_date": "1988-10-12",
+    "rating": 5.188,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 394
+  },
+  {
+    "ytId": "e9lbbfi8v10",
+    "tmdbId": 60596,
+    "title": "Mee-Shee: The Water Giant",
+    "poster_path": "/xO8XsAzBpthdq22wcl5Kmt8YgiD.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      14
+    ],
+    "year": "2005",
+    "release_date": "2005-07-14",
+    "rating": 5.517,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 393
+  },
+  {
+    "ytId": "ZISJDJAxUic",
+    "tmdbId": 172593,
+    "title": "Derby Dogs",
+    "poster_path": "/yyi1MTv0CHCjYPZeCoSZHbx1lil.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "year": "2012",
+    "release_date": "2012-09-26",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 392
+  },
+  {
+    "ytId": "pEqRwzxjTv4",
+    "tmdbId": 45725,
+    "title": "Adventures of a Teenage Dragonslayer",
+    "poster_path": "/yriSOmQaW0UlHeqi5yNzXcW4M6j.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751,
+      14
+    ],
+    "year": "2010",
+    "release_date": "2010-04-16",
+    "rating": 3.974,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-29",
+    "id": 391
+  },
+  {
     "ytId": "ry_ly7NNHt4",
     "tmdbId": 1618865,
     "title": "The Cold Father",
