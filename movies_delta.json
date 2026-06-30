@@ -1,5 +1,40 @@
 [
   {
+    "ytId": "MJtHaJfDdKM",
+    "tmdbId": 87847,
+    "title": "Country Remedy",
+    "poster_path": "/sbFHwVNlZzSzQciiu6B9D8hg5su.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2007",
+    "release_date": "2007-02-02",
+    "rating": 5.909,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-30",
+    "id": 401
+  },
+  {
+    "ytId": "abETrgYZZvQ",
+    "tmdbId": 101135,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "poster_path": "/b66I2HRPoqGv1h29Y52RAlXnJxZ.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "year": "1989",
+    "release_date": "1989-12-18",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-06-30",
+    "id": 400
+  },
+  {
     "ytId": "RBSGGPCcFNY",
     "tmdbId": 29516,
     "title": "Contre-offensive",
@@ -2563,41 +2598,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-06-28",
     "id": 252
-  },
-  {
-    "ytId": "CC6om7lK_sY",
-    "tmdbId": 1382341,
-    "title": "Crown of Shadows",
-    "poster_path": "/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "year": "2025",
-    "release_date": "2025-04-28",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 251
-  },
-  {
-    "ytId": "b0c_8h5AGuk",
-    "tmdbId": 922539,
-    "title": "Deadly Infidelity",
-    "poster_path": "/iJwE6cwS3hOp3VjZPSlxwhPnNun.jpg",
-    "genre_ids": [
-      10770,
-      53,
-      10749,
-      9648
-    ],
-    "year": "2022",
-    "release_date": "2022-01-01",
-    "rating": 7.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 250
   }
 ]
