@@ -1,5 +1,140 @@
 [
   {
+    "ytId": "QK2MXJ9B46Q",
+    "tmdbId": 161159,
+    "title": "Teen Sorcery",
+    "poster_path": "/8leqgutUaLmewiudR5dfHmTHnzN.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10751
+    ],
+    "year": "1999",
+    "release_date": "1999-09-28",
+    "rating": 5.75,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-02",
+    "id": 413
+  },
+  {
+    "ytId": "T1C-8AgvstM",
+    "tmdbId": 68028,
+    "title": "Blood Angels",
+    "poster_path": "/nYxDdEJdauuubV66itHgYTELurJ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2005",
+    "release_date": "2005-03-22",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 412
+  },
+  {
+    "ytId": "zCsiBHACgAE",
+    "tmdbId": 197657,
+    "title": "Rap Sheet: Hip-Hop and the Cops",
+    "poster_path": "/2yh6ESn4CC10JHwaVF8UOqSW8qV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2006",
+    "release_date": "2006-01-01",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 411
+  },
+  {
+    "ytId": "IVzuR4Gli-M",
+    "tmdbId": 86313,
+    "title": "Relative Evil",
+    "poster_path": "/qssXz9Z5RdPyY5zJP1F68aaIu6y.jpg",
+    "genre_ids": [
+      18,
+      35,
+      53
+    ],
+    "year": "2001",
+    "release_date": "2001-09-01",
+    "rating": 5.625,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 410
+  },
+  {
+    "ytId": "mUZUAeqOmbg",
+    "tmdbId": 33563,
+    "title": "Bickford Shmeckler's Cool Ideas",
+    "poster_path": "/bDMVu4QS9peGUgvingjfnlBCApQ.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2006",
+    "release_date": "2006-06-02",
+    "rating": 5.523,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 409
+  },
+  {
+    "ytId": "TZpcfYOOEXA",
+    "tmdbId": 20323,
+    "title": "Long Weekend",
+    "poster_path": "/szfiY3ycr0SBAjb81og8tIzKgGj.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-08-14",
+    "rating": 5.182,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 408
+  },
+  {
+    "ytId": "k53CuaAUtik",
+    "tmdbId": 14063,
+    "title": "Adrift in Manhattan",
+    "poster_path": "/wxNb2TgZ6EhYROv9J6RGFk78mr0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2007",
+    "release_date": "2007-01-10",
+    "rating": 5.659,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 407
+  },
+  {
+    "ytId": "n9h-0Wgix7Q",
+    "tmdbId": 13075,
+    "title": "Sherrybaby",
+    "poster_path": "/wvMd4qGoSdrgW046DTvmwPyt6TV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2006",
+    "release_date": "2006-09-08",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Popcornflix",
+    "addedAt": "2026-07-02",
+    "id": 406
+  },
+  {
     "ytId": "ATGZvvLPSso",
     "tmdbId": 79780,
     "title": "About Fifty",
