@@ -1,5 +1,196 @@
 [
   {
+    "ytId": "IxGqHo8vqek",
+    "tmdbId": 91835,
+    "title": "Hotel Sorrento",
+    "poster_path": "/qhXkarV7elFmJerJ9IJLGz8yZ1I.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1995",
+    "release_date": "1995-04-20",
+    "rating": 6.889,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-03",
+    "id": 424
+  },
+  {
+    "ytId": "xm1wgDsrgUk",
+    "tmdbId": 793180,
+    "title": "Love, Bubbles & Crystal Cove",
+    "poster_path": "/vOVeFmOkNhORu88Tu44D6bnkCQP.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749,
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-05-21",
+    "rating": 6.214,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 423
+  },
+  {
+    "ytId": "DGJfl0E_084",
+    "tmdbId": 67277,
+    "title": "All Forgotten",
+    "poster_path": "/6nc9NRFk4HQYpBadzQZsQREz612.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2001",
+    "release_date": "2001-09-18",
+    "rating": 4.344,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 422
+  },
+  {
+    "ytId": "_WNAtaYTRno",
+    "tmdbId": 106160,
+    "title": "My Stepson, My Lover",
+    "poster_path": "/uTUHJCG4wSUAxbfYeUktNtxFJDr.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-06-25",
+    "rating": 3.625,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 421
+  },
+  {
+    "ytId": "jxA9d4WmseE",
+    "tmdbId": 743225,
+    "title": "Love's Second Chance",
+    "poster_path": "/zvtxpwStJcxRkRMRwBrfs2w3vqH.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2020",
+    "release_date": "2020-09-12",
+    "rating": 6.333,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 420
+  },
+  {
+    "ytId": "hgbWGIQzgRo",
+    "tmdbId": 795640,
+    "title": "Love's Sweet Recipe",
+    "poster_path": "/neHdPF3jA7CmdZcy73IExYq7z34.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749
+    ],
+    "year": "2021",
+    "release_date": "2021-05-16",
+    "rating": 6.094,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 419
+  },
+  {
+    "ytId": "m4wgDm-a7NU",
+    "tmdbId": 999022,
+    "title": "A Screenshot to Santa",
+    "poster_path": "/uVCuOktDbEZ2XbSuRyjg2nLyTMU.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "year": "2023",
+    "release_date": "2023-12-09",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 418
+  },
+  {
+    "ytId": "6nJ8n3MIiZY",
+    "tmdbId": 996806,
+    "title": "A Christmas Karen",
+    "poster_path": "/g24L8aeCgPiIqjLWVYDl7kMts1w.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "year": "2022",
+    "release_date": "2022-11-18",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 417
+  },
+  {
+    "ytId": "GJytAtSuEew",
+    "tmdbId": 75765,
+    "title": "The Santa Trap",
+    "poster_path": "/zlx3K70M8QFf9X9K00I0a67MDFK.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10751
+    ],
+    "year": "2002",
+    "release_date": "2002-12-13",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 416
+  },
+  {
+    "ytId": "tf7sVfOjWYU",
+    "tmdbId": 172391,
+    "title": "Khumba",
+    "poster_path": "/bG32hRPM9LguHXj2tbyeILJisOK.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "year": "2013",
+    "release_date": "2013-07-18",
+    "rating": 6.007,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 415
+  },
+  {
+    "ytId": "0HBGUkSY_nM",
+    "tmdbId": 167028,
+    "title": "Crossed Over",
+    "poster_path": "/9Ie6IO8EBDJ8JpTZdmNMlrc45Da.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2002",
+    "release_date": "2002-03-03",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 414
+  },
+  {
     "ytId": "QK2MXJ9B46Q",
     "tmdbId": 161159,
     "title": "Teen Sorcery",

@@ -1,5 +1,196 @@
 [
   {
+    "ytId": "IxGqHo8vqek",
+    "tmdbId": 91835,
+    "title": "Hotel Sorrento",
+    "poster_path": "/qhXkarV7elFmJerJ9IJLGz8yZ1I.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1995",
+    "release_date": "1995-04-20",
+    "rating": 6.889,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-03",
+    "id": 424
+  },
+  {
+    "ytId": "xm1wgDsrgUk",
+    "tmdbId": 793180,
+    "title": "Love, Bubbles & Crystal Cove",
+    "poster_path": "/vOVeFmOkNhORu88Tu44D6bnkCQP.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749,
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-05-21",
+    "rating": 6.214,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 423
+  },
+  {
+    "ytId": "DGJfl0E_084",
+    "tmdbId": 67277,
+    "title": "All Forgotten",
+    "poster_path": "/6nc9NRFk4HQYpBadzQZsQREz612.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2001",
+    "release_date": "2001-09-18",
+    "rating": 4.344,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 422
+  },
+  {
+    "ytId": "_WNAtaYTRno",
+    "tmdbId": 106160,
+    "title": "My Stepson, My Lover",
+    "poster_path": "/uTUHJCG4wSUAxbfYeUktNtxFJDr.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-06-25",
+    "rating": 3.625,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 421
+  },
+  {
+    "ytId": "jxA9d4WmseE",
+    "tmdbId": 743225,
+    "title": "Love's Second Chance",
+    "poster_path": "/zvtxpwStJcxRkRMRwBrfs2w3vqH.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2020",
+    "release_date": "2020-09-12",
+    "rating": 6.333,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 420
+  },
+  {
+    "ytId": "hgbWGIQzgRo",
+    "tmdbId": 795640,
+    "title": "Love's Sweet Recipe",
+    "poster_path": "/neHdPF3jA7CmdZcy73IExYq7z34.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749
+    ],
+    "year": "2021",
+    "release_date": "2021-05-16",
+    "rating": 6.094,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 419
+  },
+  {
+    "ytId": "m4wgDm-a7NU",
+    "tmdbId": 999022,
+    "title": "A Screenshot to Santa",
+    "poster_path": "/uVCuOktDbEZ2XbSuRyjg2nLyTMU.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "year": "2023",
+    "release_date": "2023-12-09",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 418
+  },
+  {
+    "ytId": "6nJ8n3MIiZY",
+    "tmdbId": 996806,
+    "title": "A Christmas Karen",
+    "poster_path": "/g24L8aeCgPiIqjLWVYDl7kMts1w.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "year": "2022",
+    "release_date": "2022-11-18",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 417
+  },
+  {
+    "ytId": "GJytAtSuEew",
+    "tmdbId": 75765,
+    "title": "The Santa Trap",
+    "poster_path": "/zlx3K70M8QFf9X9K00I0a67MDFK.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10751
+    ],
+    "year": "2002",
+    "release_date": "2002-12-13",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 416
+  },
+  {
+    "ytId": "tf7sVfOjWYU",
+    "tmdbId": 172391,
+    "title": "Khumba",
+    "poster_path": "/bG32hRPM9LguHXj2tbyeILJisOK.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "year": "2013",
+    "release_date": "2013-07-18",
+    "rating": 6.007,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 415
+  },
+  {
+    "ytId": "0HBGUkSY_nM",
+    "tmdbId": 167028,
+    "title": "Crossed Over",
+    "poster_path": "/9Ie6IO8EBDJ8JpTZdmNMlrc45Da.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2002",
+    "release_date": "2002-03-03",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-03",
+    "id": 414
+  },
+  {
     "ytId": "QK2MXJ9B46Q",
     "tmdbId": 161159,
     "title": "Teen Sorcery",
@@ -2399,194 +2590,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-06-28",
     "id": 275
-  },
-  {
-    "ytId": "_1T2vz-CKiE",
-    "tmdbId": 270854,
-    "title": "Out of Nowheresville",
-    "poster_path": "/GHCE4aJkjCA8qkWoHXTH3pv2TF.jpg",
-    "genre_ids": [
-      53,
-      80
-    ],
-    "year": "2020",
-    "release_date": "2020-10-09",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 274
-  },
-  {
-    "ytId": "GddrfQFdknw",
-    "tmdbId": 1193974,
-    "title": "A Christmas Intern",
-    "poster_path": "/s5aHjQvzzdFrW1v5miqkwNDseK.jpg",
-    "genre_ids": [
-      18,
-      35,
-      10770
-    ],
-    "year": "2023",
-    "release_date": "2023-12-16",
-    "rating": 6.3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 273
-  },
-  {
-    "ytId": "I7c_qldtdwo",
-    "tmdbId": 1239390,
-    "title": "Monsters Within",
-    "poster_path": "/suJXN8r8dmf0UIPaHdAjZbvinPb.jpg",
-    "genre_ids": [
-      27,
-      53,
-      18
-    ],
-    "year": "2025",
-    "release_date": "2025-10-03",
-    "rating": 2.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 272
-  },
-  {
-    "ytId": "CUDUo63UYBg",
-    "tmdbId": 1354831,
-    "title": "Within the Pines",
-    "poster_path": "/5ZZ75XjlDyfHRlGUF32fjHKbrk3.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-08-09",
-    "rating": 3.25,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 271
-  },
-  {
-    "ytId": "plhWisabXq4",
-    "tmdbId": 193389,
-    "title": "Destination: Planet Negro!",
-    "poster_path": "/yZtMbw8HDKmT0FxWPJbi84IeGGb.jpg",
-    "genre_ids": [
-      35,
-      36,
-      878
-    ],
-    "year": "2013",
-    "release_date": "2013-02-16",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 270
-  },
-  {
-    "ytId": "7NaPPRZRbWI",
-    "tmdbId": 462643,
-    "title": "Life of Significant Soil",
-    "poster_path": "/82d1rcZQL3zjhfJEviNSkZ0F350.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "2016",
-    "release_date": "2016-06-05",
-    "rating": 3.5,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 269
-  },
-  {
-    "ytId": "gyIiHnwa4c4",
-    "tmdbId": 351015,
-    "title": "Behind the Mask: The Batman Dead End Story",
-    "poster_path": "/mYJJeoi5hZKFJAFNT139DD2CAti.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2015",
-    "release_date": "2015-07-10",
-    "rating": 7.8,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 268
-  },
-  {
-    "ytId": "ayhJW2WAjFM",
-    "tmdbId": 49119,
-    "title": "A Texas Funeral",
-    "poster_path": "/ymou9DzBk1jjmacMFira4srikPu.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "1999",
-    "release_date": "1999-01-01",
-    "rating": 4.964,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 267
-  },
-  {
-    "ytId": "zb1zD5YrF04",
-    "tmdbId": 180688,
-    "title": "Deep Dark Canyon",
-    "poster_path": "/lY1sx46thaFbZElgt9ZnmCWr3mY.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "year": "2013",
-    "release_date": "2013-04-23",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 266
-  },
-  {
-    "ytId": "tUAoqAoHrTA",
-    "tmdbId": 225939,
-    "title": "Ponchao",
-    "poster_path": "/dY46o0vPivGB5j8lGrYTyEjRAcS.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2013",
-    "release_date": "2013-10-10",
-    "rating": 6,
-    "original_language": "es",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 265
-  },
-  {
-    "ytId": "dwMuEUuJ3ns",
-    "tmdbId": 404757,
-    "title": "Train Driver's Diary",
-    "poster_path": "/z1DyBmdNy1OqIR9QlDPb0rIh20E.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "2016",
-    "release_date": "2016-09-14",
-    "rating": 6.7,
-    "original_language": "sr",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-28",
-    "id": 264
   }
 ]
