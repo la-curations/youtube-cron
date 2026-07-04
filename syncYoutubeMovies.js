@@ -383,7 +383,9 @@ async function startSync() {
           masterMovies.unshift(movie); // Prepend to keep sorted by newest ID
           existingYtIds.add(movie.ytId);
         });
+        channel.count = (channel.count || 0) + processedMovies.length;
         hasMasterChanges = true;
+        hasConfigChanges = true;
       }
     }
   }
