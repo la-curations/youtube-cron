@@ -1,5 +1,445 @@
 [
   {
+    "ytId": "eAUCpiSWwJ8",
+    "tmdbId": 25967,
+    "title": "Isolation",
+    "poster_path": "/6CpGHO5cnZgWKKeqjCXaEwvk8Q8.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2005",
+    "release_date": "2005-11-06",
+    "rating": 5.541,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 530
+  },
+  {
+    "ytId": "JM3qkijS0jY",
+    "tmdbId": 201239,
+    "title": "Sheryl Underwood: Too Much Information",
+    "poster_path": "/sw5jtIuFylKzPeE0sTnWHbIyApF.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2005",
+    "release_date": "2005-11-22",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 529
+  },
+  {
+    "ytId": "j2_0zp_P-Rg",
+    "tmdbId": 253460,
+    "title": "Sunstorm",
+    "poster_path": "/bhmQGtcxRvcA6DmKvcV2I9r17l2.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2001",
+    "release_date": "2001-01-31",
+    "rating": 3.857,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 528
+  },
+  {
+    "ytId": "i6-raaW9XhY",
+    "tmdbId": 163985,
+    "title": "Purgatory Flats",
+    "poster_path": "/AxwiHMkddYiQFp4wqlEtBkZzUw.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "year": "2003",
+    "release_date": "2003-12-17",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 527
+  },
+  {
+    "ytId": "YFugj2IHS-4",
+    "tmdbId": 300514,
+    "title": "Project: Human Weapon",
+    "poster_path": "/MHFXJpQabFmDlKtxDCc2rsjoZ7.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2001",
+    "release_date": "2001-01-01",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 526
+  },
+  {
+    "ytId": "kOCL2-NHZM8",
+    "tmdbId": 44862,
+    "title": "Once Fallen",
+    "poster_path": "/8ebXl6daqC7PdOr9OKxMqsjh40z.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80
+    ],
+    "year": "2010",
+    "release_date": "2010-11-02",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 525
+  },
+  {
+    "ytId": "uds4K-R5umE",
+    "tmdbId": 211325,
+    "title": "This Matter of Marriage",
+    "poster_path": "/8P3Siikj2IFVSEFJYi0DKfRVZnp.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "1998",
+    "release_date": "1998-02-12",
+    "rating": 4.556,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 524
+  },
+  {
+    "ytId": "PPWC-apWPOM",
+    "tmdbId": 48710,
+    "title": "Hard to Forget",
+    "poster_path": "/j5DpLY6VDL8gigOVfzddlsJUYdb.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749,
+      9648
+    ],
+    "year": "1998",
+    "release_date": "1998-04-11",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 523
+  },
+  {
+    "ytId": "d5BZ9uFHB24",
+    "tmdbId": 118447,
+    "title": "Cowboys Don't Cry",
+    "poster_path": "/rwnFhEqdlsyi6rmmIDiINzk4wpF.jpg",
+    "genre_ids": [
+      18,
+      28,
+      37
+    ],
+    "year": "1988",
+    "release_date": "1988-01-01",
+    "rating": 8.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 522
+  },
+  {
+    "ytId": "UJ82Ps1sFwQ",
+    "tmdbId": 212591,
+    "title": "Broken Lullaby",
+    "poster_path": "/ge5Pg2dXK1kmHuoXC0X945NhvoN.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749,
+      53
+    ],
+    "year": "1994",
+    "release_date": "1994-10-15",
+    "rating": 4.143,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 521
+  },
+  {
+    "ytId": "KdLsTqrddOw",
+    "tmdbId": 211424,
+    "title": "Loving Evangeline",
+    "poster_path": "/3zZVdDqsUwN3Uo2g6uYgsz1X3T9.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "1995",
+    "release_date": "1995-03-11",
+    "rating": 4.938,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 520
+  },
+  {
+    "ytId": "KR54syiOex8",
+    "tmdbId": 212626,
+    "title": "Treacherous Beauties",
+    "poster_path": "/jilvDNCRFoJJUBzbfJFmK1y1mQo.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10770
+    ],
+    "year": "1994",
+    "release_date": "1994-09-24",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 519
+  },
+  {
+    "ytId": "AlaLpJxQ-Bo",
+    "tmdbId": 211420,
+    "title": "The Waiting Game",
+    "poster_path": "/gvSiFJScOQb5Jer0sZqoynUuvi4.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "2001",
+    "release_date": "2001-01-25",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 518
+  },
+  {
+    "ytId": "Xi9e0ZjWRNA",
+    "tmdbId": 212527,
+    "title": "The Awakening",
+    "poster_path": "/rUbW0RnxI0rl6yXJwa1HcJSn52r.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "1995",
+    "release_date": "1995-11-04",
+    "rating": 4.786,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 517
+  },
+  {
+    "ytId": "8RjNNWVY9X8",
+    "tmdbId": 211581,
+    "title": "Recipe for Revenge",
+    "poster_path": "/rDqzEnwERBZpn3tkIyHk6t5NMzM.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-12-11",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 516
+  },
+  {
+    "ytId": "Zz5T6A2V9oU",
+    "tmdbId": 405851,
+    "title": "Ladies Book Club",
+    "poster_path": "/74B9dAMfQeOuZbxfWLxMxTjje3a.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "year": "2016",
+    "release_date": "2016-06-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 515
+  },
+  {
+    "ytId": "WycfXXLwrfg",
+    "tmdbId": 42182,
+    "title": "Octopus 2: River of Fear",
+    "poster_path": "/hWjGkVOCa36rK0DLTfC9YQhwV9E.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2001",
+    "release_date": "2001-11-01",
+    "rating": 4,
+    "original_language": "fr",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 514
+  },
+  {
+    "ytId": "hpDVpuN4SNs",
+    "tmdbId": 47853,
+    "title": "King of the Avenue",
+    "poster_path": "/JHyRj8Sc83yKRdS9wT74QNxoyl.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-09-17",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 513
+  },
+  {
+    "ytId": "f972shslORo",
+    "tmdbId": 231551,
+    "title": "Night Boats",
+    "poster_path": "/pXBOR8WMszuLFgSH9Pw7UEDTIzt.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      12,
+      35
+    ],
+    "year": "2012",
+    "release_date": "2012-03-15",
+    "rating": 6.3,
+    "original_language": "hr",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 512
+  },
+  {
+    "ytId": "yVgNTqqajCk",
+    "tmdbId": 13637,
+    "title": "Sukiyaki Western Django",
+    "poster_path": "/tnB7lpBknu510z9ATWbfpamPKZa.jpg",
+    "genre_ids": [
+      12,
+      28,
+      35,
+      37,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-09-15",
+    "rating": 6.187,
+    "original_language": "ja",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 511
+  },
+  {
+    "ytId": "xtJqCqXyX98",
+    "tmdbId": 18291,
+    "title": "Cyborg Soldier",
+    "poster_path": "/uyGO12Cy3l1Udz4MYITXKllAPU9.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-07-10",
+    "rating": 4.438,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 510
+  },
+  {
+    "ytId": "tbcwR1VX3f0",
+    "tmdbId": 56085,
+    "title": "Camouflage",
+    "poster_path": "/ngubWu6cemohJlPKKEvBRtsRzed.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2001",
+    "release_date": "2001-01-09",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 509
+  },
+  {
+    "ytId": "GoH4aQDFjY4",
+    "tmdbId": 45296,
+    "title": "Galaxis",
+    "poster_path": "/lKBnXiYVgWJVXmGHF6tjJMeSnBM.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "1995",
+    "release_date": "1995-06-27",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 508
+  },
+  {
+    "ytId": "D9HlNy2PrzQ",
+    "tmdbId": 30331,
+    "title": "Tart",
+    "poster_path": "/wEGOIvjeh1FyCelpnywg4ziVWCh.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2001",
+    "release_date": "2001-04-23",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 507
+  },
+  {
+    "ytId": "uWsqeccpnMo",
+    "tmdbId": 144554,
+    "title": "The Survivor",
+    "poster_path": "/uezyhbB87CLg6dZ7BHA9ikRjTCx.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "1998",
+    "release_date": "1998-01-01",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 506
+  },
+  {
     "ytId": "6ROvPFaUl80",
     "tmdbId": 4808,
     "title": "Charade",
