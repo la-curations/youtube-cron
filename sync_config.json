@@ -1,5 +1,12 @@
 [
   {
+    "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
+    "name": "The Midnight Screening",
+    "nextPageToken": "EAAaH1BUOkNpQ0JJaENOTlhSRmxrUnlSall4TmxObElqUTFNalE0",
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
     "name": "Popcornflix",
     "nextPageToken": null,
