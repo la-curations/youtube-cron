@@ -1,5 +1,108 @@
 [
   {
+    "ytId": "wKO6n8KiKvc",
+    "tmdbId": 24952,
+    "title": "Vampire In Vegas",
+    "poster_path": "/uV8HcmBwkIKUUDKLfQ2yqxMjrkK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-08-01",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 431
+  },
+  {
+    "ytId": "knTwPrTUyB8",
+    "tmdbId": 50687,
+    "title": "Maniac Cop 3: Badge of Silence",
+    "poster_path": "/ppYSPoyuU7ECzaXSxtTjthk11ZV.jpg",
+    "genre_ids": [
+      28,
+      27,
+      9648
+    ],
+    "year": "1992",
+    "release_date": "1992-12-10",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 430
+  },
+  {
+    "ytId": "ciDB2PPl5H8",
+    "tmdbId": 254023,
+    "title": "The Humbling",
+    "poster_path": "/8x8NUmtcuNqlIH1JDAoxUjoDX7P.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2014",
+    "release_date": "2014-12-31",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 429
+  },
+  {
+    "ytId": "TB5DrpVNw5A",
+    "tmdbId": 180894,
+    "title": "Ninja: Shadow of a Tear",
+    "poster_path": "/f4i1wzuyFXv6NHREAy4fPPGSH7E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-12-27",
+    "rating": 6.692,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 428
+  },
+  {
+    "ytId": "QfEjiEr1FMY",
+    "tmdbId": 27727,
+    "title": "Raging Sharks",
+    "poster_path": "/tRtwc2CpTwmcaXbEBO2BYhqPghn.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2005",
+    "release_date": "2005-02-01",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 427
+  },
+  {
+    "ytId": "VNgubsgfs-U",
+    "tmdbId": 22451,
+    "title": "The Bone Snatcher",
+    "poster_path": "/kceAJpK27zaE2IdXU1iIzUHZcIt.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2003",
+    "release_date": "2003-12-23",
+    "rating": 4.531,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 426
+  },
+  {
     "ytId": "-u9lym07cXo",
     "tmdbId": 63264,
     "title": "Operation Delta Force 2: Mayday",
@@ -2487,110 +2590,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-06-28",
     "id": 282
-  },
-  {
-    "ytId": "eQyMJFlS5S0",
-    "tmdbId": 1383319,
-    "title": "Missing You This Christmas",
-    "poster_path": "/cj5re1eXx2shKJHimsoFSKl3KLF.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2024",
-    "release_date": "2024-11-05",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 281
-  },
-  {
-    "ytId": "7aguY6VfwfA",
-    "tmdbId": 421759,
-    "title": "Broadcasting Christmas",
-    "poster_path": "/c8VrxCL42EejLOWbzSfkLoLix5Q.jpg",
-    "genre_ids": [
-      10770,
-      10749,
-      18,
-      35
-    ],
-    "year": "2016",
-    "release_date": "2016-11-23",
-    "rating": 5.679,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 280
-  },
-  {
-    "ytId": "_e324gN9RS8",
-    "tmdbId": 1552367,
-    "title": "The Spirit of Christmas Station",
-    "poster_path": "/fsOftuLf25jxBR0okvMOgOdYL03.jpg",
-    "genre_ids": [
-      10749
-    ],
-    "year": "2025",
-    "release_date": "2025-11-27",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 279
-  },
-  {
-    "ytId": "ylbcAOBiZ-Q",
-    "tmdbId": 1341119,
-    "title": "A Royal Christmas Ballet",
-    "poster_path": "/aSym4O88xcHdOvSNLeHhtijrKpG.jpg",
-    "genre_ids": [
-      10749,
-      10770
-    ],
-    "year": "2024",
-    "release_date": "2024-12-15",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 278
-  },
-  {
-    "ytId": "YptW5s86oNQ",
-    "tmdbId": 668624,
-    "title": "Layers of Lies",
-    "poster_path": "/nZOrhjJRpdSulxav8hxFA5Gt7kJ.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-02-01",
-    "rating": 5.2,
-    "original_language": "fi",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 277
-  },
-  {
-    "ytId": "McKrgRHoI-A",
-    "tmdbId": 114003,
-    "title": "Jersey Shore Shark Attack",
-    "poster_path": "/iXICsou2NwPuIrcCyap0bpUxcSR.jpg",
-    "genre_ids": [
-      10770,
-      28,
-      878,
-      35,
-      27
-    ],
-    "year": "2012",
-    "release_date": "2012-06-09",
-    "rating": 4.611,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 276
   }
 ]

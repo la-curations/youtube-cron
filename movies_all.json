@@ -1,5 +1,108 @@
 [
   {
+    "ytId": "wKO6n8KiKvc",
+    "tmdbId": 24952,
+    "title": "Vampire In Vegas",
+    "poster_path": "/uV8HcmBwkIKUUDKLfQ2yqxMjrkK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-08-01",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 431
+  },
+  {
+    "ytId": "knTwPrTUyB8",
+    "tmdbId": 50687,
+    "title": "Maniac Cop 3: Badge of Silence",
+    "poster_path": "/ppYSPoyuU7ECzaXSxtTjthk11ZV.jpg",
+    "genre_ids": [
+      28,
+      27,
+      9648
+    ],
+    "year": "1992",
+    "release_date": "1992-12-10",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 430
+  },
+  {
+    "ytId": "ciDB2PPl5H8",
+    "tmdbId": 254023,
+    "title": "The Humbling",
+    "poster_path": "/8x8NUmtcuNqlIH1JDAoxUjoDX7P.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2014",
+    "release_date": "2014-12-31",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 429
+  },
+  {
+    "ytId": "TB5DrpVNw5A",
+    "tmdbId": 180894,
+    "title": "Ninja: Shadow of a Tear",
+    "poster_path": "/f4i1wzuyFXv6NHREAy4fPPGSH7E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-12-27",
+    "rating": 6.692,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 428
+  },
+  {
+    "ytId": "QfEjiEr1FMY",
+    "tmdbId": 27727,
+    "title": "Raging Sharks",
+    "poster_path": "/tRtwc2CpTwmcaXbEBO2BYhqPghn.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2005",
+    "release_date": "2005-02-01",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 427
+  },
+  {
+    "ytId": "VNgubsgfs-U",
+    "tmdbId": 22451,
+    "title": "The Bone Snatcher",
+    "poster_path": "/kceAJpK27zaE2IdXU1iIzUHZcIt.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2003",
+    "release_date": "2003-12-23",
+    "rating": 4.531,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 426
+  },
+  {
     "ytId": "-u9lym07cXo",
     "tmdbId": 63264,
     "title": "Operation Delta Force 2: Mayday",
