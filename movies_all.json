@@ -1,5 +1,527 @@
 [
   {
+    "ytId": "IBHZmRUV0JA",
+    "tmdbId": 1484490,
+    "title": "Mauler",
+    "poster_path": "/bPUz0j1IvG23OD0lvPEKB8zfiXa.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-05-20",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 581
+  },
+  {
+    "ytId": "7M-f7R8kBSk",
+    "tmdbId": 391975,
+    "title": "2 Lava 2 Lantula!",
+    "poster_path": "/e2cFhdk9SVthl6JuUHqSLpY5gME.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-08-06",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 580
+  },
+  {
+    "ytId": "-czKBH53alM",
+    "tmdbId": 1303113,
+    "title": "Mummy Shark",
+    "poster_path": "/bM7mJMpUu8CIar02lFBBNhuNM.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2024",
+    "release_date": "2024-10-08",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 579
+  },
+  {
+    "ytId": "yVnAwhHlyDM",
+    "tmdbId": 579380,
+    "title": "World War Four",
+    "poster_path": "/oZ7HXlEQnwGy9RcaHfjRi9jLtdA.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53,
+      10752
+    ],
+    "year": "2019",
+    "release_date": "2019-03-07",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 578
+  },
+  {
+    "ytId": "P4qD7YrRDjM",
+    "tmdbId": 479475,
+    "title": "Geo-Disaster",
+    "poster_path": "/3CejlBFDXEuktLJxLB6E59MbpGs.jpg",
+    "genre_ids": [
+      28,
+      878,
+      10770
+    ],
+    "year": "2017",
+    "release_date": "2017-10-03",
+    "rating": 5.115,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 577
+  },
+  {
+    "ytId": "YkJSSsg6l88",
+    "tmdbId": 443109,
+    "title": "Oceans Rising",
+    "poster_path": "/3PzeV1qxvSQnu5BdG5tbTmEszDz.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2017",
+    "release_date": "2017-01-17",
+    "rating": 4.692,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 576
+  },
+  {
+    "ytId": "EZmqHNQlzJk",
+    "tmdbId": 30289,
+    "title": "MegaFault",
+    "poster_path": "/wa3v5osMnFaEUImfMiWOTIjv2lQ.jpg",
+    "genre_ids": [
+      10770,
+      28,
+      12,
+      878
+    ],
+    "year": "2009",
+    "release_date": "2009-10-10",
+    "rating": 5.218,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 575
+  },
+  {
+    "ytId": "d5QbFRpxJws",
+    "tmdbId": 41997,
+    "title": "Meteor Apocalypse",
+    "poster_path": "/dQmxTUlLYvy7tCkSctD4QpalPsb.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-02-23",
+    "rating": 4.946,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 574
+  },
+  {
+    "ytId": "MrH15BlEwF4",
+    "tmdbId": 1137799,
+    "title": "Cult of Nightmares",
+    "poster_path": "/aY6s4tdNp1B34oxgMdfRJSTTDCg.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2020",
+    "release_date": "2020-04-05",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 573
+  },
+  {
+    "ytId": "PwxO3b5Crqs",
+    "tmdbId": 205126,
+    "title": "Independence Daysaster",
+    "poster_path": "/6jor0EqECPgHqu89GrQIy9Wetkf.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2013",
+    "release_date": "2013-06-27",
+    "rating": 4.376,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 572
+  },
+  {
+    "ytId": "NiZ9Jegw57M",
+    "tmdbId": 361620,
+    "title": "Caesar and Otto's Paranormal Halloween",
+    "poster_path": "/6xx4MDizmkFqZfJGQekPxdA9BlD.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2015",
+    "release_date": "2015-06-01",
+    "rating": 2.25,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 571
+  },
+  {
+    "ytId": "L2tvKy-Goxo",
+    "tmdbId": 503661,
+    "title": "Poltergeist Encounters",
+    "poster_path": "/qSHUjFvLzr8HN0SbHYWQEWWKiqy.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-08",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 570
+  },
+  {
+    "ytId": "P2EaJGEEOgM",
+    "tmdbId": 116463,
+    "title": "Arachnoquake",
+    "poster_path": "/lPytCHvtnFNho8qMrcwo5RqUh0Z.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2012",
+    "release_date": "2012-06-23",
+    "rating": 3.976,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 569
+  },
+  {
+    "ytId": "230w5PTmwfY",
+    "tmdbId": 81179,
+    "title": "Snowmageddon",
+    "poster_path": "/tCToeT0GjHCEEIGA8n4tJFavYx6.jpg",
+    "genre_ids": [
+      12,
+      878,
+      10770
+    ],
+    "year": "2011",
+    "release_date": "2011-12-10",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 568
+  },
+  {
+    "ytId": "8Q76lA76FBI",
+    "tmdbId": 996503,
+    "title": "Snake Hotel",
+    "poster_path": "/2VFzkPOygrZ2dFgMJuoFYE6Eocv.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-09-21",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 567
+  },
+  {
+    "ytId": "z6Q7NJiEVSc",
+    "tmdbId": 1308310,
+    "title": "Wicked Season",
+    "poster_path": "/nyYHkbSKSx6o8Qqrj4LpIMmcpyt.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      80
+    ],
+    "year": "2024",
+    "release_date": "2024-11-05",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 566
+  },
+  {
+    "ytId": "yVJ2fGVlrOs",
+    "tmdbId": 1307050,
+    "title": "The Girl Who Cried Her Eyes Out",
+    "poster_path": "/zOCc6Na14AwvGA7PfXnBGujkXWJ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-06-01",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 565
+  },
+  {
+    "ytId": "nPv7lB8SrvE",
+    "tmdbId": 1255208,
+    "title": "Bag of Lies",
+    "poster_path": "/pPElE8npavUirQWmscJUGZyPiP6.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-03-29",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 564
+  },
+  {
+    "ytId": "kWbKXqx7yBg",
+    "tmdbId": 722603,
+    "title": "Battlefield 2025",
+    "poster_path": "/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg",
+    "genre_ids": [
+      878,
+      27,
+      28
+    ],
+    "year": "2021",
+    "release_date": "2021-02-22",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-05",
+    "id": 563
+  },
+  {
+    "ytId": "26zMPmCqY2Y",
+    "tmdbId": 514646,
+    "title": "Duo Impacto",
+    "poster_path": "/3tG0ne2DGMUk4uCEZpHbEJWuXx8.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2017",
+    "release_date": "2017-11-14",
+    "rating": null,
+    "original_language": "es",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 562
+  },
+  {
+    "ytId": "e042VTQtTx8",
+    "tmdbId": 1720304,
+    "title": "FADE",
+    "poster_path": "/msr1eIiyF3sFNUyQiAcr7D0tfwV.jpg",
+    "genre_ids": [],
+    "year": "2026",
+    "release_date": "2026-07-03",
+    "rating": null,
+    "original_language": "de",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 561
+  },
+  {
+    "ytId": "9Ao6Mj9yDY8",
+    "tmdbId": 1418998,
+    "title": "Karma",
+    "poster_path": "/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-10-21",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 560
+  },
+  {
+    "ytId": "Qen4N3pPd3Q",
+    "tmdbId": 1658667,
+    "title": "One Shot",
+    "poster_path": "/dKRC8FPEWDFxTtj2FPX5NrmJZUN.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "year": "2026",
+    "release_date": "2026-03-26",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 559
+  },
+  {
+    "ytId": "enqQ51tmO5o",
+    "tmdbId": 1661484,
+    "title": "48 - The Speaking Dead Woman",
+    "poster_path": "/uh6KnbBvDSnuy8fkQNWnBHFfZ1L.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2026",
+    "release_date": "2026-04-16",
+    "rating": null,
+    "original_language": "es",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 558
+  },
+  {
+    "ytId": "lS2CiDIkU2U",
+    "tmdbId": 1389448,
+    "title": "Silent Shot",
+    "poster_path": "/krpfbk3JmXO4zzNKzyZuxbTykue.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-09-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 557
+  },
+  {
+    "ytId": "Fj9afDSkf8w",
+    "tmdbId": 1674087,
+    "title": "Bang My Box: The Robin Byrd Story",
+    "poster_path": "/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2026",
+    "release_date": "2026-06-09",
+    "rating": 3.667,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 556
+  },
+  {
+    "ytId": "SSW_QDlUcVs",
+    "tmdbId": 1510252,
+    "title": "Devil Black Cat",
+    "poster_path": "/1FL9j66LdFbxdS6TFdHtmt6mC1S.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2026",
+    "release_date": "2026-02-05",
+    "rating": 1,
+    "original_language": "th",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 555
+  },
+  {
+    "ytId": "H2kyWWVQfog",
+    "tmdbId": 1562590,
+    "title": "Dear Lara",
+    "poster_path": "/grpQhtkqXrjMvx0Ay3lN0VniyR.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2026",
+    "release_date": "2026-02-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 554
+  },
+  {
+    "ytId": "nCsgAdJuE98",
+    "tmdbId": 1413097,
+    "title": "Melania",
+    "poster_path": "/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2026",
+    "release_date": "2026-01-30",
+    "rating": 3.696,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 553
+  },
+  {
+    "ytId": "aMw33_j89qI",
+    "tmdbId": 1647656,
+    "title": "An Evening with PinkPantheress Begins... (Live At The Wiltern)",
+    "poster_path": "/ev7X5ejgJWPNsaK2cDe7fUcwfdD.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "year": "2026",
+    "release_date": "2026-03-06",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 552
+  },
+  {
+    "ytId": "6u4m2Si3L8o",
+    "tmdbId": 31383,
+    "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?",
+    "poster_path": "/vfXLgQk5s1bzQfWV1LnS8Ch1Sbi.jpg",
+    "genre_ids": [
+      27,
+      10402
+    ],
+    "year": "1964",
+    "release_date": "1964-02-10",
+    "rating": 2.729,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-05",
+    "id": 551
+  },
+  {
     "ytId": "fGz879KduUk",
     "tmdbId": 9306,
     "title": "The Island of Dr. Moreau",
