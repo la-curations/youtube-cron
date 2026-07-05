@@ -1,5 +1,358 @@
 [
   {
+    "ytId": "fGz879KduUk",
+    "tmdbId": 9306,
+    "title": "The Island of Dr. Moreau",
+    "poster_path": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "1996",
+    "release_date": "1996-08-23",
+    "rating": 4.905,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 550
+  },
+  {
+    "ytId": "ENCieEZkoP0",
+    "tmdbId": 21430,
+    "title": "New Rose Hotel",
+    "poster_path": "/pMk6iJSmbt5uovZ1LEhhBZdR5cz.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "year": "1999",
+    "release_date": "1999-03-19",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 549
+  },
+  {
+    "ytId": "4pA1EPoc_s8",
+    "tmdbId": 290541,
+    "title": "Justice",
+    "poster_path": "/4lZAFUQnr6YYMxGB0Ybnq4z5ejO.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53,
+      10770
+    ],
+    "year": "1999",
+    "release_date": "1999-01-14",
+    "rating": 4.818,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 548
+  },
+  {
+    "ytId": "9nnAIvOrqdE",
+    "tmdbId": 56125,
+    "title": "Point Blank",
+    "poster_path": "/4ewYXrICSHI2PEZC972WPADIykL.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "year": "1998",
+    "release_date": "1998-05-12",
+    "rating": 4.456,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 547
+  },
+  {
+    "ytId": "R8OLWxPerNU",
+    "tmdbId": 24065,
+    "title": "Guncrazy",
+    "poster_path": "/tYY4Dfg3bJlu5woIz2i7LNMD1bX.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53,
+      80
+    ],
+    "year": "1992",
+    "release_date": "1992-09-11",
+    "rating": 5.25,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 546
+  },
+  {
+    "ytId": "meVC3ns3YKs",
+    "tmdbId": 29429,
+    "title": "Deadtime Stories",
+    "poster_path": "/sXgvqL8pqaLERnuswBTxLxp0lBE.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-10-28",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 545
+  },
+  {
+    "ytId": "KdOwtBMUhc8",
+    "tmdbId": 55449,
+    "title": "Clawed: The Legend of Sasquatch",
+    "poster_path": "/AwcAauBu0eOxsbhi0VCwJBVrELP.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "year": "2005",
+    "release_date": "2005-04-14",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 544
+  },
+  {
+    "ytId": "jhVRMS06X1I",
+    "tmdbId": 14127,
+    "title": "Cherry Crush",
+    "poster_path": "/2qfRDQgQ6eZGInAi9TlI6hROLRp.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-02-16",
+    "rating": 4.672,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 543
+  },
+  {
+    "ytId": "CpfBgqxNJ6k",
+    "tmdbId": 254282,
+    "title": "American Joyride",
+    "poster_path": "/ipBbOIg67jrx9TRG9MKr0L9glGd.jpg",
+    "genre_ids": [
+      12,
+      35,
+      18,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-04-09",
+    "rating": 3.25,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 542
+  },
+  {
+    "ytId": "aHpqWC_F3w4",
+    "tmdbId": 13686,
+    "title": "The Kovak Box",
+    "poster_path": "/sUrutQD8Xaaf1byXupXDCVPq1lv.jpg",
+    "genre_ids": [
+      878,
+      53,
+      28
+    ],
+    "year": "2006",
+    "release_date": "2006-07-18",
+    "rating": 5.789,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 541
+  },
+  {
+    "ytId": "-zhGK1EMaRY",
+    "tmdbId": 11494,
+    "title": "Wilderness",
+    "poster_path": "/sLtUVG7ORbTJueTmIWpO4YeHayS.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2006",
+    "release_date": "2006-08-11",
+    "rating": 6.141,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 540
+  },
+  {
+    "ytId": "mTgcKPspE9s",
+    "tmdbId": 34098,
+    "title": "Ticks",
+    "poster_path": "/3tfMPBgpfwu2V403u9gST5ReWl9.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "1993",
+    "release_date": "1993-10-12",
+    "rating": 5.696,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 539
+  },
+  {
+    "ytId": "IT0kTe8APWw",
+    "tmdbId": 55922,
+    "title": "White Coats",
+    "poster_path": "/a6YQiS6nseTBsENp93r6mbfjSvc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2004",
+    "release_date": "2004-05-16",
+    "rating": 5.088,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 538
+  },
+  {
+    "ytId": "FPD1LCR-Ugc",
+    "tmdbId": 1487608,
+    "title": "Run.",
+    "poster_path": "/3WtJg92jjswEbjLewEt94FRfHVY.jpg",
+    "genre_ids": [
+      28,
+      18,
+      9648,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 537
+  },
+  {
+    "ytId": "SJZw059cdx8",
+    "tmdbId": 106837,
+    "title": "Different for Girls",
+    "poster_path": "/aWO2iXpqQY3S4WhXRvf0B18QVR8.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "1996",
+    "release_date": "1996-10-01",
+    "rating": 7.167,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 536
+  },
+  {
+    "ytId": "ARSHL8QGX1o",
+    "tmdbId": 10252,
+    "title": "Animal",
+    "poster_path": "/f0r2kdF3TitkTxAwb0kKdsTfIvi.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-05-01",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 535
+  },
+  {
+    "ytId": "ltlbPX20tr0",
+    "tmdbId": 15124,
+    "title": "A Little Trip to Heaven",
+    "poster_path": "/nRfJgzVdPp77Zn3gvXFEFxkdtNT.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-12-26",
+    "rating": 5.42,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 534
+  },
+  {
+    "ytId": "2aHRb8N8c3s",
+    "tmdbId": 141980,
+    "title": "Dangerous Remedy",
+    "poster_path": "/vZS6RZf4PNSth88qHhGx7WQXi5i.jpg",
+    "genre_ids": [
+      10770
+    ],
+    "year": "2012",
+    "release_date": "2012-11-04",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 533
+  },
+  {
+    "ytId": "OCHprXHAhyg",
+    "tmdbId": 45511,
+    "title": "Teacher's Pet",
+    "poster_path": "/6tP0SNBPUWEFd4dz77p4JH2S574.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2000",
+    "release_date": "2000-09-08",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 532
+  },
+  {
+    "ytId": "WfrO3fLP8zc",
+    "tmdbId": 73257,
+    "title": "My Brother the Pig",
+    "poster_path": "/v21boSM424AT1J5dC5ugWr7zwqq.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10751
+    ],
+    "year": "1999",
+    "release_date": "1999-09-10",
+    "rating": 5.76,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 531
+  },
+  {
     "ytId": "eAUCpiSWwJ8",
     "tmdbId": 25967,
     "title": "Isolation",
@@ -2262,355 +2615,5 @@
     "channelName": "Popcornflix",
     "addedAt": "2026-06-30",
     "id": 401
-  },
-  {
-    "ytId": "abETrgYZZvQ",
-    "tmdbId": 101135,
-    "title": "A Connecticut Yankee in King Arthur's Court",
-    "poster_path": "/b66I2HRPoqGv1h29Y52RAlXnJxZ.jpg",
-    "genre_ids": [
-      12,
-      35,
-      10751
-    ],
-    "year": "1989",
-    "release_date": "1989-12-18",
-    "rating": 6.7,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-30",
-    "id": 400
-  },
-  {
-    "ytId": "RBSGGPCcFNY",
-    "tmdbId": 29516,
-    "title": "Contre-offensive",
-    "poster_path": "/y5eIotJDuRiaRgcFhIh00D2sc8h.jpg",
-    "genre_ids": [
-      878,
-      53,
-      28
-    ],
-    "year": "1999",
-    "release_date": "1999-09-14",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 399
-  },
-  {
-    "ytId": "W7ERqUUmIBg",
-    "tmdbId": 296854,
-    "title": "The Painting",
-    "poster_path": "/7XyF0a4FKsTKWcdqNM0UcS7dSle.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "year": "2001",
-    "release_date": "2001-10-27",
-    "rating": 7.286,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 398
-  },
-  {
-    "ytId": "uWtlMjwLqtY",
-    "tmdbId": 19033,
-    "title": "The Sasquatch Gang",
-    "poster_path": "/f7Vnrik2tsozzG1DRfgIBmJvUCx.jpg",
-    "genre_ids": [
-      35,
-      12,
-      18
-    ],
-    "year": "2006",
-    "release_date": "2006-03-08",
-    "rating": 5.889,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 397
-  },
-  {
-    "ytId": "blwiQYfQBYU",
-    "tmdbId": 14414,
-    "title": "Honeydripper",
-    "poster_path": "/x1L0yIPOKWL8KVx6oWlPRl4ExaC.jpg",
-    "genre_ids": [
-      18,
-      10402
-    ],
-    "year": "2007",
-    "release_date": "2007-09-10",
-    "rating": 5.881,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 396
-  },
-  {
-    "ytId": "Icj65df30T8",
-    "tmdbId": 115738,
-    "title": "Million Dollar Crocodile",
-    "poster_path": "/9J55Xj2qUlRTyp2PjLL7MjAO37H.jpg",
-    "genre_ids": [
-      80,
-      35,
-      27
-    ],
-    "year": "2012",
-    "release_date": "2012-06-08",
-    "rating": 4.3,
-    "original_language": "zh",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 395
-  },
-  {
-    "ytId": "lhW05vDhCLA",
-    "tmdbId": 54722,
-    "title": "Once Upon a Texas Train",
-    "poster_path": "/zQdCyU3inyiTnRpJwSpCnWYFFGL.jpg",
-    "genre_ids": [
-      28,
-      37,
-      10770
-    ],
-    "year": "1988",
-    "release_date": "1988-10-12",
-    "rating": 5.188,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 394
-  },
-  {
-    "ytId": "e9lbbfi8v10",
-    "tmdbId": 60596,
-    "title": "Mee-Shee: The Water Giant",
-    "poster_path": "/xO8XsAzBpthdq22wcl5Kmt8YgiD.jpg",
-    "genre_ids": [
-      10751,
-      12,
-      14
-    ],
-    "year": "2005",
-    "release_date": "2005-07-14",
-    "rating": 5.517,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 393
-  },
-  {
-    "ytId": "ZISJDJAxUic",
-    "tmdbId": 172593,
-    "title": "Derby Dogs",
-    "poster_path": "/yyi1MTv0CHCjYPZeCoSZHbx1lil.jpg",
-    "genre_ids": [
-      10751
-    ],
-    "year": "2012",
-    "release_date": "2012-09-26",
-    "rating": 5.1,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 392
-  },
-  {
-    "ytId": "pEqRwzxjTv4",
-    "tmdbId": 45725,
-    "title": "Adventures of a Teenage Dragonslayer",
-    "poster_path": "/yriSOmQaW0UlHeqi5yNzXcW4M6j.jpg",
-    "genre_ids": [
-      12,
-      35,
-      10751,
-      14
-    ],
-    "year": "2010",
-    "release_date": "2010-04-16",
-    "rating": 3.974,
-    "original_language": "en",
-    "channelName": "Popcornflix",
-    "addedAt": "2026-06-29",
-    "id": 391
-  },
-  {
-    "ytId": "ry_ly7NNHt4",
-    "tmdbId": 1618865,
-    "title": "The Cold Father",
-    "poster_path": "/3ZtIG5zNG1nB0BeugxRKo6dSp5W.jpg",
-    "genre_ids": [],
-    "year": "2025",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 390
-  },
-  {
-    "ytId": "KQP1eQh3de0",
-    "tmdbId": 63749,
-    "title": "Swamp Shark",
-    "poster_path": "/QtPPiLSKHZ3bI7oLbLHlMFRcyr.jpg",
-    "genre_ids": [
-      28,
-      12,
-      35,
-      27,
-      10770
-    ],
-    "year": "2011",
-    "release_date": "2011-06-25",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 389
-  },
-  {
-    "ytId": "Vo6dNqiEU0U",
-    "tmdbId": 1318376,
-    "title": "Serial Beauty",
-    "poster_path": "/lv7xMN4ZpIR03rvb77sWozQnb00.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-06-06",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 388
-  },
-  {
-    "ytId": "o1_6pCHcOAk",
-    "tmdbId": 955306,
-    "title": "Exiled: The Chosen Ones",
-    "poster_path": "/aBLyxVbKU3TItLlNWyMW9zrnucv.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-07-14",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 387
-  },
-  {
-    "ytId": "qpXSDyp9txI",
-    "tmdbId": 694919,
-    "title": "Money Plane",
-    "poster_path": "/6CoRTJTmijhBLJTUNoVSUNxZMEI.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-09-29",
-    "rating": 5.596,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 386
-  },
-  {
-    "ytId": "aYzs_aVNcwU",
-    "tmdbId": 1477834,
-    "title": "The Madness of David Judge",
-    "poster_path": "/klXqoWx846EA9VkmIBQ3YgflJ5p.jpg",
-    "genre_ids": [
-      9648,
-      53,
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-08-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 385
-  },
-  {
-    "ytId": "v_-xdcVvF9o",
-    "tmdbId": 1241726,
-    "title": "Candlewood",
-    "poster_path": "/kb4ETfD05QzJd8NS8ggmMOZPJIk.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2025",
-    "release_date": "2025-03-06",
-    "rating": 5.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 384
-  },
-  {
-    "ytId": "CvXFUIENBrs",
-    "tmdbId": 183297,
-    "title": "Blood Pressure",
-    "poster_path": "/64lOJU3nPZuX7SobfMFdqPmP1Ks.jpg",
-    "genre_ids": [
-      53,
-      18
-    ],
-    "year": "2012",
-    "release_date": "2012-10-30",
-    "rating": 6.3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 383
-  },
-  {
-    "ytId": "sL7jItBbra8",
-    "tmdbId": 1178766,
-    "title": "Twilight Ride",
-    "poster_path": "/tbeWHkzPEvwNPwnxRLwP7aOrDUB.jpg",
-    "genre_ids": [
-      80,
-      53,
-      18
-    ],
-    "year": "2023",
-    "release_date": "2023-10-15",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 382
-  },
-  {
-    "ytId": "g_nAeq9irI8",
-    "tmdbId": 1151649,
-    "title": "The Appleton Ladies' Potato Race",
-    "poster_path": "/iz4A8PkWUYSbDUYFa7nXIArQcoU.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10770
-    ],
-    "year": "2023",
-    "release_date": "2023-07-27",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 381
   }
 ]
