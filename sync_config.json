@@ -1,5 +1,26 @@
 [
   {
+    "channelId": "UC1EmWO5aJtE1D7Q7E0eDO9g",
+    "name": "Joy Drama",
+    "nextPageToken": "",
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UCOpzwVUNsep7FpN5687XYEA",
+    "name": "Sci-Fi Central",
+    "nextPageToken": "",
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UC_MyK1SmeN2Sji4uBEckYaA",
+    "name": "Disaster Zone Movies",
+    "nextPageToken": "",
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
     "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
     "name": "The Midnight Screening",
     "nextPageToken": "EAAaH1BUOkNpQ0JJaENOTlhSRmxrUnlSall4TmxObElqUTFNalE0",
