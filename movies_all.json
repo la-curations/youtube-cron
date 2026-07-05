@@ -1,5 +1,294 @@
 [
   {
+    "ytId": "xmFltGFfYmw",
+    "tmdbId": 30398,
+    "title": "Being Michael Madsen",
+    "poster_path": "/7XFI67uVviE2ESjQqXIo44N3yiK.jpg",
+    "genre_ids": [
+      99,
+      35
+    ],
+    "year": "2007",
+    "release_date": "2007-09-28",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 637
+  },
+  {
+    "ytId": "99gLUsF8zkU",
+    "tmdbId": 320140,
+    "title": "Number Runner",
+    "poster_path": "/iO2gmjEayUGs69CDfTW8WlSeBXy.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-06-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 636
+  },
+  {
+    "ytId": "w4DVsp7zLh8",
+    "tmdbId": 407620,
+    "title": "Planet of the Sharks",
+    "poster_path": "/54hwLfOJONjqOFxGlEixpOHeEnx.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "year": "2016",
+    "release_date": "2016-07-27",
+    "rating": 3.589,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 635
+  },
+  {
+    "ytId": "QJTTcLp0ssY",
+    "tmdbId": 1175422,
+    "title": "Les Filles du Roi",
+    "poster_path": "/2JTsVMNf0EarhUHIYlCmjdZ1lPL.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-08-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 634
+  },
+  {
+    "ytId": "H1BvBXpSutY",
+    "tmdbId": 1189698,
+    "title": "Don't Tear Yourself Apart",
+    "poster_path": "/tR5xKH6HxNHLeppEeqYjte2LYeW.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-10-10",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 633
+  },
+  {
+    "ytId": "fIhM9MiEN50",
+    "tmdbId": 848367,
+    "title": "Daddy Daughter Trip",
+    "poster_path": "/pehdaRuVzeN3TwSI1ssvEl80LM3.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "year": "2022",
+    "release_date": "2022-09-30",
+    "rating": 6.929,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 632
+  },
+  {
+    "ytId": "KsG9i9SnMOE",
+    "tmdbId": 434699,
+    "title": "Alabama Dirt",
+    "poster_path": "/JiY7b2HuVQqQ6RbJ2J6m1Jd0qb.jpg",
+    "genre_ids": [
+      10751,
+      28,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-01-16",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 631
+  },
+  {
+    "ytId": "WOlXpWhzqOA",
+    "tmdbId": 1114922,
+    "title": "Somewhere Quiet",
+    "poster_path": "/evExphB7F7PpCHx06dMCwePArfH.jpg",
+    "genre_ids": [
+      18,
+      53,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-02-02",
+    "rating": 4.443,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 630
+  },
+  {
+    "ytId": "2ae1CRBeFQw",
+    "tmdbId": 1577899,
+    "title": "Dirty Money - Geldwäsche-Paradies Deutschland",
+    "poster_path": "/8z9CgVOpyggy4sTbvAozTaqEYOw.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-10-27",
+    "rating": null,
+    "original_language": "de",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 629
+  },
+  {
+    "ytId": "7Nr1chR1cjQ",
+    "tmdbId": 423536,
+    "title": "Ghosts of Darkness",
+    "poster_path": "/hVz7Gr9HWnzXQBev3CJC8EoftHG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-03-01",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 628
+  },
+  {
+    "ytId": "_LVF4x0o9L8",
+    "tmdbId": 996778,
+    "title": "Bring Him Back Dead",
+    "poster_path": "/wlwNJAITz7l6S1dKD8doncOJzNZ.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2022",
+    "release_date": "2022-08-02",
+    "rating": 4.417,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 627
+  },
+  {
+    "ytId": "quF6u8dH5hw",
+    "tmdbId": 1486275,
+    "title": "Hello, Goodbye",
+    "poster_path": "/4p9uQ4F7XlnBahdB6cAjgjmfV34.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-06-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 626
+  },
+  {
+    "ytId": "P_SYOwsMW9g",
+    "tmdbId": 1102863,
+    "title": "Tears of Blood",
+    "poster_path": "/vWDpzNBHCYzCHoHVO9S6znz9s3i.jpg",
+    "genre_ids": [
+      36,
+      9648
+    ],
+    "year": "2024",
+    "release_date": "2024-10-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 625
+  },
+  {
+    "ytId": "7aaN9sViUCc",
+    "tmdbId": 33826,
+    "title": "Death Row",
+    "poster_path": "/eiTV7QcCXq6XVhisjcAmmbs7bWX.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2006",
+    "release_date": "2006-10-14",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 624
+  },
+  {
+    "ytId": "_dWZzsy-MNo",
+    "tmdbId": 1462063,
+    "title": "Ambrogio: The First Vampire",
+    "poster_path": "/5wAhf1zXwqhfZvDa1Im3E5MC3wB.jpg",
+    "genre_ids": [
+      28,
+      18,
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-04-09",
+    "rating": 4.8,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 623
+  },
+  {
+    "ytId": "wKxxgMJ4BH4",
+    "tmdbId": 1396426,
+    "title": "Blurred Lines",
+    "poster_path": "/chs9vPPnYIjSnju8QISMy2n6hnc.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-08-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 622
+  },
+  {
+    "ytId": "gF_h0C3Wy30",
+    "tmdbId": 1498253,
+    "title": "The Lizzie Borden Game",
+    "poster_path": "/6qvCIG7qgFk2sc7qRFviH12JloO.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2025",
+    "release_date": "2025-05-28",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 621
+  },
+  {
     "ytId": "H2QKnZWCWps",
     "tmdbId": 800054,
     "title": "Super Pacifier",

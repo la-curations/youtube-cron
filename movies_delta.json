@@ -1,5 +1,294 @@
 [
   {
+    "ytId": "xmFltGFfYmw",
+    "tmdbId": 30398,
+    "title": "Being Michael Madsen",
+    "poster_path": "/7XFI67uVviE2ESjQqXIo44N3yiK.jpg",
+    "genre_ids": [
+      99,
+      35
+    ],
+    "year": "2007",
+    "release_date": "2007-09-28",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 637
+  },
+  {
+    "ytId": "99gLUsF8zkU",
+    "tmdbId": 320140,
+    "title": "Number Runner",
+    "poster_path": "/iO2gmjEayUGs69CDfTW8WlSeBXy.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-06-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 636
+  },
+  {
+    "ytId": "w4DVsp7zLh8",
+    "tmdbId": 407620,
+    "title": "Planet of the Sharks",
+    "poster_path": "/54hwLfOJONjqOFxGlEixpOHeEnx.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "year": "2016",
+    "release_date": "2016-07-27",
+    "rating": 3.589,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 635
+  },
+  {
+    "ytId": "QJTTcLp0ssY",
+    "tmdbId": 1175422,
+    "title": "Les Filles du Roi",
+    "poster_path": "/2JTsVMNf0EarhUHIYlCmjdZ1lPL.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-08-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 634
+  },
+  {
+    "ytId": "H1BvBXpSutY",
+    "tmdbId": 1189698,
+    "title": "Don't Tear Yourself Apart",
+    "poster_path": "/tR5xKH6HxNHLeppEeqYjte2LYeW.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-10-10",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 633
+  },
+  {
+    "ytId": "fIhM9MiEN50",
+    "tmdbId": 848367,
+    "title": "Daddy Daughter Trip",
+    "poster_path": "/pehdaRuVzeN3TwSI1ssvEl80LM3.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "year": "2022",
+    "release_date": "2022-09-30",
+    "rating": 6.929,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 632
+  },
+  {
+    "ytId": "KsG9i9SnMOE",
+    "tmdbId": 434699,
+    "title": "Alabama Dirt",
+    "poster_path": "/JiY7b2HuVQqQ6RbJ2J6m1Jd0qb.jpg",
+    "genre_ids": [
+      10751,
+      28,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-01-16",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 631
+  },
+  {
+    "ytId": "WOlXpWhzqOA",
+    "tmdbId": 1114922,
+    "title": "Somewhere Quiet",
+    "poster_path": "/evExphB7F7PpCHx06dMCwePArfH.jpg",
+    "genre_ids": [
+      18,
+      53,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-02-02",
+    "rating": 4.443,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 630
+  },
+  {
+    "ytId": "2ae1CRBeFQw",
+    "tmdbId": 1577899,
+    "title": "Dirty Money - Geldwäsche-Paradies Deutschland",
+    "poster_path": "/8z9CgVOpyggy4sTbvAozTaqEYOw.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-10-27",
+    "rating": null,
+    "original_language": "de",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 629
+  },
+  {
+    "ytId": "7Nr1chR1cjQ",
+    "tmdbId": 423536,
+    "title": "Ghosts of Darkness",
+    "poster_path": "/hVz7Gr9HWnzXQBev3CJC8EoftHG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-03-01",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 628
+  },
+  {
+    "ytId": "_LVF4x0o9L8",
+    "tmdbId": 996778,
+    "title": "Bring Him Back Dead",
+    "poster_path": "/wlwNJAITz7l6S1dKD8doncOJzNZ.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2022",
+    "release_date": "2022-08-02",
+    "rating": 4.417,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 627
+  },
+  {
+    "ytId": "quF6u8dH5hw",
+    "tmdbId": 1486275,
+    "title": "Hello, Goodbye",
+    "poster_path": "/4p9uQ4F7XlnBahdB6cAjgjmfV34.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-06-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 626
+  },
+  {
+    "ytId": "P_SYOwsMW9g",
+    "tmdbId": 1102863,
+    "title": "Tears of Blood",
+    "poster_path": "/vWDpzNBHCYzCHoHVO9S6znz9s3i.jpg",
+    "genre_ids": [
+      36,
+      9648
+    ],
+    "year": "2024",
+    "release_date": "2024-10-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 625
+  },
+  {
+    "ytId": "7aaN9sViUCc",
+    "tmdbId": 33826,
+    "title": "Death Row",
+    "poster_path": "/eiTV7QcCXq6XVhisjcAmmbs7bWX.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2006",
+    "release_date": "2006-10-14",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 624
+  },
+  {
+    "ytId": "_dWZzsy-MNo",
+    "tmdbId": 1462063,
+    "title": "Ambrogio: The First Vampire",
+    "poster_path": "/5wAhf1zXwqhfZvDa1Im3E5MC3wB.jpg",
+    "genre_ids": [
+      28,
+      18,
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-04-09",
+    "rating": 4.8,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 623
+  },
+  {
+    "ytId": "wKxxgMJ4BH4",
+    "tmdbId": 1396426,
+    "title": "Blurred Lines",
+    "poster_path": "/chs9vPPnYIjSnju8QISMy2n6hnc.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-08-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 622
+  },
+  {
+    "ytId": "gF_h0C3Wy30",
+    "tmdbId": 1498253,
+    "title": "The Lizzie Borden Game",
+    "poster_path": "/6qvCIG7qgFk2sc7qRFviH12JloO.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2025",
+    "release_date": "2025-05-28",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 621
+  },
+  {
     "ytId": "H2QKnZWCWps",
     "tmdbId": 800054,
     "title": "Super Pacifier",
@@ -2295,302 +2584,5 @@
     "channelName": "FilmRise Movies",
     "addedAt": "2026-07-05",
     "id": 488
-  },
-  {
-    "ytId": "MWBE1bn0_BQ",
-    "tmdbId": 57316,
-    "title": "Voice from the Grave",
-    "poster_path": "/kkmUcCJTUxpzQgdxFDuZQP8lD0p.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      53,
-      10770
-    ],
-    "year": "1996",
-    "release_date": "1996-03-20",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 487
-  },
-  {
-    "ytId": "T3exKsYDk0Y",
-    "tmdbId": 284459,
-    "title": "A Friend's Betrayal",
-    "poster_path": "/7T8S6yS9Hui1Sb6fsjOkh1JQoZW.jpg",
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "year": "1996",
-    "release_date": "1996-05-19",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 486
-  },
-  {
-    "ytId": "eSk3YA5sFpA",
-    "tmdbId": 273758,
-    "title": "Nurses on the Line: The Crash of Flight 7",
-    "poster_path": "/ste2WgMUTSv6yHEzvihXZV7KJaY.jpg",
-    "genre_ids": [
-      18,
-      12,
-      10770
-    ],
-    "year": "1993",
-    "release_date": "1993-11-23",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 485
-  },
-  {
-    "ytId": "RiHvWMx7JUs",
-    "tmdbId": 478436,
-    "title": "Escape from Terror: The Teresa Stamper Story",
-    "poster_path": "/jS90jJqDDKBwcPyvC0fcbQTBHW8.jpg",
-    "genre_ids": [
-      10770,
-      18
-    ],
-    "year": "1995",
-    "release_date": "1995-01-23",
-    "rating": 8.429,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 484
-  },
-  {
-    "ytId": "kwza8Tv-_jQ",
-    "tmdbId": 81247,
-    "title": "Sample People",
-    "poster_path": "/6WuTLAY7XEZVDw8RP0DjjAd0vDU.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2000",
-    "release_date": "2000-05-11",
-    "rating": 3.889,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 483
-  },
-  {
-    "ytId": "O-0HahryD_s",
-    "tmdbId": 274392,
-    "title": "The Sublime and Beautiful",
-    "poster_path": "/1zH2vuJSz1I2rVxcg1lrSBRlZpb.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2014",
-    "release_date": "2014-06-06",
-    "rating": 6.8,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 482
-  },
-  {
-    "ytId": "3o-VzzHYql4",
-    "tmdbId": 138513,
-    "title": "In His Father's Shoes",
-    "poster_path": "/yCHcXywXeMjocbiB1xsWpF1aiFX.jpg",
-    "genre_ids": [
-      18,
-      10751,
-      10770
-    ],
-    "year": "1997",
-    "release_date": "1997-06-05",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 481
-  },
-  {
-    "ytId": "GeREFvD9h4c",
-    "tmdbId": 85460,
-    "title": "Primal Doubt",
-    "poster_path": "/t40rru99lfJUVJ6azdPxGuV9XtB.jpg",
-    "genre_ids": [
-      9648,
-      80,
-      53,
-      10770
-    ],
-    "year": "2007",
-    "release_date": "2007-12-05",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 480
-  },
-  {
-    "ytId": "twp5ILYqpSk",
-    "tmdbId": 109182,
-    "title": "Izzy & Moe",
-    "poster_path": "/jx8rGhn9fJUXNOrVfHC0Z2wRkr2.jpg",
-    "genre_ids": [
-      35,
-      80,
-      10770
-    ],
-    "year": "1985",
-    "release_date": "1985-09-23",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 479
-  },
-  {
-    "ytId": "nwkW3rViFgM",
-    "tmdbId": 292082,
-    "title": "Strange Relations",
-    "poster_path": "/pxm78M3XJjX0MVHXcK2ciwuSsIC.jpg",
-    "genre_ids": [
-      18,
-      35,
-      10770
-    ],
-    "year": "2001",
-    "release_date": "2001-11-07",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 478
-  },
-  {
-    "ytId": "X1Z7pAcGQSQ",
-    "tmdbId": 101887,
-    "title": "Spinning Boris",
-    "poster_path": "/5LbRF6UGBSYnesVnVhFd3AqhIoG.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "2003",
-    "release_date": "2003-10-23",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 477
-  },
-  {
-    "ytId": "p3oubxAy7wQ",
-    "tmdbId": 279768,
-    "title": "Ronnie and Julie",
-    "poster_path": "/rJHTnF2OKksqrOeSjza63SP94q4.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      10770
-    ],
-    "year": "1997",
-    "release_date": "1997-03-29",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 476
-  },
-  {
-    "ytId": "8pTQJ3SspEA",
-    "tmdbId": 35178,
-    "title": "A Horse for Danny",
-    "poster_path": "/b7R12Dw9BZqSFoif3ZnTSpRkgu5.jpg",
-    "genre_ids": [
-      18,
-      10751,
-      10770
-    ],
-    "year": "1995",
-    "release_date": "1995-04-08",
-    "rating": 8.1,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 475
-  },
-  {
-    "ytId": "oB3h2Pi1vBw",
-    "tmdbId": 71099,
-    "title": "Charms for the Easy Life",
-    "poster_path": "/dyYbfstSMSUR38vqtKginDr5ziS.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2002",
-    "release_date": "2002-08-18",
-    "rating": 8.5,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 474
-  },
-  {
-    "ytId": "B18gLYRc328",
-    "tmdbId": 155881,
-    "title": "Mr. and Mrs. Loving",
-    "poster_path": "/j2xQTqDeVte0VDQW3rczYdRe6xM.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      10770
-    ],
-    "year": "1996",
-    "release_date": "1996-03-13",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 473
-  },
-  {
-    "ytId": "mhN7DOn5OAY",
-    "tmdbId": 187193,
-    "title": "Free of Eden",
-    "poster_path": "/rbdkTMUhQy8VNhpbmBz3zHaNIhb.jpg",
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "year": "1999",
-    "release_date": "1999-02-21",
-    "rating": 9.667,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 472
-  },
-  {
-    "ytId": "_tTLQ5-SY20",
-    "tmdbId": 109614,
-    "title": "Losing Chase",
-    "poster_path": "/t3RNxs4vHXTiO29Kr1YInrxOGhz.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "year": "1996",
-    "release_date": "1996-12-06",
-    "rating": 6.074,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-07-05",
-    "id": 471
   }
 ]
