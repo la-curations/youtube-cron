@@ -1,5 +1,324 @@
 [
   {
+    "ytId": "6ROvPFaUl80",
+    "tmdbId": 4808,
+    "title": "Charade",
+    "poster_path": "/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+    "genre_ids": [
+      35,
+      9648,
+      10749
+    ],
+    "year": "1963",
+    "release_date": "1963-12-01",
+    "rating": 7.654,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 505
+  },
+  {
+    "ytId": "xg2LoabehjM",
+    "tmdbId": 108258,
+    "title": "The Great Mom Swap",
+    "poster_path": "/uxflHpF2gKFMXxi2uxEWha7tS2d.jpg",
+    "genre_ids": [
+      35,
+      10770
+    ],
+    "year": "1995",
+    "release_date": "1995-09-23",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 504
+  },
+  {
+    "ytId": "6O_QLGLIZYY",
+    "tmdbId": 255577,
+    "title": "Black Widow",
+    "poster_path": "/zKxq1qJWHSMikTClG4N42YzlZWA.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-12-08",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 503
+  },
+  {
+    "ytId": "11gA7-Uxu10",
+    "tmdbId": 140988,
+    "title": "They Call Me Sirr",
+    "poster_path": "/iyHmPZzqplbShRTQssQA3SUZA2K.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2001",
+    "release_date": "2001-11-01",
+    "rating": 7.357,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 502
+  },
+  {
+    "ytId": "LK9kvnOqWOY",
+    "tmdbId": 139244,
+    "title": "The Tale of Sweeney Todd",
+    "poster_path": "/bpvJpskL0ce78UvXFMJJMEwvkji.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-08-30",
+    "rating": 5.658,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 501
+  },
+  {
+    "ytId": "JJdB9gp4pnA",
+    "tmdbId": 344360,
+    "title": "Color of Justice",
+    "poster_path": "/sJng4Z9QmzaqpN45oN8DTHfTrvi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1997",
+    "release_date": "1997-09-07",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 500
+  },
+  {
+    "ytId": "X4SstcqNqZU",
+    "tmdbId": 118443,
+    "title": "Nothing Too Good for a Cowboy",
+    "poster_path": "/8G4N7ZYvQiiCyDZEYm1nG4LMj7s.jpg",
+    "genre_ids": [
+      37,
+      10749
+    ],
+    "year": "1998",
+    "release_date": "1998-01-04",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 499
+  },
+  {
+    "ytId": "ArEnBmZgpxo",
+    "tmdbId": 13613,
+    "title": "Day of the Dead",
+    "poster_path": "/mlQSg6FXWHzUeqLQrrbe3hyPV4X.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-04-08",
+    "rating": 5.231,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 498
+  },
+  {
+    "ytId": "AdxL9r3Wx_g",
+    "tmdbId": 262543,
+    "title": "Automata",
+    "poster_path": "/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "year": "2014",
+    "release_date": "2014-10-09",
+    "rating": 5.886,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 497
+  },
+  {
+    "ytId": "QvOmRoMwgX4",
+    "tmdbId": 9406,
+    "title": "An American Werewolf in Paris",
+    "poster_path": "/1NUOprbP7LLfKPArLJY7wziUiHT.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14
+    ],
+    "year": "1997",
+    "release_date": "1997-05-29",
+    "rating": 5.941,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 496
+  },
+  {
+    "ytId": "gGUr7m3WVF0",
+    "tmdbId": 207933,
+    "title": "Stonehearst Asylum",
+    "poster_path": "/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-10-23",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 495
+  },
+  {
+    "ytId": "K9TlhQyBc88",
+    "tmdbId": 82390,
+    "title": "The Paperboy",
+    "poster_path": "/AiALtw5Nl4adb6oO4VndBPo3RkQ.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "year": "2012",
+    "release_date": "2012-09-14",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 494
+  },
+  {
+    "ytId": "gYp_hRYT7dw",
+    "tmdbId": 47520,
+    "title": "Miracle at Sage Creek",
+    "poster_path": "/5Mw14SXNXav1kZ7GPRuIJQYHOPf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751,
+      37
+    ],
+    "year": "2005",
+    "release_date": "2005-11-25",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 493
+  },
+  {
+    "ytId": "vqpnbpYe1BU",
+    "tmdbId": 65579,
+    "title": "Dirty Filthy Love",
+    "poster_path": "/3MduGn66iGDdlgHtBqIa9bKDZbr.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-05-24",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 492
+  },
+  {
+    "ytId": "ImNmTjLAsG8",
+    "tmdbId": 36196,
+    "title": "Party Girl",
+    "poster_path": "/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "1995",
+    "release_date": "1995-06-09",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 491
+  },
+  {
+    "ytId": "fDsyTx4gMrg",
+    "tmdbId": 389323,
+    "title": "Papa Hemingway in Cuba",
+    "poster_path": "/sUxyoy9hIZWqeNUEEbFByWEHzjf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-11-19",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 490
+  },
+  {
+    "ytId": "5fUbNZWO4gI",
+    "tmdbId": 80468,
+    "title": "Some Guy Who Kills People",
+    "poster_path": "/3k8CeFdvTOiKaRCnXQ9I7WuazQi.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "year": "2011",
+    "release_date": "2011-04-14",
+    "rating": 6.057,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 489
+  },
+  {
+    "ytId": "53v6-9oFPmU",
+    "tmdbId": 39449,
+    "title": "Steel Frontier",
+    "poster_path": "/zjYdhdsD4G4a3YFNzHS1vSacbXy.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "1995",
+    "release_date": "1995-03-28",
+    "rating": 4.844,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 488
+  },
+  {
     "ytId": "MWBE1bn0_BQ",
     "tmdbId": 57316,
     "title": "Voice from the Grave",
@@ -2281,321 +2600,5 @@
     "channelName": "Popcornflix",
     "addedAt": "2026-06-28",
     "id": 356
-  },
-  {
-    "ytId": "ajpZZbhi-Lk",
-    "tmdbId": 601733,
-    "title": "Back to the Goode Life",
-    "poster_path": "/4Lp6tP8VGBNBZjBEktncxDDH6e2.jpg",
-    "genre_ids": [
-      35,
-      10770
-    ],
-    "year": "2019",
-    "release_date": "2019-04-26",
-    "rating": 7.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 355
-  },
-  {
-    "ytId": "dW4kueaM5IA",
-    "tmdbId": 279988,
-    "title": "Extinction",
-    "poster_path": "/oep1iDOJsoe2uD067iWNQdTDSqQ.jpg",
-    "genre_ids": [
-      53,
-      12
-    ],
-    "year": "2014",
-    "release_date": "2014-08-24",
-    "rating": 3.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 354
-  },
-  {
-    "ytId": "gUkXGFK4KhU",
-    "tmdbId": 926016,
-    "title": "Washington's Armor: The Journey",
-    "poster_path": "/gzEjbxKLJSBi5BD1oLTlad5VjE.jpg",
-    "genre_ids": [
-      36,
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-02-21",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 353
-  },
-  {
-    "ytId": "0QF3Z73QQM0",
-    "tmdbId": 1022712,
-    "title": "Gunfight at Cold Cross",
-    "poster_path": "/zyRXrPcAyJWsnl6lNnfKRDlRie9.jpg",
-    "genre_ids": [
-      37
-    ],
-    "year": "2023",
-    "release_date": "2023-04-23",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 352
-  },
-  {
-    "ytId": "CALw7FeAynw",
-    "tmdbId": 128655,
-    "title": "Haunted High",
-    "poster_path": "/vvBldMlCmq7WDI6eoWIHSAe1JfE.jpg",
-    "genre_ids": [
-      27,
-      14,
-      9648,
-      878,
-      53
-    ],
-    "year": "2012",
-    "release_date": "2012-08-25",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 351
-  },
-  {
-    "ytId": "4Nk7oxkTseo",
-    "tmdbId": 1263763,
-    "title": "The Mill Killers",
-    "poster_path": "/awXNrw2BuVTClzZhUDflu0mzIc4.jpg",
-    "genre_ids": [
-      53,
-      27,
-      80
-    ],
-    "year": "2024",
-    "release_date": "2024-08-24",
-    "rating": 5.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 350
-  },
-  {
-    "ytId": "Bh3Rgre9jRA",
-    "tmdbId": 1401371,
-    "title": "Deadly Ruphoria",
-    "poster_path": "/sgcqPVEKpcuLnSnSGWpQO0ZTBHw.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2024",
-    "release_date": "2024-09-13",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 349
-  },
-  {
-    "ytId": "-jBP7AbP-z0",
-    "tmdbId": 701277,
-    "title": "Evil Little Things",
-    "poster_path": "/42hfn5ZCpJ7WpEyVTRMPs2GLJmw.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-05-05",
-    "rating": 5.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 348
-  },
-  {
-    "ytId": "oaP2GuMwajI",
-    "tmdbId": 678502,
-    "title": "Narco Killer",
-    "poster_path": "/z6w11328CL0HA8ewbhyKc1tahzo.jpg",
-    "genre_ids": [
-      53,
-      28,
-      18,
-      80
-    ],
-    "year": "2020",
-    "release_date": "2020-01-01",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 347
-  },
-  {
-    "ytId": "yUIWeX0Ymn8",
-    "tmdbId": 1199114,
-    "title": "Hell's Coming for You",
-    "poster_path": "/vSPISqxlnOZV6tEr707N6voIwb1.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2023",
-    "release_date": "2023-05-08",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 346
-  },
-  {
-    "ytId": "R-OXgRgEgBY",
-    "tmdbId": 1182204,
-    "title": "Nico",
-    "poster_path": "/a3rlln8lCOQ1pTSI2u5hqNYKEal.jpg",
-    "genre_ids": [
-      27,
-      18
-    ],
-    "year": "2025",
-    "release_date": "2025-10-31",
-    "rating": null,
-    "original_language": "es",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 345
-  },
-  {
-    "ytId": "PoxPUmGSVRI",
-    "tmdbId": 1453676,
-    "title": "Fall Is a Good Time to Die",
-    "poster_path": "/qmO97T9HWpLgQio7cPd6LcIzMe9.jpg",
-    "genre_ids": [
-      18,
-      53,
-      37,
-      80
-    ],
-    "year": "2025",
-    "release_date": "2025-06-20",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 344
-  },
-  {
-    "ytId": "Ja4zjMhLNkg",
-    "tmdbId": 1022054,
-    "title": "All the Lost Ones",
-    "poster_path": "/8HKpQEc3vfyL05Ato6vbjk92o5U.jpg",
-    "genre_ids": [
-      53,
-      28,
-      878,
-      10752
-    ],
-    "year": "2025",
-    "release_date": "2025-04-18",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 343
-  },
-  {
-    "ytId": "PV2eB12VqBc",
-    "tmdbId": 986210,
-    "title": "Space Wars: Quest for the Deepstar",
-    "poster_path": "/r4BLXXsaavI3tgSNDd4upxsxc5O.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "year": "2023",
-    "release_date": "2023-04-21",
-    "rating": 4.4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 342
-  },
-  {
-    "ytId": "4PrseltqoNE",
-    "tmdbId": 950489,
-    "title": "Quid Games",
-    "poster_path": "/qJHizDKdhdHprH7QqgiE14k9iDk.jpg",
-    "genre_ids": [
-      28,
-      27,
-      9648,
-      53,
-      18
-    ],
-    "year": "2023",
-    "release_date": "2023-10-27",
-    "rating": 5.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 341
-  },
-  {
-    "ytId": "2QzRn3DpXKw",
-    "tmdbId": 969926,
-    "title": "Jericho Ridge",
-    "poster_path": "/2Iwkd9m3vGo32bjibNrfM7dtwJd.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-04-25",
-    "rating": 6.222,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 340
-  },
-  {
-    "ytId": "-ucf_hsgb9Q",
-    "tmdbId": 949896,
-    "title": "Dealing with Dad",
-    "poster_path": "/xUYlvo5Sm25ofmHyi7iTlekKCJL.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "2022",
-    "release_date": "2022-05-07",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 339
-  },
-  {
-    "ytId": "39aYUXL-THs",
-    "tmdbId": 566707,
-    "title": "Mayhem Park",
-    "poster_path": "/7HbLp6OEFqopAmnxr8k59QegJsH.jpg",
-    "genre_ids": [
-      80,
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-06-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-06-28",
-    "id": 338
   }
 ]

@@ -1,5 +1,324 @@
 [
   {
+    "ytId": "6ROvPFaUl80",
+    "tmdbId": 4808,
+    "title": "Charade",
+    "poster_path": "/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+    "genre_ids": [
+      35,
+      9648,
+      10749
+    ],
+    "year": "1963",
+    "release_date": "1963-12-01",
+    "rating": 7.654,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 505
+  },
+  {
+    "ytId": "xg2LoabehjM",
+    "tmdbId": 108258,
+    "title": "The Great Mom Swap",
+    "poster_path": "/uxflHpF2gKFMXxi2uxEWha7tS2d.jpg",
+    "genre_ids": [
+      35,
+      10770
+    ],
+    "year": "1995",
+    "release_date": "1995-09-23",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 504
+  },
+  {
+    "ytId": "6O_QLGLIZYY",
+    "tmdbId": 255577,
+    "title": "Black Widow",
+    "poster_path": "/zKxq1qJWHSMikTClG4N42YzlZWA.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-12-08",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 503
+  },
+  {
+    "ytId": "11gA7-Uxu10",
+    "tmdbId": 140988,
+    "title": "They Call Me Sirr",
+    "poster_path": "/iyHmPZzqplbShRTQssQA3SUZA2K.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2001",
+    "release_date": "2001-11-01",
+    "rating": 7.357,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 502
+  },
+  {
+    "ytId": "LK9kvnOqWOY",
+    "tmdbId": 139244,
+    "title": "The Tale of Sweeney Todd",
+    "poster_path": "/bpvJpskL0ce78UvXFMJJMEwvkji.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-08-30",
+    "rating": 5.658,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 501
+  },
+  {
+    "ytId": "JJdB9gp4pnA",
+    "tmdbId": 344360,
+    "title": "Color of Justice",
+    "poster_path": "/sJng4Z9QmzaqpN45oN8DTHfTrvi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1997",
+    "release_date": "1997-09-07",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 500
+  },
+  {
+    "ytId": "X4SstcqNqZU",
+    "tmdbId": 118443,
+    "title": "Nothing Too Good for a Cowboy",
+    "poster_path": "/8G4N7ZYvQiiCyDZEYm1nG4LMj7s.jpg",
+    "genre_ids": [
+      37,
+      10749
+    ],
+    "year": "1998",
+    "release_date": "1998-01-04",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 499
+  },
+  {
+    "ytId": "ArEnBmZgpxo",
+    "tmdbId": 13613,
+    "title": "Day of the Dead",
+    "poster_path": "/mlQSg6FXWHzUeqLQrrbe3hyPV4X.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-04-08",
+    "rating": 5.231,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 498
+  },
+  {
+    "ytId": "AdxL9r3Wx_g",
+    "tmdbId": 262543,
+    "title": "Automata",
+    "poster_path": "/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "year": "2014",
+    "release_date": "2014-10-09",
+    "rating": 5.886,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 497
+  },
+  {
+    "ytId": "QvOmRoMwgX4",
+    "tmdbId": 9406,
+    "title": "An American Werewolf in Paris",
+    "poster_path": "/1NUOprbP7LLfKPArLJY7wziUiHT.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14
+    ],
+    "year": "1997",
+    "release_date": "1997-05-29",
+    "rating": 5.941,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 496
+  },
+  {
+    "ytId": "gGUr7m3WVF0",
+    "tmdbId": 207933,
+    "title": "Stonehearst Asylum",
+    "poster_path": "/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-10-23",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 495
+  },
+  {
+    "ytId": "K9TlhQyBc88",
+    "tmdbId": 82390,
+    "title": "The Paperboy",
+    "poster_path": "/AiALtw5Nl4adb6oO4VndBPo3RkQ.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "year": "2012",
+    "release_date": "2012-09-14",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 494
+  },
+  {
+    "ytId": "gYp_hRYT7dw",
+    "tmdbId": 47520,
+    "title": "Miracle at Sage Creek",
+    "poster_path": "/5Mw14SXNXav1kZ7GPRuIJQYHOPf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751,
+      37
+    ],
+    "year": "2005",
+    "release_date": "2005-11-25",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 493
+  },
+  {
+    "ytId": "vqpnbpYe1BU",
+    "tmdbId": 65579,
+    "title": "Dirty Filthy Love",
+    "poster_path": "/3MduGn66iGDdlgHtBqIa9bKDZbr.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-05-24",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 492
+  },
+  {
+    "ytId": "ImNmTjLAsG8",
+    "tmdbId": 36196,
+    "title": "Party Girl",
+    "poster_path": "/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "1995",
+    "release_date": "1995-06-09",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 491
+  },
+  {
+    "ytId": "fDsyTx4gMrg",
+    "tmdbId": 389323,
+    "title": "Papa Hemingway in Cuba",
+    "poster_path": "/sUxyoy9hIZWqeNUEEbFByWEHzjf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-11-19",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 490
+  },
+  {
+    "ytId": "5fUbNZWO4gI",
+    "tmdbId": 80468,
+    "title": "Some Guy Who Kills People",
+    "poster_path": "/3k8CeFdvTOiKaRCnXQ9I7WuazQi.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "year": "2011",
+    "release_date": "2011-04-14",
+    "rating": 6.057,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 489
+  },
+  {
+    "ytId": "53v6-9oFPmU",
+    "tmdbId": 39449,
+    "title": "Steel Frontier",
+    "poster_path": "/zjYdhdsD4G4a3YFNzHS1vSacbXy.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "1995",
+    "release_date": "1995-03-28",
+    "rating": 4.844,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 488
+  },
+  {
     "ytId": "MWBE1bn0_BQ",
     "tmdbId": 57316,
     "title": "Voice from the Grave",
