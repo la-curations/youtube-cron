@@ -1,5 +1,338 @@
 [
   {
+    "ytId": "MWBE1bn0_BQ",
+    "tmdbId": 57316,
+    "title": "Voice from the Grave",
+    "poster_path": "/kkmUcCJTUxpzQgdxFDuZQP8lD0p.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      10770
+    ],
+    "year": "1996",
+    "release_date": "1996-03-20",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 487
+  },
+  {
+    "ytId": "T3exKsYDk0Y",
+    "tmdbId": 284459,
+    "title": "A Friend's Betrayal",
+    "poster_path": "/7T8S6yS9Hui1Sb6fsjOkh1JQoZW.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1996",
+    "release_date": "1996-05-19",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 486
+  },
+  {
+    "ytId": "eSk3YA5sFpA",
+    "tmdbId": 273758,
+    "title": "Nurses on the Line: The Crash of Flight 7",
+    "poster_path": "/ste2WgMUTSv6yHEzvihXZV7KJaY.jpg",
+    "genre_ids": [
+      18,
+      12,
+      10770
+    ],
+    "year": "1993",
+    "release_date": "1993-11-23",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 485
+  },
+  {
+    "ytId": "RiHvWMx7JUs",
+    "tmdbId": 478436,
+    "title": "Escape from Terror: The Teresa Stamper Story",
+    "poster_path": "/jS90jJqDDKBwcPyvC0fcbQTBHW8.jpg",
+    "genre_ids": [
+      10770,
+      18
+    ],
+    "year": "1995",
+    "release_date": "1995-01-23",
+    "rating": 8.429,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 484
+  },
+  {
+    "ytId": "kwza8Tv-_jQ",
+    "tmdbId": 81247,
+    "title": "Sample People",
+    "poster_path": "/6WuTLAY7XEZVDw8RP0DjjAd0vDU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2000",
+    "release_date": "2000-05-11",
+    "rating": 3.889,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 483
+  },
+  {
+    "ytId": "O-0HahryD_s",
+    "tmdbId": 274392,
+    "title": "The Sublime and Beautiful",
+    "poster_path": "/1zH2vuJSz1I2rVxcg1lrSBRlZpb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-06-06",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 482
+  },
+  {
+    "ytId": "3o-VzzHYql4",
+    "tmdbId": 138513,
+    "title": "In His Father's Shoes",
+    "poster_path": "/yCHcXywXeMjocbiB1xsWpF1aiFX.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-06-05",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 481
+  },
+  {
+    "ytId": "GeREFvD9h4c",
+    "tmdbId": 85460,
+    "title": "Primal Doubt",
+    "poster_path": "/t40rru99lfJUVJ6azdPxGuV9XtB.jpg",
+    "genre_ids": [
+      9648,
+      80,
+      53,
+      10770
+    ],
+    "year": "2007",
+    "release_date": "2007-12-05",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 480
+  },
+  {
+    "ytId": "twp5ILYqpSk",
+    "tmdbId": 109182,
+    "title": "Izzy & Moe",
+    "poster_path": "/jx8rGhn9fJUXNOrVfHC0Z2wRkr2.jpg",
+    "genre_ids": [
+      35,
+      80,
+      10770
+    ],
+    "year": "1985",
+    "release_date": "1985-09-23",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 479
+  },
+  {
+    "ytId": "nwkW3rViFgM",
+    "tmdbId": 292082,
+    "title": "Strange Relations",
+    "poster_path": "/pxm78M3XJjX0MVHXcK2ciwuSsIC.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10770
+    ],
+    "year": "2001",
+    "release_date": "2001-11-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 478
+  },
+  {
+    "ytId": "X1Z7pAcGQSQ",
+    "tmdbId": 101887,
+    "title": "Spinning Boris",
+    "poster_path": "/5LbRF6UGBSYnesVnVhFd3AqhIoG.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2003",
+    "release_date": "2003-10-23",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 477
+  },
+  {
+    "ytId": "p3oubxAy7wQ",
+    "tmdbId": 279768,
+    "title": "Ronnie and Julie",
+    "poster_path": "/rJHTnF2OKksqrOeSjza63SP94q4.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-03-29",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 476
+  },
+  {
+    "ytId": "8pTQJ3SspEA",
+    "tmdbId": 35178,
+    "title": "A Horse for Danny",
+    "poster_path": "/b7R12Dw9BZqSFoif3ZnTSpRkgu5.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ],
+    "year": "1995",
+    "release_date": "1995-04-08",
+    "rating": 8.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 475
+  },
+  {
+    "ytId": "oB3h2Pi1vBw",
+    "tmdbId": 71099,
+    "title": "Charms for the Easy Life",
+    "poster_path": "/dyYbfstSMSUR38vqtKginDr5ziS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2002",
+    "release_date": "2002-08-18",
+    "rating": 8.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 474
+  },
+  {
+    "ytId": "B18gLYRc328",
+    "tmdbId": 155881,
+    "title": "Mr. and Mrs. Loving",
+    "poster_path": "/j2xQTqDeVte0VDQW3rczYdRe6xM.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10770
+    ],
+    "year": "1996",
+    "release_date": "1996-03-13",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 473
+  },
+  {
+    "ytId": "mhN7DOn5OAY",
+    "tmdbId": 187193,
+    "title": "Free of Eden",
+    "poster_path": "/rbdkTMUhQy8VNhpbmBz3zHaNIhb.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1999",
+    "release_date": "1999-02-21",
+    "rating": 9.667,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 472
+  },
+  {
+    "ytId": "_tTLQ5-SY20",
+    "tmdbId": 109614,
+    "title": "Losing Chase",
+    "poster_path": "/t3RNxs4vHXTiO29Kr1YInrxOGhz.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "1996",
+    "release_date": "1996-12-06",
+    "rating": 6.074,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 471
+  },
+  {
+    "ytId": "b0HOZzXEct4",
+    "tmdbId": 316667,
+    "title": "The Baron and the Kid",
+    "poster_path": "/zJguIn9RLfL7uvKrVNlWO6zwrH4.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1984",
+    "release_date": "1984-11-21",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 470
+  },
+  {
+    "ytId": "oQVL-yKLw1Y",
+    "tmdbId": 22509,
+    "title": "The Devil's Arithmetic",
+    "poster_path": "/2QBXokkFDYOKLPAKk6FQO9gd6YS.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      53,
+      14
+    ],
+    "year": "1999",
+    "release_date": "1999-03-28",
+    "rating": 6.828,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-05",
+    "id": 469
+  },
+  {
     "ytId": "SSWe-NZG8js",
     "tmdbId": 113175,
     "title": "Robin of Locksley",
