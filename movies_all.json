@@ -1,5 +1,579 @@
 [
   {
+    "ytId": "6yfISwqHSrw",
+    "tmdbId": 1374740,
+    "title": "WWII: Operation Phoenix",
+    "poster_path": "/mwsFxVD4DtQ7GWl93YWjQNQhM1R.jpg",
+    "genre_ids": [
+      10752,
+      28
+    ],
+    "year": "2024",
+    "release_date": "2024-10-21",
+    "rating": 5.75,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 737
+  },
+  {
+    "ytId": "Lhsg1DPp9No",
+    "tmdbId": 864231,
+    "title": "Almighty Zeus",
+    "poster_path": "/qduINBsbtZe6a8eJCj7CoOlqDiS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-12-02",
+    "rating": 7.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 736
+  },
+  {
+    "ytId": "SCMb1vCLeGo",
+    "tmdbId": 1207898,
+    "title": "The Jack in the Box Rises",
+    "poster_path": "/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-18",
+    "rating": 6.561,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 735
+  },
+  {
+    "ytId": "BX60DnftdOs",
+    "tmdbId": 112016,
+    "title": "Deadly Sibling Rivalry",
+    "poster_path": "/oYzWxiONaWrhYN0KF3TKYFF8KjA.jpg",
+    "genre_ids": [
+      10770,
+      9648,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-08-15",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 734
+  },
+  {
+    "ytId": "AqVPWgTmxP0",
+    "tmdbId": 171375,
+    "title": "Murder on the 13th Floor",
+    "poster_path": "/4e81YfRVqE0CYnVEk1iA2jZkKFk.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-05-18",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 733
+  },
+  {
+    "ytId": "Gsg27X-ubjY",
+    "tmdbId": 70035,
+    "title": "Next Stop Murder",
+    "poster_path": "/7drzwxx54IDfQXOXAcXZKaYjI3n.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-09-19",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 732
+  },
+  {
+    "ytId": "tcV7Zb6MD_A",
+    "tmdbId": 1052158,
+    "title": "Monsternado",
+    "poster_path": "/txA4srjcxa4HiWEaMyrNtWHbR5a.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2023",
+    "release_date": "2023-11-14",
+    "rating": 5.667,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 731
+  },
+  {
+    "ytId": "kqLXmB4uXH0",
+    "tmdbId": 39750,
+    "title": "Stonehenge Apocalypse",
+    "poster_path": "/eHMeMg2UBu5aNUFVHYeWsKkwurT.jpg",
+    "genre_ids": [
+      878,
+      28,
+      10770
+    ],
+    "year": "2010",
+    "release_date": "2010-06-12",
+    "rating": 4.104,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 730
+  },
+  {
+    "ytId": "DKKYtJ7pwuc",
+    "tmdbId": 817686,
+    "title": "Killer Rose",
+    "poster_path": "/dLn5uYX3tBt8KeNBpqx1Qxa0L1m.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2021",
+    "release_date": "2021-04-12",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 729
+  },
+  {
+    "ytId": "uLRq8ccCn08",
+    "tmdbId": 398943,
+    "title": "Beacon Point",
+    "poster_path": "/ypGuUghMbiA3nCtdubdqK9BFe2w.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-06-10",
+    "rating": 5.119,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 728
+  },
+  {
+    "ytId": "-FzsLZqgFbY",
+    "tmdbId": 628784,
+    "title": "Once Upon a Time in Deadwood",
+    "poster_path": "/meiO1ubAPBcHouNSSBisTThd27p.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2019",
+    "release_date": "2019-10-01",
+    "rating": 4.385,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 727
+  },
+  {
+    "ytId": "OglTxWTY7F4",
+    "tmdbId": 783137,
+    "title": "A Stone in the Water",
+    "poster_path": "/j0v97E4MMshuIgRbfrD4Ntqy2v5.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-04-21",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 726
+  },
+  {
+    "ytId": "V-jy5CWJq6c",
+    "tmdbId": 1167240,
+    "title": "Exorcism of Fleete Marish",
+    "poster_path": "/kNGLmukUaoF3woOOb2Q2dv0RQ1P.jpg",
+    "genre_ids": [],
+    "year": "2023",
+    "release_date": "2023-05-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-05",
+    "id": 725
+  },
+  {
+    "ytId": "J4tmgbw1qQg",
+    "tmdbId": 628959,
+    "title": "Lady Belladonna's Tales From The Inferno",
+    "poster_path": "/kLXQUSUS1xWVnibRDmQzMBIgR0t.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-05",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 724
+  },
+  {
+    "ytId": "m7YZ8hch1dg",
+    "tmdbId": 1188278,
+    "title": "Artifacts of Fear",
+    "poster_path": "/9qiMS1F8WxLFJOSzIF99zDhWNpT.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-09-29",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 723
+  },
+  {
+    "ytId": "t_LD1mvgQTo",
+    "tmdbId": 1140017,
+    "title": "Granny Krampus",
+    "poster_path": "/4q3F2W70F6BfH2tUoemcPa8Wzfh.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-03-01",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 722
+  },
+  {
+    "ytId": "puck4oSdQZc",
+    "tmdbId": 1291594,
+    "title": "Beezel",
+    "poster_path": "/a9gZxhG98LATZJGy1vWssyjVkk.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-09-20",
+    "rating": 5.492,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 721
+  },
+  {
+    "ytId": "2CQprXhBn2Y",
+    "tmdbId": 429031,
+    "title": "Black Mass of the Brain",
+    "poster_path": "/xMshXStvwFKIRuPqJWwEvy9IzaK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-12-05",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 720
+  },
+  {
+    "ytId": "BLwPjoCXpRM",
+    "tmdbId": 912858,
+    "title": "Death Breed",
+    "poster_path": "/gvjabITrB2NgYTYQGOTtKN9eUHW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-12-14",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 719
+  },
+  {
+    "ytId": "HuHRmHe4tVo",
+    "tmdbId": 421267,
+    "title": "Death 4 Told",
+    "poster_path": "/16Zrt6FyygtD4DIQjcC0ozyhQcn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2004",
+    "release_date": "2004-05-13",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 718
+  },
+  {
+    "ytId": "3hLtpENyFPA",
+    "tmdbId": 686120,
+    "title": "The Slaughterhouse Killer",
+    "poster_path": "/5N6o9biGGz06jgQsKId3uNTiRCg.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-09-26",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 717
+  },
+  {
+    "ytId": "se7XhvUwGYw",
+    "tmdbId": 102420,
+    "title": "A Cadaver Christmas",
+    "poster_path": "/mTrtAfJNkP54tFeq1df9hejMJoF.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-04-02",
+    "rating": 4.738,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 716
+  },
+  {
+    "ytId": "Ss3frG5-7Z8",
+    "tmdbId": 1294496,
+    "title": "Haunt Season",
+    "poster_path": "/9igACFphyrAPXwibMglCMMjVDe2.jpg",
+    "genre_ids": [
+      27,
+      35,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-10-04",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 715
+  },
+  {
+    "ytId": "48vYL3TOPA0",
+    "tmdbId": 1136347,
+    "title": "The Bad Nun 3",
+    "poster_path": "/sj41kN0tVEQm8GUFDXC6Kic1iwV.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-05",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 714
+  },
+  {
+    "ytId": "fKsB2ayTNIk",
+    "tmdbId": 142758,
+    "title": "Deadly Renovations",
+    "poster_path": null,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-01-09",
+    "rating": 3.25,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 713
+  },
+  {
+    "ytId": "lmyJLUneBVU",
+    "tmdbId": 758506,
+    "title": "Last of the Grads",
+    "poster_path": "/ZODMniauJYft0a08lesWHW0Om.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-12-03",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 712
+  },
+  {
+    "ytId": "_GLcuIRm-T4",
+    "tmdbId": 834043,
+    "title": "Motorpsycho Maniacs",
+    "poster_path": "/kKqyXiBUzreVx1nbkbUjmzChTGS.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2019",
+    "release_date": "2019-10-01",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 711
+  },
+  {
+    "ytId": "AXxmPlPntgw",
+    "tmdbId": 115226,
+    "title": "Study Hell",
+    "poster_path": "/mAdDtmq8I8MTDyZMgRZxb3SaEO.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2007",
+    "release_date": "2007-10-10",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 710
+  },
+  {
+    "ytId": "_XgHTgh7Ox0",
+    "tmdbId": 566849,
+    "title": "Bride of Scarecrow",
+    "poster_path": "/uvwcF3SnKnwDl127Nh0LfdXeVkf.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-10-03",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 709
+  },
+  {
+    "ytId": "sVyOHn5Rrs0",
+    "tmdbId": 1134562,
+    "title": "The Woman Under the Stage",
+    "poster_path": "/rtY8H5r35MRaWTgylrf9j1waKWi.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-08-03",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 708
+  },
+  {
+    "ytId": "qjUVmoSV36c",
+    "tmdbId": 903500,
+    "title": "Return of the Salem Witch",
+    "poster_path": "/6iDaJAufAXfzQP48mBITOMqy4HI.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-21",
+    "rating": 4.25,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 707
+  },
+  {
+    "ytId": "GTfSLrNQlaQ",
+    "tmdbId": 65272,
+    "title": "The Shadow of Chikara",
+    "poster_path": "/k4Rh2WFvlGWg36sVcfqPsEYhm9a.jpg",
+    "genre_ids": [
+      27,
+      37
+    ],
+    "year": "1977",
+    "release_date": "1977-07-15",
+    "rating": 4.618,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 706
+  },
+  {
+    "ytId": "eTw4eWzh3zE",
+    "tmdbId": 1297487,
+    "title": "Salem Witch Doll",
+    "poster_path": "/g9PEMrDwT1qboPsMS9En5M3DSEN.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-08-01",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 705
+  },
+  {
+    "ytId": "yovc4zVugpo",
+    "tmdbId": 466919,
+    "title": "Forgotten Evil",
+    "poster_path": "/5pXptM5ghBXsB4YT9ITTXQ0C04u.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2017",
+    "release_date": "2017-03-12",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 704
+  },
+  {
+    "ytId": "nV-QNBst_RI",
+    "tmdbId": 29070,
+    "title": "Blood Bath",
+    "poster_path": "/cTDOq2bYILUE2nxhKdvnxINpZ7Q.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1966",
+    "release_date": "1966-03-02",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-05",
+    "id": 703
+  },
+  {
     "ytId": "iPshW9KZ-Yk",
     "tmdbId": 60164,
     "title": "The Speed of Thought",
