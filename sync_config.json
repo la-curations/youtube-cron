@@ -14,17 +14,17 @@
     "count": 206
   },
   {
-    "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
-    "name": "FilmRise Movies",
-    "nextPageToken": "EAAaH1BUOkNNSURJaEF6UWpZeU5qZzJOVGMzT1RNeVJqRkU",
-    "isHistoryComplete": false,
-    "count": 120
-  },
-  {
     "channelId": "UCGBzBkV-MinlBvHBzZawfLQ",
     "name": "Movie Central",
     "nextPageToken": "EAAaH1BUOkNNSURJaEJCTlVWQ1FVVkJNVEk0T1RKQ1JUUkQ",
     "isHistoryComplete": false,
     "count": 192
+  },
+  {
+    "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
+    "name": "FilmRise Movies",
+    "nextPageToken": "EAAaH1BUOkNNSURJaEF6UWpZeU5qZzJOVGMzT1RNeVJqRkU",
+    "isHistoryComplete": false,
+    "count": 120
   }
 ]
