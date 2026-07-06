@@ -1,5 +1,90 @@
 [
   {
+    "ytId": "t5M7KJ_yLws",
+    "tmdbId": 90064,
+    "title": "Redneck County Fever",
+    "poster_path": "/oMxaglR00PhS7zsMmARNi8KYNBA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1992",
+    "release_date": "1992-03-06",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-06",
+    "id": 742
+  },
+  {
+    "ytId": "WOsMqGLpdbg",
+    "tmdbId": 753973,
+    "title": "Sweet Taste of Souls",
+    "poster_path": "/87jR36jlYnYNXWGY3pXlSaUxyKC.jpg",
+    "genre_ids": [
+      14,
+      27,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-11-01",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-06",
+    "id": 741
+  },
+  {
+    "ytId": "DD83eHKmKBo",
+    "tmdbId": 30478,
+    "title": "Bloody New Year",
+    "poster_path": "/wSYQYBj2TqDWjQfP26AKNaiUlbj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1987",
+    "release_date": "1987-05-11",
+    "rating": 5.208,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-06",
+    "id": 740
+  },
+  {
+    "ytId": "Wm-5-zrWyoc",
+    "tmdbId": 542476,
+    "title": "Santa Jaws",
+    "poster_path": "/cJbm00PdHOJbdAqIhfUjKJq25AY.jpg",
+    "genre_ids": [
+      28,
+      14,
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-08-15",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-06",
+    "id": 739
+  },
+  {
+    "ytId": "3LWCRUrAuS0",
+    "tmdbId": 479770,
+    "title": "I'm Dreaming of a White Doomsday",
+    "poster_path": "/u5uhfBN4Wl9l0dT42iF05UBi7GP.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-10-20",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-06",
+    "id": 738
+  },
+  {
     "ytId": "6yfISwqHSrw",
     "tmdbId": 1374740,
     "title": "WWII: Operation Phoenix",
@@ -2440,90 +2525,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-05",
     "id": 593
-  },
-  {
-    "ytId": "QKOgqhVjxxY",
-    "tmdbId": 507097,
-    "title": "Blood Prism",
-    "poster_path": "/1cjJlMWFYE96tbCA81ZTvS04Ejb.jpg",
-    "genre_ids": [
-      18,
-      27,
-      53
-    ],
-    "year": "2017",
-    "release_date": "2017-12-17",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-05",
-    "id": 592
-  },
-  {
-    "ytId": "Yu_s0pQwCfg",
-    "tmdbId": 1569947,
-    "title": "The Priest: Thanksgiving Massacre",
-    "poster_path": "/AiRySv62247N91mfCCAryACGNuv.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-08-08",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-05",
-    "id": 591
-  },
-  {
-    "ytId": "i-w0A4ons8k",
-    "tmdbId": 704630,
-    "title": "Asylum: Twisted Horror and Fantasy Tales",
-    "poster_path": "/3rxKic2PDrheSXMCG82vm9LAm8e.jpg",
-    "genre_ids": [
-      35,
-      27,
-      878
-    ],
-    "year": "2020",
-    "release_date": "2020-07-02",
-    "rating": 5.854,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-05",
-    "id": 590
-  },
-  {
-    "ytId": "6PQetRmXw8A",
-    "tmdbId": 1427223,
-    "title": "Unholy Song",
-    "poster_path": "/edWxAffNgE3RaaVaECUIPBSOd07.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-02-28",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-05",
-    "id": 589
-  },
-  {
-    "ytId": "rQqVpInIlLw",
-    "tmdbId": 29433,
-    "title": "The Good Sisters",
-    "poster_path": "/6IouiEM9i9TIkig1sBLoYQKFXOP.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2009",
-    "release_date": "2009-10-09",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-05",
-    "id": 588
   }
 ]
