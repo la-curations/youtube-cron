@@ -1,5 +1,21 @@
 [
   {
+    "ytId": "3N8uhHmLRKs",
+    "tmdbId": 1582302,
+    "title": "Moonzy: The Dark Side of the Moon",
+    "poster_path": "/10IbmfdFwmwbcVG82dKD4poFWhI.jpg",
+    "genre_ids": [
+      16
+    ],
+    "year": "2026",
+    "release_date": "2026-08-27",
+    "rating": null,
+    "original_language": "ru",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-07",
+    "id": 765
+  },
+  {
     "ytId": "dj2Q0nBBR4w",
     "tmdbId": 101180,
     "title": "Operation Delta Force 3: Clear Target",
@@ -2510,21 +2526,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-05",
     "id": 616
-  },
-  {
-    "ytId": "jQlSzDIAttg",
-    "tmdbId": 1335667,
-    "title": "Shadows of Bigfoot",
-    "poster_path": "/5ub6IgZOEBDZKePj6vNfQg9eKSd.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2024",
-    "release_date": "2024-08-26",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 615
   }
 ]
