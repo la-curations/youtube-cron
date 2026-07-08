@@ -1,5 +1,108 @@
 [
   {
+    "ytId": "oQd_CFOWjBY",
+    "tmdbId": 9615,
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "poster_path": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-06-03",
+    "rating": 6.548,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 773
+  },
+  {
+    "ytId": "acv9dG44VII",
+    "tmdbId": 1281331,
+    "title": "The Social Reckoning",
+    "poster_path": "/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2026",
+    "release_date": "2026-10-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 772
+  },
+  {
+    "ytId": "WoaN5QmUik8",
+    "tmdbId": 143655,
+    "title": "Female Convict 101: Suck",
+    "poster_path": "/xoMEaW7sSer9J4OfacLAtqu8xtG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1977",
+    "release_date": "1977-08-06",
+    "rating": 4.8,
+    "original_language": "ja",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 771
+  },
+  {
+    "ytId": "FHqyHSd-JXc",
+    "tmdbId": 1143956,
+    "title": "Party Monster: Scratching the Surface",
+    "poster_path": "/onykdGEl0o0seLJEhZWdoRAhnN9.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2018",
+    "release_date": "2018-05-30",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 770
+  },
+  {
+    "ytId": "7YLMk70iLIg",
+    "tmdbId": 687163,
+    "title": "Project Hail Mary",
+    "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "year": "2026",
+    "release_date": "2026-03-15",
+    "rating": 8.676,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 769
+  },
+  {
+    "ytId": "mEnTmBgbfVY",
+    "tmdbId": 1682559,
+    "title": "The Life of a Spy",
+    "poster_path": "/hntwVBMltdtfwtZWgZOE7STBSAo.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-04-30",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 768
+  },
+  {
     "ytId": "HVh7rkxtlvA",
     "tmdbId": 1690691,
     "title": "SENJO 20th Anniversary Tour in Kobe ~FEELIN' COME SENJO!~ Noto Peninsula Earthquake Recovery Support Charity Event",
