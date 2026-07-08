@@ -1,5 +1,22 @@
 [
   {
+    "ytId": "HVh7rkxtlvA",
+    "tmdbId": 1690691,
+    "title": "SENJO 20th Anniversary Tour in Kobe ~FEELIN' COME SENJO!~ Noto Peninsula Earthquake Recovery Support Charity Event",
+    "poster_path": "/52tglguvOxfJrUfOD0Jr6STGmee.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2026",
+    "release_date": "2026-05-24",
+    "rating": 7,
+    "original_language": "ja",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-08",
+    "id": 767
+  },
+  {
     "ytId": "2HrXyloveyM",
     "tmdbId": 1240725,
     "title": "Singapore Sling: Road to Mandalay",
@@ -2503,25 +2520,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-05",
     "id": 618
-  },
-  {
-    "ytId": "v1i7_kamip8",
-    "tmdbId": 407627,
-    "title": "Ice Sharks",
-    "poster_path": "/xab3G2RWCrjXNhlQg3NYsuGt9Q6.jpg",
-    "genre_ids": [
-      10770,
-      12,
-      28,
-      878,
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-07-26",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 617
   }
 ]
