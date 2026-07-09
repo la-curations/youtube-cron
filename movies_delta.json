@@ -1,5 +1,37 @@
 [
   {
+    "ytId": "mOjAiOZeBCk",
+    "tmdbId": 436549,
+    "title": "The Field Guide to Evil",
+    "poster_path": "/pWAniWWeBf2qGAYuCPvnvYGs7pM.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-12-19",
+    "rating": 5.582,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 780
+  },
+  {
+    "ytId": "uc5fvjX_ea4",
+    "tmdbId": 1242744,
+    "title": "The Stickman's Hollow",
+    "poster_path": "/2TWI7W2Vrh4Z3DfkN0IFLTt5MJ9.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-09-27",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 779
+  },
+  {
     "ytId": "2v4klm_gyTQ",
     "tmdbId": 1201803,
     "title": "Invisible Shark",
@@ -2480,39 +2512,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-05",
     "id": 631
-  },
-  {
-    "ytId": "WOlXpWhzqOA",
-    "tmdbId": 1114922,
-    "title": "Somewhere Quiet",
-    "poster_path": "/evExphB7F7PpCHx06dMCwePArfH.jpg",
-    "genre_ids": [
-      18,
-      53,
-      27
-    ],
-    "year": "2024",
-    "release_date": "2024-02-02",
-    "rating": 4.443,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 630
-  },
-  {
-    "ytId": "2ae1CRBeFQw",
-    "tmdbId": 1577899,
-    "title": "Dirty Money - Geldwäsche-Paradies Deutschland",
-    "poster_path": "/8z9CgVOpyggy4sTbvAozTaqEYOw.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2025",
-    "release_date": "2025-10-27",
-    "rating": null,
-    "original_language": "de",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 629
   }
 ]
