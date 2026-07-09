@@ -1,5 +1,36 @@
 [
   {
+    "ytId": "2v4klm_gyTQ",
+    "tmdbId": 1201803,
+    "title": "Invisible Shark",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2023",
+    "release_date": "2023-02-25",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 778
+  },
+  {
+    "ytId": "85aKbSselPM",
+    "tmdbId": 5677,
+    "title": "Trancers",
+    "poster_path": "/4Qx4KrimPXFNw8yRUBaZldcN8Ma.jpg",
+    "genre_ids": [
+      878,
+      80
+    ],
+    "year": "1984",
+    "release_date": "1984-11-07",
+    "rating": 5.93,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 777
+  },
+  {
     "ytId": "R92QUMYGis0",
     "tmdbId": 1323953,
     "title": "The Last Woman on Earth",
