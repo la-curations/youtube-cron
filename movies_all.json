@@ -1,5 +1,729 @@
 [
   {
+    "ytId": "2BHyMZxOlMc",
+    "tmdbId": 1022988,
+    "title": "She Came Back",
+    "poster_path": "/kOjYWOBic7i7x6VENbrf9CdPoqr.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18
+    ],
+    "year": "2025",
+    "release_date": "2025-04-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 823
+  },
+  {
+    "ytId": "AgsTvuF_4EE",
+    "tmdbId": 863668,
+    "title": "For Your Own Sake",
+    "poster_path": "/mcfzyQ8MmNgqsWmYNHvrN1dz3hB.jpg",
+    "genre_ids": [
+      18,
+      80,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-07-17",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 822
+  },
+  {
+    "ytId": "Hzw1jWfJdGw",
+    "tmdbId": 70575,
+    "title": "Children of the Corn: Genesis",
+    "poster_path": "/qZvAcvZyT4Duvi5kaPoNoJg2TT9.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-08-30",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 821
+  },
+  {
+    "ytId": "-nMV24HdrfI",
+    "tmdbId": 1547987,
+    "title": "Khadima: The Caregiver",
+    "poster_path": "/sYdS9T8IV6jE4Dr4k2JMOib9KQs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2025",
+    "release_date": "2025-02-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 820
+  },
+  {
+    "ytId": "X81KMJ90Ps8",
+    "tmdbId": 1546088,
+    "title": "Every Single Day As A Parent",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-09-20",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 819
+  },
+  {
+    "ytId": "NzMqSrdw1Pk",
+    "tmdbId": 796759,
+    "title": "The Cove",
+    "poster_path": "/eDMQuO1TVK5ZV3rsj9tc1zekD2h.jpg",
+    "genre_ids": [
+      12,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-01-17",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 818
+  },
+  {
+    "ytId": "_svtqDwX3kQ",
+    "tmdbId": 754180,
+    "title": "Apocalypse A-Go-Go",
+    "poster_path": "/55IJPI19KmKog1qRsAXHV4aKMRu.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2020",
+    "release_date": "2020-10-14",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 817
+  },
+  {
+    "ytId": "bgLas_hmiTU",
+    "tmdbId": 593565,
+    "title": "Lone Star Deception",
+    "poster_path": "/o1khwlUOilTaVOBy4OPLVv3LaKP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-02-07",
+    "rating": 1.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 816
+  },
+  {
+    "ytId": "0dNwO5pfwSk",
+    "tmdbId": 1188714,
+    "title": "A Dark Way Out",
+    "poster_path": "/2ABNDmyBwhZ0Tl6zMP4qGoFX41A.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-08-17",
+    "rating": 2.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 815
+  },
+  {
+    "ytId": "L1oBnBjjlI4",
+    "tmdbId": 1286663,
+    "title": "Control Freak",
+    "poster_path": "/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-03-12",
+    "rating": 5.629,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 814
+  },
+  {
+    "ytId": "yumwUUk8ejk",
+    "tmdbId": 1135465,
+    "title": "We Work for the Dead",
+    "poster_path": "/rH6VneQdritY752DTZpGlpeGxJV.jpg",
+    "genre_ids": [
+      878,
+      14
+    ],
+    "year": "2024",
+    "release_date": "2024-05-21",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 813
+  },
+  {
+    "ytId": "iGDU0M_vFWY",
+    "tmdbId": 1497124,
+    "title": "Surviving Syria’s Prisons",
+    "poster_path": "/8N5YEBMcB7XRXbPTF5Was568rWP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-06-10",
+    "rating": 8,
+    "original_language": "ar",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 812
+  },
+  {
+    "ytId": "pXju6c2gUeg",
+    "tmdbId": 728773,
+    "title": "I Am Lisa",
+    "poster_path": "/eJNGwVjAJtKXp9SqEJY9rmMlFqN.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-10-09",
+    "rating": 5.355,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 811
+  },
+  {
+    "ytId": "GqaqXofcSAk",
+    "tmdbId": 1419207,
+    "title": "Hitman: The Slaughter",
+    "poster_path": "/lJ54frFq1NXvpvkP19bWwwFQ8uU.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-02-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 810
+  },
+  {
+    "ytId": "It8F13nHdDM",
+    "tmdbId": 1040884,
+    "title": "Quarantine-19",
+    "poster_path": "/6wdaQHsx4ReFJjOtUGJCn3RzkSr.jpg",
+    "genre_ids": [
+      53,
+      27,
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-06-01",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 809
+  },
+  {
+    "ytId": "IGY8KXw9MS0",
+    "tmdbId": 1609393,
+    "title": "HUNTER X HUNTER THE STAGE 3",
+    "poster_path": "/j2gnn0P2w9x6cFtQurIUdZrFGYN.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "year": "2025",
+    "release_date": "2025-05-17",
+    "rating": 10,
+    "original_language": "ja",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 808
+  },
+  {
+    "ytId": "nmh5UGFDi04",
+    "tmdbId": 481872,
+    "title": "Once There Was A Winter",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2017",
+    "release_date": "2017-09-30",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 807
+  },
+  {
+    "ytId": "QZypGnejU2A",
+    "tmdbId": 1323276,
+    "title": "Sorority Girl Massacre: Black Static at the Moment of Death",
+    "poster_path": "/yriYbh99po9G6WZ28Qg9ajY2C2T.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-03-28",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 806
+  },
+  {
+    "ytId": "4EuEPYlwajM",
+    "tmdbId": 1457515,
+    "title": "Air Force Elite: Thunderbirds",
+    "poster_path": "/uIOzHM90VlEAagZAgwjXSimll20.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-05-22",
+    "rating": 6.977,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-09",
+    "id": 805
+  },
+  {
+    "ytId": "-phU-BZkqH0",
+    "tmdbId": 287879,
+    "title": "Seed of Darkness",
+    "poster_path": "/bWxMXGO787Icq58B7m1ANFUXp8E.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-12-28",
+    "rating": 5.4,
+    "original_language": "cn",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 804
+  },
+  {
+    "ytId": "5VpGfPgytBg",
+    "tmdbId": 1020696,
+    "title": "Play Dead",
+    "poster_path": "/zeiwFQzyMNp6JBwCfSspG5ZcoLp.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-12-09",
+    "rating": 6.145,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 803
+  },
+  {
+    "ytId": "yQ_S3P3MVrk",
+    "tmdbId": 978040,
+    "title": "Witch",
+    "poster_path": "/dsjyA06mUIPJfYeQs4WpUqquFGD.jpg",
+    "genre_ids": [
+      14,
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-04-29",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 802
+  },
+  {
+    "ytId": "33VwO6-_pQk",
+    "tmdbId": 403299,
+    "title": "Dogman 2: The Wrath of the Litter",
+    "poster_path": "/56DnDtUbRx0DnHh3p0wtxCnDu4i.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-10-31",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 801
+  },
+  {
+    "ytId": "d9P7kEpfy8E",
+    "tmdbId": 1051560,
+    "title": "The Devil Comes at Night",
+    "poster_path": "/6QIeZuKirT4cXVpW7ilVZmcRmdK.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-06-06",
+    "rating": 6.488,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 800
+  },
+  {
+    "ytId": "jeCOXib4DIA",
+    "tmdbId": 963591,
+    "title": "Those Who Call",
+    "poster_path": "/kps2mkDFWDnb00BY1kKj0GIjSCP.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-12-10",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 799
+  },
+  {
+    "ytId": "kbBYV3k5758",
+    "tmdbId": 553005,
+    "title": "Phantasmagoria 2: Labyrinths of blood",
+    "poster_path": "/m6iWJjuA5Esbznzy3Kdv4F6geIw.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-01-23",
+    "rating": null,
+    "original_language": "nl",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 798
+  },
+  {
+    "ytId": "bk0s_EU6vqA",
+    "tmdbId": 613271,
+    "title": "VampyrZ on a Boat",
+    "poster_path": "/t2p17QhW3Fa9EoAkOgyb6bgRVtG.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-09-26",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 797
+  },
+  {
+    "ytId": "xZ02vTMIYL8",
+    "tmdbId": 505054,
+    "title": "Virgin Cheerleaders in Chains",
+    "poster_path": "/jviJFIFJjaAs8V6jV35MDIq7JqV.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-08-09",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 796
+  },
+  {
+    "ytId": "ynZY695vYiI",
+    "tmdbId": 727714,
+    "title": "The Red Resurrection",
+    "poster_path": "/tyrwf7WdWGnIxnKkGa329EfrewE.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-11-30",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 795
+  },
+  {
+    "ytId": "KHjnJ79mk-o",
+    "tmdbId": 931237,
+    "title": "Terror Trips",
+    "poster_path": "/EJecpFgApjxIomlBCSAs4SjYxx.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-06-14",
+    "rating": 3.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 794
+  },
+  {
+    "ytId": "61zyE-tFE-Q",
+    "tmdbId": 1004645,
+    "title": "The Bride in the Box",
+    "poster_path": "/kID2s2aBcFBZMg6CZVTdck7VAqG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-07-26",
+    "rating": 7.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 793
+  },
+  {
+    "ytId": "poNeptJQbcI",
+    "tmdbId": 410876,
+    "title": "Tell Me How I Die",
+    "poster_path": "/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-09-16",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 792
+  },
+  {
+    "ytId": "DatTkAlxtIs",
+    "tmdbId": 920081,
+    "title": "Megaboa",
+    "poster_path": "/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      10770
+    ],
+    "year": "2021",
+    "release_date": "2021-11-26",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 791
+  },
+  {
+    "ytId": "ePHBJJL3OhY",
+    "tmdbId": 553686,
+    "title": "Th'dread Rattlin'",
+    "poster_path": "/3JELMfThmocGhJjdu1Vcj5q8W69.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-08-21",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 790
+  },
+  {
+    "ytId": "0PmKe0ucPkw",
+    "tmdbId": 426350,
+    "title": "Amacabra - The Metempsychosis of Justine S.",
+    "poster_path": null,
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-09-16",
+    "rating": null,
+    "original_language": "de",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 789
+  },
+  {
+    "ytId": "5S4SNOOa7HY",
+    "tmdbId": 844059,
+    "title": "Haunted 5: Phantoms",
+    "poster_path": "/16kXIdVyqGBF0WViQlxm24faYUv.jpg",
+    "genre_ids": [
+      18,
+      14,
+      53,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-12-22",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 788
+  },
+  {
+    "ytId": "4swZIHfhwZ8",
+    "tmdbId": 489420,
+    "title": "Once Upon a Time at Christmas",
+    "poster_path": "/xoTbJcyGyBrAtlwoCEFtgo2MnEk.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-11-26",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 787
+  },
+  {
+    "ytId": "gUmaGASnRsQ",
+    "tmdbId": 842343,
+    "title": "Haunted 4: Demons",
+    "poster_path": "/amNYGwEuEjK615Y84WZZjs4YVT9.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2020",
+    "release_date": "2020-11-02",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 786
+  },
+  {
+    "ytId": "U1zXO6l0Cdc",
+    "tmdbId": 881260,
+    "title": "The Inferno Index",
+    "poster_path": "/6DiBJTt2bZuPtv6CxI7vyAVdvLJ.jpg",
+    "genre_ids": [
+      27,
+      18,
+      10402
+    ],
+    "year": "2021",
+    "release_date": "2021-03-23",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 785
+  },
+  {
+    "ytId": "OHLPo_ub5T4",
+    "tmdbId": 554312,
+    "title": "Haunted 3: Spirits",
+    "poster_path": "/zAdTfuaE5G1j39J5Ol3lXRegN0f.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-10-07",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 784
+  },
+  {
+    "ytId": "NAxC43bu36U",
+    "tmdbId": 976923,
+    "title": "Punch",
+    "poster_path": "/vq5fQ8go2M66OsvkRZGUIrtuchz.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-08-24",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 783
+  },
+  {
+    "ytId": "Et14RtoZbdU",
+    "tmdbId": 1168953,
+    "title": "Horror in the Forest",
+    "poster_path": "/zZ3CXTMAI8h3MrhZ4fakbiNnS28.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-08-17",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-09",
+    "id": 782
+  },
+  {
+    "ytId": "orHnePrZp8E",
+    "tmdbId": 1108427,
+    "title": "Moana",
+    "poster_path": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "year": "2026",
+    "release_date": "2026-07-08",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 781
+  },
+  {
     "ytId": "mOjAiOZeBCk",
     "tmdbId": 436549,
     "title": "The Field Guide to Evil",
