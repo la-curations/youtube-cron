@@ -1,5 +1,19 @@
 [
   {
+    "channelId": "UCHTyeZ6sjpTAo-Y9XMUHeAQ",
+    "name": "The Cinematics Movies",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
+    "name": "V Movies",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
     "name": "Sci-Fi Central",
     "nextPageToken": "EAAaHlBUOkNESWlFRVF5UmpoRFF6ZzJNVGsyUlVZd016RQ",
