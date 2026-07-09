@@ -1,5 +1,52 @@
 [
   {
+    "ytId": "R92QUMYGis0",
+    "tmdbId": 1323953,
+    "title": "The Last Woman on Earth",
+    "poster_path": "/lMAV2UehKawNuKEliVyRjd1puwH.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "year": "2026",
+    "release_date": "2026-07-15",
+    "rating": null,
+    "original_language": "ko",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 776
+  },
+  {
+    "ytId": "5ug8SW6Gnr4",
+    "tmdbId": 1257124,
+    "title": "Books Are Our Weapons",
+    "poster_path": "/yYck3HjResV7Riu02i6BTMCijzB.jpg",
+    "genre_ids": [],
+    "year": "2026",
+    "release_date": "2026-02-07",
+    "rating": null,
+    "original_language": "hu",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 775
+  },
+  {
+    "ytId": "AjGGfHoPGU4",
+    "tmdbId": 1678194,
+    "title": "The Devil to Pay",
+    "poster_path": "/aDfvxRDp3lwnPgVcirZjXfdoscF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2026",
+    "release_date": "2026-04-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Joy Drama",
+    "addedAt": "2026-07-09",
+    "id": 774
+  },
+  {
     "ytId": "oQd_CFOWjBY",
     "tmdbId": 9615,
     "title": "The Fast and the Furious: Tokyo Drift",
@@ -2469,56 +2516,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-05",
     "id": 627
-  },
-  {
-    "ytId": "quF6u8dH5hw",
-    "tmdbId": 1486275,
-    "title": "Hello, Goodbye",
-    "poster_path": "/4p9uQ4F7XlnBahdB6cAjgjmfV34.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "2025",
-    "release_date": "2025-06-06",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 626
-  },
-  {
-    "ytId": "P_SYOwsMW9g",
-    "tmdbId": 1102863,
-    "title": "Tears of Blood",
-    "poster_path": "/vWDpzNBHCYzCHoHVO9S6znz9s3i.jpg",
-    "genre_ids": [
-      36,
-      9648
-    ],
-    "year": "2024",
-    "release_date": "2024-10-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 625
-  },
-  {
-    "ytId": "7aaN9sViUCc",
-    "tmdbId": 33826,
-    "title": "Death Row",
-    "poster_path": "/eiTV7QcCXq6XVhisjcAmmbs7bWX.jpg",
-    "genre_ids": [
-      27,
-      80
-    ],
-    "year": "2006",
-    "release_date": "2006-10-14",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-05",
-    "id": 624
   }
 ]
