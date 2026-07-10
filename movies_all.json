@@ -1,5 +1,398 @@
 [
   {
+    "ytId": "ElT7CV3y2Ak",
+    "tmdbId": 95251,
+    "title": "Operation Delta Force 5: Random Fire",
+    "poster_path": "/u9Eizv4OECCQOiiSs44TmSWDjxo.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18,
+      10752
+    ],
+    "year": "2000",
+    "release_date": "2000-01-19",
+    "rating": 4.344,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-10",
+    "id": 1035
+  },
+  {
+    "ytId": "JiwVQeLPDLg",
+    "tmdbId": 116213,
+    "title": "Operation Delta Force 4: Deep Fault",
+    "poster_path": "/ozDBq1ukqtqKTZOtnLjGxEjIiqT.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "1999",
+    "release_date": "1999-12-09",
+    "rating": 4.023,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-07-10",
+    "id": 1034
+  },
+  {
+    "ytId": "efipo018AjY",
+    "tmdbId": 416086,
+    "title": "Redistributors",
+    "poster_path": "/o9TdWZXsTXAuPgRIhtf6PNjK4sf.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-07-02",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1033
+  },
+  {
+    "ytId": "mrt6i2Qwb3k",
+    "tmdbId": 1186052,
+    "title": "Death on the Border",
+    "poster_path": "/sPr1hZmowPggNQZWyH3AQhAJpTr.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-11-03",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1032
+  },
+  {
+    "ytId": "IJl9CIXcS0E",
+    "tmdbId": 1135229,
+    "title": "I Am Rage",
+    "poster_path": "/tnsioPDTf5qXWFIkMvFc1HtKaHz.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-09-14",
+    "rating": 6.661,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1031
+  },
+  {
+    "ytId": "JbyUrqIkd3M",
+    "tmdbId": 847791,
+    "title": "Barely Dreaming",
+    "poster_path": "/zYsOigcPNWXwwuo8ca82GpFpy43.jpg",
+    "genre_ids": [
+      18,
+      14
+    ],
+    "year": "2021",
+    "release_date": "2021-07-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1030
+  },
+  {
+    "ytId": "qxXGFFhLN7s",
+    "tmdbId": 1256570,
+    "title": "Borrowed Time III",
+    "poster_path": "/lLZTofvsxK6ZSd0NZL6YLldOUV1.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-06-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1029
+  },
+  {
+    "ytId": "c5gxwoF3TQ0",
+    "tmdbId": 77862,
+    "title": "Anadolu Kartalları",
+    "poster_path": "/keovFHBEEJNOoBppsTvP5YvG6mO.jpg",
+    "genre_ids": [
+      12,
+      18,
+      10749
+    ],
+    "year": "2011",
+    "release_date": "2011-10-28",
+    "rating": 6.1,
+    "original_language": "tr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1028
+  },
+  {
+    "ytId": "ulMtYzx9V9M",
+    "tmdbId": 600886,
+    "title": "Chasing Molly",
+    "poster_path": "/ttEpN9sD9VgBbkP83psmo4yLrE9.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-05-06",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1027
+  },
+  {
+    "ytId": "Udo5OT9d-s0",
+    "tmdbId": 506750,
+    "title": "Tanks for Stalin",
+    "poster_path": "/vqciLKwXOmd59900CoMJmjizkt5.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      12
+    ],
+    "year": "2018",
+    "release_date": "2018-04-26",
+    "rating": 4.989,
+    "original_language": "ru",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1026
+  },
+  {
+    "ytId": "kxc4uA0Y5s8",
+    "tmdbId": 835112,
+    "title": "Ted Bundy: American Boogeyman",
+    "poster_path": "/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "2021",
+    "release_date": "2021-08-16",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1025
+  },
+  {
+    "ytId": "lPfaLzmY0II",
+    "tmdbId": 1025553,
+    "title": "Because We're Family",
+    "poster_path": "/8gG85fAcs0uBb7N5Yk4GrmUFhV2.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-10-16",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1024
+  },
+  {
+    "ytId": "XLRjn-UH7zI",
+    "tmdbId": 890244,
+    "title": "A Stalker in the House",
+    "poster_path": "/3p4RNksLwGkws3DGWNlClpalSWe.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-11-06",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1023
+  },
+  {
+    "ytId": "3YPMeCKsruw",
+    "tmdbId": 679776,
+    "title": "Voodoo Macbeth",
+    "poster_path": "/1piTG4pxOPC0CRsNzFICAkjGlFE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-12-09",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1022
+  },
+  {
+    "ytId": "KXoHrdYStmw",
+    "tmdbId": 891025,
+    "title": "Baking Up Love",
+    "poster_path": "/7C4oDllmymoyMs5jzuwNFl1E82L.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751
+    ],
+    "year": "2021",
+    "release_date": "2021-08-28",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1021
+  },
+  {
+    "ytId": "zkXfxpWCNME",
+    "tmdbId": 835292,
+    "title": "Blackstock Boneyard",
+    "poster_path": "/99P0fh73u4Zer8B21PUPvxSEcd6.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-06-08",
+    "rating": 4.846,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1020
+  },
+  {
+    "ytId": "okKBbmEXJe0",
+    "tmdbId": 770581,
+    "title": "Shades of a Killer",
+    "poster_path": "/mxmHqXTkCB3UHg1NlV0Rif4UNfc.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-03-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1019
+  },
+  {
+    "ytId": "n6_NZWPWCrE",
+    "tmdbId": 199373,
+    "title": "The Frozen Ground",
+    "poster_path": "/hHDj1h3lJvYd9Cervoswz9crhWg.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "2013",
+    "release_date": "2013-07-11",
+    "rating": 6.275,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1018
+  },
+  {
+    "ytId": "riJmO0rIH1c",
+    "tmdbId": 505826,
+    "title": "Bigfoot Country",
+    "poster_path": "/htaNJ46ikPo2mRoFRArlIZaRVi9.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-01-02",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1017
+  },
+  {
+    "ytId": "lnBN709uEyE",
+    "tmdbId": 1024555,
+    "title": "A Dream House",
+    "poster_path": "/4n7IBozAuRvaxcEd01hyOBVe5t2.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-06-27",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1016
+  },
+  {
+    "ytId": "5R4u09pfdKw",
+    "tmdbId": 18472,
+    "title": "Driven to Kill",
+    "poster_path": "/dprXvycJtj8OGxPWDXDTIl0y5LK.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-05-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1015
+  },
+  {
+    "ytId": "eyWQjxzCuCM",
+    "tmdbId": 118683,
+    "title": "Maximum Conviction",
+    "poster_path": "/uVzFbz7WTjXTt7c9L41oNeyhc8K.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-10-25",
+    "rating": 4.966,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1014
+  },
+  {
+    "ytId": "MnRm0eXkbJU",
+    "tmdbId": 1253096,
+    "title": "Duffle Bag Boy",
+    "poster_path": "/95BPUPCH7T9rEhTa6SQRkmJt6vQ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-05-03",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1013
+  },
+  {
     "ytId": "bJtB-C6QUS0",
     "tmdbId": 1502429,
     "title": "Blood Empires",
