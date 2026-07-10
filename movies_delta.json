@@ -1,5 +1,119 @@
 [
   {
+    "ytId": "UqTwhgB_cco",
+    "tmdbId": 440439,
+    "title": "Elder Island",
+    "poster_path": "/yqhh8WyGYbvs5ULbfXulINm3bkP.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-11-16",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 942
+  },
+  {
+    "ytId": "49bbt7dq07k",
+    "tmdbId": 452947,
+    "title": "Lake Alice",
+    "poster_path": "/qrlnIh7kTE85sGaXDKQSPwXPqws.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-07-18",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 941
+  },
+  {
+    "ytId": "rxuSISev5wE",
+    "tmdbId": 73408,
+    "title": "Drive-In Horrorshow",
+    "poster_path": "/18Wb1sWpjnRM5WUIyNvplR5jcDm.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-10-04",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 940
+  },
+  {
+    "ytId": "JnoRO4LZUyo",
+    "tmdbId": 338598,
+    "title": "Slay Belles",
+    "poster_path": "/25qsK9Qxs0hnXIYMpHjtL0A6ghI.jpg",
+    "genre_ids": [
+      27,
+      12
+    ],
+    "year": "2018",
+    "release_date": "2018-12-04",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 939
+  },
+  {
+    "ytId": "41wK__nkVvA",
+    "tmdbId": 637156,
+    "title": "Psycho Santa 2",
+    "poster_path": "/2vxtgOVIDJ73H6n6sYbthADgB0l.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-12-16",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 938
+  },
+  {
+    "ytId": "yPFTb0xFrGA",
+    "tmdbId": 765967,
+    "title": "Black Pumpkin",
+    "poster_path": "/lMHAcOPDuhKpZaq7r41cE74lLwk.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-09-28",
+    "rating": 5.912,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 937
+  },
+  {
+    "ytId": "Dk66aCMpifw",
+    "tmdbId": 224301,
+    "title": "Roadside Massacre",
+    "poster_path": "/izrVq0EEltj9vHdW6XEFdsnaA1N.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-05-01",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 936
+  },
+  {
     "ytId": "WBW0gUSGkoA",
     "tmdbId": 1284870,
     "title": "Max and Sadie",
@@ -2417,126 +2531,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-09",
     "id": 793
-  },
-  {
-    "ytId": "poNeptJQbcI",
-    "tmdbId": 410876,
-    "title": "Tell Me How I Die",
-    "poster_path": "/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2016",
-    "release_date": "2016-09-16",
-    "rating": 5.4,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 792
-  },
-  {
-    "ytId": "DatTkAlxtIs",
-    "tmdbId": 920081,
-    "title": "Megaboa",
-    "poster_path": "/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg",
-    "genre_ids": [
-      28,
-      27,
-      878,
-      10770
-    ],
-    "year": "2021",
-    "release_date": "2021-11-26",
-    "rating": 6.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 791
-  },
-  {
-    "ytId": "ePHBJJL3OhY",
-    "tmdbId": 553686,
-    "title": "Th'dread Rattlin'",
-    "poster_path": "/3JELMfThmocGhJjdu1Vcj5q8W69.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-08-21",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 790
-  },
-  {
-    "ytId": "0PmKe0ucPkw",
-    "tmdbId": 426350,
-    "title": "Amacabra - The Metempsychosis of Justine S.",
-    "poster_path": null,
-    "genre_ids": [
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-09-16",
-    "rating": null,
-    "original_language": "de",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 789
-  },
-  {
-    "ytId": "5S4SNOOa7HY",
-    "tmdbId": 844059,
-    "title": "Haunted 5: Phantoms",
-    "poster_path": "/16kXIdVyqGBF0WViQlxm24faYUv.jpg",
-    "genre_ids": [
-      18,
-      14,
-      53,
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-12-22",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 788
-  },
-  {
-    "ytId": "4swZIHfhwZ8",
-    "tmdbId": 489420,
-    "title": "Once Upon a Time at Christmas",
-    "poster_path": "/xoTbJcyGyBrAtlwoCEFtgo2MnEk.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-11-26",
-    "rating": 4.9,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 787
-  },
-  {
-    "ytId": "gUmaGASnRsQ",
-    "tmdbId": 842343,
-    "title": "Haunted 4: Demons",
-    "poster_path": "/amNYGwEuEjK615Y84WZZjs4YVT9.jpg",
-    "genre_ids": [
-      27,
-      53,
-      9648
-    ],
-    "year": "2020",
-    "release_date": "2020-11-02",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-09",
-    "id": 786
   }
 ]
