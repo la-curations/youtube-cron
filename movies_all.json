@@ -1,5 +1,265 @@
 [
   {
+    "ytId": "AD4rZrAWq9w",
+    "tmdbId": 46838,
+    "title": "Tucker and Dale vs. Evil",
+    "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-01-22",
+    "rating": 7.399,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 958
+  },
+  {
+    "ytId": "2-H2PomCu4I",
+    "tmdbId": 306109,
+    "title": "Horror House on Highway 6",
+    "poster_path": "/n1OXpXk5OxGGykbeUDkE0sjgpFA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-11-04",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 957
+  },
+  {
+    "ytId": "rB922KENPpI",
+    "tmdbId": 298835,
+    "title": "After School Massacre",
+    "poster_path": "/ywyHXnFVC8neWKWqtPa7SQLW6Rq.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-01-10",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 956
+  },
+  {
+    "ytId": "p_iA1x3O2uw",
+    "tmdbId": 476608,
+    "title": "Don't Let the Devil In",
+    "poster_path": "/vtIwFWCDNiu0Vp9TbGkp1W728zF.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-10-03",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 955
+  },
+  {
+    "ytId": "Nole8w6cQ_E",
+    "tmdbId": 941516,
+    "title": "Dark Night of the Scarecrow 2",
+    "poster_path": "/qGyMVSqhQNO2Re41px67RxmrzFu.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-05-10",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 954
+  },
+  {
+    "ytId": "x7fIv3wY5uM",
+    "tmdbId": 549639,
+    "title": "The Grave Caller",
+    "poster_path": "/6GxDlNRUv83rStiiZEmzapggqfR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-10-01",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 953
+  },
+  {
+    "ytId": "VSCjcABiiJM",
+    "tmdbId": 1004691,
+    "title": "Christmas Craft Fair Massacre",
+    "poster_path": "/pJcHQ58d49ROvedisbfZlZ3eYqU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-12-13",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 952
+  },
+  {
+    "ytId": "QnXICvpxb_Q",
+    "tmdbId": 854640,
+    "title": "Bundy Manor",
+    "poster_path": "/dOvVgjKEwhbYLQblR4F86UGfzO6.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-11-16",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 951
+  },
+  {
+    "ytId": "i9GUuAKvw9I",
+    "tmdbId": 709427,
+    "title": "Insight of Evil 2: Vengeance",
+    "poster_path": "/d6tVqv6poPajRMisD8dvzPjZPIm.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-31",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 950
+  },
+  {
+    "ytId": "Sf5bQozBnX4",
+    "tmdbId": 926827,
+    "title": "Ghosts of Amityville",
+    "poster_path": "/fRwJJXMhFHT2Xn3sZdlCLq7CHKs.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-21",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 949
+  },
+  {
+    "ytId": "pNg3FT8_5B8",
+    "tmdbId": 512540,
+    "title": "If I Tell You I Have to Kill You",
+    "poster_path": "/eNp8GcjVzTqProYTNYBvM1WEfvO.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-10-20",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 948
+  },
+  {
+    "ytId": "H9xbvI06YJM",
+    "tmdbId": 567898,
+    "title": "Kill Teaser",
+    "poster_path": "/r9jmhwln8sLCN8n14aSnGnYOWsk.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-06-13",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 947
+  },
+  {
+    "ytId": "n31CdCHUPEg",
+    "tmdbId": 382584,
+    "title": "Lily Grace: A Witch Story",
+    "poster_path": "/15YJ87B5xhqSVcOL7LkHjtfYe94.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-11-03",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 946
+  },
+  {
+    "ytId": "lXD9AO6NkVI",
+    "tmdbId": 157424,
+    "title": "Cabin Fever: Patient Zero",
+    "poster_path": "/5A4wV8k9Kv2OY3XjI9WDA5qsAkD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-02-05",
+    "rating": 5.014,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 945
+  },
+  {
+    "ytId": "ZOVvUUbHRqw",
+    "tmdbId": 664561,
+    "title": "Cruel Peter",
+    "poster_path": "/1CXlIZFOOjpEwoTbvqVLmp9zWrM.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-02-06",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 944
+  },
+  {
+    "ytId": "oPJCra1Yb6g",
+    "tmdbId": 609064,
+    "title": "A Haunting at Silver Falls: The Return",
+    "poster_path": "/hXYVnQzUQr3z8D4Xa7yfBLhUu54.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-06-04",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 943
+  },
+  {
     "ytId": "UqTwhgB_cco",
     "tmdbId": 440439,
     "title": "Elder Island",
