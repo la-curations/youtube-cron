@@ -1,5 +1,289 @@
 [
   {
+    "ytId": "R6FT9T0sS00",
+    "tmdbId": 71102,
+    "title": "Vampegeddon",
+    "poster_path": "/hRgv4mrf543iOc3b5fGzOgMxrAj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-05-05",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 975
+  },
+  {
+    "ytId": "2mSEmkGBChg",
+    "tmdbId": 635710,
+    "title": "Scarecrow County",
+    "poster_path": "/3FalU9D3OEPH5j1Fd0nPw8qj7bD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-25",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 974
+  },
+  {
+    "ytId": "R4KA_Vq8GJs",
+    "tmdbId": 849361,
+    "title": "Don't Say Its Name",
+    "poster_path": "/uTlQuIuAGc07liHnIeFvm0vWsMV.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-08-18",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 973
+  },
+  {
+    "ytId": "bgY6EzEHgPU",
+    "tmdbId": 10331,
+    "title": "Night of the Living Dead",
+    "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "year": "1968",
+    "release_date": "1968-10-04",
+    "rating": 7.611,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 972
+  },
+  {
+    "ytId": "-AUhLD1dSjA",
+    "tmdbId": 597177,
+    "title": "I Am an Addict",
+    "poster_path": "/q7aTBzxvI3fGbuDEklQAqHqaXEz.jpg",
+    "genre_ids": [],
+    "year": "2019",
+    "release_date": "2019-11-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 971
+  },
+  {
+    "ytId": "H04QPEM9HrA",
+    "tmdbId": 40342,
+    "title": "Dèmoni 2… L'incubo ritorna",
+    "poster_path": "/pg2bgsTUGhRCkHlisnBquMFlLZU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1986",
+    "release_date": "1986-10-09",
+    "rating": 6.1,
+    "original_language": "it",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 970
+  },
+  {
+    "ytId": "eOww0fpAycs",
+    "tmdbId": 1065616,
+    "title": "Amityville Death Toilet",
+    "poster_path": "/r6k51hFMVgqCF5nE8m8qZ5P5qAC.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-01-05",
+    "rating": 4.714,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 969
+  },
+  {
+    "ytId": "3o8ZmXZUmJo",
+    "tmdbId": 904116,
+    "title": "Amityville Karen",
+    "poster_path": "/iaRAnKpyo95dgDEJMGejWnYO5hA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-06-21",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 968
+  },
+  {
+    "ytId": "fLRXAdsOFds",
+    "tmdbId": 29426,
+    "title": "Survival of the Dead",
+    "poster_path": "/2BmqSRt10J2mpJmCgZbo5YYkQLj.jpg",
+    "genre_ids": [
+      27,
+      35,
+      18,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-05-06",
+    "rating": 4.852,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 967
+  },
+  {
+    "ytId": "RjScSG68cj8",
+    "tmdbId": 462115,
+    "title": "Dead Trigger",
+    "poster_path": "/uI2c30FyDEeBaa7Ka7tZYH344tC.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-07-19",
+    "rating": 3.637,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 966
+  },
+  {
+    "ytId": "YRh4ersucZo",
+    "tmdbId": 305028,
+    "title": "Bad Kitties",
+    "poster_path": "/6SEGQcm7r6qjaBzgmu8Zfl0tlOF.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2013",
+    "release_date": "2013-09-14",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 965
+  },
+  {
+    "ytId": "DrMgKJ4csiU",
+    "tmdbId": 260163,
+    "title": "Apocalyptic",
+    "poster_path": "/8cUqTiHp0alYeV2JKHiFKu4a9iu.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-07-28",
+    "rating": 4.529,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 964
+  },
+  {
+    "ytId": "4ylexzvlxLY",
+    "tmdbId": 726343,
+    "title": "The Day of Destruction",
+    "poster_path": "/zdWwoixX0ivPKDgcMrK1FpPd7Up.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-07-24",
+    "rating": 5.5,
+    "original_language": "ja",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 963
+  },
+  {
+    "ytId": "0RilrI0YMaE",
+    "tmdbId": 414827,
+    "title": "Siccîn 3: Cürmü Aşk",
+    "poster_path": "/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-09-02",
+    "rating": 5.645,
+    "original_language": "tr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 962
+  },
+  {
+    "ytId": "3Vkqr3YH20k",
+    "tmdbId": 499438,
+    "title": "Ghostfinders",
+    "poster_path": "/3ZXYRFy6jBkeRe38NtqwTfdOfdZ.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-05-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 961
+  },
+  {
+    "ytId": "6yk9KauYiLI",
+    "tmdbId": 645454,
+    "title": "I Scream on the Beach!",
+    "poster_path": "/dpyH7WmyUXq16YVsh3xCgGr7ZaI.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2020",
+    "release_date": "2020-01-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 960
+  },
+  {
+    "ytId": "mCNbaiNu2yo",
+    "tmdbId": 460378,
+    "title": "กัดกระชากเกรียน",
+    "poster_path": "/zRDJIifQZnohzk5Rw73QdMRFbP4.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-04-27",
+    "rating": 4.313,
+    "original_language": "th",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 959
+  },
+  {
     "ytId": "AD4rZrAWq9w",
     "tmdbId": 46838,
     "title": "Tucker and Dale vs. Evil",

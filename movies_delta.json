@@ -1,5 +1,289 @@
 [
   {
+    "ytId": "R6FT9T0sS00",
+    "tmdbId": 71102,
+    "title": "Vampegeddon",
+    "poster_path": "/hRgv4mrf543iOc3b5fGzOgMxrAj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-05-05",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 975
+  },
+  {
+    "ytId": "2mSEmkGBChg",
+    "tmdbId": 635710,
+    "title": "Scarecrow County",
+    "poster_path": "/3FalU9D3OEPH5j1Fd0nPw8qj7bD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-25",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 974
+  },
+  {
+    "ytId": "R4KA_Vq8GJs",
+    "tmdbId": 849361,
+    "title": "Don't Say Its Name",
+    "poster_path": "/uTlQuIuAGc07liHnIeFvm0vWsMV.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-08-18",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 973
+  },
+  {
+    "ytId": "bgY6EzEHgPU",
+    "tmdbId": 10331,
+    "title": "Night of the Living Dead",
+    "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "year": "1968",
+    "release_date": "1968-10-04",
+    "rating": 7.611,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 972
+  },
+  {
+    "ytId": "-AUhLD1dSjA",
+    "tmdbId": 597177,
+    "title": "I Am an Addict",
+    "poster_path": "/q7aTBzxvI3fGbuDEklQAqHqaXEz.jpg",
+    "genre_ids": [],
+    "year": "2019",
+    "release_date": "2019-11-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 971
+  },
+  {
+    "ytId": "H04QPEM9HrA",
+    "tmdbId": 40342,
+    "title": "Dèmoni 2… L'incubo ritorna",
+    "poster_path": "/pg2bgsTUGhRCkHlisnBquMFlLZU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1986",
+    "release_date": "1986-10-09",
+    "rating": 6.1,
+    "original_language": "it",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 970
+  },
+  {
+    "ytId": "eOww0fpAycs",
+    "tmdbId": 1065616,
+    "title": "Amityville Death Toilet",
+    "poster_path": "/r6k51hFMVgqCF5nE8m8qZ5P5qAC.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-01-05",
+    "rating": 4.714,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 969
+  },
+  {
+    "ytId": "3o8ZmXZUmJo",
+    "tmdbId": 904116,
+    "title": "Amityville Karen",
+    "poster_path": "/iaRAnKpyo95dgDEJMGejWnYO5hA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-06-21",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 968
+  },
+  {
+    "ytId": "fLRXAdsOFds",
+    "tmdbId": 29426,
+    "title": "Survival of the Dead",
+    "poster_path": "/2BmqSRt10J2mpJmCgZbo5YYkQLj.jpg",
+    "genre_ids": [
+      27,
+      35,
+      18,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-05-06",
+    "rating": 4.852,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 967
+  },
+  {
+    "ytId": "RjScSG68cj8",
+    "tmdbId": 462115,
+    "title": "Dead Trigger",
+    "poster_path": "/uI2c30FyDEeBaa7Ka7tZYH344tC.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-07-19",
+    "rating": 3.637,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 966
+  },
+  {
+    "ytId": "YRh4ersucZo",
+    "tmdbId": 305028,
+    "title": "Bad Kitties",
+    "poster_path": "/6SEGQcm7r6qjaBzgmu8Zfl0tlOF.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2013",
+    "release_date": "2013-09-14",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 965
+  },
+  {
+    "ytId": "DrMgKJ4csiU",
+    "tmdbId": 260163,
+    "title": "Apocalyptic",
+    "poster_path": "/8cUqTiHp0alYeV2JKHiFKu4a9iu.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-07-28",
+    "rating": 4.529,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 964
+  },
+  {
+    "ytId": "4ylexzvlxLY",
+    "tmdbId": 726343,
+    "title": "The Day of Destruction",
+    "poster_path": "/zdWwoixX0ivPKDgcMrK1FpPd7Up.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-07-24",
+    "rating": 5.5,
+    "original_language": "ja",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 963
+  },
+  {
+    "ytId": "0RilrI0YMaE",
+    "tmdbId": 414827,
+    "title": "Siccîn 3: Cürmü Aşk",
+    "poster_path": "/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-09-02",
+    "rating": 5.645,
+    "original_language": "tr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 962
+  },
+  {
+    "ytId": "3Vkqr3YH20k",
+    "tmdbId": 499438,
+    "title": "Ghostfinders",
+    "poster_path": "/3ZXYRFy6jBkeRe38NtqwTfdOfdZ.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-05-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 961
+  },
+  {
+    "ytId": "6yk9KauYiLI",
+    "tmdbId": 645454,
+    "title": "I Scream on the Beach!",
+    "poster_path": "/dpyH7WmyUXq16YVsh3xCgGr7ZaI.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2020",
+    "release_date": "2020-01-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 960
+  },
+  {
+    "ytId": "mCNbaiNu2yo",
+    "tmdbId": 460378,
+    "title": "กัดกระชากเกรียน",
+    "poster_path": "/zRDJIifQZnohzk5Rw73QdMRFbP4.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-04-27",
+    "rating": 4.313,
+    "original_language": "th",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 959
+  },
+  {
     "ytId": "AD4rZrAWq9w",
     "tmdbId": 46838,
     "title": "Tucker and Dale vs. Evil",
@@ -2239,292 +2523,5 @@
     "channelName": "The Cinematics Movies",
     "addedAt": "2026-07-09",
     "id": 826
-  },
-  {
-    "ytId": "vaF1F26bkbw",
-    "tmdbId": 3152,
-    "title": "Big Monster on Campus",
-    "poster_path": "/4Pnsi9DX4zOdV0Sqj87yYyctrYm.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "1998",
-    "release_date": "1998-01-01",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 825
-  },
-  {
-    "ytId": "aZQQgT24KLM",
-    "tmdbId": 143565,
-    "title": "Young Blades",
-    "poster_path": "/cZNjalk9nZ85JvzeJ1I3nEYlz50.jpg",
-    "genre_ids": [
-      10749,
-      12,
-      28
-    ],
-    "year": "2001",
-    "release_date": "2001-02-23",
-    "rating": 6.357,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 824
-  },
-  {
-    "ytId": "2BHyMZxOlMc",
-    "tmdbId": 1022988,
-    "title": "She Came Back",
-    "poster_path": "/kOjYWOBic7i7x6VENbrf9CdPoqr.jpg",
-    "genre_ids": [
-      27,
-      53,
-      18
-    ],
-    "year": "2025",
-    "release_date": "2025-04-10",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 823
-  },
-  {
-    "ytId": "AgsTvuF_4EE",
-    "tmdbId": 863668,
-    "title": "For Your Own Sake",
-    "poster_path": "/mcfzyQ8MmNgqsWmYNHvrN1dz3hB.jpg",
-    "genre_ids": [
-      18,
-      80,
-      35
-    ],
-    "year": "2021",
-    "release_date": "2021-07-17",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 822
-  },
-  {
-    "ytId": "Hzw1jWfJdGw",
-    "tmdbId": 70575,
-    "title": "Children of the Corn: Genesis",
-    "poster_path": "/qZvAcvZyT4Duvi5kaPoNoJg2TT9.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2011",
-    "release_date": "2011-08-30",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 821
-  },
-  {
-    "ytId": "-nMV24HdrfI",
-    "tmdbId": 1547987,
-    "title": "Khadima: The Caregiver",
-    "poster_path": "/sYdS9T8IV6jE4Dr4k2JMOib9KQs.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2025",
-    "release_date": "2025-02-22",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 820
-  },
-  {
-    "ytId": "X81KMJ90Ps8",
-    "tmdbId": 1546088,
-    "title": "Every Single Day As A Parent",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "2025",
-    "release_date": "2025-09-20",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 819
-  },
-  {
-    "ytId": "NzMqSrdw1Pk",
-    "tmdbId": 796759,
-    "title": "The Cove",
-    "poster_path": "/eDMQuO1TVK5ZV3rsj9tc1zekD2h.jpg",
-    "genre_ids": [
-      12,
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-01-17",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 818
-  },
-  {
-    "ytId": "_svtqDwX3kQ",
-    "tmdbId": 754180,
-    "title": "Apocalypse A-Go-Go",
-    "poster_path": "/55IJPI19KmKog1qRsAXHV4aKMRu.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "2020",
-    "release_date": "2020-10-14",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 817
-  },
-  {
-    "ytId": "bgLas_hmiTU",
-    "tmdbId": 593565,
-    "title": "Lone Star Deception",
-    "poster_path": "/o1khwlUOilTaVOBy4OPLVv3LaKP.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-02-07",
-    "rating": 1.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 816
-  },
-  {
-    "ytId": "0dNwO5pfwSk",
-    "tmdbId": 1188714,
-    "title": "A Dark Way Out",
-    "poster_path": "/2ABNDmyBwhZ0Tl6zMP4qGoFX41A.jpg",
-    "genre_ids": [
-      9648,
-      53
-    ],
-    "year": "2023",
-    "release_date": "2023-08-17",
-    "rating": 2.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 815
-  },
-  {
-    "ytId": "L1oBnBjjlI4",
-    "tmdbId": 1286663,
-    "title": "Control Freak",
-    "poster_path": "/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-03-12",
-    "rating": 5.629,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 814
-  },
-  {
-    "ytId": "yumwUUk8ejk",
-    "tmdbId": 1135465,
-    "title": "We Work for the Dead",
-    "poster_path": "/rH6VneQdritY752DTZpGlpeGxJV.jpg",
-    "genre_ids": [
-      878,
-      14
-    ],
-    "year": "2024",
-    "release_date": "2024-05-21",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 813
-  },
-  {
-    "ytId": "iGDU0M_vFWY",
-    "tmdbId": 1497124,
-    "title": "Surviving Syria’s Prisons",
-    "poster_path": "/8N5YEBMcB7XRXbPTF5Was568rWP.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2025",
-    "release_date": "2025-06-10",
-    "rating": 8,
-    "original_language": "ar",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 812
-  },
-  {
-    "ytId": "pXju6c2gUeg",
-    "tmdbId": 728773,
-    "title": "I Am Lisa",
-    "poster_path": "/eJNGwVjAJtKXp9SqEJY9rmMlFqN.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-10-09",
-    "rating": 5.355,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 811
-  },
-  {
-    "ytId": "GqaqXofcSAk",
-    "tmdbId": 1419207,
-    "title": "Hitman: The Slaughter",
-    "poster_path": "/lJ54frFq1NXvpvkP19bWwwFQ8uU.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "year": "2025",
-    "release_date": "2025-02-22",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 810
-  },
-  {
-    "ytId": "It8F13nHdDM",
-    "tmdbId": 1040884,
-    "title": "Quarantine-19",
-    "poster_path": "/6wdaQHsx4ReFJjOtUGJCn3RzkSr.jpg",
-    "genre_ids": [
-      53,
-      27,
-      878
-    ],
-    "year": "2022",
-    "release_date": "2022-06-01",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-09",
-    "id": 809
   }
 ]
