@@ -1,5 +1,188 @@
 [
   {
+    "ytId": "wwo6kRi_yr8",
+    "tmdbId": 854890,
+    "title": "The Haunting of Pendle Hill",
+    "poster_path": "/mTSQ8P1WYCouhrANAK1hEGgAxQA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-04-04",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 986
+  },
+  {
+    "ytId": "9PQlqvHKN-8",
+    "tmdbId": 726882,
+    "title": "The Horror Crowd",
+    "poster_path": "/Aaj2zk6EuOBpLRJ8Czt8CbCYA72.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2020",
+    "release_date": "2020-10-07",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 985
+  },
+  {
+    "ytId": "-zbJoxRUxa4",
+    "tmdbId": 49748,
+    "title": "Easter Bunny Kill! Kill!",
+    "poster_path": "/2OLaGL1UHErosAQTuQcVXs8gbw0.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-08-04",
+    "rating": 2.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 984
+  },
+  {
+    "ytId": "40LEicJvcSI",
+    "tmdbId": 457955,
+    "title": "The Night Eats the World",
+    "poster_path": "/2rR2PxT0clt1Hhw5Cv0YGk5DD2H.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "year": "2018",
+    "release_date": "2018-03-07",
+    "rating": 6.051,
+    "original_language": "fr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 983
+  },
+  {
+    "ytId": "LLpjXXKanBk",
+    "tmdbId": 451697,
+    "title": "3 Hours till Dead",
+    "poster_path": "/8362Sfkf6Ln11vCs8yW5EKwMQht.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-04-21",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 982
+  },
+  {
+    "ytId": "ea2q8nQ5KwI",
+    "tmdbId": 975801,
+    "title": "Night of the Zodiac",
+    "poster_path": "/arLbNDFUmIugq2i9IBpmR9R2J0g.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-05-03",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 981
+  },
+  {
+    "ytId": "fmUuMER6bv0",
+    "tmdbId": 1027002,
+    "title": "Cemetery Stories",
+    "poster_path": "/st2CYB9FUUbSIkJoaKALJ7Tajl0.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-09-20",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 980
+  },
+  {
+    "ytId": "IwRD2WexnP8",
+    "tmdbId": 493678,
+    "title": "Strawberry Flavored Plastic",
+    "poster_path": "/jobK5Cn2zzZ6mRjSUGyPmZol4vo.jpg",
+    "genre_ids": [
+      27,
+      80,
+      18,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-01-23",
+    "rating": 3.125,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 979
+  },
+  {
+    "ytId": "NSwDLC-n4gA",
+    "tmdbId": 879672,
+    "title": "Flee the Light",
+    "poster_path": "/1Iekf4FPMeIFdANzlL4tgy9Bu5n.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-02-15",
+    "rating": 2.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 978
+  },
+  {
+    "ytId": "atnW4D6pc-w",
+    "tmdbId": 1022103,
+    "title": "Conjuring: The Beyond",
+    "poster_path": "/dNr0mqVSLfIaPlhcmJNRJVzCQBs.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-09-13",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 977
+  },
+  {
+    "ytId": "bmxXHUXZGnw",
+    "tmdbId": 979760,
+    "title": "Tooth Fairy: Drill to Kill",
+    "poster_path": "/6M5rB39IdSOA1oE8cYcAxMUOlWW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-10-24",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-10",
+    "id": 976
+  },
+  {
     "ytId": "R6FT9T0sS00",
     "tmdbId": 71102,
     "title": "Vampegeddon",
