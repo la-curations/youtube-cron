@@ -1,5 +1,256 @@
 [
   {
+    "ytId": "nNZqzAkbTJk",
+    "tmdbId": 1606363,
+    "title": "Keeping Christmas Together",
+    "poster_path": "/qqRdSIDMfdWin5cBDnKCW3Q7dgK.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-12-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1002
+  },
+  {
+    "ytId": "WNoK_obYFe8",
+    "tmdbId": 1000238,
+    "title": "Magic in Mount Holly",
+    "poster_path": "/zg6A4NT7GrIpWCbvbyFPoTbnlcI.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "year": "2021",
+    "release_date": "2021-11-16",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1001
+  },
+  {
+    "ytId": "vM-KCYN39Bg",
+    "tmdbId": 307307,
+    "title": "Deadly Day Care",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2014",
+    "release_date": "2014-11-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 1000
+  },
+  {
+    "ytId": "U91Onam1mvU",
+    "tmdbId": 910476,
+    "title": "South of Hope Street",
+    "poster_path": "/cxhaxLO26mPYbppPwdUNHRZpwsX.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-04-18",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 999
+  },
+  {
+    "ytId": "hej1LvJzveI",
+    "tmdbId": 184712,
+    "title": "Battledogs",
+    "poster_path": "/4WLRJssh4YzWokxVgk3hfSANKm8.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "year": "2013",
+    "release_date": "2013-04-05",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 998
+  },
+  {
+    "ytId": "vC65LwnCCRY",
+    "tmdbId": 386857,
+    "title": "Break-Up Nightmare",
+    "poster_path": "/5fQ2bwOus2WlDOiN3waDhevqTPW.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2016",
+    "release_date": "2016-03-06",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 997
+  },
+  {
+    "ytId": "FuFu3_YcciE",
+    "tmdbId": 1353263,
+    "title": "The Bibi Files",
+    "poster_path": "/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-12-13",
+    "rating": 7.15,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 996
+  },
+  {
+    "ytId": "1xOC3Vz-O4s",
+    "tmdbId": 513243,
+    "title": "The Etruscan Smile",
+    "poster_path": "/yGKJxR3hkFDxBwefTDXPseaBv6k.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-04-12",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 995
+  },
+  {
+    "ytId": "CQFYgdlGDX8",
+    "tmdbId": 1294521,
+    "title": "Don't Look Away",
+    "poster_path": "/7jebNNfdO0mODsSTtyWve1m7X85.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-03-28",
+    "rating": null,
+    "original_language": "fi",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 994
+  },
+  {
+    "ytId": "P-KWxEAbCi8",
+    "tmdbId": 246594,
+    "title": "Mega Shark vs. Mecha Shark",
+    "poster_path": "/rUCNz12ZezKkT3jzvMhz9eiVXnS.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-01-28",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 993
+  },
+  {
+    "ytId": "m37T7uyUazg",
+    "tmdbId": 39541,
+    "title": "Stolen Summer",
+    "poster_path": "/marKnaLfvEnQ1DK3U2SLKYRGVdh.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "year": "2002",
+    "release_date": "2002-03-22",
+    "rating": 6.271,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 992
+  },
+  {
+    "ytId": "xs99aE3J1us",
+    "tmdbId": 343070,
+    "title": "Flight World War II",
+    "poster_path": "/m1CTPba4qdZ0AgbyHQHGX4XRUE5.jpg",
+    "genre_ids": [
+      28,
+      878,
+      10752
+    ],
+    "year": "2015",
+    "release_date": "2015-06-02",
+    "rating": 4.643,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 991
+  },
+  {
+    "ytId": "NLCAL_wupK4",
+    "tmdbId": 701675,
+    "title": "Fast and Fierce: Death Race",
+    "poster_path": "/v9bPKQUQtdNh1ZlAfNFaGVg8C1C.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2020",
+    "release_date": "2020-05-19",
+    "rating": 5.431,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 990
+  },
+  {
+    "ytId": "87I_3vEiyyI",
+    "tmdbId": 24198,
+    "title": "AVH: Alien vs. Hunter",
+    "poster_path": "/46whh6JCDqRFxHfKssePScUvD8D.jpg",
+    "genre_ids": [
+      27,
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-12-18",
+    "rating": 3.426,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 989
+  },
+  {
+    "ytId": "aezJ7WG-DEM",
+    "tmdbId": 1158251,
+    "title": "Crypto Shadows",
+    "poster_path": "/aNM5GbXsS9JRosEooZc5RaNmcjW.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-05-20",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-10",
+    "id": 988
+  },
+  {
     "ytId": "4RBS02OXzpo",
     "tmdbId": 1254877,
     "title": "Bull Shark 2",
@@ -2258,265 +2509,5 @@
     "channelName": "V Movies",
     "addedAt": "2026-07-09",
     "id": 853
-  },
-  {
-    "ytId": "ncsLNHtvyec",
-    "tmdbId": 1258677,
-    "title": "Meteor: Day One",
-    "poster_path": "/sOLCxUXot8cDTFhXo8B7LuahWi5.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2024",
-    "release_date": "2024-06-01",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-09",
-    "id": 852
-  },
-  {
-    "ytId": "_fwePvd2IuY",
-    "tmdbId": 355309,
-    "title": "Martian Land",
-    "poster_path": "/qUe6dZIFTdyIgoyRstxthFiSwJj.jpg",
-    "genre_ids": [
-      12,
-      878,
-      28,
-      27
-    ],
-    "year": "2015",
-    "release_date": "2015-10-06",
-    "rating": 3.069,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-09",
-    "id": 851
-  },
-  {
-    "ytId": "RxTx-0EX0u4",
-    "tmdbId": 42777,
-    "title": "Laserhawk",
-    "poster_path": "/8r1FIRXvqMl8UMUQ6I0xoHMzGw9.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "year": "1997",
-    "release_date": "1997-01-29",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 850
-  },
-  {
-    "ytId": "gZVZrjVbXUo",
-    "tmdbId": 27847,
-    "title": "Universal Soldier III: Unfinished Business",
-    "poster_path": "/rAmN4ROrFlOipyccNdiltUAz0f2.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "1998",
-    "release_date": "1998-10-28",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 849
-  },
-  {
-    "ytId": "sQhL0k9PjMI",
-    "tmdbId": 10704,
-    "title": "Universal Soldier II: Brothers in Arms",
-    "poster_path": "/tOI7BWFf16QXViDOXnT2h5BCBW5.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "1998",
-    "release_date": "1998-09-27",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 848
-  },
-  {
-    "ytId": "l6Jc6Np1n7A",
-    "tmdbId": 47501,
-    "title": "Six Ways to Sunday",
-    "poster_path": "/5Y2MYk6966UCtxY1tm9d41H2LyT.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "1999",
-    "release_date": "1999-03-05",
-    "rating": 6.023,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 847
-  },
-  {
-    "ytId": "rqcEz3qTFq4",
-    "tmdbId": 21801,
-    "title": "The Slaughter Rule",
-    "poster_path": "/menXGjXgiEaawdOUlxWI1youK6Q.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2002",
-    "release_date": "2002-01-11",
-    "rating": 5.6,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 846
-  },
-  {
-    "ytId": "uLY-DtGVZeU",
-    "tmdbId": 185472,
-    "title": "Dust of War",
-    "poster_path": "/3qA2Rh7b344WwAWZgepk8a5vvha.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53
-    ],
-    "year": "2013",
-    "release_date": "2013-07-18",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 845
-  },
-  {
-    "ytId": "4-CJnuB2X-8",
-    "tmdbId": 89553,
-    "title": "TripFall",
-    "poster_path": "/oCjEUEe1X3VvGJyJwFKUVqsnbiG.jpg",
-    "genre_ids": [
-      53,
-      53
-    ],
-    "year": "2000",
-    "release_date": "2000-06-27",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 844
-  },
-  {
-    "ytId": "evTVCU30niA",
-    "tmdbId": 921384,
-    "title": "Alien Country",
-    "poster_path": "/4U6aL8CpRHO6f6GuONpHUk1C5fD.jpg",
-    "genre_ids": [
-      878,
-      27,
-      35,
-      28
-    ],
-    "year": "2024",
-    "release_date": "2024-10-25",
-    "rating": 5.391,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 843
-  },
-  {
-    "ytId": "l6MPKXGWxek",
-    "tmdbId": 1168968,
-    "title": "Highway 395",
-    "poster_path": "/rAE86J13ddQEB0SfgZ1rLHlul0D.jpg",
-    "genre_ids": [
-      28,
-      80
-    ],
-    "year": "2000",
-    "release_date": "2000-11-08",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 842
-  },
-  {
-    "ytId": "7rF2BLzT6ug",
-    "tmdbId": 213927,
-    "title": "Born to Race: Fast Track",
-    "poster_path": "/sYYQ9kS6Twvt0UcjxGLmBcq5k11.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2014",
-    "release_date": "2014-03-20",
-    "rating": 6.567,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 841
-  },
-  {
-    "ytId": "vYOGt1yWogY",
-    "tmdbId": 1183999,
-    "title": "Mythica Stormbound",
-    "poster_path": "/iBcfLL7xkvsDPg0KAVFHLkg4Hp.jpg",
-    "genre_ids": [
-      14,
-      12,
-      28
-    ],
-    "year": "2024",
-    "release_date": "2024-01-31",
-    "rating": 7.286,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 840
-  },
-  {
-    "ytId": "yCdWljI8kO0",
-    "tmdbId": 401689,
-    "title": "Mythica: The Godslayer",
-    "poster_path": "/a2RjGmJPfk3Wcb8wMoLe5dkxeMj.jpg",
-    "genre_ids": [
-      12,
-      14,
-      28
-    ],
-    "year": "2016",
-    "release_date": "2016-12-17",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 839
-  },
-  {
-    "ytId": "bQnDnetFu5U",
-    "tmdbId": 388191,
-    "title": "Mythica: The Iron Crown",
-    "poster_path": "/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "year": "2016",
-    "release_date": "2016-05-14",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-07-09",
-    "id": 838
   }
 ]
