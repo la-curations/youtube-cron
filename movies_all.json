@@ -1,5 +1,99 @@
 [
   {
+    "ytId": "gSycxsB2kbo",
+    "tmdbId": 40241,
+    "title": "The Unseen",
+    "poster_path": "/66BAwSfIef99UztzXgVBt8sNR4W.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1980",
+    "release_date": "1980-09-01",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1188
+  },
+  {
+    "ytId": "_IuC8TKhhx8",
+    "tmdbId": 409271,
+    "title": "T-Rex: Her Fight for Gold",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2016",
+    "release_date": "2016-08-02",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1187
+  },
+  {
+    "ytId": "_j9W4uUPYQo",
+    "tmdbId": 443922,
+    "title": "The Lion Guard: Unleash the Power",
+    "poster_path": "/u8fZrAR34DE29CamyDLk3TILmdB.jpg",
+    "genre_ids": [],
+    "year": "2016",
+    "release_date": "2016-01-01",
+    "rating": 9.3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1186
+  },
+  {
+    "ytId": "4u6VQ9KM3P8",
+    "tmdbId": 1664518,
+    "title": "Nightmares Unleashed 2: Joseph's Revenge",
+    "poster_path": "/nr3QUGjZxC6x1PZDU5ermW92RUK.jpg",
+    "genre_ids": [
+      14,
+      27,
+      10749,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-05-30",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1185
+  },
+  {
+    "ytId": "ElRo3As3rSY",
+    "tmdbId": 337696,
+    "title": "Deadly Waters",
+    "poster_path": "/zpnrLNEapiicZY7C3wattH6b6dr.jpg",
+    "genre_ids": [],
+    "year": "2015",
+    "release_date": "2015-06-01",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1184
+  },
+  {
+    "ytId": "Bnbo7LNaPWo",
+    "tmdbId": 1397800,
+    "title": "Steel Vengeance: Moe Unleashed",
+    "poster_path": "/hmoT8u8m28v20S8dCIjgPHflTZ9.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2024",
+    "release_date": "2024-12-05",
+    "rating": null,
+    "original_language": "sv",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1183
+  },
+  {
     "ytId": "uxK4cx-sxvU",
     "tmdbId": 145094,
     "title": "The Survival Games",
