@@ -1,5 +1,202 @@
 [
   {
+    "ytId": "3qK9LAuj9Jk",
+    "tmdbId": 16200,
+    "title": "Storm Cell",
+    "poster_path": "/hdfKZzMVyV07kyU30hQbDspsHKc.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-04-26",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1127
+  },
+  {
+    "ytId": "U9PITRynESk",
+    "tmdbId": 303267,
+    "title": "90210 Shark Attack",
+    "poster_path": "/pidOfUswEWEKP3ABR6a34ZZbsQy.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2015",
+    "release_date": "2015-02-17",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1126
+  },
+  {
+    "ytId": "r7lGxefqo80",
+    "tmdbId": 58729,
+    "title": "The Bill Collector",
+    "poster_path": "/A1wQMyboun5A9ri8BhsnliO5dtq.jpg",
+    "genre_ids": [
+      80,
+      35,
+      18
+    ],
+    "year": "2010",
+    "release_date": "2010-09-03",
+    "rating": 2.6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1125
+  },
+  {
+    "ytId": "GxmrIu2T_fw",
+    "tmdbId": 31394,
+    "title": "King of the Lost World",
+    "poster_path": "/2wWIbl85HcxvUjPjLU6Qi4dStWn.jpg",
+    "genre_ids": [
+      28,
+      18,
+      878,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-12-13",
+    "rating": 4.261,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1124
+  },
+  {
+    "ytId": "ySIc-Oajl0o",
+    "tmdbId": 495829,
+    "title": "For the Love of George",
+    "poster_path": "/fxOYRByOYU0mVDbLXq2bWlFTMFz.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-02-13",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1123
+  },
+  {
+    "ytId": "xmhJlYDlAA8",
+    "tmdbId": 29119,
+    "title": "The Female Bunch",
+    "poster_path": "/ktT6VguKjZajpLrJ8VW35MNpSXk.jpg",
+    "genre_ids": [
+      28,
+      37,
+      80,
+      18
+    ],
+    "year": "1971",
+    "release_date": "1971-09-01",
+    "rating": 4.958,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1122
+  },
+  {
+    "ytId": "YLZCrmbKccA",
+    "tmdbId": 980993,
+    "title": "Legend of the Lizard Man",
+    "poster_path": "/tq9wZxvGqU0UTWl0ldkZ1MYqzZJ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-09-30",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1121
+  },
+  {
+    "ytId": "c9zNC2RaPwI",
+    "tmdbId": 451964,
+    "title": "Evil Nanny",
+    "poster_path": "/vdVesA7NdQAUxv1Xkk0DwtVgGDu.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53,
+      10770
+    ],
+    "year": "2016",
+    "release_date": "2016-12-27",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1120
+  },
+  {
+    "ytId": "4mkOTVF28jY",
+    "tmdbId": 140839,
+    "title": "Immortal Kiss: Queen of the Night",
+    "poster_path": "/cS1DjvKJI56YKrcrlqowOQ4YTYq.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-11-01",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1119
+  },
+  {
+    "ytId": "fpT_cYcm10I",
+    "tmdbId": 29173,
+    "title": "Raiders of Atlantis",
+    "poster_path": "/qNeaKk9Wy345IvoU1h67J2IdldS.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "1983",
+    "release_date": "1983-11-25",
+    "rating": 5,
+    "original_language": "it",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1118
+  },
+  {
+    "ytId": "A6WISeMrI-k",
+    "tmdbId": 747350,
+    "title": "Drown the Clown",
+    "poster_path": "/AkhFcTDeEeiukMiOx5hN1sUtLT3.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-06-09",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1117
+  },
+  {
     "ytId": "vwPEoHzif7w",
     "tmdbId": 216794,
     "title": "Men of Means",
@@ -2346,186 +2543,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-10",
     "id": 978
-  },
-  {
-    "ytId": "atnW4D6pc-w",
-    "tmdbId": 1022103,
-    "title": "Conjuring: The Beyond",
-    "poster_path": "/dNr0mqVSLfIaPlhcmJNRJVzCQBs.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-09-13",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 977
-  },
-  {
-    "ytId": "bmxXHUXZGnw",
-    "tmdbId": 979760,
-    "title": "Tooth Fairy: Drill to Kill",
-    "poster_path": "/6M5rB39IdSOA1oE8cYcAxMUOlWW.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-10-24",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 976
-  },
-  {
-    "ytId": "R6FT9T0sS00",
-    "tmdbId": 71102,
-    "title": "Vampegeddon",
-    "poster_path": "/hRgv4mrf543iOc3b5fGzOgMxrAj.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2010",
-    "release_date": "2010-05-05",
-    "rating": 1.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 975
-  },
-  {
-    "ytId": "2mSEmkGBChg",
-    "tmdbId": 635710,
-    "title": "Scarecrow County",
-    "poster_path": "/3FalU9D3OEPH5j1Fd0nPw8qj7bD.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-10-25",
-    "rating": 9,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 974
-  },
-  {
-    "ytId": "R4KA_Vq8GJs",
-    "tmdbId": 849361,
-    "title": "Don't Say Its Name",
-    "poster_path": "/uTlQuIuAGc07liHnIeFvm0vWsMV.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2021",
-    "release_date": "2021-08-18",
-    "rating": 5.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 973
-  },
-  {
-    "ytId": "bgY6EzEHgPU",
-    "tmdbId": 10331,
-    "title": "Night of the Living Dead",
-    "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
-    "genre_ids": [
-      27,
-      53,
-      878
-    ],
-    "year": "1968",
-    "release_date": "1968-10-04",
-    "rating": 7.611,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 972
-  },
-  {
-    "ytId": "-AUhLD1dSjA",
-    "tmdbId": 597177,
-    "title": "I Am an Addict",
-    "poster_path": "/q7aTBzxvI3fGbuDEklQAqHqaXEz.jpg",
-    "genre_ids": [],
-    "year": "2019",
-    "release_date": "2019-11-16",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 971
-  },
-  {
-    "ytId": "H04QPEM9HrA",
-    "tmdbId": 40342,
-    "title": "Dèmoni 2… L'incubo ritorna",
-    "poster_path": "/pg2bgsTUGhRCkHlisnBquMFlLZU.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "1986",
-    "release_date": "1986-10-09",
-    "rating": 6.1,
-    "original_language": "it",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 970
-  },
-  {
-    "ytId": "eOww0fpAycs",
-    "tmdbId": 1065616,
-    "title": "Amityville Death Toilet",
-    "poster_path": "/r6k51hFMVgqCF5nE8m8qZ5P5qAC.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "2023",
-    "release_date": "2023-01-05",
-    "rating": 4.714,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 969
-  },
-  {
-    "ytId": "3o8ZmXZUmJo",
-    "tmdbId": 904116,
-    "title": "Amityville Karen",
-    "poster_path": "/iaRAnKpyo95dgDEJMGejWnYO5hA.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-06-21",
-    "rating": 1.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 968
-  },
-  {
-    "ytId": "fLRXAdsOFds",
-    "tmdbId": 29426,
-    "title": "Survival of the Dead",
-    "poster_path": "/2BmqSRt10J2mpJmCgZbo5YYkQLj.jpg",
-    "genre_ids": [
-      27,
-      35,
-      18,
-      53
-    ],
-    "year": "2010",
-    "release_date": "2010-05-06",
-    "rating": 4.852,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 967
   }
 ]
