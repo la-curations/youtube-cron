@@ -1,5 +1,305 @@
 [
   {
+    "ytId": "odF2AsOGFr4",
+    "tmdbId": 63736,
+    "title": "Almighty Thor",
+    "poster_path": "/tU61BDSUdYIG33BO65vbCCqZYr7.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10770
+    ],
+    "year": "2011",
+    "release_date": "2011-05-07",
+    "rating": 2.798,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1113
+  },
+  {
+    "ytId": "Dy3fDcAwblw",
+    "tmdbId": 1006437,
+    "title": "The Area 51 Incident",
+    "poster_path": "/hNLTYAdDzRRIR904ENxgKOZPc3w.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-01",
+    "rating": 4.455,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1112
+  },
+  {
+    "ytId": "q46wd6egx-4",
+    "tmdbId": 390979,
+    "title": "Paranormal Abduction",
+    "poster_path": "/cl12Pkxrwa5yS0NdjoY1VNzr4u6.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-04-08",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1111
+  },
+  {
+    "ytId": "ee3eaZa8gpY",
+    "tmdbId": 920258,
+    "title": "The Immortal Wars: Rebirth",
+    "poster_path": "/ofTnrgEwtPILNfjwk0FAx3bfwZ6.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-11-02",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1110
+  },
+  {
+    "ytId": "r8avj3MQsn4",
+    "tmdbId": 1409521,
+    "title": "Mortal Poker",
+    "poster_path": "/nYYnueVEVTu6vKDWNLIO38JF0Ct.jpg",
+    "genre_ids": [],
+    "year": "2023",
+    "release_date": "2023-10-31",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1109
+  },
+  {
+    "ytId": "hY5mRzNQQQk",
+    "tmdbId": 850111,
+    "title": "Delusions End: Breaking Free of the Matrix",
+    "poster_path": "/5sfH0dXcRrzMmuQ7tBdQl0n9PXv.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2021",
+    "release_date": "2021-07-13",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1108
+  },
+  {
+    "ytId": "egDSdJAfH70",
+    "tmdbId": 1124918,
+    "title": "Shockwaves 2",
+    "poster_path": "/A3RPUfvpDNRE0NeIgaqqcOTuf2a.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2024",
+    "release_date": "2024-01-26",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1107
+  },
+  {
+    "ytId": "N4FGkYN6YTs",
+    "tmdbId": 1118552,
+    "title": "Secret Space UFOs: Apollo 1-11",
+    "poster_path": "/sw2eXrdz4gvdFJMKyIyAz3IpjBf.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-04-04",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1106
+  },
+  {
+    "ytId": "iVk9R5V51Qo",
+    "tmdbId": 460962,
+    "title": "Alien Convergence",
+    "poster_path": "/96xgOCz2li0IiqKYcLQh5bK7CiU.jpg",
+    "genre_ids": [
+      27,
+      878,
+      28
+    ],
+    "year": "2017",
+    "release_date": "2017-06-27",
+    "rating": 3.811,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1105
+  },
+  {
+    "ytId": "94HBz-UULt4",
+    "tmdbId": 456781,
+    "title": "Boone: The Bounty Hunter",
+    "poster_path": "/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-05-09",
+    "rating": 5.123,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1104
+  },
+  {
+    "ytId": "JJwVsiOana0",
+    "tmdbId": 332754,
+    "title": "Spyfall",
+    "poster_path": "/6Tc6BasCMm7rRomSafoOwesb9Fb.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-08-27",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1103
+  },
+  {
+    "ytId": "O-a56GktnG0",
+    "tmdbId": 219897,
+    "title": "Barrio Brawler",
+    "poster_path": "/8tKjqaAHnIkVYjbvf4tgefSyOZN.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "year": "2013",
+    "release_date": "2013-08-27",
+    "rating": 4.818,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1102
+  },
+  {
+    "ytId": "aBaeSO8sxU8",
+    "tmdbId": 213826,
+    "title": "Santa's Summer House",
+    "poster_path": "/mzxUfuK2E8aZXAgeWxf1dap2Lbn.jpg",
+    "genre_ids": [
+      10751,
+      14
+    ],
+    "year": "2012",
+    "release_date": "2012-12-11",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1101
+  },
+  {
+    "ytId": "OR619GGfFuU",
+    "tmdbId": 1168304,
+    "title": "Our Christmas Love Story",
+    "poster_path": "/rcOUWJjzVJKLFhX6EbArA15tF4Q.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-12-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1100
+  },
+  {
+    "ytId": "iMs206sb0uw",
+    "tmdbId": 38989,
+    "title": "The Wives He Forgot",
+    "poster_path": "/4wqLJMLWDBWRtQbAP0zxn478odB.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10770
+    ],
+    "year": "2006",
+    "release_date": "2006-09-10",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1099
+  },
+  {
+    "ytId": "gF9P6vbIfcE",
+    "tmdbId": 300686,
+    "title": "Chloe and Theo",
+    "poster_path": "/fmjyKrH64UPndnUEkTWOOHcT5xU.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-04-15",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1098
+  },
+  {
+    "ytId": "_7HFmZQnBdE",
+    "tmdbId": 1140168,
+    "title": "Freddy's Fridays",
+    "poster_path": "/syNeotlmV6uIXBKg7dYwVpXoI7P.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-10-13",
+    "rating": 5.823,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1097
+  },
+  {
+    "ytId": "BDty1KMfqqQ",
+    "tmdbId": 526230,
+    "title": "Run to the Beach",
+    "poster_path": "/gVBuSyNA1cAVxVoerNhmGwMZhgz.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      12
+    ],
+    "year": "2018",
+    "release_date": "2018-06-28",
+    "rating": 7.5,
+    "original_language": "id",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1096
+  },
+  {
     "ytId": "G5OW61sxiZ8",
     "tmdbId": 253851,
     "title": "Shirin in Love",
@@ -2227,301 +2527,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-10",
     "id": 964
-  },
-  {
-    "ytId": "4ylexzvlxLY",
-    "tmdbId": 726343,
-    "title": "The Day of Destruction",
-    "poster_path": "/zdWwoixX0ivPKDgcMrK1FpPd7Up.jpg",
-    "genre_ids": [
-      18,
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-07-24",
-    "rating": 5.5,
-    "original_language": "ja",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 963
-  },
-  {
-    "ytId": "0RilrI0YMaE",
-    "tmdbId": 414827,
-    "title": "Siccîn 3: Cürmü Aşk",
-    "poster_path": "/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-09-02",
-    "rating": 5.645,
-    "original_language": "tr",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 962
-  },
-  {
-    "ytId": "3Vkqr3YH20k",
-    "tmdbId": 499438,
-    "title": "Ghostfinders",
-    "poster_path": "/3ZXYRFy6jBkeRe38NtqwTfdOfdZ.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "year": "2015",
-    "release_date": "2015-05-05",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 961
-  },
-  {
-    "ytId": "6yk9KauYiLI",
-    "tmdbId": 645454,
-    "title": "I Scream on the Beach!",
-    "poster_path": "/dpyH7WmyUXq16YVsh3xCgGr7ZaI.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2020",
-    "release_date": "2020-01-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 960
-  },
-  {
-    "ytId": "mCNbaiNu2yo",
-    "tmdbId": 460378,
-    "title": "กัดกระชากเกรียน",
-    "poster_path": "/zRDJIifQZnohzk5Rw73QdMRFbP4.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2017",
-    "release_date": "2017-04-27",
-    "rating": 4.313,
-    "original_language": "th",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 959
-  },
-  {
-    "ytId": "AD4rZrAWq9w",
-    "tmdbId": 46838,
-    "title": "Tucker and Dale vs. Evil",
-    "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "2010",
-    "release_date": "2010-01-22",
-    "rating": 7.399,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 958
-  },
-  {
-    "ytId": "2-H2PomCu4I",
-    "tmdbId": 306109,
-    "title": "Horror House on Highway 6",
-    "poster_path": "/n1OXpXk5OxGGykbeUDkE0sjgpFA.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2014",
-    "release_date": "2014-11-04",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 957
-  },
-  {
-    "ytId": "rB922KENPpI",
-    "tmdbId": 298835,
-    "title": "After School Massacre",
-    "poster_path": "/ywyHXnFVC8neWKWqtPa7SQLW6Rq.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2014",
-    "release_date": "2014-01-10",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 956
-  },
-  {
-    "ytId": "p_iA1x3O2uw",
-    "tmdbId": 476608,
-    "title": "Don't Let the Devil In",
-    "poster_path": "/vtIwFWCDNiu0Vp9TbGkp1W728zF.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-10-03",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 955
-  },
-  {
-    "ytId": "Nole8w6cQ_E",
-    "tmdbId": 941516,
-    "title": "Dark Night of the Scarecrow 2",
-    "poster_path": "/qGyMVSqhQNO2Re41px67RxmrzFu.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-05-10",
-    "rating": 2.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 954
-  },
-  {
-    "ytId": "x7fIv3wY5uM",
-    "tmdbId": 549639,
-    "title": "The Grave Caller",
-    "poster_path": "/6GxDlNRUv83rStiiZEmzapggqfR.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-10-01",
-    "rating": 3.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 953
-  },
-  {
-    "ytId": "VSCjcABiiJM",
-    "tmdbId": 1004691,
-    "title": "Christmas Craft Fair Massacre",
-    "poster_path": "/pJcHQ58d49ROvedisbfZlZ3eYqU.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-12-13",
-    "rating": 7,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 952
-  },
-  {
-    "ytId": "QnXICvpxb_Q",
-    "tmdbId": 854640,
-    "title": "Bundy Manor",
-    "poster_path": "/dOvVgjKEwhbYLQblR4F86UGfzO6.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-11-16",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 951
-  },
-  {
-    "ytId": "i9GUuAKvw9I",
-    "tmdbId": 709427,
-    "title": "Insight of Evil 2: Vengeance",
-    "poster_path": "/d6tVqv6poPajRMisD8dvzPjZPIm.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-10-31",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 950
-  },
-  {
-    "ytId": "Sf5bQozBnX4",
-    "tmdbId": 926827,
-    "title": "Ghosts of Amityville",
-    "poster_path": "/fRwJJXMhFHT2Xn3sZdlCLq7CHKs.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-11-21",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 949
-  },
-  {
-    "ytId": "pNg3FT8_5B8",
-    "tmdbId": 512540,
-    "title": "If I Tell You I Have to Kill You",
-    "poster_path": "/eNp8GcjVzTqProYTNYBvM1WEfvO.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      53
-    ],
-    "year": "2015",
-    "release_date": "2015-10-20",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 948
-  },
-  {
-    "ytId": "H9xbvI06YJM",
-    "tmdbId": 567898,
-    "title": "Kill Teaser",
-    "poster_path": "/r9jmhwln8sLCN8n14aSnGnYOWsk.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-06-13",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 947
-  },
-  {
-    "ytId": "n31CdCHUPEg",
-    "tmdbId": 382584,
-    "title": "Lily Grace: A Witch Story",
-    "poster_path": "/15YJ87B5xhqSVcOL7LkHjtfYe94.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2015",
-    "release_date": "2015-11-03",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-10",
-    "id": 946
   }
 ]
