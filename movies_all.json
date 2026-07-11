@@ -1,5 +1,187 @@
 [
   {
+    "ytId": "ON9uTeVN6ZA",
+    "tmdbId": 1049951,
+    "title": "Viking: Bloodlust",
+    "poster_path": "/xveBJmViwHdgjH3UQQmImkHOW7B.jpg",
+    "genre_ids": [
+      28,
+      36
+    ],
+    "year": "2023",
+    "release_date": "2023-04-21",
+    "rating": 6.931,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1138
+  },
+  {
+    "ytId": "1q9_2zJ7fNw",
+    "tmdbId": 374040,
+    "title": "The Big Sweat",
+    "poster_path": "/70vKyeDj2gTsjf6l6YWgjecTq0R.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "1991",
+    "release_date": "1991-06-05",
+    "rating": 2.667,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1137
+  },
+  {
+    "ytId": "C3aKhhAXLA0",
+    "tmdbId": 438424,
+    "title": "A Bad Idea Gone Wrong",
+    "poster_path": "/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-11-30",
+    "rating": 6.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1136
+  },
+  {
+    "ytId": "AjjZ0QzHFwo",
+    "tmdbId": 408245,
+    "title": "The Journey Is the Destination",
+    "poster_path": "/aeDZV3jD35dYSSbuZgfKWkvxRHN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-09-09",
+    "rating": 6.486,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1135
+  },
+  {
+    "ytId": "tIHXMqxeJmM",
+    "tmdbId": 401697,
+    "title": "In the Name of Ben-Hur",
+    "poster_path": "/jHUjlnbGoLZRBVPkRyChzp6cAOr.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2016",
+    "release_date": "2016-08-02",
+    "rating": 4.421,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1134
+  },
+  {
+    "ytId": "ypKm8eXnaIU",
+    "tmdbId": 68446,
+    "title": "Magma: Volcanic Disaster",
+    "poster_path": "/m5PeIUdO32mqKlfR8VTpCTR7juK.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10770
+    ],
+    "year": "2006",
+    "release_date": "2006-01-21",
+    "rating": 6.445,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1133
+  },
+  {
+    "ytId": "MxPTiQCN3Q8",
+    "tmdbId": 1154330,
+    "title": "Island of the Dolls 2",
+    "poster_path": "/oa4tGVGmlVODmvVwgp24xl7FwkF.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-26",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1132
+  },
+  {
+    "ytId": "jK2nuguMGiw",
+    "tmdbId": 1253769,
+    "title": "Texas Twister",
+    "poster_path": "/pB5WKqPFiWL9imateENXRzd9GoD.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-02-12",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1131
+  },
+  {
+    "ytId": "zjJ4I5jGps0",
+    "tmdbId": 275420,
+    "title": "Bigfoot vs. D.B. Cooper",
+    "poster_path": "/eRWVkQczgCJQT163fx6e3PQ22M2.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-06-10",
+    "rating": 2.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1130
+  },
+  {
+    "ytId": "GcHcqUNSCKY",
+    "tmdbId": 558682,
+    "title": "Post Apocalyptic Commando Shark",
+    "poster_path": "/9IaV6wycvOjoiTAXOzgnrn2UDkJ.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2018",
+    "release_date": "2018-11-02",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1129
+  },
+  {
+    "ytId": "r44Isic_xL8",
+    "tmdbId": 761452,
+    "title": "Sasquatch Among Wildmen",
+    "poster_path": "/gB9kTCYdUvO9QCpzOAiTMAiOXAv.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2020",
+    "release_date": "2020-11-10",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-11",
+    "id": 1128
+  },
+  {
     "ytId": "3qK9LAuj9Jk",
     "tmdbId": 16200,
     "title": "Storm Cell",
