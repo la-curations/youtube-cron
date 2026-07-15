@@ -1,5 +1,247 @@
 [
   {
+    "ytId": "JhvCOVas24Q",
+    "tmdbId": 424107,
+    "title": "Buried Cain",
+    "poster_path": "/kvlXwrE5sCSHuLY895mk5KCscOG.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-06-15",
+    "rating": 3.75,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1246
+  },
+  {
+    "ytId": "PfJZPxvJ4Zc",
+    "tmdbId": 10251,
+    "title": "5ive Girls",
+    "poster_path": "/9EKL1Ta42cj9rSqopfu3QJFE3G1.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-02-07",
+    "rating": 5.527,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1245
+  },
+  {
+    "ytId": "Zd6N1ZG8ldo",
+    "tmdbId": 261047,
+    "title": "P-51 Dragon Fighter",
+    "poster_path": "/tFI5QeQK2JnqFpqW2ylwhoHODfl.jpg",
+    "genre_ids": [
+      28,
+      878,
+      14
+    ],
+    "year": "2014",
+    "release_date": "2014-06-17",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1244
+  },
+  {
+    "ytId": "APVmMoX5cb4",
+    "tmdbId": 682641,
+    "title": "Blood Hunters: Rise of the Hybrids",
+    "poster_path": "/1wNYtbKO5lMYCZEncqI8fZMtvKp.jpg",
+    "genre_ids": [
+      28,
+      14,
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-11-09",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1243
+  },
+  {
+    "ytId": "LqBzChPzraU",
+    "tmdbId": 202537,
+    "title": "Fatal Call",
+    "poster_path": "/l5vGrXRNsy2dbQkhYmUNV2w8mIi.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-11-10",
+    "rating": 3.194,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1242
+  },
+  {
+    "ytId": "PmfomNb0g1o",
+    "tmdbId": 67723,
+    "title": "Universal Squadrons",
+    "poster_path": "/sEFiGZRSRt4OmrULqOKIhtCJgWj.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-11-30",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1241
+  },
+  {
+    "ytId": "GHp8-ei9WY4",
+    "tmdbId": 728069,
+    "title": "Shark Season",
+    "poster_path": "/xpnvX5ry8RDnMEPu6sznWZnepLm.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27,
+      28
+    ],
+    "year": "2020",
+    "release_date": "2020-07-28",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1240
+  },
+  {
+    "ytId": "O44f7g5CIVc",
+    "tmdbId": 875279,
+    "title": "One More Shot",
+    "poster_path": "/NwORQmefgrKPfo5eQ3gp8sVAWD.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-10-13",
+    "rating": 5.705,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1239
+  },
+  {
+    "ytId": "y31rFaaAIqo",
+    "tmdbId": 392900,
+    "title": "Kepler's Dream",
+    "poster_path": "/zUiXlRKYDeW2WwUjkpuHzJVdcau.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      35,
+      10751
+    ],
+    "year": "2016",
+    "release_date": "2016-10-07",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1238
+  },
+  {
+    "ytId": "XLDOleh6h-U",
+    "tmdbId": 55813,
+    "title": "Hot Rod Horror",
+    "poster_path": "/lji5k6nlEwX6FVI9uW8Dg0YsR5c.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-01-01",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1237
+  },
+  {
+    "ytId": "lpUGZLIlmvc",
+    "tmdbId": 806655,
+    "title": "Trespass Into Terror",
+    "poster_path": "/cQvMvcy2V9aTVdGo6pMXRWs7jhl.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-09-18",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1236
+  },
+  {
+    "ytId": "kjgwAxrUKC4",
+    "tmdbId": 411728,
+    "title": "The Professor and the Madman",
+    "poster_path": "/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
+    "genre_ids": [
+      36,
+      18,
+      9648,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-03-07",
+    "rating": 7.126,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1235
+  },
+  {
+    "ytId": "jJupxar7KXI",
+    "tmdbId": 1085541,
+    "title": "Restoration, Inc.",
+    "poster_path": "/w0d0kBO3nO8XQ6c8qLoiuvt1sNz.jpg",
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1234
+  },
+  {
+    "ytId": "3fnrCPTXbbw",
+    "tmdbId": 546388,
+    "title": "Any Bullet Will Do",
+    "poster_path": "/w3TyqdywjVQPUBEXiAjXDqMa7OY.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2018",
+    "release_date": "2018-09-04",
+    "rating": 4.825,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1233
+  },
+  {
     "ytId": "S9zoHjkC8_Y",
     "tmdbId": 1229538,
     "title": "Mindwash",
