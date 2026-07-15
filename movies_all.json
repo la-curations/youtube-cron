@@ -1,5 +1,279 @@
 [
   {
+    "ytId": "aXySr_C3_gM",
+    "tmdbId": 1198977,
+    "title": "Fighting Olympus",
+    "poster_path": "/ePrqAJctqQ4WNXnM3Teirkbnlt5.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-01-24",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1215
+  },
+  {
+    "ytId": "myygm5X-DGA",
+    "tmdbId": 448847,
+    "title": "The Hatton Garden Job",
+    "poster_path": "/oHKjxdTw0e85Vo9G3VviUihvFkV.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-04-14",
+    "rating": 5.523,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1214
+  },
+  {
+    "ytId": "B91ou-E-AAw",
+    "tmdbId": 1197998,
+    "title": "Silent as the Grave",
+    "poster_path": "/gDeXCxGd0GXrl3xiGXP9caPinhV.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "year": "2023",
+    "release_date": "2023-07-26",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1213
+  },
+  {
+    "ytId": "ceSN00iWfMs",
+    "tmdbId": 69270,
+    "title": "Super Hybrid",
+    "poster_path": "/iK3RR1bNWN99jt3EwEAqYanw6Br.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-01-28",
+    "rating": 5.124,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1212
+  },
+  {
+    "ytId": "_5NSzrGBjhU",
+    "tmdbId": 199556,
+    "title": "Absolute Deception",
+    "poster_path": "/fSKWzXaWFTxzLLbF3wAJL2qxXeb.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2013",
+    "release_date": "2013-06-10",
+    "rating": 5.113,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1211
+  },
+  {
+    "ytId": "XM4r6pic0ZI",
+    "tmdbId": 295885,
+    "title": "Infiltrators",
+    "poster_path": "/lwqIpae8asSDoX5UCTwr1YaNVTq.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-08-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1210
+  },
+  {
+    "ytId": "C_4ApYvtG18",
+    "tmdbId": 851950,
+    "title": "Big Cat Trail",
+    "poster_path": "/7I7SBv7Lx4z0BT7ga3MAI2IDNg5.jpg",
+    "genre_ids": [
+      35,
+      27,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-07-10",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1209
+  },
+  {
+    "ytId": "MSd9zca8xEI",
+    "tmdbId": 736842,
+    "title": "Royal Blossom",
+    "poster_path": "/p04DxmiQrrpyB5FfbLx6wLbEPNo.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2021",
+    "release_date": "2021-01-18",
+    "rating": 5.765,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1208
+  },
+  {
+    "ytId": "Y-zG-S0szhw",
+    "tmdbId": 283591,
+    "title": "The Secret Scripture",
+    "poster_path": "/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2017",
+    "release_date": "2017-03-23",
+    "rating": 7.233,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1207
+  },
+  {
+    "ytId": "ordhfMqxlWU",
+    "tmdbId": 1176503,
+    "title": "A New Breed of Criminal",
+    "poster_path": "/wbEspShqygMbhjuvlbmxknPZB6C.jpg",
+    "genre_ids": [
+      80
+    ],
+    "year": "2023",
+    "release_date": "2023-09-11",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1206
+  },
+  {
+    "ytId": "9rDOx8xROYU",
+    "tmdbId": 794006,
+    "title": "Loaded Monday",
+    "poster_path": "/s17aeA2UFinARl3vvyNPX7kcJhF.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2021",
+    "release_date": "2021-01-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1205
+  },
+  {
+    "ytId": "NRyi8yEX9BE",
+    "tmdbId": 1184904,
+    "title": "Unlucky to Love You",
+    "poster_path": "/3yA8Ra5KqJHq7GL29uHXl0KK3zn.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "year": "2023",
+    "release_date": "2023-11-01",
+    "rating": null,
+    "original_language": "it",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1204
+  },
+  {
+    "ytId": "zuvxyEz4-Ps",
+    "tmdbId": 475398,
+    "title": "Sinister Minister",
+    "poster_path": "/oMIcEtk6yJHhrNlEDkZRBQ6bWzp.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10770
+    ],
+    "year": "2017",
+    "release_date": "2017-09-12",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1203
+  },
+  {
+    "ytId": "_yrJ2ffzHgU",
+    "tmdbId": 1000004,
+    "title": "Purple Beatz",
+    "poster_path": "/slUooZbPJVZj69ToizFKdYHjahj.jpg",
+    "genre_ids": [
+      10749,
+      10402,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-07-07",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1202
+  },
+  {
+    "ytId": "vJKhgvzSs48",
+    "tmdbId": 248670,
+    "title": "Nightbeasts",
+    "poster_path": "/15fwGBvhrxmtwctYb6yMnWdyNAm.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-09-24",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1201
+  },
+  {
+    "ytId": "GrVgGIN92hw",
+    "tmdbId": 809929,
+    "title": "Aquarium of the Dead",
+    "poster_path": "/z12KUOHYDjNTBwb4BY5MQaIQkU0.jpg",
+    "genre_ids": [
+      27,
+      28,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-05-21",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1200
+  },
+  {
     "ytId": "YpnK3Q0HHdw",
     "tmdbId": 130267,
     "title": "Seal Team Six: The Raid on Osama Bin Laden",
