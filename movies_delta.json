@@ -1,5 +1,293 @@
 [
   {
+    "ytId": "S9zoHjkC8_Y",
+    "tmdbId": 1229538,
+    "title": "Mindwash",
+    "poster_path": "/bbmWEa3hPZByGgJu4xUr2fhLGI3.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-01-05",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1232
+  },
+  {
+    "ytId": "EXCRs9qKgzI",
+    "tmdbId": 983828,
+    "title": "Alternate Ground",
+    "poster_path": "/nU9qntzCgXtBUD953NuEXvIss8.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-11-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1231
+  },
+  {
+    "ytId": "vWXwXnWGvCQ",
+    "tmdbId": 1223050,
+    "title": "Roadkill",
+    "poster_path": "/rPkHaGP7hahvRuWs0Ckpzqt070E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-05",
+    "rating": 4.841,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1230
+  },
+  {
+    "ytId": "MntwTabMllw",
+    "tmdbId": 507818,
+    "title": "New Town Original",
+    "poster_path": "/8JsvPZuAO3mIaTHmSn5UH976CMR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-04-15",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1229
+  },
+  {
+    "ytId": "HaGiACgUDNI",
+    "tmdbId": 987361,
+    "title": "Iron Cross: The Road to Normandy",
+    "poster_path": "/sBk2b6NYVs7zGL63gzwE5R4HGyD.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2022",
+    "release_date": "2022-09-09",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1228
+  },
+  {
+    "ytId": "3PNrZfqqQXk",
+    "tmdbId": 997195,
+    "title": "Swap Out",
+    "poster_path": "/dVqK7oGjU9lRllWLuLtjZChAThV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-02-02",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1227
+  },
+  {
+    "ytId": "1VVi1_bAeCE",
+    "tmdbId": 464205,
+    "title": "Brand New Old Love",
+    "poster_path": "/juLXYoWHLN00PQwzgAOXPE6B6XQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-08-01",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1226
+  },
+  {
+    "ytId": "j6IQ2XeH9n4",
+    "tmdbId": 1203199,
+    "title": "Jacob the Baker",
+    "poster_path": "/tI2K0DqvqPRKUlhysK3mJm9wR9S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-11-10",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1225
+  },
+  {
+    "ytId": "gWz9qIV89f4",
+    "tmdbId": 109522,
+    "title": "Code 207",
+    "poster_path": "/o28b6Wcg2SAlsG9bAu91SATIzib.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      10752
+    ],
+    "year": "2012",
+    "release_date": "2012-06-05",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1224
+  },
+  {
+    "ytId": "XF33FZh5CeU",
+    "tmdbId": 1156695,
+    "title": "Sirona",
+    "poster_path": "/lwarsyKCCJiXyZGYzrnqYWi9qTm.jpg",
+    "genre_ids": [
+      878,
+      53,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-09-05",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1223
+  },
+  {
+    "ytId": "JRvGsDYWXfk",
+    "tmdbId": 921586,
+    "title": "Angel by Thursday",
+    "poster_path": "/1DudRVOKdqJD9JV6t7dbuf6tN9x.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-04-23",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1222
+  },
+  {
+    "ytId": "mp6pkxVI11I",
+    "tmdbId": 680398,
+    "title": "Transference: Escape the Dark",
+    "poster_path": "/wxFa0pQUTasf6AZIPZ0faCvp10b.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-10-02",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1221
+  },
+  {
+    "ytId": "FUbbbwIUI6Q",
+    "tmdbId": 1258643,
+    "title": "The Hive",
+    "poster_path": null,
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-03-12",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1220
+  },
+  {
+    "ytId": "bRVhdL8LKgA",
+    "tmdbId": 793896,
+    "title": "Triassic Hunt",
+    "poster_path": "/9SZSBSUugpx8Zwx6awqc8jYao2d.jpg",
+    "genre_ids": [
+      28,
+      878,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-01-29",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1219
+  },
+  {
+    "ytId": "Fn5oT-YlGLc",
+    "tmdbId": 161321,
+    "title": "The Power of Few",
+    "poster_path": "/s2gEURN3dQ2JmUjoFRD7m6Ox1rV.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-02-15",
+    "rating": 5.268,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1218
+  },
+  {
+    "ytId": "unJGqocHgIs",
+    "tmdbId": 107104,
+    "title": "Beyond the Rising Moon",
+    "poster_path": "/t1PZWUK6cnVV09TF5jUez37ZYOS.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "year": "1988",
+    "release_date": "1988-05-14",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1217
+  },
+  {
+    "ytId": "vJpU3bcbpC4",
+    "tmdbId": 1078095,
+    "title": "Trail of Justice",
+    "poster_path": "/x7PTmbzXoxhUbJOWmA33fWIZnyb.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2023",
+    "release_date": "2023-02-27",
+    "rating": 7.429,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1216
+  },
+  {
     "ytId": "aXySr_C3_gM",
     "tmdbId": 1198977,
     "title": "Fighting Olympus",
@@ -2232,290 +2520,5 @@
     "channelName": "V Movies",
     "addedAt": "2026-07-11",
     "id": 1083
-  },
-  {
-    "ytId": "4JTNGh73oto",
-    "tmdbId": 277594,
-    "title": "Hercules Reborn",
-    "poster_path": "/zustI9EStTWz2PxVmy8KvWVpJTP.jpg",
-    "genre_ids": [
-      12,
-      28
-    ],
-    "year": "2014",
-    "release_date": "2014-07-08",
-    "rating": 4.216,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1082
-  },
-  {
-    "ytId": "zBNe7VX_tSE",
-    "tmdbId": 1641511,
-    "title": "Hopkinsville: The Alien Goblins",
-    "poster_path": "/mUQpl9MDCsbD4tzUIkJiRJuiiYJ.jpg",
-    "genre_ids": [],
-    "year": "2023",
-    "release_date": "2023-04-30",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1081
-  },
-  {
-    "ytId": "z4f_4pZSgh0",
-    "tmdbId": 457710,
-    "title": "Empire of the Sharks",
-    "poster_path": "/iDLHjmy07ukULjx69v1ohB0QG52.jpg",
-    "genre_ids": [
-      878,
-      28,
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-11-04",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1080
-  },
-  {
-    "ytId": "nv6qDAaZQSI",
-    "tmdbId": 44752,
-    "title": "The Wrath of Cain",
-    "poster_path": "/n7PEY1KJUW2Pe21pUnkNKSqWuWO.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2010",
-    "release_date": "2010-11-16",
-    "rating": 5.1,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1079
-  },
-  {
-    "ytId": "RLKALLhCDFQ",
-    "tmdbId": 86703,
-    "title": "2-Headed Shark Attack",
-    "poster_path": "/elKZZhpc6fVFgMFPZaVAC4l1JdM.jpg",
-    "genre_ids": [
-      27,
-      28,
-      878,
-      35
-    ],
-    "year": "2012",
-    "release_date": "2012-06-26",
-    "rating": 4.279,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1078
-  },
-  {
-    "ytId": "DeCpf8puYk0",
-    "tmdbId": 1072071,
-    "title": "Head on a Plate",
-    "poster_path": "/yWBdqHInr5p2n0GF62htlTnEptD.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "year": "2023",
-    "release_date": "2023-11-21",
-    "rating": 1,
-    "original_language": "es",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1077
-  },
-  {
-    "ytId": "32vm0hJzy98",
-    "tmdbId": 413647,
-    "title": "Sharknado: Heart of Sharkness",
-    "poster_path": "/mzLXk4LlSYTX6NekIB5bIr4HeCh.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2016",
-    "release_date": "2016-10-06",
-    "rating": 3.2,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1076
-  },
-  {
-    "ytId": "HzxwtrEXDAI",
-    "tmdbId": 464867,
-    "title": "Operation Dunkirk",
-    "poster_path": "/1v8ve0MkTQh1K44ndLqlmK096Q6.jpg",
-    "genre_ids": [
-      10752,
-      28
-    ],
-    "year": "2017",
-    "release_date": "2017-07-04",
-    "rating": 3.9,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1075
-  },
-  {
-    "ytId": "U6pCUNJvl18",
-    "tmdbId": 506319,
-    "title": "Atlantic Rim: Resurrection",
-    "poster_path": "/oWqqfRpRlifSBed1BvVAcAU6Vfq.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "2018",
-    "release_date": "2018-05-11",
-    "rating": 2.71,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1074
-  },
-  {
-    "ytId": "lp0PEXjB5Jg",
-    "tmdbId": 14103,
-    "title": "Allan Quatermain and the Temple of Skulls",
-    "poster_path": "/slkzY0iB1CVCvrgkJiK6Tahs2Jb.jpg",
-    "genre_ids": [
-      10749,
-      12,
-      28
-    ],
-    "year": "2008",
-    "release_date": "2008-04-29",
-    "rating": 3.4,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1073
-  },
-  {
-    "ytId": "fAIO3dAe3yc",
-    "tmdbId": 568428,
-    "title": "Journey to the Forbidden Valley",
-    "poster_path": "/dySlfj9YdsUuLFIIgt03unzI0g7.jpg",
-    "genre_ids": [
-      12,
-      28,
-      14,
-      10751
-    ],
-    "year": "2017",
-    "release_date": "2017-02-01",
-    "rating": 5.4,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1072
-  },
-  {
-    "ytId": "W6C092K79jU",
-    "tmdbId": 566656,
-    "title": "More Beautiful for Having Been Broken",
-    "poster_path": "/lfxGRXKh80W9LLUVNKvrCL5uCEN.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2020",
-    "release_date": "2020-05-08",
-    "rating": 6.58,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1071
-  },
-  {
-    "ytId": "iSseY5ikcMc",
-    "tmdbId": 110122,
-    "title": "Astronaut: The Last Push",
-    "poster_path": "/auysnhVJ3ztKSLsyfCgJc2NbOxT.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2012",
-    "release_date": "2012-06-01",
-    "rating": 5.228,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1070
-  },
-  {
-    "ytId": "2fbe105a0bk",
-    "tmdbId": 482872,
-    "title": "Steampunk Samurai Biker Chick",
-    "poster_path": "/drpfHlRuTLhNlBZ6AFTwHGHqVaC.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2012",
-    "release_date": "2012-01-01",
-    "rating": 10,
-    "original_language": "es",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1069
-  },
-  {
-    "ytId": "hyKN7ULj1Bw",
-    "tmdbId": 1115309,
-    "title": "The Legend of Bass Reeves and Belle Starr",
-    "poster_path": null,
-    "genre_ids": [
-      37
-    ],
-    "year": "",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1068
-  },
-  {
-    "ytId": "l101otlCs44",
-    "tmdbId": 516579,
-    "title": "Boyne Falls",
-    "poster_path": "/mHt70oLFENHqwSz4opWS0R6pqpE.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2018",
-    "release_date": "2018-08-30",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1067
-  },
-  {
-    "ytId": "6O8U2KTLx80",
-    "tmdbId": 1106213,
-    "title": "Wolf Mountain",
-    "poster_path": "/gRBsjarhPCNv0budtWKEKT5eNjw.jpg",
-    "genre_ids": [
-      28,
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-09-20",
-    "rating": 5.3,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-11",
-    "id": 1066
   }
 ]

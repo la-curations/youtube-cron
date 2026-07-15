@@ -1,5 +1,293 @@
 [
   {
+    "ytId": "S9zoHjkC8_Y",
+    "tmdbId": 1229538,
+    "title": "Mindwash",
+    "poster_path": "/bbmWEa3hPZByGgJu4xUr2fhLGI3.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-01-05",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1232
+  },
+  {
+    "ytId": "EXCRs9qKgzI",
+    "tmdbId": 983828,
+    "title": "Alternate Ground",
+    "poster_path": "/nU9qntzCgXtBUD953NuEXvIss8.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-11-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1231
+  },
+  {
+    "ytId": "vWXwXnWGvCQ",
+    "tmdbId": 1223050,
+    "title": "Roadkill",
+    "poster_path": "/rPkHaGP7hahvRuWs0Ckpzqt070E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-05",
+    "rating": 4.841,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1230
+  },
+  {
+    "ytId": "MntwTabMllw",
+    "tmdbId": 507818,
+    "title": "New Town Original",
+    "poster_path": "/8JsvPZuAO3mIaTHmSn5UH976CMR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2005",
+    "release_date": "2005-04-15",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1229
+  },
+  {
+    "ytId": "HaGiACgUDNI",
+    "tmdbId": 987361,
+    "title": "Iron Cross: The Road to Normandy",
+    "poster_path": "/sBk2b6NYVs7zGL63gzwE5R4HGyD.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2022",
+    "release_date": "2022-09-09",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1228
+  },
+  {
+    "ytId": "3PNrZfqqQXk",
+    "tmdbId": 997195,
+    "title": "Swap Out",
+    "poster_path": "/dVqK7oGjU9lRllWLuLtjZChAThV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-02-02",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1227
+  },
+  {
+    "ytId": "1VVi1_bAeCE",
+    "tmdbId": 464205,
+    "title": "Brand New Old Love",
+    "poster_path": "/juLXYoWHLN00PQwzgAOXPE6B6XQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-08-01",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1226
+  },
+  {
+    "ytId": "j6IQ2XeH9n4",
+    "tmdbId": 1203199,
+    "title": "Jacob the Baker",
+    "poster_path": "/tI2K0DqvqPRKUlhysK3mJm9wR9S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-11-10",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1225
+  },
+  {
+    "ytId": "gWz9qIV89f4",
+    "tmdbId": 109522,
+    "title": "Code 207",
+    "poster_path": "/o28b6Wcg2SAlsG9bAu91SATIzib.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      10752
+    ],
+    "year": "2012",
+    "release_date": "2012-06-05",
+    "rating": 2.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1224
+  },
+  {
+    "ytId": "XF33FZh5CeU",
+    "tmdbId": 1156695,
+    "title": "Sirona",
+    "poster_path": "/lwarsyKCCJiXyZGYzrnqYWi9qTm.jpg",
+    "genre_ids": [
+      878,
+      53,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-09-05",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1223
+  },
+  {
+    "ytId": "JRvGsDYWXfk",
+    "tmdbId": 921586,
+    "title": "Angel by Thursday",
+    "poster_path": "/1DudRVOKdqJD9JV6t7dbuf6tN9x.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-04-23",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1222
+  },
+  {
+    "ytId": "mp6pkxVI11I",
+    "tmdbId": 680398,
+    "title": "Transference: Escape the Dark",
+    "poster_path": "/wxFa0pQUTasf6AZIPZ0faCvp10b.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-10-02",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1221
+  },
+  {
+    "ytId": "FUbbbwIUI6Q",
+    "tmdbId": 1258643,
+    "title": "The Hive",
+    "poster_path": null,
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-03-12",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1220
+  },
+  {
+    "ytId": "bRVhdL8LKgA",
+    "tmdbId": 793896,
+    "title": "Triassic Hunt",
+    "poster_path": "/9SZSBSUugpx8Zwx6awqc8jYao2d.jpg",
+    "genre_ids": [
+      28,
+      878,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-01-29",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1219
+  },
+  {
+    "ytId": "Fn5oT-YlGLc",
+    "tmdbId": 161321,
+    "title": "The Power of Few",
+    "poster_path": "/s2gEURN3dQ2JmUjoFRD7m6Ox1rV.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-02-15",
+    "rating": 5.268,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1218
+  },
+  {
+    "ytId": "unJGqocHgIs",
+    "tmdbId": 107104,
+    "title": "Beyond the Rising Moon",
+    "poster_path": "/t1PZWUK6cnVV09TF5jUez37ZYOS.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "year": "1988",
+    "release_date": "1988-05-14",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1217
+  },
+  {
+    "ytId": "vJpU3bcbpC4",
+    "tmdbId": 1078095,
+    "title": "Trail of Justice",
+    "poster_path": "/x7PTmbzXoxhUbJOWmA33fWIZnyb.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2023",
+    "release_date": "2023-02-27",
+    "rating": 7.429,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-15",
+    "id": 1216
+  },
+  {
     "ytId": "aXySr_C3_gM",
     "tmdbId": 1198977,
     "title": "Fighting Olympus",
