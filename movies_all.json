@@ -1,5 +1,202 @@
 [
   {
+    "ytId": "9WfTsM5GFL0",
+    "tmdbId": 62989,
+    "title": "Ice Quake",
+    "poster_path": "/lT5k8PPJ0VbyRmX3WViBQXBbLCP.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53,
+      10770,
+      12
+    ],
+    "year": "2010",
+    "release_date": "2010-12-11",
+    "rating": 4.841,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1271
+  },
+  {
+    "ytId": "d9YzHZcC9qY",
+    "tmdbId": 278778,
+    "title": "Dancing Ninja",
+    "poster_path": "/xp0OMl25R6twf7q9sMSVqKte3tT.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "year": "2010",
+    "release_date": "2010-06-07",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1270
+  },
+  {
+    "ytId": "r459PvR24PE",
+    "tmdbId": 517060,
+    "title": "Twin Betrayal",
+    "poster_path": "/zQvbzy2KIKVuet2XFjvMI5pz69d.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2018",
+    "release_date": "2018-04-08",
+    "rating": 4.559,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1269
+  },
+  {
+    "ytId": "KWiytD2tW6U",
+    "tmdbId": 310797,
+    "title": "The Sons of Mistletoe",
+    "poster_path": "/AbT9CM0UqXSvxJK6y87Tp2k848Y.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ],
+    "year": "2001",
+    "release_date": "2001-12-19",
+    "rating": 6.867,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1268
+  },
+  {
+    "ytId": "Un-i7ZWmuGI",
+    "tmdbId": 381820,
+    "title": "Cut Her Out",
+    "poster_path": "/x0DSUDkDNkdyF7Xr1sbm8eXMyuy.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-09-27",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1267
+  },
+  {
+    "ytId": "w4f7rMCSpfA",
+    "tmdbId": 1169391,
+    "title": "Too Much Sugar for a Dime: The Milwaukee Story",
+    "poster_path": "/dVIdmVco7uVvGUXV0wUPD31yLfo.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-10-20",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1266
+  },
+  {
+    "ytId": "LNVBzdrHRrk",
+    "tmdbId": 498945,
+    "title": "Deadly Delusion",
+    "poster_path": "/m86hEuK7E9xtXdTI0mZtUofPXgg.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2018",
+    "release_date": "2018-01-06",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1265
+  },
+  {
+    "ytId": "9p5DBA2efB0",
+    "tmdbId": 244080,
+    "title": "Assumed Killer",
+    "poster_path": "/qPfjPoZh0SRcLT5J8eSKmBlMwn9.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "year": "2013",
+    "release_date": "2013-10-14",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1264
+  },
+  {
+    "ytId": "tzSmf6eBiRE",
+    "tmdbId": 919873,
+    "title": "Arctic Void",
+    "poster_path": "/tNsiUYvnPdzue9stFpqSAcXwuMe.jpg",
+    "genre_ids": [
+      878,
+      53,
+      27,
+      18,
+      9648
+    ],
+    "year": "2022",
+    "release_date": "2022-01-14",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1263
+  },
+  {
+    "ytId": "1HFAKsTcUmE",
+    "tmdbId": 1118796,
+    "title": "Mia and the Dragon Princess",
+    "poster_path": "/bnD5pqOPxAovD5DApPUyWdXe0xI.jpg",
+    "genre_ids": [
+      28,
+      80,
+      14
+    ],
+    "year": "2023",
+    "release_date": "2023-04-21",
+    "rating": 6.367,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1262
+  },
+  {
+    "ytId": "2PH1iIsDzZM",
+    "tmdbId": 1382812,
+    "title": "Angry Spirits - Wenn die Geister erwachen",
+    "poster_path": "/7CIxK6g81wvqVUFv1jmDRGj6vD9.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-11-04",
+    "rating": null,
+    "original_language": "mn",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-16",
+    "id": 1261
+  },
+  {
     "ytId": "pAsQh5CzgP0",
     "tmdbId": 86759,
     "title": "Rosewood Lane",
