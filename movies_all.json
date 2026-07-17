@@ -1,5 +1,408 @@
 [
   {
+    "ytId": "aw_4A0W9ZXI",
+    "tmdbId": 29792,
+    "title": "Fire Serpent",
+    "poster_path": "/2sC7Pm9xBkPWaNZkHJ1Ruetskfe.jpg",
+    "genre_ids": [
+      10770,
+      27,
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-02-24",
+    "rating": 4.68,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1354
+  },
+  {
+    "ytId": "8IFYMkKWVoc",
+    "tmdbId": 178002,
+    "title": "Hidden Treasure of the Mississippi",
+    "poster_path": "/iifoQcn9vra0zpcpj9PS7eE6lbz.jpg",
+    "genre_ids": [
+      12,
+      35
+    ],
+    "year": "2008",
+    "release_date": "2008-08-30",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1353
+  },
+  {
+    "ytId": "FqnYArvnCWA",
+    "tmdbId": 36622,
+    "title": "Caved In: Prehistoric Terror",
+    "poster_path": "/rlox07SRKkf9bkU8Yv0w1iGpkjk.jpg",
+    "genre_ids": [
+      27,
+      878,
+      10770
+    ],
+    "year": "2006",
+    "release_date": "2006-01-07",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1352
+  },
+  {
+    "ytId": "nlLQTXvi87M",
+    "tmdbId": 944324,
+    "title": "The Nomad",
+    "poster_path": "/ppurOXAqtHbI2Dj4ODJLJPlSdz5.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-02-14",
+    "rating": 6.222,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1351
+  },
+  {
+    "ytId": "aHLEWyW14kU",
+    "tmdbId": 436311,
+    "title": "Slipaway",
+    "poster_path": "/hnTjYTRW29n3oFFyY3NYWU3RQDk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-02-23",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1350
+  },
+  {
+    "ytId": "ezX86NPqjME",
+    "tmdbId": 303898,
+    "title": "Cut Throat",
+    "poster_path": "/xNnmuiypUYphkSQRXWAeKDBGfNl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2002",
+    "release_date": "2002-12-17",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1349
+  },
+  {
+    "ytId": "Ax9_KlOPYU0",
+    "tmdbId": 428583,
+    "title": "Sins of Our Youth",
+    "poster_path": "/qZGCn2mekBqXvdwCtwkbCM3WUDy.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-07-31",
+    "rating": 4.676,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1348
+  },
+  {
+    "ytId": "vKpIDUngZVM",
+    "tmdbId": 857243,
+    "title": "Life Ain't Like the Movies",
+    "poster_path": "/d6Rk7YqHOILU3siwBPrDM0wgh23.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-12-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1347
+  },
+  {
+    "ytId": "0J_sJvrCH2Y",
+    "tmdbId": 833785,
+    "title": "The Forgettable Life of Liam White",
+    "poster_path": "/rhvdVhSRDO24e8yP13P1MmQO2ih.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-11-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1346
+  },
+  {
+    "ytId": "DXt0J3UKCC0",
+    "tmdbId": 620137,
+    "title": "Safe Corridor",
+    "poster_path": "/rtF0Nd7LEULvSZzuhVxzECyODyv.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "year": "2019",
+    "release_date": "2019-09-05",
+    "rating": 6.5,
+    "original_language": "ka",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1345
+  },
+  {
+    "ytId": "VxzTo4PEBXQ",
+    "tmdbId": 956835,
+    "title": "Anna and The Dead",
+    "poster_path": "/8RwwKjOP7nYhepGKIRYauRCkm20.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2015",
+    "release_date": "2015-03-31",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1344
+  },
+  {
+    "ytId": "NM7w_whlsoU",
+    "tmdbId": 980605,
+    "title": "Wrath of Van Helsing",
+    "poster_path": "/bISowtQExr3WvygNFjqPaitC730.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-06-14",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1343
+  },
+  {
+    "ytId": "uzwhAFa5tTg",
+    "tmdbId": 979757,
+    "title": "Tooth Fairy: Queen of Pain",
+    "poster_path": "/vTFd1VONxp3nhc2EDXSEbtJ4IPb.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-07-09",
+    "rating": 4.25,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1342
+  },
+  {
+    "ytId": "tSaTi4h-R1k",
+    "tmdbId": 793835,
+    "title": "The Leprechaun's Game",
+    "poster_path": "/omd0aGr8QDDr7lBqrBJ6HveFzV0.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-11-02",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1341
+  },
+  {
+    "ytId": "m4fXQgs_5Fc",
+    "tmdbId": 950925,
+    "title": "Hunting Souls",
+    "poster_path": "/rBuE76iVZObavtfWYJqvMdJMBnM.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-12-19",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1340
+  },
+  {
+    "ytId": "3oA_yE8qtYE",
+    "tmdbId": 866510,
+    "title": "Ouija Hosts",
+    "poster_path": "/kTdwHo3kk8nQ1VV68lwEs3NiO0U.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-10-25",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1339
+  },
+  {
+    "ytId": "iC4_J6okU84",
+    "tmdbId": 854867,
+    "title": "Werewolf Castle",
+    "poster_path": "/tjMjnbS3pEdlGU1I2ahb3kXCGRt.jpg",
+    "genre_ids": [
+      27,
+      14,
+      36,
+      28
+    ],
+    "year": "2022",
+    "release_date": "2022-01-31",
+    "rating": 5.065,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1338
+  },
+  {
+    "ytId": "0MRP4AdQPug",
+    "tmdbId": 719106,
+    "title": "The Curse of Hobbes House",
+    "poster_path": "/gUqVRo00JwAcsERppkciuQf3oVd.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-06-26",
+    "rating": 5.821,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1337
+  },
+  {
+    "ytId": "J0x6OtUTI8I",
+    "tmdbId": 616073,
+    "title": "Return to Horror Hotel",
+    "poster_path": "/neZSuPSMJjOo2mEiufHqM8wqXyS.jpg",
+    "genre_ids": [
+      27,
+      878,
+      35
+    ],
+    "year": "2019",
+    "release_date": "2019-06-13",
+    "rating": 6.459,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1336
+  },
+  {
+    "ytId": "19-KAY7_mZA",
+    "tmdbId": 547681,
+    "title": "Mandy the Haunted Doll",
+    "poster_path": "/mFRKNQrwNRfRPjZHtW11Kac53HC.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-06-19",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1335
+  },
+  {
+    "ytId": "QHpi-eGTYU0",
+    "tmdbId": 497090,
+    "title": "Killer Karaoke",
+    "poster_path": "/4zAmwcgWviJf57pfPuACz1b02t3.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-12-28",
+    "rating": 4.714,
+    "original_language": "th",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1334
+  },
+  {
+    "ytId": "CqnpEKqSZKo",
+    "tmdbId": 239019,
+    "title": "House of Good and Evil",
+    "poster_path": "/qzZKXW6cfKfozYE8qUy1DruD1T4.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-04-26",
+    "rating": 4.686,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1333
+  },
+  {
+    "ytId": "JWRIyn2ZH9I",
+    "tmdbId": 108435,
+    "title": "Zombie Hamlet",
+    "poster_path": "/yMGMpJYbRh2gSQuOquBoWPX4LF8.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-04-14",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1332
+  },
+  {
+    "ytId": "58Pr2OvSVwE",
+    "tmdbId": 17911,
+    "title": "Mega Shark vs. Giant Octopus",
+    "poster_path": "/cQsfCkWxK8j9MLrA4ydSMWB2Cpb.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2009",
+    "release_date": "2009-05-19",
+    "rating": 3.83,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1331
+  },
+  {
     "ytId": "yJQfP5U_L8k",
     "tmdbId": 46065,
     "title": "Knight Club",
