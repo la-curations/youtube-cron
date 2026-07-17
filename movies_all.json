@@ -1,5 +1,356 @@
 [
   {
+    "ytId": "Zznvt2K1tDA",
+    "tmdbId": 1131438,
+    "title": "Fear the Invisible Man",
+    "poster_path": "/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-06-16",
+    "rating": 6.567,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1312
+  },
+  {
+    "ytId": "esEbOZlg7IY",
+    "tmdbId": 1168303,
+    "title": "The Thursday Night Club",
+    "poster_path": "/iv5GgZvKUZRPWoconifKySkT8vd.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-11-01",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1311
+  },
+  {
+    "ytId": "av0rGUpBa-M",
+    "tmdbId": 99478,
+    "title": "I Am Zozo",
+    "poster_path": "/mS12t0TVBaw4WDVDddX6leByNph.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-02-18",
+    "rating": 5.111,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1310
+  },
+  {
+    "ytId": "LTbdyc28b3Q",
+    "tmdbId": 245522,
+    "title": "Essex Boys Retribution",
+    "poster_path": "/vGClhECelYmVPARNV35nhem3Og0.jpg",
+    "genre_ids": [
+      80
+    ],
+    "year": "2013",
+    "release_date": "2013-12-23",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1309
+  },
+  {
+    "ytId": "js8QsIl7YpE",
+    "tmdbId": 316229,
+    "title": "Zarra's Law",
+    "poster_path": "/6tQs5I1wrFMLhdznQ9LqqnXC4Mb.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2014",
+    "release_date": "2014-06-11",
+    "rating": 2.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1308
+  },
+  {
+    "ytId": "UCjLqXR_Eb0",
+    "tmdbId": 252830,
+    "title": "Puncture Wounds",
+    "poster_path": "/AwtKX0bf7fCCeBzbCcWELhADTaH.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-08-04",
+    "rating": 4.51,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1307
+  },
+  {
+    "ytId": "4ruN_FmuW50",
+    "tmdbId": 1029630,
+    "title": "Winds of Silence",
+    "poster_path": null,
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-03-15",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1306
+  },
+  {
+    "ytId": "bj2hxSLChH8",
+    "tmdbId": 76179,
+    "title": "Exorcism: The Possession of Gail Bowers",
+    "poster_path": "/vRsPbe2YsFw5wXRJrZDkBTkeHN6.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2006",
+    "release_date": "2006-01-31",
+    "rating": 4.341,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1305
+  },
+  {
+    "ytId": "j7z8IsKtSQg",
+    "tmdbId": 615017,
+    "title": "47 Hours to Live",
+    "poster_path": "/qeOoky7Xj7EevC7SGiJcIft0Ids.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-05-04",
+    "rating": 5.865,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1304
+  },
+  {
+    "ytId": "m2syIOeIQiQ",
+    "tmdbId": 888502,
+    "title": "As a Prelude to Fear",
+    "poster_path": "/jYMwFJZzA2VuPhM2uJKmWaATPgP.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-03-22",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1303
+  },
+  {
+    "ytId": "6aS6hIHSGxk",
+    "tmdbId": 639133,
+    "title": "100 Days to Live",
+    "poster_path": "/eB6nWq0dd3VGtJVKeFdYMfZ3alb.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-10-17",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1302
+  },
+  {
+    "ytId": "E6ebIU8oIIk",
+    "tmdbId": 551918,
+    "title": "Shangri-La: Near Extinction",
+    "poster_path": "/ZSoqFDcQP01J5iM6abemnSlWFl.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2018",
+    "release_date": "2018-10-02",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1301
+  },
+  {
+    "ytId": "GzoVIoy-W2Y",
+    "tmdbId": 286465,
+    "title": "Deadly Crossing",
+    "poster_path": "/iXy1InOf3qc6Y44uyzWVtDDyAWJ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "year": "2010",
+    "release_date": "2010-12-27",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1300
+  },
+  {
+    "ytId": "TBH75QCRxz0",
+    "tmdbId": 445744,
+    "title": "Inoperable",
+    "poster_path": "/bh1YhS2Zh7ZRIealeAX9HQmsKWQ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-12-01",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1299
+  },
+  {
+    "ytId": "tppdPiFofvc",
+    "tmdbId": 969160,
+    "title": "Deinfluencer",
+    "poster_path": "/tLA4839HtC5GelEsUTFFtAL2ar5.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-12-06",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1298
+  },
+  {
+    "ytId": "4jNB-PM4Odc",
+    "tmdbId": 854881,
+    "title": "The Haunting of the Tower of London",
+    "poster_path": "/3syWckCgiAcsJUjDoC4Skj3Qg2F.jpg",
+    "genre_ids": [
+      27,
+      36
+    ],
+    "year": "2022",
+    "release_date": "2022-06-27",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1297
+  },
+  {
+    "ytId": "ZPwhDBZlwgk",
+    "tmdbId": 607383,
+    "title": "AquaSlash",
+    "poster_path": "/wB8qqLIaYDkYEnjbS5hAJiTuYU6.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2019",
+    "release_date": "2019-07-29",
+    "rating": 3.952,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1296
+  },
+  {
+    "ytId": "Y2mOUaSRtrw",
+    "tmdbId": 287784,
+    "title": "A Dark Place Inside",
+    "poster_path": "/it3ytRP0YbEOwlHdfvoX18rsE2G.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-02-28",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1295
+  },
+  {
+    "ytId": "xjHzkp3tgU4",
+    "tmdbId": 546228,
+    "title": "Killer Night Shift",
+    "poster_path": "/h0Oe0k6uv8eyGJDFcPOD7yuKPm0.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2018",
+    "release_date": "2018-09-02",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1294
+  },
+  {
+    "ytId": "n2CU-FXP5PY",
+    "tmdbId": 531084,
+    "title": "Darkness Visible",
+    "poster_path": "/rG3HizKgPrzl50m58kC2pb3psv2.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-02-08",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1293
+  },
+  {
+    "ytId": "WVPFtykDWcA",
+    "tmdbId": 674564,
+    "title": "The Deep Ones",
+    "poster_path": "/c3K024gjdaLfaZb8ilbwWkgs9Hn.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-04-23",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1292
+  },
+  {
     "ytId": "gGZpOIbSxro",
     "tmdbId": 843289,
     "title": "As the Village Sleeps",
