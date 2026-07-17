@@ -1,5 +1,301 @@
 [
   {
+    "ytId": "gGZpOIbSxro",
+    "tmdbId": 843289,
+    "title": "As the Village Sleeps",
+    "poster_path": "/rs4c35X0G1aSzHZCNe4fANZoVxB.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-06-18",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1291
+  },
+  {
+    "ytId": "ciHzIuV88JY",
+    "tmdbId": 70110,
+    "title": "Turbulent Skies",
+    "poster_path": "/i5Q6MTFIg58oCjPIE20kDbi4uyQ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      10770
+    ],
+    "year": "2010",
+    "release_date": "2010-05-05",
+    "rating": 5.413,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1290
+  },
+  {
+    "ytId": "3CKqszgbxgY",
+    "tmdbId": 54606,
+    "title": "In Search of Lovecraft",
+    "poster_path": "/fLXzBpwLjFx4NeTs2NuxA3BfjMl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2008",
+    "release_date": "2008-10-04",
+    "rating": 2.278,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1289
+  },
+  {
+    "ytId": "ywUT-8OzeNk",
+    "tmdbId": 565005,
+    "title": "Assassinaut",
+    "poster_path": "/kcCdyigx1bgiusN8KKc2u9olQNa.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-07-30",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1288
+  },
+  {
+    "ytId": "85HB2Ta80TA",
+    "tmdbId": 72843,
+    "title": "Pete Smalls Is Dead",
+    "poster_path": "/b9w3GcW84IKMYEeK2dfwNhKs9La.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2010",
+    "release_date": "2010-09-17",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1287
+  },
+  {
+    "ytId": "dZVlbqHN0dw",
+    "tmdbId": 1100964,
+    "title": "Colonials",
+    "poster_path": "/ejKSVHIw1mvA2Zd0i7CgJ6xbfNO.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2024",
+    "release_date": "2024-02-22",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1286
+  },
+  {
+    "ytId": "eIV9OczYQmI",
+    "tmdbId": 423268,
+    "title": "Where The Devil Dwells",
+    "poster_path": "/djSIXITnGEQLNwTXrWP2oYHTmYk.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-01-01",
+    "rating": 4.909,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1285
+  },
+  {
+    "ytId": "0xVU9z4uaJQ",
+    "tmdbId": 1199027,
+    "title": "Behind The Veil",
+    "poster_path": "/ad85QFXJp5o3yQ33Sb117o6VDy0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-02-20",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1284
+  },
+  {
+    "ytId": "guWeN3qfC-c",
+    "tmdbId": 879879,
+    "title": "Spider in the Attic",
+    "poster_path": "/lUIs5AB0itNsQBIHwNtCpYdQW1m.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-09-19",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1283
+  },
+  {
+    "ytId": "REZS6jzYBLE",
+    "tmdbId": 1064912,
+    "title": "The Tomorrow Job",
+    "poster_path": "/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-01-13",
+    "rating": 4.714,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1282
+  },
+  {
+    "ytId": "z2aiH9Oo-hg",
+    "tmdbId": 981322,
+    "title": "Conjuring The Genie 2",
+    "poster_path": "/qGpLhlY8e8yQR6tgUo36Qktbkvz.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-14",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1281
+  },
+  {
+    "ytId": "JQX7OVmbSC0",
+    "tmdbId": 90765,
+    "title": "The 7th Hunt",
+    "poster_path": "/5rCOqcNnc0veMDYq9rHaA5l83ZN.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-01-01",
+    "rating": 1.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1280
+  },
+  {
+    "ytId": "3O7V7ZLu-eI",
+    "tmdbId": 903513,
+    "title": "Amityville Scarecrow 2",
+    "poster_path": "/v05i4Lywhth8cIE0y8EhwORGPMd.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-14",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1279
+  },
+  {
+    "ytId": "KFaHIYaxL3g",
+    "tmdbId": 481390,
+    "title": "Dances with Werewolves",
+    "poster_path": "/vWghKIaPMgTXV2EuMQmutSbtlw5.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-11-01",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1278
+  },
+  {
+    "ytId": "8_J_7ei6_Sw",
+    "tmdbId": 464756,
+    "title": "To Hell and Back: The Kane Hodder Story",
+    "poster_path": "/5o2ll3RnX3LBWTduZyiYevst4Xw.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2017",
+    "release_date": "2017-08-26",
+    "rating": 7.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1277
+  },
+  {
+    "ytId": "jOoy3UfKDgM",
+    "tmdbId": 980168,
+    "title": "The Cult of Humpty Dumpty",
+    "poster_path": "/ty1ZqYd8V0Xbfc7BkiBXHpjmk17.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-07",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1276
+  },
+  {
+    "ytId": "e6Mo8BN0Cs4",
+    "tmdbId": 980150,
+    "title": "Jack and Jill: The Hills of Hell",
+    "poster_path": "/e0dSAGJdbiSF8tRTyFB79sIbX2j.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-11-07",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1275
+  },
+  {
+    "ytId": "iv_wcg5Al9U",
+    "tmdbId": 920419,
+    "title": "Tiny Cinema",
+    "poster_path": "/haymRE8d8rCNolngLVMsJoY8Ymo.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2022",
+    "release_date": "2022-09-02",
+    "rating": 5.194,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1274
+  },
+  {
     "ytId": "P-ceHtAE0oQ",
     "tmdbId": 1256252,
     "title": "Bull Shark 3",
