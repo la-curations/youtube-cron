@@ -1,5 +1,471 @@
 [
   {
+    "ytId": "sJl8rOaEKdA",
+    "tmdbId": 1089043,
+    "title": "The Irish Mob",
+    "poster_path": "/wunUnz175JuZJPOXFKV16Ru1bZr.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "year": "2023",
+    "release_date": "2023-03-13",
+    "rating": 6.545,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1416
+  },
+  {
+    "ytId": "caCSvV7_UB8",
+    "tmdbId": 520276,
+    "title": "Last Seen in Idaho",
+    "poster_path": "/lEqxM4CNDPjeMlmVZz5XOC3wfuO.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-08-22",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1415
+  },
+  {
+    "ytId": "rykWdZvJH8o",
+    "tmdbId": 83928,
+    "title": "Gangster Exchange",
+    "poster_path": "/szpQrKYBKw6HtmaWupPKxDjdLrJ.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2010",
+    "release_date": "2010-02-19",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1414
+  },
+  {
+    "ytId": "RNBrixbbb6o",
+    "tmdbId": 832539,
+    "title": "After Masks",
+    "poster_path": "/zNQ2LnlJ4ANMwvGcRTqlSfnKKIE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-05-18",
+    "rating": 3.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1413
+  },
+  {
+    "ytId": "LeqTtPqQGcs",
+    "tmdbId": 401359,
+    "title": "Breakdown Lane",
+    "poster_path": "/nevwDR8ODeY7nqdZlEo0gqGH6ZA.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-01-05",
+    "rating": 3.607,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1412
+  },
+  {
+    "ytId": "03qxzIskwpU",
+    "tmdbId": 418808,
+    "title": "Razors: The Return of Jack the Ripper",
+    "poster_path": "/nLv9BtevXUGzoXcjaO47o0uUjQT.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "year": "2016",
+    "release_date": "2016-10-06",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1411
+  },
+  {
+    "ytId": "L2gOO7yXNu8",
+    "tmdbId": 381008,
+    "title": "Claire in Motion",
+    "poster_path": "/iXqc04lJcUTHACxMhAlChLp1BFB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-01-13",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1410
+  },
+  {
+    "ytId": "KEB2yGSI4po",
+    "tmdbId": 820678,
+    "title": "My Beautiful Bride",
+    "poster_path": "/w8tPDQX6rLF0Swr2OkPPKwthB3u.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-04-20",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1409
+  },
+  {
+    "ytId": "tUMZ84XQ9Zk",
+    "tmdbId": 1087293,
+    "title": "Dr. Kim Hunter and the Apparition",
+    "poster_path": "/lijCfySywZ6kmpkJITf6sazbrL3.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-10-13",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1408
+  },
+  {
+    "ytId": "0sAc9kOiFTo",
+    "tmdbId": 273714,
+    "title": "Ghost and Demon Children of the Damned",
+    "poster_path": null,
+    "genre_ids": [
+      99,
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1407
+  },
+  {
+    "ytId": "Kb88WBjccy4",
+    "tmdbId": 442801,
+    "title": "#FromJennifer",
+    "poster_path": "/swrWbcMzYBrXqnwRLqUaCgSSR22.jpg",
+    "genre_ids": [
+      53,
+      35,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-09-26",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1406
+  },
+  {
+    "ytId": "3-8KERAxyY8",
+    "tmdbId": 755200,
+    "title": "When the Fever Breaks",
+    "poster_path": "/4A5SCb8OHxcYfR6ZrO1bzP0zKM6.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-20",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1405
+  },
+  {
+    "ytId": "UrQzHjsRf0E",
+    "tmdbId": 27386,
+    "title": "Colour from the Dark",
+    "poster_path": "/xFx1fr1IJiPjcwiWXmcziCOXo2x.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-10-19",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1404
+  },
+  {
+    "ytId": "E6Wll8CHZrQ",
+    "tmdbId": 748224,
+    "title": "Reaptown",
+    "poster_path": "/wyN1R51euy3c2YHsyiSnc5ovF5t.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2020",
+    "release_date": "2020-09-28",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1403
+  },
+  {
+    "ytId": "ByN3TmqHHHM",
+    "tmdbId": 644688,
+    "title": "She Walks the Woods",
+    "poster_path": "/wiDyeMu2Eu46UhIp2fRzLcumWOD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-22",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1402
+  },
+  {
+    "ytId": "KfO7GicPaOc",
+    "tmdbId": 417451,
+    "title": "Reclusion",
+    "poster_path": "/yxF4SXjraOxEmywg9KelcEXjHxj.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-03-23",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1401
+  },
+  {
+    "ytId": "FcY8cevq3PQ",
+    "tmdbId": 590756,
+    "title": "New Chilling Tales: The Anthology",
+    "poster_path": "/aiwlLTIERjBApoVkB6xgL4q3Hgw.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-10-01",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1400
+  },
+  {
+    "ytId": "xAnnkVXhr78",
+    "tmdbId": 799128,
+    "title": "Mentally Apart",
+    "poster_path": "/lXiaDr6uYWWUaEy2JFnjxKBoBsT.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-07-28",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1399
+  },
+  {
+    "ytId": "dFzIGYRm8Q4",
+    "tmdbId": 657461,
+    "title": "Hinsdale House",
+    "poster_path": "/iZHufIWl6RfNx9HaflnpHqnrsxU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-12-21",
+    "rating": 2.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1398
+  },
+  {
+    "ytId": "EUlHKSbfYpM",
+    "tmdbId": 481954,
+    "title": "The Revenge of Robert",
+    "poster_path": "/9Sdw04XJLs4Lmj1O4VpA0FyZfUl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-03-06",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1397
+  },
+  {
+    "ytId": "EECRSyO67Pc",
+    "tmdbId": 376311,
+    "title": "Little Dead Rotting Hood",
+    "poster_path": "/19IlmRCJYb7kOmtYouAOUxIesnn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-01-05",
+    "rating": 3.558,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1396
+  },
+  {
+    "ytId": "xDX_7tDpq_o",
+    "tmdbId": 586097,
+    "title": "Robert Reborn",
+    "poster_path": "/eQcdgFXZ8VMwXx21iCFjeyGAoUd.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-06-04",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1395
+  },
+  {
+    "ytId": "nZTsp2nrw_Q",
+    "tmdbId": 50288,
+    "title": "House of Bones",
+    "poster_path": "/hQhYefeuo645iFUeusHmvRhVpvi.jpg",
+    "genre_ids": [
+      27,
+      10770
+    ],
+    "year": "2010",
+    "release_date": "2010-01-16",
+    "rating": 4.306,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1394
+  },
+  {
+    "ytId": "gWQqPIc_GZg",
+    "tmdbId": 564082,
+    "title": "30 Miles from Nowhere",
+    "poster_path": "/la033FX81LsiIId67AM5SEtVSXt.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2018",
+    "release_date": "2018-11-24",
+    "rating": 4.417,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1393
+  },
+  {
+    "ytId": "7CStrTTluk0",
+    "tmdbId": 84924,
+    "title": "Deadtime Stories 2",
+    "poster_path": "/37LhyOhpauaCQSpaKSuirbLSToP.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-09-20",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1392
+  },
+  {
+    "ytId": "RQva9LRBRbw",
+    "tmdbId": 645524,
+    "title": "School of the Damned",
+    "poster_path": "/rJdWXoKPoDzVwg683jfZrxNJMS5.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-11-01",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1391
+  },
+  {
+    "ytId": "LXzkchoosWs",
+    "tmdbId": 464870,
+    "title": "The Toymaker",
+    "poster_path": "/spWbyqIJcEAVbNfQxcKwLP2uavR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-08-21",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1390
+  },
+  {
+    "ytId": "_TL4xdVtYsg",
+    "tmdbId": 422472,
+    "title": "Family Possessions",
+    "poster_path": "/7RogocC00Q2BFiAPwCAGBVg6PNU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-21",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1389
+  },
+  {
     "ytId": "9vTZ1MP3fwo",
     "tmdbId": 508150,
     "title": "Mask of Thorn",
