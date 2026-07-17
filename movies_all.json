@@ -1,5 +1,307 @@
 [
   {
+    "ytId": "yJQfP5U_L8k",
+    "tmdbId": 46065,
+    "title": "Knight Club",
+    "poster_path": "/tfQhcfwsvrKdJxUjzOP1BefwN9F.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2001",
+    "release_date": "2001-02-01",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1330
+  },
+  {
+    "ytId": "CRQ3IKMpoac",
+    "tmdbId": 726876,
+    "title": "Behind the Line: Escape to Dunkirk",
+    "poster_path": "/pWEPiORjPeSNd1EX9AfKvNdv4OX.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2020",
+    "release_date": "2020-08-20",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1329
+  },
+  {
+    "ytId": "NvQ0Vv3CDk0",
+    "tmdbId": 28509,
+    "title": "Komodo vs. Cobra",
+    "poster_path": "/2dLwpe18MC3nIF5MmkWuB8waba9.jpg",
+    "genre_ids": [
+      27,
+      878,
+      10770
+    ],
+    "year": "2005",
+    "release_date": "2005-08-19",
+    "rating": 4.072,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1328
+  },
+  {
+    "ytId": "v7YKDycfpUQ",
+    "tmdbId": 1108771,
+    "title": "Magdala Rose",
+    "poster_path": "/mPSvZJvyURbu3VAeYOZYqMsFgsv.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-11-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1327
+  },
+  {
+    "ytId": "IJZ19v90xmY",
+    "tmdbId": 27391,
+    "title": "Polar Storm",
+    "poster_path": "/mD7nAZXnkIYJ6T4c1xOyK9qxRO8.jpg",
+    "genre_ids": [
+      28,
+      878,
+      10770
+    ],
+    "year": "2009",
+    "release_date": "2009-03-28",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1326
+  },
+  {
+    "ytId": "HpnYW5Vh2P0",
+    "tmdbId": 293223,
+    "title": "Judicial Indiscretion",
+    "poster_path": "/gbyxkt4bfqN2iu2T9hiINnr0jIR.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-04-09",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1325
+  },
+  {
+    "ytId": "-AV0YN1CO_Q",
+    "tmdbId": 403232,
+    "title": "Vigilante Diaries",
+    "poster_path": "/g3Cvy8zoa1GIvin213cAvPaXlHw.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-09-01",
+    "rating": 4.238,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-17",
+    "id": 1324
+  },
+  {
+    "ytId": "zMUl80ejLOg",
+    "tmdbId": 688343,
+    "title": "The Curse of Audrey Earnshaw",
+    "poster_path": "/kMVxPRyDuod7479mTykw4SPHMQN.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2020",
+    "release_date": "2020-09-30",
+    "rating": 5.422,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1323
+  },
+  {
+    "ytId": "hwdGxT1i-rQ",
+    "tmdbId": 340193,
+    "title": "The Horror of The Dolls",
+    "poster_path": null,
+    "genre_ids": [
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-01-01",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1322
+  },
+  {
+    "ytId": "nY7icqnIA9A",
+    "tmdbId": 481952,
+    "title": "Werewolves of the Third Reich",
+    "poster_path": "/v0STupjcDiX6TeyfkxXWMxEOSyW.jpg",
+    "genre_ids": [
+      27,
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-02-05",
+    "rating": 2.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1321
+  },
+  {
+    "ytId": "KOeSPl8HJ80",
+    "tmdbId": 846278,
+    "title": "Amityville Cult",
+    "poster_path": "/lQ7Sncm72MD9QdOPxFSqIoZMGkX.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-08-27",
+    "rating": 2.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1320
+  },
+  {
+    "ytId": "ZmMG8MRgZ9U",
+    "tmdbId": 710217,
+    "title": "A Werewolf in England",
+    "poster_path": "/tkCUc5l4vPrW09D0ipdnTQusC68.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2020",
+    "release_date": "2020-09-28",
+    "rating": 5.689,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1319
+  },
+  {
+    "ytId": "n22FL1sNR78",
+    "tmdbId": 511813,
+    "title": "Cannibals and Carpet Fitters",
+    "poster_path": "/iJLf6zLiJ4yeTTKyANyqIjUEWRT.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-12-15",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1318
+  },
+  {
+    "ytId": "RsMorBrtdCI",
+    "tmdbId": 303793,
+    "title": "High School Possession",
+    "poster_path": "/hTG5kZ2MW5T19XV7tefsZQhK8FF.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-10-25",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1317
+  },
+  {
+    "ytId": "iLcZK9ArVuU",
+    "tmdbId": 621254,
+    "title": "Dead Don't Die in Dallas",
+    "poster_path": "/kHtl2iYRqgSmeSK71AY6Js7EcnQ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-03-29",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1316
+  },
+  {
+    "ytId": "_OiS4XaTsSQ",
+    "tmdbId": 520963,
+    "title": "Bad Candy",
+    "poster_path": "/9HRQiPxTGsUpP9hqCC1R5D1gQZT.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-09-10",
+    "rating": 4.42,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1315
+  },
+  {
+    "ytId": "UBRK3pWLo7I",
+    "tmdbId": 803142,
+    "title": "The Haunting of Hythe House",
+    "poster_path": "/i0jts80KvEyAuU2nKJuDR6md2Rr.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-06-12",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1314
+  },
+  {
+    "ytId": "YNRpI6hv7q4",
+    "tmdbId": 729740,
+    "title": "Widow's Point",
+    "poster_path": "/fYSdF0meXnX7gfOq3PuhDgeXf0A.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-08-24",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-17",
+    "id": 1313
+  },
+  {
     "ytId": "Zznvt2K1tDA",
     "tmdbId": 1131438,
     "title": "Fear the Invisible Man",
