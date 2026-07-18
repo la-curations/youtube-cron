@@ -1,5 +1,197 @@
 [
   {
+    "ytId": "Vo1-LpsiJDA",
+    "tmdbId": 393643,
+    "title": "Arachnicide",
+    "poster_path": "/mXn17eTG0WVwp3xjmanWfZIWy6l.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-04-27",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1496
+  },
+  {
+    "ytId": "vN9dT97COvg",
+    "tmdbId": 256284,
+    "title": "Apocalypse Pompeii",
+    "poster_path": "/6hlmot2yGQEiRruT8hOAkoo7fUe.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-02-18",
+    "rating": 4.668,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1495
+  },
+  {
+    "ytId": "fUCBZ0AxnMo",
+    "tmdbId": 103433,
+    "title": "Hillside Cannibals",
+    "poster_path": "/nbkhp5aidYJg66ddMeOq4Hwsk5j.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-03-28",
+    "rating": 2.983,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1494
+  },
+  {
+    "ytId": "EqqjR5PjaxE",
+    "tmdbId": 319847,
+    "title": "Hansel Vs. Gretel",
+    "poster_path": "/8jYPMf30EzP9RubmwPWA0iDj6IQ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2015",
+    "release_date": "2015-01-20",
+    "rating": 3.914,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1493
+  },
+  {
+    "ytId": "QP6CIDAnaJg",
+    "tmdbId": 35710,
+    "title": "Snakes on a Train",
+    "poster_path": "/dzNOdGwtMMq8NKBjxkd2yG59NJV.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-08-15",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1492
+  },
+  {
+    "ytId": "cxFuuDLUTdM",
+    "tmdbId": 22515,
+    "title": "Death Racers",
+    "poster_path": "/tgbTNDNH60x5xDkGgMR3eceiyix.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      878,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-09-28",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1491
+  },
+  {
+    "ytId": "ocHrtIVCIis",
+    "tmdbId": 98948,
+    "title": "Abraham Lincoln vs. Zombies",
+    "poster_path": "/kcrZQxlzyCepVGqvWvWSm67JFhL.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-05-29",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1490
+  },
+  {
+    "ytId": "6j83fbgJC0Y",
+    "tmdbId": 197624,
+    "title": "AE: Apocalypse Earth",
+    "poster_path": "/ihAsEjCSn11rJi1fYzf2BC1M83b.jpg",
+    "genre_ids": [
+      10770,
+      878
+    ],
+    "year": "2013",
+    "release_date": "2013-05-28",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1489
+  },
+  {
+    "ytId": "WH-0Y6L-KU8",
+    "tmdbId": 419326,
+    "title": "The Night Visitor 2: Heather's Story",
+    "poster_path": "/g25rCrPdSlgRqG2L9zgrKMMulqX.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-04",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1488
+  },
+  {
+    "ytId": "vFAyrEO_Qmo",
+    "tmdbId": 57313,
+    "title": "8213: Gacy House",
+    "poster_path": "/cyXzvGMAMJzQqCp13oRt3BG1vYx.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      80
+    ],
+    "year": "2010",
+    "release_date": "2010-09-28",
+    "rating": 3.473,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1487
+  },
+  {
+    "ytId": "Q-KKfCQAY3s",
+    "tmdbId": 70574,
+    "title": "A Haunting in Salem",
+    "poster_path": "/1csYnDawo4SW9zmPFpbhW2SF1nF.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-08-23",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1486
+  },
+  {
     "ytId": "coABa7iMgcw",
     "tmdbId": 546473,
     "title": "The Girl in the Crawlspace",
@@ -2333,189 +2525,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-17",
     "id": 1347
-  },
-  {
-    "ytId": "0J_sJvrCH2Y",
-    "tmdbId": 833785,
-    "title": "The Forgettable Life of Liam White",
-    "poster_path": "/rhvdVhSRDO24e8yP13P1MmQO2ih.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2021",
-    "release_date": "2021-11-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1346
-  },
-  {
-    "ytId": "DXt0J3UKCC0",
-    "tmdbId": 620137,
-    "title": "Safe Corridor",
-    "poster_path": "/rtF0Nd7LEULvSZzuhVxzECyODyv.jpg",
-    "genre_ids": [
-      18,
-      10752
-    ],
-    "year": "2019",
-    "release_date": "2019-09-05",
-    "rating": 6.5,
-    "original_language": "ka",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1345
-  },
-  {
-    "ytId": "VxzTo4PEBXQ",
-    "tmdbId": 956835,
-    "title": "Anna and The Dead",
-    "poster_path": "/8RwwKjOP7nYhepGKIRYauRCkm20.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2015",
-    "release_date": "2015-03-31",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1344
-  },
-  {
-    "ytId": "NM7w_whlsoU",
-    "tmdbId": 980605,
-    "title": "Wrath of Van Helsing",
-    "poster_path": "/bISowtQExr3WvygNFjqPaitC730.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-06-14",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1343
-  },
-  {
-    "ytId": "uzwhAFa5tTg",
-    "tmdbId": 979757,
-    "title": "Tooth Fairy: Queen of Pain",
-    "poster_path": "/vTFd1VONxp3nhc2EDXSEbtJ4IPb.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2022",
-    "release_date": "2022-07-09",
-    "rating": 4.25,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1342
-  },
-  {
-    "ytId": "tSaTi4h-R1k",
-    "tmdbId": 793835,
-    "title": "The Leprechaun's Game",
-    "poster_path": "/omd0aGr8QDDr7lBqrBJ6HveFzV0.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-11-02",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1341
-  },
-  {
-    "ytId": "m4fXQgs_5Fc",
-    "tmdbId": 950925,
-    "title": "Hunting Souls",
-    "poster_path": "/rBuE76iVZObavtfWYJqvMdJMBnM.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2024",
-    "release_date": "2024-12-19",
-    "rating": 3.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1340
-  },
-  {
-    "ytId": "3oA_yE8qtYE",
-    "tmdbId": 866510,
-    "title": "Ouija Hosts",
-    "poster_path": "/kTdwHo3kk8nQ1VV68lwEs3NiO0U.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-10-25",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1339
-  },
-  {
-    "ytId": "iC4_J6okU84",
-    "tmdbId": 854867,
-    "title": "Werewolf Castle",
-    "poster_path": "/tjMjnbS3pEdlGU1I2ahb3kXCGRt.jpg",
-    "genre_ids": [
-      27,
-      14,
-      36,
-      28
-    ],
-    "year": "2022",
-    "release_date": "2022-01-31",
-    "rating": 5.065,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1338
-  },
-  {
-    "ytId": "0MRP4AdQPug",
-    "tmdbId": 719106,
-    "title": "The Curse of Hobbes House",
-    "poster_path": "/gUqVRo00JwAcsERppkciuQf3oVd.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-06-26",
-    "rating": 5.821,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1337
-  },
-  {
-    "ytId": "J0x6OtUTI8I",
-    "tmdbId": 616073,
-    "title": "Return to Horror Hotel",
-    "poster_path": "/neZSuPSMJjOo2mEiufHqM8wqXyS.jpg",
-    "genre_ids": [
-      27,
-      878,
-      35
-    ],
-    "year": "2019",
-    "release_date": "2019-06-13",
-    "rating": 6.459,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1336
   }
 ]
