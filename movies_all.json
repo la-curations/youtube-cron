@@ -1,5 +1,330 @@
 [
   {
+    "ytId": "iPH8sFsqjeU",
+    "tmdbId": 635968,
+    "title": "The Curse of Halloween Jack",
+    "poster_path": "/aLJ90HNKk2uuRTm7qi805AHaU2k.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-01",
+    "rating": 3.697,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1435
+  },
+  {
+    "ytId": "CgQy4yxY47Y",
+    "tmdbId": 699351,
+    "title": "5G Zombies",
+    "poster_path": "/9NIsRwHdojUsAqPGPAyZmtgF49u.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-05-01",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1434
+  },
+  {
+    "ytId": "pgqEW8Cwjec",
+    "tmdbId": 68485,
+    "title": "The Legend of the Psychotic Forest Ranger",
+    "poster_path": "/pcAdy4i21sbtFEPfht2sYM7IjUb.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-08-17",
+    "rating": 1.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1433
+  },
+  {
+    "ytId": "6iPU-0q2Me0",
+    "tmdbId": 179473,
+    "title": "Compound Fracture",
+    "poster_path": "/jCj4NvKOf62dEsgfs2QrOgfznp4.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-03-14",
+    "rating": 4.273,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1432
+  },
+  {
+    "ytId": "qv2iFZlOCgY",
+    "tmdbId": 572426,
+    "title": "Cleavers: Killer Clowns",
+    "poster_path": "/xuELqV53tTv506PLcktTyE7oKhU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-03-31",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1431
+  },
+  {
+    "ytId": "BgKgzze8T9Y",
+    "tmdbId": 28429,
+    "title": "The Texas Chainsaw Massacre: A Family Portrait",
+    "poster_path": "/z9lFUJa1A1f2xHxrweHAt2bRzK.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "1988",
+    "release_date": "1988-01-01",
+    "rating": 6.281,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1430
+  },
+  {
+    "ytId": "3qAsBDqqrgc",
+    "tmdbId": 39368,
+    "title": "Flu Bird Horror",
+    "poster_path": "/wtkmyFE3U9ThIU1vmUDGQSK8o12.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2008",
+    "release_date": "2008-08-23",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1429
+  },
+  {
+    "ytId": "3FfVIV945rQ",
+    "tmdbId": 10062,
+    "title": "UKM: The Ultimate Killing Machine",
+    "poster_path": "/uLz0orq5ebcy06E64muwih2DLoU.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2006",
+    "release_date": "2006-11-21",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1428
+  },
+  {
+    "ytId": "UoDw9aEgUBg",
+    "tmdbId": 619189,
+    "title": "The Manson Family Massacre",
+    "poster_path": "/r1jzT5lb6kb3LSD80ElJl8vsN44.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-08-05",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1427
+  },
+  {
+    "ytId": "Oas7C9u7T_g",
+    "tmdbId": 463737,
+    "title": "Granny of the Dead",
+    "poster_path": "/va7WbTff01IwRT8YDDq79kpLMys.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-07-14",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1426
+  },
+  {
+    "ytId": "E4Y5UGDniZk",
+    "tmdbId": 400649,
+    "title": "Attack of the Killer Donuts",
+    "poster_path": "/jYvWEvt9k2Zn2g5kCjicu51E6Pt.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-07-17",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1425
+  },
+  {
+    "ytId": "u4BxRsbLwvs",
+    "tmdbId": 383788,
+    "title": "Attack of the Lederhosen Zombies",
+    "poster_path": "/lhTROo0nUrUnc8eK0qbowdOOWKM.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-12-01",
+    "rating": 4.6,
+    "original_language": "de",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1424
+  },
+  {
+    "ytId": "fa9Wu82jCHc",
+    "tmdbId": 506251,
+    "title": "The Haunting of Borley Rectory",
+    "poster_path": "/pZWpDWvL7sY9Q8TNvt67ucMGW5Q.jpg",
+    "genre_ids": [
+      27,
+      18,
+      14,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-02-25",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1423
+  },
+  {
+    "ytId": "4kA65nhY4DQ",
+    "tmdbId": 695564,
+    "title": "The Jonestown Haunting",
+    "poster_path": "/cMWpArep0yrVtt9i2tLymn8kxTJ.jpg",
+    "genre_ids": [
+      80,
+      27,
+      18,
+      9648
+    ],
+    "year": "2020",
+    "release_date": "2020-06-16",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1422
+  },
+  {
+    "ytId": "nqshbKG8vfo",
+    "tmdbId": 628468,
+    "title": "The Utah Cabin Murders",
+    "poster_path": "/bo24RIoihcmLvcFKQzRLlUyDxmd.jpg",
+    "genre_ids": [
+      27,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-09-03",
+    "rating": 4.62,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1421
+  },
+  {
+    "ytId": "HL4Aj8s8hYE",
+    "tmdbId": 138544,
+    "title": "American Horror House",
+    "poster_path": "/sZzJwqbrfKvGXTIhXGDwlJUEtM5.jpg",
+    "genre_ids": [
+      27,
+      10770
+    ],
+    "year": "2012",
+    "release_date": "2012-10-13",
+    "rating": 5.942,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1420
+  },
+  {
+    "ytId": "dyMRooUEHVw",
+    "tmdbId": 407365,
+    "title": "I Had A Bloody Good Time At House Harker",
+    "poster_path": "/9DqTtR5SZLVg9pwziEwBhClDuxZ.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-08",
+    "rating": 5.54,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1419
+  },
+  {
+    "ytId": "xby7OHt1czc",
+    "tmdbId": 631322,
+    "title": "Silhouette",
+    "poster_path": "/ihhlUtkQNWMoDJt5b7gmUTSoPpD.jpg",
+    "genre_ids": [
+      27,
+      18,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-01-28",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1418
+  },
+  {
+    "ytId": "DO8XbTRBgsQ",
+    "tmdbId": 521720,
+    "title": "Avengers Grimm: Time Wars",
+    "poster_path": "/nNlDEQ4ksXpzpu3M230Yba6zMQv.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "year": "2018",
+    "release_date": "2018-05-01",
+    "rating": 5.08,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1417
+  },
+  {
     "ytId": "sJl8rOaEKdA",
     "tmdbId": 1089043,
     "title": "The Irish Mob",
