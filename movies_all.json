@@ -1,5 +1,209 @@
 [
   {
+    "ytId": "9Sgk9bh6vRQ",
+    "tmdbId": 738542,
+    "title": "The Haunting of Margam Castle",
+    "poster_path": "/r2BlIxjAaj0WERGrIehnczNE0On.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-09-01",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1447
+  },
+  {
+    "ytId": "plOughbiUWA",
+    "tmdbId": 468436,
+    "title": "Bride of Violence",
+    "poster_path": "/hswA0P9EDlA5G4ZV6ZZQHgS5o2T.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-10-11",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1446
+  },
+  {
+    "ytId": "wi-bXwhQMwk",
+    "tmdbId": 801557,
+    "title": "Cannibal Troll",
+    "poster_path": "/o1VO6eYoldYkHppaEbp3hYW701N.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-06-06",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1445
+  },
+  {
+    "ytId": "dOhRQCHyghc",
+    "tmdbId": 376563,
+    "title": "The Hours Till Daylight",
+    "poster_path": "/s5N9rt7OAW1BPRmETNpYPRLtNzN.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-03-15",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1444
+  },
+  {
+    "ytId": "_hpCvZHeuh0",
+    "tmdbId": 143142,
+    "title": "Axe Giant: The Wrath of Paul Bunyan",
+    "poster_path": "/t70xyv1Ho9qBjTsoOFHCYIa7BNG.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "year": "2013",
+    "release_date": "2013-04-25",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1443
+  },
+  {
+    "ytId": "p0oxMw_VU7s",
+    "tmdbId": 419548,
+    "title": "Krampus 2: The Devil Returns",
+    "poster_path": "/vRvTYDZ08mbXOPKx9tdYWNXdu9w.jpg",
+    "genre_ids": [
+      53,
+      28,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-04",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1442
+  },
+  {
+    "ytId": "veXy4lO7zkk",
+    "tmdbId": 16268,
+    "title": "War of the Worlds 2: The Next Wave",
+    "poster_path": "/cgvjzr1Ce6jTjmg4Z3Qt0hxCaYA.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "year": "2008",
+    "release_date": "2008-02-01",
+    "rating": 3.618,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1441
+  },
+  {
+    "ytId": "qkE4b-TctJ4",
+    "tmdbId": 275985,
+    "title": "The Coed and the Zombie Stoner",
+    "poster_path": "/rPuhlG7h6bovUnSs9ce3yxjvkgw.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2014",
+    "release_date": "2014-04-18",
+    "rating": 3.862,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1440
+  },
+  {
+    "ytId": "qMnvttUvZIA",
+    "tmdbId": 278313,
+    "title": "Stoner Express",
+    "poster_path": "/o9VS2NeANWRIwkI9vlxeSFWX0NH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2016",
+    "release_date": "2016-08-19",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1439
+  },
+  {
+    "ytId": "bGVeqW94Fjo",
+    "tmdbId": 295413,
+    "title": "The Midnight Horror Show",
+    "poster_path": "/3B2vVIessLg30GHt7kUCIhFkvM.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-09-08",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1438
+  },
+  {
+    "ytId": "jh604972pT4",
+    "tmdbId": 381089,
+    "title": "Bodkin Ras",
+    "poster_path": "/aeAcydiutAORjcprLe9CI5B0stp.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-03-10",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1437
+  },
+  {
+    "ytId": "bwnj_OEb840",
+    "tmdbId": 132099,
+    "title": "Adopting Terror",
+    "poster_path": "/cVPbyjTCFzpv4ZH4bFBK508o1KV.jpg",
+    "genre_ids": [
+      53,
+      10770,
+      80
+    ],
+    "year": "2012",
+    "release_date": "2012-04-07",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1436
+  },
+  {
     "ytId": "iPH8sFsqjeU",
     "tmdbId": 635968,
     "title": "The Curse of Halloween Jack",
