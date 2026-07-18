@@ -1,5 +1,368 @@
 [
   {
+    "ytId": "coABa7iMgcw",
+    "tmdbId": 546473,
+    "title": "The Girl in the Crawlspace",
+    "poster_path": "/7dLeFKVF8JTkF1XVPEOXxJFCRmc.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-09-29",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1485
+  },
+  {
+    "ytId": "CCd4D5oYOJg",
+    "tmdbId": 631689,
+    "title": "Scare Attraction",
+    "poster_path": "/5j5hVmC6hqtbluwctauPVlULep7.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-10-14",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1484
+  },
+  {
+    "ytId": "RQ8tG8uqYc4",
+    "tmdbId": 708336,
+    "title": "Return of the Tooth Fairy",
+    "poster_path": "/n8XFS2FVStaBPS2vLqUuH2bAjVf.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-06-15",
+    "rating": 6.46,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1483
+  },
+  {
+    "ytId": "xGRTiQsuuPM",
+    "tmdbId": 763345,
+    "title": "Terror at Bigfoot Pond",
+    "poster_path": "/nC6BrXcTPSNyJA8fYUftO3lAoLV.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-09-10",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1482
+  },
+  {
+    "ytId": "IGFE5cAEbBk",
+    "tmdbId": 517098,
+    "title": "Atelophobia: Chapter 2",
+    "poster_path": "/rIbLag0hUcHZkzbuJPmMdY0YMyD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-04-08",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1481
+  },
+  {
+    "ytId": "4E6azbRi2SM",
+    "tmdbId": 737586,
+    "title": "The Trees Have Eyes",
+    "poster_path": "/oPNUbDbRXUbYDQU4hfQNSWkhp3T.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-07-21",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1480
+  },
+  {
+    "ytId": "_P6d6nC6eBI",
+    "tmdbId": 750121,
+    "title": "Witches of Amityville",
+    "poster_path": "/9xL5kkQXNRLtRCXBT3MyPyv0gWG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-10-02",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1479
+  },
+  {
+    "ytId": "JNSEJEr_D80",
+    "tmdbId": 76666,
+    "title": "Invasion of the Pod People",
+    "poster_path": "/9PCIc4RSkyFCHl06RlKBnJBk2oG.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2007",
+    "release_date": "2007-07-24",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1478
+  },
+  {
+    "ytId": "RBD3UOyuheU",
+    "tmdbId": 613607,
+    "title": "Anna 2",
+    "poster_path": "/jlqnp8lXTbjqLNrPq9FEJQX0rGt.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-01-03",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1477
+  },
+  {
+    "ytId": "tlgmW5KCmR0",
+    "tmdbId": 735253,
+    "title": "Bad Nun: Deadly Vows",
+    "poster_path": "/2MCRbZy8iLHpCUX8yxe0v0JXsqn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-08-18",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1476
+  },
+  {
+    "ytId": "1YVb0YmreeM",
+    "tmdbId": 120478,
+    "title": "The Haunting of Whaley House",
+    "poster_path": "/kvwBbq5GYqBsMQ2s19o1Z13A9It.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-07-31",
+    "rating": 4.483,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1475
+  },
+  {
+    "ytId": "Yh9nL0kYQNk",
+    "tmdbId": 539489,
+    "title": "House of Sweat and Tears",
+    "poster_path": "/pI97vPM6sno0SV2ygxCMSBKJgKA.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-09-21",
+    "rating": 7,
+    "original_language": "es",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1474
+  },
+  {
+    "ytId": "ngVAGaWhDOc",
+    "tmdbId": 95480,
+    "title": "Flesh, TX",
+    "poster_path": "/p2QeynnpcZEsI3h2gkrWGVfgSE7.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2009",
+    "release_date": "2009-09-29",
+    "rating": 1.667,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1473
+  },
+  {
+    "ytId": "I0bLsWETWFY",
+    "tmdbId": 36531,
+    "title": "The Death Factory: Bloodletting",
+    "poster_path": "/tbB6KAFGoltgLLkTF5ADpEqYSUZ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2008",
+    "release_date": "2008-05-07",
+    "rating": 2.6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1472
+  },
+  {
+    "ytId": "kicEk7OhOlk",
+    "tmdbId": 18441,
+    "title": "Death of a Ghost Hunter",
+    "poster_path": "/YNQw2Qw4UW9m5qb5iB4SppNyYi.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-10-28",
+    "rating": 4.042,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1471
+  },
+  {
+    "ytId": "JV4UowzYvf8",
+    "tmdbId": 55073,
+    "title": "Destined to be Ingested",
+    "poster_path": "/6Yday16M3RwpnSqQPlJ1QiOobGv.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "year": "2008",
+    "release_date": "2008-10-29",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1470
+  },
+  {
+    "ytId": "USQfz4dbpuM",
+    "tmdbId": 464676,
+    "title": "Madam Yankelova's Fine Literature Club",
+    "poster_path": "/oIjmepzEtreGjV0jsgVYtNLp9EM.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-06-15",
+    "rating": 5.1,
+    "original_language": "he",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1469
+  },
+  {
+    "ytId": "gT4ewwKtTwU",
+    "tmdbId": 297455,
+    "title": "A Haunting at Preston Castle",
+    "poster_path": "/4MSuSWLynMS4MMXmOUpLPBlg2mR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-11-03",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1468
+  },
+  {
+    "ytId": "U-0z1jMxvhA",
+    "tmdbId": 440294,
+    "title": "Like a Bat Outta Hell",
+    "poster_path": "/93LRI7gPsmTVqvfwsVKbGC7ISxa.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2013",
+    "release_date": "2013-04-28",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1467
+  },
+  {
+    "ytId": "EjK1PSc2R0M",
+    "tmdbId": 538350,
+    "title": "Angels vs. Zombies",
+    "poster_path": "/AtalDmanGqTbUBUdIczkRiEQrmW.jpg",
+    "genre_ids": [
+      27,
+      14,
+      28
+    ],
+    "year": "2018",
+    "release_date": "2018-03-29",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1466
+  },
+  {
+    "ytId": "Mk8e0kZsVe0",
+    "tmdbId": 345003,
+    "title": "10 Days in a Madhouse",
+    "poster_path": "/iTvJ5tc6Os90JXza9XfDktYlAOj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-11-20",
+    "rating": 4.583,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1465
+  },
+  {
+    "ytId": "V_J-1flPfjI",
+    "tmdbId": 452021,
+    "title": "The Coffin Footage",
+    "poster_path": "/hTGhl8ti0cwfjB6In22FQTPzz2T.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2016",
+    "release_date": "2016-01-10",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1464
+  },
+  {
     "ytId": "Mh_D7IkAW6Q",
     "tmdbId": 621914,
     "title": "Arctic Apocalypse",
@@ -2154,374 +2517,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-17",
     "id": 1336
-  },
-  {
-    "ytId": "19-KAY7_mZA",
-    "tmdbId": 547681,
-    "title": "Mandy the Haunted Doll",
-    "poster_path": "/mFRKNQrwNRfRPjZHtW11Kac53HC.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-06-19",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1335
-  },
-  {
-    "ytId": "QHpi-eGTYU0",
-    "tmdbId": 497090,
-    "title": "Killer Karaoke",
-    "poster_path": "/4zAmwcgWviJf57pfPuACz1b02t3.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-12-28",
-    "rating": 4.714,
-    "original_language": "th",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1334
-  },
-  {
-    "ytId": "CqnpEKqSZKo",
-    "tmdbId": 239019,
-    "title": "House of Good and Evil",
-    "poster_path": "/qzZKXW6cfKfozYE8qUy1DruD1T4.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2013",
-    "release_date": "2013-04-26",
-    "rating": 4.686,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1333
-  },
-  {
-    "ytId": "JWRIyn2ZH9I",
-    "tmdbId": 108435,
-    "title": "Zombie Hamlet",
-    "poster_path": "/yMGMpJYbRh2gSQuOquBoWPX4LF8.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "2012",
-    "release_date": "2012-04-14",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1332
-  },
-  {
-    "ytId": "58Pr2OvSVwE",
-    "tmdbId": 17911,
-    "title": "Mega Shark vs. Giant Octopus",
-    "poster_path": "/cQsfCkWxK8j9MLrA4ydSMWB2Cpb.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "year": "2009",
-    "release_date": "2009-05-19",
-    "rating": 3.83,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1331
-  },
-  {
-    "ytId": "yJQfP5U_L8k",
-    "tmdbId": 46065,
-    "title": "Knight Club",
-    "poster_path": "/tfQhcfwsvrKdJxUjzOP1BefwN9F.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2001",
-    "release_date": "2001-02-01",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1330
-  },
-  {
-    "ytId": "CRQ3IKMpoac",
-    "tmdbId": 726876,
-    "title": "Behind the Line: Escape to Dunkirk",
-    "poster_path": "/pWEPiORjPeSNd1EX9AfKvNdv4OX.jpg",
-    "genre_ids": [
-      10752
-    ],
-    "year": "2020",
-    "release_date": "2020-08-20",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1329
-  },
-  {
-    "ytId": "NvQ0Vv3CDk0",
-    "tmdbId": 28509,
-    "title": "Komodo vs. Cobra",
-    "poster_path": "/2dLwpe18MC3nIF5MmkWuB8waba9.jpg",
-    "genre_ids": [
-      27,
-      878,
-      10770
-    ],
-    "year": "2005",
-    "release_date": "2005-08-19",
-    "rating": 4.072,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1328
-  },
-  {
-    "ytId": "v7YKDycfpUQ",
-    "tmdbId": 1108771,
-    "title": "Magdala Rose",
-    "poster_path": "/mPSvZJvyURbu3VAeYOZYqMsFgsv.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-11-25",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1327
-  },
-  {
-    "ytId": "IJZ19v90xmY",
-    "tmdbId": 27391,
-    "title": "Polar Storm",
-    "poster_path": "/mD7nAZXnkIYJ6T4c1xOyK9qxRO8.jpg",
-    "genre_ids": [
-      28,
-      878,
-      10770
-    ],
-    "year": "2009",
-    "release_date": "2009-03-28",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1326
-  },
-  {
-    "ytId": "HpnYW5Vh2P0",
-    "tmdbId": 293223,
-    "title": "Judicial Indiscretion",
-    "poster_path": "/gbyxkt4bfqN2iu2T9hiINnr0jIR.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "year": "2007",
-    "release_date": "2007-04-09",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1325
-  },
-  {
-    "ytId": "-AV0YN1CO_Q",
-    "tmdbId": 403232,
-    "title": "Vigilante Diaries",
-    "poster_path": "/g3Cvy8zoa1GIvin213cAvPaXlHw.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "year": "2016",
-    "release_date": "2016-09-01",
-    "rating": 4.238,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1324
-  },
-  {
-    "ytId": "zMUl80ejLOg",
-    "tmdbId": 688343,
-    "title": "The Curse of Audrey Earnshaw",
-    "poster_path": "/kMVxPRyDuod7479mTykw4SPHMQN.jpg",
-    "genre_ids": [
-      27,
-      18
-    ],
-    "year": "2020",
-    "release_date": "2020-09-30",
-    "rating": 5.422,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1323
-  },
-  {
-    "ytId": "hwdGxT1i-rQ",
-    "tmdbId": 340193,
-    "title": "The Horror of The Dolls",
-    "poster_path": null,
-    "genre_ids": [
-      27
-    ],
-    "year": "2010",
-    "release_date": "2010-01-01",
-    "rating": 2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1322
-  },
-  {
-    "ytId": "nY7icqnIA9A",
-    "tmdbId": 481952,
-    "title": "Werewolves of the Third Reich",
-    "poster_path": "/v0STupjcDiX6TeyfkxXWMxEOSyW.jpg",
-    "genre_ids": [
-      27,
-      10752
-    ],
-    "year": "2018",
-    "release_date": "2018-02-05",
-    "rating": 2.7,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1321
-  },
-  {
-    "ytId": "KOeSPl8HJ80",
-    "tmdbId": 846278,
-    "title": "Amityville Cult",
-    "poster_path": "/lQ7Sncm72MD9QdOPxFSqIoZMGkX.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-08-27",
-    "rating": 2.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1320
-  },
-  {
-    "ytId": "ZmMG8MRgZ9U",
-    "tmdbId": 710217,
-    "title": "A Werewolf in England",
-    "poster_path": "/tkCUc5l4vPrW09D0ipdnTQusC68.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2020",
-    "release_date": "2020-09-28",
-    "rating": 5.689,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1319
-  },
-  {
-    "ytId": "n22FL1sNR78",
-    "tmdbId": 511813,
-    "title": "Cannibals and Carpet Fitters",
-    "poster_path": "/iJLf6zLiJ4yeTTKyANyqIjUEWRT.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-12-15",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1318
-  },
-  {
-    "ytId": "RsMorBrtdCI",
-    "tmdbId": 303793,
-    "title": "High School Possession",
-    "poster_path": "/hTG5kZ2MW5T19XV7tefsZQhK8FF.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2014",
-    "release_date": "2014-10-25",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1317
-  },
-  {
-    "ytId": "iLcZK9ArVuU",
-    "tmdbId": 621254,
-    "title": "Dead Don't Die in Dallas",
-    "poster_path": "/kHtl2iYRqgSmeSK71AY6Js7EcnQ.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-03-29",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1316
-  },
-  {
-    "ytId": "_OiS4XaTsSQ",
-    "tmdbId": 520963,
-    "title": "Bad Candy",
-    "poster_path": "/9HRQiPxTGsUpP9hqCC1R5D1gQZT.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-09-10",
-    "rating": 4.42,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1315
-  },
-  {
-    "ytId": "UBRK3pWLo7I",
-    "tmdbId": 803142,
-    "title": "The Haunting of Hythe House",
-    "poster_path": "/i0jts80KvEyAuU2nKJuDR6md2Rr.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-06-12",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1314
   }
 ]
