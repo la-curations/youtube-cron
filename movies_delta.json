@@ -1,5 +1,175 @@
 [
   {
+    "ytId": "I2zEtPhMIj0",
+    "tmdbId": 432524,
+    "title": "The Harvesting",
+    "poster_path": "/57ylPaFOUYrX1rGfIilyB5LqAUv.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-12-06",
+    "rating": 5.474,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1506
+  },
+  {
+    "ytId": "bswhcD7m2qc",
+    "tmdbId": 412758,
+    "title": "Eat Locals",
+    "poster_path": "/rYnvcrmNkkZXXmzzmUJ2ura95A9.jpg",
+    "genre_ids": [
+      28,
+      35,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-04-06",
+    "rating": 5.185,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1505
+  },
+  {
+    "ytId": "6Ci_8MCPhfI",
+    "tmdbId": 73986,
+    "title": "Anneliese: The Exorcist Tapes",
+    "poster_path": "/dllMdyPUvJ7vwbd9BTpNnHiUhZy.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-10-17",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1504
+  },
+  {
+    "ytId": "_O3N6BlNFCk",
+    "tmdbId": 26482,
+    "title": "Haunting of Winchester House",
+    "poster_path": "/vrp5ZCcG8ebNRq0w04BltCr9yKk.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-09-29",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1503
+  },
+  {
+    "ytId": "b6nSTwyr-6Y",
+    "tmdbId": 122326,
+    "title": "100 Ghost Street: The Return of Richard Speck",
+    "poster_path": "/7yplFwlgtpsi44sz4HHbn1CtcyH.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-07-24",
+    "rating": 4.427,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1502
+  },
+  {
+    "ytId": "m3R0DHaZXz0",
+    "tmdbId": 561927,
+    "title": "Lake Fear 3",
+    "poster_path": "/rBb2wzrh4wIeV4G2B9EUIYGENh7.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2018",
+    "release_date": "2018-10-02",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1501
+  },
+  {
+    "ytId": "5BmdUybJK6c",
+    "tmdbId": 347548,
+    "title": "Containment",
+    "poster_path": "/lz6G41YdOK1CO2qOkoBe6cudofb.jpg",
+    "genre_ids": [
+      53,
+      27,
+      878
+    ],
+    "year": "2015",
+    "release_date": "2015-07-09",
+    "rating": 5.969,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1500
+  },
+  {
+    "ytId": "NryxjLrxQec",
+    "tmdbId": 445867,
+    "title": "Black Wake",
+    "poster_path": "/cNxx5wiTwyFNgUe8k7ztqawqOLr.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53,
+      10770
+    ],
+    "year": "2018",
+    "release_date": "2018-08-07",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1499
+  },
+  {
+    "ytId": "Sp2aSePmjbQ",
+    "tmdbId": 444193,
+    "title": "The Evil Within",
+    "poster_path": "/2PTfanA2YsdKUgbw27mtZ2E98QW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-06-13",
+    "rating": 5.661,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1498
+  },
+  {
+    "ytId": "mA_-VZmdqrY",
+    "tmdbId": 298609,
+    "title": "Hollows Grove",
+    "poster_path": "/3NVbImZIYLkDavjAnbGMZdqkiD.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-10-21",
+    "rating": 4.764,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-07-18",
+    "id": 1497
+  },
+  {
     "ytId": "Vo1-LpsiJDA",
     "tmdbId": 393643,
     "title": "Arachnicide",
@@ -2355,175 +2525,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-17",
     "id": 1357
-  },
-  {
-    "ytId": "Zu7AIFL9000",
-    "tmdbId": 157161,
-    "title": "I Didn't Come Here to Die",
-    "poster_path": "/seIvAS0V1EV5CHJb1uVcQ8HKPoV.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2010",
-    "release_date": "2010-10-04",
-    "rating": 4.611,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1356
-  },
-  {
-    "ytId": "m3g64mEAWI4",
-    "tmdbId": 599781,
-    "title": "The Evil Down the Street",
-    "poster_path": "/9OPM3oszPegI9SzDYVrPDerHeW.jpg",
-    "genre_ids": [
-      27,
-      53,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-04-30",
-    "rating": 3.5,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1355
-  },
-  {
-    "ytId": "aw_4A0W9ZXI",
-    "tmdbId": 29792,
-    "title": "Fire Serpent",
-    "poster_path": "/2sC7Pm9xBkPWaNZkHJ1Ruetskfe.jpg",
-    "genre_ids": [
-      10770,
-      27,
-      878,
-      28
-    ],
-    "year": "2007",
-    "release_date": "2007-02-24",
-    "rating": 4.68,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1354
-  },
-  {
-    "ytId": "8IFYMkKWVoc",
-    "tmdbId": 178002,
-    "title": "Hidden Treasure of the Mississippi",
-    "poster_path": "/iifoQcn9vra0zpcpj9PS7eE6lbz.jpg",
-    "genre_ids": [
-      12,
-      35
-    ],
-    "year": "2008",
-    "release_date": "2008-08-30",
-    "rating": 6.6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1353
-  },
-  {
-    "ytId": "FqnYArvnCWA",
-    "tmdbId": 36622,
-    "title": "Caved In: Prehistoric Terror",
-    "poster_path": "/rlox07SRKkf9bkU8Yv0w1iGpkjk.jpg",
-    "genre_ids": [
-      27,
-      878,
-      10770
-    ],
-    "year": "2006",
-    "release_date": "2006-01-07",
-    "rating": 3.4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1352
-  },
-  {
-    "ytId": "nlLQTXvi87M",
-    "tmdbId": 944324,
-    "title": "The Nomad",
-    "poster_path": "/ppurOXAqtHbI2Dj4ODJLJPlSdz5.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2023",
-    "release_date": "2023-02-14",
-    "rating": 6.222,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1351
-  },
-  {
-    "ytId": "aHLEWyW14kU",
-    "tmdbId": 436311,
-    "title": "Slipaway",
-    "poster_path": "/hnTjYTRW29n3oFFyY3NYWU3RQDk.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2017",
-    "release_date": "2017-02-23",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1350
-  },
-  {
-    "ytId": "ezX86NPqjME",
-    "tmdbId": 303898,
-    "title": "Cut Throat",
-    "poster_path": "/xNnmuiypUYphkSQRXWAeKDBGfNl.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2002",
-    "release_date": "2002-12-17",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1349
-  },
-  {
-    "ytId": "Ax9_KlOPYU0",
-    "tmdbId": 428583,
-    "title": "Sins of Our Youth",
-    "poster_path": "/qZGCn2mekBqXvdwCtwkbCM3WUDy.jpg",
-    "genre_ids": [
-      53,
-      18
-    ],
-    "year": "2014",
-    "release_date": "2014-07-31",
-    "rating": 4.676,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1348
-  },
-  {
-    "ytId": "vKpIDUngZVM",
-    "tmdbId": 857243,
-    "title": "Life Ain't Like the Movies",
-    "poster_path": "/d6Rk7YqHOILU3siwBPrDM0wgh23.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2021",
-    "release_date": "2021-12-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1347
   }
 ]
