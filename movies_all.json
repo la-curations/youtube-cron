@@ -1,5 +1,238 @@
 [
   {
+    "ytId": "jhoFr0ROxmA",
+    "tmdbId": 1187498,
+    "title": "Monster Grizzly",
+    "poster_path": "/e7E87qFxkOjUPhRO5H1tYJY7y8B.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-10-31",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1532
+  },
+  {
+    "ytId": "8Kl3AN8MZuA",
+    "tmdbId": 1121903,
+    "title": "Mega Lightning 2",
+    "poster_path": "/zFfQvXr7R36AtrEl4gu0sGRvUwi.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-12-22",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1531
+  },
+  {
+    "ytId": "UUOJcYhSy5o",
+    "tmdbId": 279800,
+    "title": "The Tall Texan",
+    "poster_path": "/ZDMS2fYHw3cTltSGmqX0OTMw1I.jpg",
+    "genre_ids": [
+      37,
+      12
+    ],
+    "year": "1953",
+    "release_date": "1953-02-13",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1530
+  },
+  {
+    "ytId": "Cyd2rYM7DTU",
+    "tmdbId": 39557,
+    "title": "Decision at Sundown",
+    "poster_path": "/oR7L1RIgN8zHE83E4Z2MU6jYF8r.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "1957",
+    "release_date": "1957-11-10",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1529
+  },
+  {
+    "ytId": "H3Wqyh59U98",
+    "tmdbId": 1135245,
+    "title": "Spiders on a Plane",
+    "poster_path": "/bU4WKhD4fthLrbobreqKoK8eKmy.jpg",
+    "genre_ids": [
+      27,
+      28,
+      12
+    ],
+    "year": "2024",
+    "release_date": "2024-05-31",
+    "rating": 3.6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1528
+  },
+  {
+    "ytId": "PytHjJm-jMI",
+    "tmdbId": 1356414,
+    "title": "Man in the Fields",
+    "poster_path": "/3ynHTh6wYM1f9Oni4eg3iyCHKtt.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-01-20",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1527
+  },
+  {
+    "ytId": "AmiS_koBU9I",
+    "tmdbId": 1019858,
+    "title": "The Bunny Man",
+    "poster_path": "/dfkAVKqKSKQd9l9lM4VDqVQKkrI.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-10-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1526
+  },
+  {
+    "ytId": "RSgBldwERgA",
+    "tmdbId": 1359790,
+    "title": "The Book of the Dead",
+    "poster_path": "/b5St1ayl0NEY2dLRsRsnuKbLWjx.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2024",
+    "release_date": "2024-09-18",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1525
+  },
+  {
+    "ytId": "RDNW0a-yn2k",
+    "tmdbId": 1254650,
+    "title": "The Ecstasy of Gold: The Treasure of Jesse James",
+    "poster_path": "/fJUlY3al9DW9MqgALoCA4KUHeAr.jpg",
+    "genre_ids": [
+      37,
+      28,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-09-03",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1524
+  },
+  {
+    "ytId": "IKYvVeWt_n4",
+    "tmdbId": 1342106,
+    "title": "That Day I Jumped Off The Pier",
+    "poster_path": "/7Nxv9NEsI6qHU73XvyT8fLhTrtL.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-10-15",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1523
+  },
+  {
+    "ytId": "tM4Db4POx2Y",
+    "tmdbId": 112922,
+    "title": "Hour of Death",
+    "poster_path": "/v5KzGWvZmOnchYNTpebZhDUw6l0.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "1964",
+    "release_date": "1964-11-06",
+    "rating": 5.1,
+    "original_language": "es",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1522
+  },
+  {
+    "ytId": "kv4ptLPJN8A",
+    "tmdbId": 37059,
+    "title": "2012: Supernova",
+    "poster_path": "/7BpQxQdjZug7dhNnd9hHT8C1bgI.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2009",
+    "release_date": "2009-10-27",
+    "rating": 4.086,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1521
+  },
+  {
+    "ytId": "fkk3Goq3Vaw",
+    "tmdbId": 255085,
+    "title": "Young Guns of Texas",
+    "poster_path": "/55LS7zM3aUVmpy9uDWOtUvnVfBM.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "1962",
+    "release_date": "1962-11-30",
+    "rating": 4.3,
+    "original_language": "es",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1520
+  },
+  {
+    "ytId": "x8DRu7apCx8",
+    "tmdbId": 1257715,
+    "title": "A Haunting in Council House",
+    "poster_path": "/fqJ1tXedFXZ4x5nPLBllvv85ASW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-07-28",
+    "rating": 4,
+    "original_language": "it",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1519
+  },
+  {
     "ytId": "L-QylejHFDY",
     "tmdbId": 891910,
     "title": "Escape from Death Block 13",
