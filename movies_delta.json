@@ -1,5 +1,76 @@
 [
   {
+    "ytId": "wYbK-J25hb8",
+    "tmdbId": 689762,
+    "title": "Bastard's Crossing",
+    "poster_path": "/7F3nAP5dPWPuZfkz1Rv67Y3NHeO.jpg",
+    "genre_ids": [
+      53,
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-01-15",
+    "rating": 4.7,
+    "original_language": "pt",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1547
+  },
+  {
+    "ytId": "GpNbF9l4U8o",
+    "tmdbId": 106546,
+    "title": "Moscow Heat",
+    "poster_path": "/7WwaL21mcewnQTVAz3zOStDB4M1.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "2004",
+    "release_date": "2004-11-24",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1546
+  },
+  {
+    "ytId": "CFYl1yp4hkg",
+    "tmdbId": 122473,
+    "title": "Strike Commando 2",
+    "poster_path": "/9YmmzQsnBUPrKA4FtPYFgJbegfo.jpg",
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "year": "1988",
+    "release_date": "1988-08-17",
+    "rating": 4.729,
+    "original_language": "it",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1545
+  },
+  {
+    "ytId": "LWYfjr8TS88",
+    "tmdbId": 504198,
+    "title": "Damascus Time",
+    "poster_path": "/nbjqK20V2KU0zJLr2z5mywQCECX.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-02-20",
+    "rating": 5.8,
+    "original_language": "fa",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1544
+  },
+  {
     "ytId": "pXADIdRnij8",
     "tmdbId": 1734373,
     "title": "Dan Hawk Psychic Detective",
@@ -2451,70 +2522,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-17",
     "id": 1398
-  },
-  {
-    "ytId": "EUlHKSbfYpM",
-    "tmdbId": 481954,
-    "title": "The Revenge of Robert",
-    "poster_path": "/9Sdw04XJLs4Lmj1O4VpA0FyZfUl.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-03-06",
-    "rating": 3.6,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1397
-  },
-  {
-    "ytId": "EECRSyO67Pc",
-    "tmdbId": 376311,
-    "title": "Little Dead Rotting Hood",
-    "poster_path": "/19IlmRCJYb7kOmtYouAOUxIesnn.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-01-05",
-    "rating": 3.558,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1396
-  },
-  {
-    "ytId": "xDX_7tDpq_o",
-    "tmdbId": 586097,
-    "title": "Robert Reborn",
-    "poster_path": "/eQcdgFXZ8VMwXx21iCFjeyGAoUd.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-06-04",
-    "rating": 3.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1395
-  },
-  {
-    "ytId": "nZTsp2nrw_Q",
-    "tmdbId": 50288,
-    "title": "House of Bones",
-    "poster_path": "/hQhYefeuo645iFUeusHmvRhVpvi.jpg",
-    "genre_ids": [
-      27,
-      10770
-    ],
-    "year": "2010",
-    "release_date": "2010-01-16",
-    "rating": 4.306,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-17",
-    "id": 1394
   }
 ]
