@@ -1,5 +1,92 @@
 [
   {
+    "ytId": "PGYqXLh59vc",
+    "tmdbId": 1281745,
+    "title": "Bloody Trip: The Equinox Killer",
+    "poster_path": "/jvGImfasm54GccQ9x98Zps8ftwl.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-07-15",
+    "rating": 4,
+    "original_language": "it",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1537
+  },
+  {
+    "ytId": "Yvtc4ub3LN0",
+    "tmdbId": 254172,
+    "title": "Fathers and Daughters",
+    "poster_path": "/fgzp7gGea27hN5d26mgKtZJQgX7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-10-01",
+    "rating": 7.141,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1536
+  },
+  {
+    "ytId": "8YDHPCVEros",
+    "tmdbId": 58939,
+    "title": "Lenny The Wonder Dog",
+    "poster_path": "/36IPhGPmTTXjHTSBfUfn1piBIT0.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12
+    ],
+    "year": "2005",
+    "release_date": "2005-08-23",
+    "rating": 4.786,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1535
+  },
+  {
+    "ytId": "q1w7NqTWj9U",
+    "tmdbId": 172767,
+    "title": "500 MPH Storm",
+    "poster_path": "/268rvZNZD7DM4D3dbE0pQQB18rT.jpg",
+    "genre_ids": [
+      28,
+      878,
+      10770,
+      12,
+      18,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-02-28",
+    "rating": 5.257,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1534
+  },
+  {
+    "ytId": "cOqfbpew9rg",
+    "tmdbId": 260372,
+    "title": "Bermuda Tentacles",
+    "poster_path": "/whbDYXX89fjfP6LgXQbwSJVdPe.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2014",
+    "release_date": "2014-04-04",
+    "rating": 3.856,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-07-20",
+    "id": 1533
+  },
+  {
     "ytId": "jhoFr0ROxmA",
     "tmdbId": 1187498,
     "title": "Monster Grizzly",
@@ -2433,86 +2520,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-17",
     "id": 1388
-  },
-  {
-    "ytId": "-oBwixLdvIc",
-    "tmdbId": 479447,
-    "title": "Mercy for Angels",
-    "poster_path": "/z0Pb3zLCexkpV4lT2XyXyJINv1x.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "year": "2015",
-    "release_date": "2015-04-15",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1387
-  },
-  {
-    "ytId": "IHC-33FanjE",
-    "tmdbId": 263138,
-    "title": "Mount Joy",
-    "poster_path": "/tiDwArxjq4ZdYYsy03NFxhXHYFG.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2014",
-    "release_date": "2014-02-02",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1386
-  },
-  {
-    "ytId": "hx0j7O86-wU",
-    "tmdbId": 1295122,
-    "title": "Arthur: King of the Britons",
-    "poster_path": "/dMmPvwavs5D5A7rqNfYO4pAzF1A.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2002",
-    "release_date": "2002-03-31",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1385
-  },
-  {
-    "ytId": "I1CjnFtJk7g",
-    "tmdbId": 1048745,
-    "title": "Civil War Saint",
-    "poster_path": "/pEWu4REs7YFjEAY2hPwnbu3rbwW.jpg",
-    "genre_ids": [
-      10752,
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-11-15",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1384
-  },
-  {
-    "ytId": "GO81uX-5pzg",
-    "tmdbId": 993051,
-    "title": "Losing Addison",
-    "poster_path": "/ltRzkePfQefa78bVIYYQzlnLQAl.jpg",
-    "genre_ids": [],
-    "year": "2022",
-    "release_date": "2022-06-27",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-17",
-    "id": 1383
   }
 ]
