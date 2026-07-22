@@ -1,5 +1,534 @@
 [
   {
+    "ytId": "lkuGFPJypRo",
+    "tmdbId": 961520,
+    "title": "Seal of Desire",
+    "poster_path": "/o7uTSX79piMM0zisVR4u1lX8OjF.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-12-22",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1610
+  },
+  {
+    "ytId": "QYO241_CfLI",
+    "tmdbId": 756499,
+    "title": "Asteroid-a-Geddon",
+    "poster_path": "/8zzGwkkOqial1BsoY8e8yrAIUxI.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2020",
+    "release_date": "2020-10-23",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1609
+  },
+  {
+    "ytId": "sAXZXhZDhQI",
+    "tmdbId": 889418,
+    "title": "Love Hurts",
+    "poster_path": "/xuIUfp5BuuHj8SbyutauxSGm9gJ.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-10-23",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1608
+  },
+  {
+    "ytId": "RmiCw-FlDc8",
+    "tmdbId": 931152,
+    "title": "A Worrisome Thing",
+    "poster_path": "/ajygnP0CEOKNeB11STxkrw7q7RV.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-01-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1607
+  },
+  {
+    "ytId": "nAw8-xoZsiY",
+    "tmdbId": 1022785,
+    "title": "Mysterious Circumstance: The Death of Meriwether Lewis",
+    "poster_path": "/x1gjcSO6ABuqGeV1PdSCB2AZunu.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      37
+    ],
+    "year": "2022",
+    "release_date": "2022-09-09",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1606
+  },
+  {
+    "ytId": "pe_khgYGNXE",
+    "tmdbId": 758545,
+    "title": "S.O.S. Survive or Sacrifice",
+    "poster_path": "/cqLekREuHyuX5Xe3wvRnERS8Hia.jpg",
+    "genre_ids": [
+      12,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-10-28",
+    "rating": 5.217,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1605
+  },
+  {
+    "ytId": "AIdYATP7lpY",
+    "tmdbId": 595158,
+    "title": "Area of Conflict",
+    "poster_path": "/bCEkx4uWt7EqNsb4PNJkGiMt3bR.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-05-04",
+    "rating": 7.565,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1604
+  },
+  {
+    "ytId": "ZX_LyyXqld0",
+    "tmdbId": 828691,
+    "title": "Killer Concept",
+    "poster_path": "/kemovYayHEV1kXZkgWN1rJqxf6g.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-05-21",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1603
+  },
+  {
+    "ytId": "iHa3KeRwMk4",
+    "tmdbId": 550067,
+    "title": "The Colors of Emily",
+    "poster_path": "/iImolelJh2PQnwK9QobdqQlBqi3.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-11-17",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1602
+  },
+  {
+    "ytId": "K5gnr-JcWDQ",
+    "tmdbId": 893608,
+    "title": "Bigfoot, UFOs and Jesus",
+    "poster_path": "/4GCvnyNcX0ZYM76dDcygvmCwxuw.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "year": "2021",
+    "release_date": "2021-05-25",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1601
+  },
+  {
+    "ytId": "-c3JuUwKNwo",
+    "tmdbId": 821201,
+    "title": "Pursuit of Freedom",
+    "poster_path": "/2knrOLIZooESFCJXytVh0dQZSxh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-09-16",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1600
+  },
+  {
+    "ytId": "EltddmdxH_Q",
+    "tmdbId": 1559425,
+    "title": "The Conspiracists",
+    "poster_path": "/A62JCQDGVQF3OMhszWC3I7xuJp2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2026",
+    "release_date": "2026-01-14",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1599
+  },
+  {
+    "ytId": "hk6U8Kvf3sg",
+    "tmdbId": 1189354,
+    "title": "Bigfoot vs Megalodon 2",
+    "poster_path": "/rJYHQ33M7jci56t7ACv2DLKBTtK.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2023",
+    "release_date": "2023-08-01",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1598
+  },
+  {
+    "ytId": "GUo8LZa2Lu0",
+    "tmdbId": 1299645,
+    "title": "The Mandela Effect Phenomenon",
+    "poster_path": "/rZkXQmCvb2FulL27taJn7Tcx7us.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-07-09",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1597
+  },
+  {
+    "ytId": "Pt9KzlqOpmM",
+    "tmdbId": 56718,
+    "title": "The Mind Snatchers",
+    "poster_path": "/zSdaX4J53ZEVnRCWgnB43Rv7tB.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "year": "1972",
+    "release_date": "1972-06-28",
+    "rating": 5.906,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1596
+  },
+  {
+    "ytId": "LoVtMIoT1-s",
+    "tmdbId": 143192,
+    "title": "Rat Scratch Fever",
+    "poster_path": "/2S2TBxOylgjx17XUQvA4oxFWoYw.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2011",
+    "release_date": "2011-02-26",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1595
+  },
+  {
+    "ytId": "2OI4ZxgkPKA",
+    "tmdbId": 817864,
+    "title": "Knights of Newgate",
+    "poster_path": "/27YIy1z4wuoWmLlfQnddqSxPGT8.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "year": "2021",
+    "release_date": "2021-04-13",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1594
+  },
+  {
+    "ytId": "hNbsOwWqqRY",
+    "tmdbId": 1367675,
+    "title": "Interview with the Extraterrestrial",
+    "poster_path": "/h2xiqTuBHTmyZ5VH41BArh9K9Fj.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-10-08",
+    "rating": 9,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1593
+  },
+  {
+    "ytId": "8hfrW6BqjfM",
+    "tmdbId": 531164,
+    "title": "Calling All Earthlings",
+    "poster_path": "/1eVeWkwaCcRerqWlXB5pekqxEID.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2018",
+    "release_date": "2018-08-28",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1592
+  },
+  {
+    "ytId": "xMZplFNJWf8",
+    "tmdbId": 75304,
+    "title": "Lancelot: Guardian of Time",
+    "poster_path": "/x8UMVQI8hJCcwiAdWFeBTX5dUvJ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "year": "1997",
+    "release_date": "1997-01-03",
+    "rating": 4.333,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1591
+  },
+  {
+    "ytId": "JoapODAvFaE",
+    "tmdbId": 1500927,
+    "title": "Conspiracy of Fear",
+    "poster_path": "/gPMzoMC8w2CCU4WBfHpHlXMV60t.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-05-13",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1590
+  },
+  {
+    "ytId": "L9fDcA4Dhd8",
+    "tmdbId": 414091,
+    "title": "District C-11",
+    "poster_path": "/l9SxBVzrieUbBKr1lhaJ8StF2wD.jpg",
+    "genre_ids": [
+      18,
+      878,
+      53,
+      28,
+      80
+    ],
+    "year": "2017",
+    "release_date": "2017-03-21",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1589
+  },
+  {
+    "ytId": "VQOI7GNTy5s",
+    "tmdbId": 1537103,
+    "title": "Anunnaki Origins: Sumeria to South America",
+    "poster_path": "/q9OQlE0cIon7GO4dq95OQ3g5I01.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-06-24",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1588
+  },
+  {
+    "ytId": "mpyzNB3JFOI",
+    "tmdbId": 1537136,
+    "title": "New Fight Back To School: New Order",
+    "poster_path": "/3fqsPpCHABrEXIMH16FmEeCkJZi.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-08-28",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1587
+  },
+  {
+    "ytId": "4f_mXzdQz7s",
+    "tmdbId": 1174194,
+    "title": "Krispr",
+    "poster_path": "/j5gPdqSBO17Ra43XQcQ5Mi7HGrg.jpg",
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-09-05",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1586
+  },
+  {
+    "ytId": "p6vjDBWkR7s",
+    "tmdbId": 592858,
+    "title": "Road to Wasteland",
+    "poster_path": "/iofbMSnAZaROXQQVMwHWUzR6KiW.jpg",
+    "genre_ids": [
+      99,
+      12
+    ],
+    "year": "2017",
+    "release_date": "2017-06-24",
+    "rating": 7,
+    "original_language": "fr",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1585
+  },
+  {
+    "ytId": "i2Ga_FLvxG8",
+    "tmdbId": 1505267,
+    "title": "The Correction Unit",
+    "poster_path": "/qnsu5IXk4tSrWwdv1fWmyN192Sq.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-12-05",
+    "rating": 2.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1584
+  },
+  {
+    "ytId": "S6tEelqYh5o",
+    "tmdbId": 1399503,
+    "title": "Reel Encounters",
+    "poster_path": "/fw8ClRTZ2YTlMeboesBZ60K1NAS.jpg",
+    "genre_ids": [],
+    "year": "2024",
+    "release_date": "2024-11-27",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1583
+  },
+  {
+    "ytId": "_5PiEGMjUFY",
+    "tmdbId": 1290595,
+    "title": "Tim Travers and the Time Traveler's Paradox",
+    "poster_path": "/ttP3RsGFOCqC8NGMhl956QraMnH.jpg",
+    "genre_ids": [
+      14,
+      35,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-05-30",
+    "rating": 5.605,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1582
+  },
+  {
+    "ytId": "RQmj36lnr0w",
+    "tmdbId": 1497201,
+    "title": "Revenge of the Alternates 3: Once & For All",
+    "poster_path": "/kAqTRFC1QzvTxueBwWOSh6eOntY.jpg",
+    "genre_ids": [
+      18,
+      28,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-06-05",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1581
+  },
+  {
+    "ytId": "A8D0pvIThRA",
+    "tmdbId": 972423,
+    "title": "A Million Days",
+    "poster_path": "/dj5pr0SkzEvMDkJzQ8VyZ3e19Dm.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2023",
+    "release_date": "2023-08-25",
+    "rating": 4.48,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1580
+  },
+  {
     "ytId": "MK644tQnXD4",
     "tmdbId": 1077596,
     "title": "Meteor: First Impact",
