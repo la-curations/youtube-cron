@@ -1,5 +1,581 @@
 [
   {
+    "ytId": "hhIDQhUkDkU",
+    "tmdbId": 292532,
+    "title": "Wicked Spring",
+    "poster_path": "/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10752
+    ],
+    "year": "2002",
+    "release_date": "2002-03-02",
+    "rating": 6.643,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1644
+  },
+  {
+    "ytId": "yabsjEJqkjU",
+    "tmdbId": 854417,
+    "title": "Bearry",
+    "poster_path": "/rjUVnC6itSxUPFHNQJR7LAucIiR.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-07-17",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1643
+  },
+  {
+    "ytId": "IYdQ3KI1bKk",
+    "tmdbId": 865745,
+    "title": "Astro Loco",
+    "poster_path": "/wdRx4ndKJahdSHHvxNadiUEUGx5.jpg",
+    "genre_ids": [
+      878,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-08-25",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1642
+  },
+  {
+    "ytId": "IZs3R7VrY6Q",
+    "tmdbId": 840533,
+    "title": "Just Another Dream",
+    "poster_path": "/1Cq3sC2sdYKDfYx0rpHllklT2dy.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-07-07",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1641
+  },
+  {
+    "ytId": "ovYe56D6DD8",
+    "tmdbId": 841298,
+    "title": "When you are Gone",
+    "poster_path": "/cMIk7ew8qO1heRVOHEiSgvA1ecE.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-12-31",
+    "rating": null,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1640
+  },
+  {
+    "ytId": "bZCLszHBnWc",
+    "tmdbId": 1563429,
+    "title": "Introspectum Motel",
+    "poster_path": "/6VKli8ni49KUEpOH5ujbdo2BJQQ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-05-15",
+    "rating": 3.333,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1639
+  },
+  {
+    "ytId": "QRP-aqpIOrY",
+    "tmdbId": 619915,
+    "title": "Black Pool",
+    "poster_path": "/ti52EpImZCEGChL537dOrfau7xA.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-04-14",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1638
+  },
+  {
+    "ytId": "1f1GHxjXLRE",
+    "tmdbId": 809668,
+    "title": "Pungo: A Witch's Tale",
+    "poster_path": "/6BQYbbUv4gVQBWPAtV5eRfSzzt5.jpg",
+    "genre_ids": [
+      14,
+      27,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-03-23",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1637
+  },
+  {
+    "ytId": "egRpmp20Nf8",
+    "tmdbId": 759354,
+    "title": "The Misadventures of Mistress Maneater",
+    "poster_path": "/pz9XSvWYBuW6AVL0NooyZr47W9a.jpg",
+    "genre_ids": [
+      35,
+      28,
+      10749
+    ],
+    "year": "2020",
+    "release_date": "2020-10-30",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1636
+  },
+  {
+    "ytId": "PzTbds7AseI",
+    "tmdbId": 459475,
+    "title": "Awaken the Shadowman",
+    "poster_path": "/s7o8AwPkmpHvtTP6qG2lSfwdW1U.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2017",
+    "release_date": "2017-07-21",
+    "rating": 3.676,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1635
+  },
+  {
+    "ytId": "kZVMaBXjZH8",
+    "tmdbId": 968063,
+    "title": "Bet On Ben",
+    "poster_path": "/7irbrFecWPr0pOhf2CY6innBLl.jpg",
+    "genre_ids": [],
+    "year": "2021",
+    "release_date": "2021-12-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1634
+  },
+  {
+    "ytId": "LswUFqfyeE4",
+    "tmdbId": 989143,
+    "title": "Band of Rebels",
+    "poster_path": "/jgo8PnRIs5TpCqHlmUFpJsnhHde.jpg",
+    "genre_ids": [
+      10752,
+      36,
+      37
+    ],
+    "year": "2022",
+    "release_date": "2022-07-26",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1633
+  },
+  {
+    "ytId": "uMVY26i3b_A",
+    "tmdbId": 371077,
+    "title": "Hamlet's Ghost",
+    "poster_path": "/nXvywJXoc4RSFNeWxm48jsYLJiA.jpg",
+    "genre_ids": [
+      878,
+      10751,
+      12,
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-12-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1632
+  },
+  {
+    "ytId": "lXK580ThHnQ",
+    "tmdbId": 188648,
+    "title": "Gibsonburg",
+    "poster_path": "/g5Y7NEZHaeXTJbZ7KVyJw7PIHj8.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-06-07",
+    "rating": 1.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1631
+  },
+  {
+    "ytId": "rRH3uLl9pE4",
+    "tmdbId": 538071,
+    "title": "Krut: The Himmaphan Warriors",
+    "poster_path": "/acEo0wtuy7JLveTlajYeL7jvjP5.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
+    ],
+    "year": "2018",
+    "release_date": "2018-07-19",
+    "rating": 7.7,
+    "original_language": "th",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1630
+  },
+  {
+    "ytId": "m4SOrA4J9f4",
+    "tmdbId": 478624,
+    "title": "Painted Horses",
+    "poster_path": "/27UVK8Q9q1HYkU5FsLu5zowGKWC.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-01-10",
+    "rating": 6.45,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1629
+  },
+  {
+    "ytId": "r7x6IsFMpOs",
+    "tmdbId": 39497,
+    "title": "Escanaba in da Moonlight",
+    "poster_path": "/i7Lnquo1pTcX8p0w3if7xajiQuj.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2001",
+    "release_date": "2001-01-26",
+    "rating": 6.107,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1628
+  },
+  {
+    "ytId": "1Z75zkJBUUs",
+    "tmdbId": 810019,
+    "title": "These Streets We Haunt",
+    "poster_path": "/c5N9U6c3w3weVswDy9DlS1fvUiZ.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "2021",
+    "release_date": "2021-03-23",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1627
+  },
+  {
+    "ytId": "2EidyQOQQPc",
+    "tmdbId": 1652457,
+    "title": "Diamond Sky",
+    "poster_path": "/7e39uzPrKFTO5n4QbELNNNn8HSf.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-10-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1626
+  },
+  {
+    "ytId": "HHEX8ZDRPTw",
+    "tmdbId": 1698081,
+    "title": "Super Four - First Contact",
+    "poster_path": "/yiF6uYG0Ks8l3yH5a5CACrZMXTA.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2025",
+    "release_date": "2025-06-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1625
+  },
+  {
+    "ytId": "35eqNqWqaOI",
+    "tmdbId": 950975,
+    "title": "Bigfoot vs Krampus",
+    "poster_path": "/5e2IDHqNbym0uRrdKUfqYhXhnaw.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-12-30",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1624
+  },
+  {
+    "ytId": "iZPrKQlLR0g",
+    "tmdbId": 1220334,
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "poster_path": "/84MAjfhc5FER7vUI4NSeVKBACAD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-01-31",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1623
+  },
+  {
+    "ytId": "-AD-8Dbo0Fw",
+    "tmdbId": 1111487,
+    "title": "Darla in Space",
+    "poster_path": "/xDy8nQadgo1m3kvourELLyOpFER.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "year": "2024",
+    "release_date": "2024-09-27",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1622
+  },
+  {
+    "ytId": "XEHOjbuUQTI",
+    "tmdbId": 543040,
+    "title": "Baba Vanga",
+    "poster_path": "/eDBI1wyY666Xq1Qe7ViczQHZInu.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-07-26",
+    "rating": 5.5,
+    "original_language": "bs",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1621
+  },
+  {
+    "ytId": "sucVPzNJoZk",
+    "tmdbId": 1489580,
+    "title": "Blue Planet Red",
+    "poster_path": "/kRzWaG9LcfXsKswplTRheTHhUOR.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-08-22",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1620
+  },
+  {
+    "ytId": "3yDr25cwXWk",
+    "tmdbId": 1584768,
+    "title": "Something Changed in the Room",
+    "poster_path": "/cOpo5Dd8OwafRr7uERjsw8pxytR.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-10-17",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1619
+  },
+  {
+    "ytId": "7rayY37vUiY",
+    "tmdbId": 1455098,
+    "title": "Norman IV",
+    "poster_path": null,
+    "genre_ids": [
+      28,
+      878,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-08-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1618
+  },
+  {
+    "ytId": "IKGe0W7YDgg",
+    "tmdbId": 289378,
+    "title": "To the Ends of Time",
+    "poster_path": "/2JEjiEmBeTgq97M3b88qwCPH10k.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "1996",
+    "release_date": "1996-10-21",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1617
+  },
+  {
+    "ytId": "SaF04JlnMWk",
+    "tmdbId": 1495948,
+    "title": "The Pines Still Whisper",
+    "poster_path": "/x78sa05VpLsxXK29ChiVsNWRhLo.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-09-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1616
+  },
+  {
+    "ytId": "xKAzC5SkF0I",
+    "tmdbId": 18634,
+    "title": "Puzzlehead",
+    "poster_path": "/fmF7J1x8aS5Pf6DJhFNJA63ThXJ.jpg",
+    "genre_ids": [
+      878,
+      53,
+      18,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-03-23",
+    "rating": 5.679,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1615
+  },
+  {
+    "ytId": "vk1158UDNaw",
+    "tmdbId": 1384654,
+    "title": "Aliens Uncovered: Borrowed Time",
+    "poster_path": "/bvJpSyuj6vPWZorfDVThB892jSF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-09-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1614
+  },
+  {
+    "ytId": "JT9KSpZIbjA",
+    "tmdbId": 1121854,
+    "title": "Aliens Uncovered: Origins",
+    "poster_path": "/ykjrVmq5y9MVbnHEYAcrPoOMUPx.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-04-11",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1613
+  },
+  {
+    "ytId": "e2WPeXyLc9o",
+    "tmdbId": 539721,
+    "title": "Project E.1337: ALPHA",
+    "poster_path": "/mtPfO2bQUkUkUxBAkmsUnvCAd2X.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-04-04",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1612
+  },
+  {
+    "ytId": "pXcsqURY58Y",
+    "tmdbId": 278612,
+    "title": "Atlantis: Secret Star Mappers of a Lost World",
+    "poster_path": "/qwIqkCR6CpyoKeIPi4K9r6Q76Uu.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2007",
+    "release_date": "2007-07-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1611
+  },
+  {
     "ytId": "lkuGFPJypRo",
     "tmdbId": 961520,
     "title": "Seal of Desire",
@@ -1955,580 +2531,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-18",
     "id": 1495
-  },
-  {
-    "ytId": "fUCBZ0AxnMo",
-    "tmdbId": 103433,
-    "title": "Hillside Cannibals",
-    "poster_path": "/nbkhp5aidYJg66ddMeOq4Hwsk5j.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2006",
-    "release_date": "2006-03-28",
-    "rating": 2.983,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1494
-  },
-  {
-    "ytId": "EqqjR5PjaxE",
-    "tmdbId": 319847,
-    "title": "Hansel Vs. Gretel",
-    "poster_path": "/8jYPMf30EzP9RubmwPWA0iDj6IQ.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2015",
-    "release_date": "2015-01-20",
-    "rating": 3.914,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1493
-  },
-  {
-    "ytId": "QP6CIDAnaJg",
-    "tmdbId": 35710,
-    "title": "Snakes on a Train",
-    "poster_path": "/dzNOdGwtMMq8NKBjxkd2yG59NJV.jpg",
-    "genre_ids": [
-      28,
-      27,
-      53
-    ],
-    "year": "2006",
-    "release_date": "2006-08-15",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1492
-  },
-  {
-    "ytId": "cxFuuDLUTdM",
-    "tmdbId": 22515,
-    "title": "Death Racers",
-    "poster_path": "/tgbTNDNH60x5xDkGgMR3eceiyix.jpg",
-    "genre_ids": [
-      28,
-      12,
-      35,
-      878,
-      53
-    ],
-    "year": "2008",
-    "release_date": "2008-09-28",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1491
-  },
-  {
-    "ytId": "ocHrtIVCIis",
-    "tmdbId": 98948,
-    "title": "Abraham Lincoln vs. Zombies",
-    "poster_path": "/kcrZQxlzyCepVGqvWvWSm67JFhL.jpg",
-    "genre_ids": [
-      27,
-      28,
-      53
-    ],
-    "year": "2012",
-    "release_date": "2012-05-29",
-    "rating": 3.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1490
-  },
-  {
-    "ytId": "6j83fbgJC0Y",
-    "tmdbId": 197624,
-    "title": "AE: Apocalypse Earth",
-    "poster_path": "/ihAsEjCSn11rJi1fYzf2BC1M83b.jpg",
-    "genre_ids": [
-      10770,
-      878
-    ],
-    "year": "2013",
-    "release_date": "2013-05-28",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1489
-  },
-  {
-    "ytId": "WH-0Y6L-KU8",
-    "tmdbId": 419326,
-    "title": "The Night Visitor 2: Heather's Story",
-    "poster_path": "/g25rCrPdSlgRqG2L9zgrKMMulqX.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "2016",
-    "release_date": "2016-10-04",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1488
-  },
-  {
-    "ytId": "vFAyrEO_Qmo",
-    "tmdbId": 57313,
-    "title": "8213: Gacy House",
-    "poster_path": "/cyXzvGMAMJzQqCp13oRt3BG1vYx.jpg",
-    "genre_ids": [
-      27,
-      9648,
-      80
-    ],
-    "year": "2010",
-    "release_date": "2010-09-28",
-    "rating": 3.473,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1487
-  },
-  {
-    "ytId": "Q-KKfCQAY3s",
-    "tmdbId": 70574,
-    "title": "A Haunting in Salem",
-    "poster_path": "/1csYnDawo4SW9zmPFpbhW2SF1nF.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2011",
-    "release_date": "2011-08-23",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1486
-  },
-  {
-    "ytId": "coABa7iMgcw",
-    "tmdbId": 546473,
-    "title": "The Girl in the Crawlspace",
-    "poster_path": "/7dLeFKVF8JTkF1XVPEOXxJFCRmc.jpg",
-    "genre_ids": [
-      27,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-09-29",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1485
-  },
-  {
-    "ytId": "CCd4D5oYOJg",
-    "tmdbId": 631689,
-    "title": "Scare Attraction",
-    "poster_path": "/5j5hVmC6hqtbluwctauPVlULep7.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-10-14",
-    "rating": 3.4,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1484
-  },
-  {
-    "ytId": "RQ8tG8uqYc4",
-    "tmdbId": 708336,
-    "title": "Return of the Tooth Fairy",
-    "poster_path": "/n8XFS2FVStaBPS2vLqUuH2bAjVf.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-06-15",
-    "rating": 6.46,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1483
-  },
-  {
-    "ytId": "xGRTiQsuuPM",
-    "tmdbId": 763345,
-    "title": "Terror at Bigfoot Pond",
-    "poster_path": "/nC6BrXcTPSNyJA8fYUftO3lAoLV.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-09-10",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1482
-  },
-  {
-    "ytId": "IGFE5cAEbBk",
-    "tmdbId": 517098,
-    "title": "Atelophobia: Chapter 2",
-    "poster_path": "/rIbLag0hUcHZkzbuJPmMdY0YMyD.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-04-08",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1481
-  },
-  {
-    "ytId": "4E6azbRi2SM",
-    "tmdbId": 737586,
-    "title": "The Trees Have Eyes",
-    "poster_path": "/oPNUbDbRXUbYDQU4hfQNSWkhp3T.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-07-21",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1480
-  },
-  {
-    "ytId": "_P6d6nC6eBI",
-    "tmdbId": 750121,
-    "title": "Witches of Amityville",
-    "poster_path": "/9xL5kkQXNRLtRCXBT3MyPyv0gWG.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-10-02",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1479
-  },
-  {
-    "ytId": "JNSEJEr_D80",
-    "tmdbId": 76666,
-    "title": "Invasion of the Pod People",
-    "poster_path": "/9PCIc4RSkyFCHl06RlKBnJBk2oG.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "year": "2007",
-    "release_date": "2007-07-24",
-    "rating": 3.9,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1478
-  },
-  {
-    "ytId": "RBD3UOyuheU",
-    "tmdbId": 613607,
-    "title": "Anna 2",
-    "poster_path": "/jlqnp8lXTbjqLNrPq9FEJQX0rGt.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-01-03",
-    "rating": 2.3,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1477
-  },
-  {
-    "ytId": "tlgmW5KCmR0",
-    "tmdbId": 735253,
-    "title": "Bad Nun: Deadly Vows",
-    "poster_path": "/2MCRbZy8iLHpCUX8yxe0v0JXsqn.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2020",
-    "release_date": "2020-08-18",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1476
-  },
-  {
-    "ytId": "1YVb0YmreeM",
-    "tmdbId": 120478,
-    "title": "The Haunting of Whaley House",
-    "poster_path": "/kvwBbq5GYqBsMQ2s19o1Z13A9It.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2012",
-    "release_date": "2012-07-31",
-    "rating": 4.483,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1475
-  },
-  {
-    "ytId": "Yh9nL0kYQNk",
-    "tmdbId": 539489,
-    "title": "House of Sweat and Tears",
-    "poster_path": "/pI97vPM6sno0SV2ygxCMSBKJgKA.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      53
-    ],
-    "year": "2018",
-    "release_date": "2018-09-21",
-    "rating": 7,
-    "original_language": "es",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1474
-  },
-  {
-    "ytId": "ngVAGaWhDOc",
-    "tmdbId": 95480,
-    "title": "Flesh, TX",
-    "poster_path": "/p2QeynnpcZEsI3h2gkrWGVfgSE7.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2009",
-    "release_date": "2009-09-29",
-    "rating": 1.667,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1473
-  },
-  {
-    "ytId": "I0bLsWETWFY",
-    "tmdbId": 36531,
-    "title": "The Death Factory: Bloodletting",
-    "poster_path": "/tbB6KAFGoltgLLkTF5ADpEqYSUZ.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2008",
-    "release_date": "2008-05-07",
-    "rating": 2.6,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1472
-  },
-  {
-    "ytId": "kicEk7OhOlk",
-    "tmdbId": 18441,
-    "title": "Death of a Ghost Hunter",
-    "poster_path": "/YNQw2Qw4UW9m5qb5iB4SppNyYi.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2007",
-    "release_date": "2007-10-28",
-    "rating": 4.042,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1471
-  },
-  {
-    "ytId": "JV4UowzYvf8",
-    "tmdbId": 55073,
-    "title": "Destined to be Ingested",
-    "poster_path": "/6Yday16M3RwpnSqQPlJ1QiOobGv.jpg",
-    "genre_ids": [
-      18,
-      27
-    ],
-    "year": "2008",
-    "release_date": "2008-10-29",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1470
-  },
-  {
-    "ytId": "USQfz4dbpuM",
-    "tmdbId": 464676,
-    "title": "Madam Yankelova's Fine Literature Club",
-    "poster_path": "/oIjmepzEtreGjV0jsgVYtNLp9EM.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2017",
-    "release_date": "2017-06-15",
-    "rating": 5.1,
-    "original_language": "he",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1469
-  },
-  {
-    "ytId": "gT4ewwKtTwU",
-    "tmdbId": 297455,
-    "title": "A Haunting at Preston Castle",
-    "poster_path": "/4MSuSWLynMS4MMXmOUpLPBlg2mR.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2012",
-    "release_date": "2012-11-03",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1468
-  },
-  {
-    "ytId": "U-0z1jMxvhA",
-    "tmdbId": 440294,
-    "title": "Like a Bat Outta Hell",
-    "poster_path": "/93LRI7gPsmTVqvfwsVKbGC7ISxa.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "2013",
-    "release_date": "2013-04-28",
-    "rating": 4.4,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1467
-  },
-  {
-    "ytId": "EjK1PSc2R0M",
-    "tmdbId": 538350,
-    "title": "Angels vs. Zombies",
-    "poster_path": "/AtalDmanGqTbUBUdIczkRiEQrmW.jpg",
-    "genre_ids": [
-      27,
-      14,
-      28
-    ],
-    "year": "2018",
-    "release_date": "2018-03-29",
-    "rating": null,
-    "original_language": "fr",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1466
-  },
-  {
-    "ytId": "Mk8e0kZsVe0",
-    "tmdbId": 345003,
-    "title": "10 Days in a Madhouse",
-    "poster_path": "/iTvJ5tc6Os90JXza9XfDktYlAOj.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2015",
-    "release_date": "2015-11-20",
-    "rating": 4.583,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1465
-  },
-  {
-    "ytId": "V_J-1flPfjI",
-    "tmdbId": 452021,
-    "title": "The Coffin Footage",
-    "poster_path": "/hTGhl8ti0cwfjB6In22FQTPzz2T.jpg",
-    "genre_ids": [
-      53,
-      27,
-      9648
-    ],
-    "year": "2016",
-    "release_date": "2016-01-10",
-    "rating": 2.9,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1464
-  },
-  {
-    "ytId": "Mh_D7IkAW6Q",
-    "tmdbId": 621914,
-    "title": "Arctic Apocalypse",
-    "poster_path": "/9jcQmBfieWq3Te4fJ9YzucCZvS4.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "2019",
-    "release_date": "2019-08-07",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1463
-  },
-  {
-    "ytId": "lx7VayWp7-M",
-    "tmdbId": 39522,
-    "title": "Mega Piranha",
-    "poster_path": "/vZB82Iqg28c5UxY3maGg1gGr3yF.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "year": "2010",
-    "release_date": "2010-04-10",
-    "rating": 3.221,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1462
-  },
-  {
-    "ytId": "ZuapE764dO0",
-    "tmdbId": 100089,
-    "title": "Nazis at the Center of the Earth",
-    "poster_path": "/navS5NXLXdfjkovl5iQoCvGoROB.jpg",
-    "genre_ids": [
-      12,
-      28,
-      27,
-      878,
-      53
-    ],
-    "year": "2012",
-    "release_date": "2012-04-23",
-    "rating": 3.173,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-18",
-    "id": 1461
   }
 ]

@@ -1,5 +1,581 @@
 [
   {
+    "ytId": "hhIDQhUkDkU",
+    "tmdbId": 292532,
+    "title": "Wicked Spring",
+    "poster_path": "/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10752
+    ],
+    "year": "2002",
+    "release_date": "2002-03-02",
+    "rating": 6.643,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1644
+  },
+  {
+    "ytId": "yabsjEJqkjU",
+    "tmdbId": 854417,
+    "title": "Bearry",
+    "poster_path": "/rjUVnC6itSxUPFHNQJR7LAucIiR.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-07-17",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1643
+  },
+  {
+    "ytId": "IYdQ3KI1bKk",
+    "tmdbId": 865745,
+    "title": "Astro Loco",
+    "poster_path": "/wdRx4ndKJahdSHHvxNadiUEUGx5.jpg",
+    "genre_ids": [
+      878,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-08-25",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1642
+  },
+  {
+    "ytId": "IZs3R7VrY6Q",
+    "tmdbId": 840533,
+    "title": "Just Another Dream",
+    "poster_path": "/1Cq3sC2sdYKDfYx0rpHllklT2dy.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-07-07",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1641
+  },
+  {
+    "ytId": "ovYe56D6DD8",
+    "tmdbId": 841298,
+    "title": "When you are Gone",
+    "poster_path": "/cMIk7ew8qO1heRVOHEiSgvA1ecE.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-12-31",
+    "rating": null,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1640
+  },
+  {
+    "ytId": "bZCLszHBnWc",
+    "tmdbId": 1563429,
+    "title": "Introspectum Motel",
+    "poster_path": "/6VKli8ni49KUEpOH5ujbdo2BJQQ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-05-15",
+    "rating": 3.333,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1639
+  },
+  {
+    "ytId": "QRP-aqpIOrY",
+    "tmdbId": 619915,
+    "title": "Black Pool",
+    "poster_path": "/ti52EpImZCEGChL537dOrfau7xA.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-04-14",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1638
+  },
+  {
+    "ytId": "1f1GHxjXLRE",
+    "tmdbId": 809668,
+    "title": "Pungo: A Witch's Tale",
+    "poster_path": "/6BQYbbUv4gVQBWPAtV5eRfSzzt5.jpg",
+    "genre_ids": [
+      14,
+      27,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-03-23",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1637
+  },
+  {
+    "ytId": "egRpmp20Nf8",
+    "tmdbId": 759354,
+    "title": "The Misadventures of Mistress Maneater",
+    "poster_path": "/pz9XSvWYBuW6AVL0NooyZr47W9a.jpg",
+    "genre_ids": [
+      35,
+      28,
+      10749
+    ],
+    "year": "2020",
+    "release_date": "2020-10-30",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1636
+  },
+  {
+    "ytId": "PzTbds7AseI",
+    "tmdbId": 459475,
+    "title": "Awaken the Shadowman",
+    "poster_path": "/s7o8AwPkmpHvtTP6qG2lSfwdW1U.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2017",
+    "release_date": "2017-07-21",
+    "rating": 3.676,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1635
+  },
+  {
+    "ytId": "kZVMaBXjZH8",
+    "tmdbId": 968063,
+    "title": "Bet On Ben",
+    "poster_path": "/7irbrFecWPr0pOhf2CY6innBLl.jpg",
+    "genre_ids": [],
+    "year": "2021",
+    "release_date": "2021-12-24",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1634
+  },
+  {
+    "ytId": "LswUFqfyeE4",
+    "tmdbId": 989143,
+    "title": "Band of Rebels",
+    "poster_path": "/jgo8PnRIs5TpCqHlmUFpJsnhHde.jpg",
+    "genre_ids": [
+      10752,
+      36,
+      37
+    ],
+    "year": "2022",
+    "release_date": "2022-07-26",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1633
+  },
+  {
+    "ytId": "uMVY26i3b_A",
+    "tmdbId": 371077,
+    "title": "Hamlet's Ghost",
+    "poster_path": "/nXvywJXoc4RSFNeWxm48jsYLJiA.jpg",
+    "genre_ids": [
+      878,
+      10751,
+      12,
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-12-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1632
+  },
+  {
+    "ytId": "lXK580ThHnQ",
+    "tmdbId": 188648,
+    "title": "Gibsonburg",
+    "poster_path": "/g5Y7NEZHaeXTJbZ7KVyJw7PIHj8.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-06-07",
+    "rating": 1.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1631
+  },
+  {
+    "ytId": "rRH3uLl9pE4",
+    "tmdbId": 538071,
+    "title": "Krut: The Himmaphan Warriors",
+    "poster_path": "/acEo0wtuy7JLveTlajYeL7jvjP5.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
+    ],
+    "year": "2018",
+    "release_date": "2018-07-19",
+    "rating": 7.7,
+    "original_language": "th",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1630
+  },
+  {
+    "ytId": "m4SOrA4J9f4",
+    "tmdbId": 478624,
+    "title": "Painted Horses",
+    "poster_path": "/27UVK8Q9q1HYkU5FsLu5zowGKWC.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-01-10",
+    "rating": 6.45,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1629
+  },
+  {
+    "ytId": "r7x6IsFMpOs",
+    "tmdbId": 39497,
+    "title": "Escanaba in da Moonlight",
+    "poster_path": "/i7Lnquo1pTcX8p0w3if7xajiQuj.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2001",
+    "release_date": "2001-01-26",
+    "rating": 6.107,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1628
+  },
+  {
+    "ytId": "1Z75zkJBUUs",
+    "tmdbId": 810019,
+    "title": "These Streets We Haunt",
+    "poster_path": "/c5N9U6c3w3weVswDy9DlS1fvUiZ.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "2021",
+    "release_date": "2021-03-23",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-22",
+    "id": 1627
+  },
+  {
+    "ytId": "2EidyQOQQPc",
+    "tmdbId": 1652457,
+    "title": "Diamond Sky",
+    "poster_path": "/7e39uzPrKFTO5n4QbELNNNn8HSf.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-10-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1626
+  },
+  {
+    "ytId": "HHEX8ZDRPTw",
+    "tmdbId": 1698081,
+    "title": "Super Four - First Contact",
+    "poster_path": "/yiF6uYG0Ks8l3yH5a5CACrZMXTA.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2025",
+    "release_date": "2025-06-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1625
+  },
+  {
+    "ytId": "35eqNqWqaOI",
+    "tmdbId": 950975,
+    "title": "Bigfoot vs Krampus",
+    "poster_path": "/5e2IDHqNbym0uRrdKUfqYhXhnaw.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-12-30",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1624
+  },
+  {
+    "ytId": "iZPrKQlLR0g",
+    "tmdbId": 1220334,
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "poster_path": "/84MAjfhc5FER7vUI4NSeVKBACAD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-01-31",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1623
+  },
+  {
+    "ytId": "-AD-8Dbo0Fw",
+    "tmdbId": 1111487,
+    "title": "Darla in Space",
+    "poster_path": "/xDy8nQadgo1m3kvourELLyOpFER.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "year": "2024",
+    "release_date": "2024-09-27",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1622
+  },
+  {
+    "ytId": "XEHOjbuUQTI",
+    "tmdbId": 543040,
+    "title": "Baba Vanga",
+    "poster_path": "/eDBI1wyY666Xq1Qe7ViczQHZInu.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-07-26",
+    "rating": 5.5,
+    "original_language": "bs",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1621
+  },
+  {
+    "ytId": "sucVPzNJoZk",
+    "tmdbId": 1489580,
+    "title": "Blue Planet Red",
+    "poster_path": "/kRzWaG9LcfXsKswplTRheTHhUOR.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-08-22",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1620
+  },
+  {
+    "ytId": "3yDr25cwXWk",
+    "tmdbId": 1584768,
+    "title": "Something Changed in the Room",
+    "poster_path": "/cOpo5Dd8OwafRr7uERjsw8pxytR.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-10-17",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1619
+  },
+  {
+    "ytId": "7rayY37vUiY",
+    "tmdbId": 1455098,
+    "title": "Norman IV",
+    "poster_path": null,
+    "genre_ids": [
+      28,
+      878,
+      35
+    ],
+    "year": "2025",
+    "release_date": "2025-08-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1618
+  },
+  {
+    "ytId": "IKGe0W7YDgg",
+    "tmdbId": 289378,
+    "title": "To the Ends of Time",
+    "poster_path": "/2JEjiEmBeTgq97M3b88qwCPH10k.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "1996",
+    "release_date": "1996-10-21",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1617
+  },
+  {
+    "ytId": "SaF04JlnMWk",
+    "tmdbId": 1495948,
+    "title": "The Pines Still Whisper",
+    "poster_path": "/x78sa05VpLsxXK29ChiVsNWRhLo.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-09-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1616
+  },
+  {
+    "ytId": "xKAzC5SkF0I",
+    "tmdbId": 18634,
+    "title": "Puzzlehead",
+    "poster_path": "/fmF7J1x8aS5Pf6DJhFNJA63ThXJ.jpg",
+    "genre_ids": [
+      878,
+      53,
+      18,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-03-23",
+    "rating": 5.679,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1615
+  },
+  {
+    "ytId": "vk1158UDNaw",
+    "tmdbId": 1384654,
+    "title": "Aliens Uncovered: Borrowed Time",
+    "poster_path": "/bvJpSyuj6vPWZorfDVThB892jSF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-09-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1614
+  },
+  {
+    "ytId": "JT9KSpZIbjA",
+    "tmdbId": 1121854,
+    "title": "Aliens Uncovered: Origins",
+    "poster_path": "/ykjrVmq5y9MVbnHEYAcrPoOMUPx.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-04-11",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1613
+  },
+  {
+    "ytId": "e2WPeXyLc9o",
+    "tmdbId": 539721,
+    "title": "Project E.1337: ALPHA",
+    "poster_path": "/mtPfO2bQUkUkUxBAkmsUnvCAd2X.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-04-04",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1612
+  },
+  {
+    "ytId": "pXcsqURY58Y",
+    "tmdbId": 278612,
+    "title": "Atlantis: Secret Star Mappers of a Lost World",
+    "poster_path": "/qwIqkCR6CpyoKeIPi4K9r6Q76Uu.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2007",
+    "release_date": "2007-07-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-22",
+    "id": 1611
+  },
+  {
     "ytId": "lkuGFPJypRo",
     "tmdbId": 961520,
     "title": "Seal of Desire",
