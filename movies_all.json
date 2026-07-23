@@ -1,5 +1,166 @@
 [
   {
+    "ytId": "XfKas6Qw8w0",
+    "tmdbId": 1439086,
+    "title": "Dark Side of Heaven",
+    "poster_path": "/mGmL0mEtWCj9mCeG11bMrJuDBbJ.jpg",
+    "genre_ids": [],
+    "year": "2008",
+    "release_date": "2008-03-17",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1725
+  },
+  {
+    "ytId": "Sgw3VWgm55Q",
+    "tmdbId": 646434,
+    "title": "Stone Seeker",
+    "poster_path": "/y4tJOv9hBfNW0qNNqnmJDfvigvF.jpg",
+    "genre_ids": [],
+    "year": "2018",
+    "release_date": "2018-02-14",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1724
+  },
+  {
+    "ytId": "6PWugymo32A",
+    "tmdbId": 646034,
+    "title": "Riley Parra: Better Angels",
+    "poster_path": "/6SH92umhfpYiKcKcfXqtpHjZ4fp.jpg",
+    "genre_ids": [
+      878,
+      18,
+      80
+    ],
+    "year": "2019",
+    "release_date": "2019-08-25",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1723
+  },
+  {
+    "ytId": "FdF3DDrOokU",
+    "tmdbId": 604571,
+    "title": "Deus",
+    "poster_path": "/zq9iHZTVNOXFT4SIzjpA7gfwsyZ.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-11-04",
+    "rating": 5.075,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1722
+  },
+  {
+    "ytId": "aXhseLA7c-8",
+    "tmdbId": 31243,
+    "title": "The Robot vs. The Aztec Mummy",
+    "poster_path": "/z5NR8SLZQ9bcSXig9z72YLAqtzt.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "1958",
+    "release_date": "1958-07-17",
+    "rating": 2.952,
+    "original_language": "es",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1721
+  },
+  {
+    "ytId": "04iyIi0Q1Gc",
+    "tmdbId": 1142624,
+    "title": "The Ant Farm",
+    "poster_path": "/g0Qc3SW0Z1NC068mHrXi8krFOvr.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-08-25",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1720
+  },
+  {
+    "ytId": "s5L2nY8v_NE",
+    "tmdbId": 1195727,
+    "title": "Boy Makes Girl",
+    "poster_path": "/b0tBcMFckiNSO1O6W9wyqQMBoxX.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-10-24",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1719
+  },
+  {
+    "ytId": "EXJ8D_atNGQ",
+    "tmdbId": 258964,
+    "title": "The Random Factor",
+    "poster_path": null,
+    "genre_ids": [
+      878
+    ],
+    "year": "1995",
+    "release_date": "1995-03-03",
+    "rating": 5.083,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1718
+  },
+  {
+    "ytId": "nSO43bEvBts",
+    "tmdbId": 1327535,
+    "title": "The Reflected Self",
+    "poster_path": "/kfFRMF0zYpl7i5utSWCiaA2TmfE.jpg",
+    "genre_ids": [
+      27,
+      18,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-12-10",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1717
+  },
+  {
+    "ytId": "4HiRjxCLh3k",
+    "tmdbId": 1589337,
+    "title": "The End of the World",
+    "poster_path": "/6lJd9yAcwWCXrCIV8K5R8DEM226.jpg",
+    "genre_ids": [],
+    "year": "2024",
+    "release_date": "2024-11-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1716
+  },
+  {
     "ytId": "v97D8pgK2ow",
     "tmdbId": 1189324,
     "title": "Alien Chronicles: Antarctic Worlds Below",
