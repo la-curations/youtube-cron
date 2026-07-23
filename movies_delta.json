@@ -1,5 +1,245 @@
 [
   {
+    "ytId": "v97D8pgK2ow",
+    "tmdbId": 1189324,
+    "title": "Alien Chronicles: Antarctic Worlds Below",
+    "poster_path": "/8mFmJNwiAUR3FMAmzrjoIGXzPhF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1715
+  },
+  {
+    "ytId": "3tW00lRI1Bo",
+    "tmdbId": 760530,
+    "title": "Eclipse: The Rise of Ink",
+    "poster_path": "/1Z2WkhZGePordhuRxa0BJv7MPRy.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "year": "2018",
+    "release_date": "2018-03-26",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1714
+  },
+  {
+    "ytId": "wNjvkaqiRPU",
+    "tmdbId": 922964,
+    "title": "Dragon: The Weapon of God",
+    "poster_path": "/3220Mn1llRXWUHFG2fW6r4O7pXC.jpg",
+    "genre_ids": [
+      28,
+      14,
+      12,
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-01-04",
+    "rating": 4.25,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1713
+  },
+  {
+    "ytId": "zhkkOxmamKo",
+    "tmdbId": 530081,
+    "title": "The Man Who Killed Hitler and Then the Bigfoot",
+    "poster_path": "/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg",
+    "genre_ids": [
+      18,
+      12,
+      14,
+      878,
+      10752
+    ],
+    "year": "2019",
+    "release_date": "2019-02-08",
+    "rating": 5.443,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1712
+  },
+  {
+    "ytId": "CjG2WAML0T8",
+    "tmdbId": 614365,
+    "title": "A.I. 187",
+    "poster_path": "/wNcTkJ38MyCaU7KvMH3C3LcMDmv.jpg",
+    "genre_ids": [
+      878,
+      14,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-05-04",
+    "rating": 2.333,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1711
+  },
+  {
+    "ytId": "sueOuu_0rbA",
+    "tmdbId": 111208,
+    "title": "The 25th Reich",
+    "poster_path": "/13o2Visivhktf5KVk4Sf9NN7qcJ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      878
+    ],
+    "year": "2012",
+    "release_date": "2012-05-09",
+    "rating": 4.317,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1710
+  },
+  {
+    "ytId": "fgiS91KIhMw",
+    "tmdbId": 1360058,
+    "title": "Aliens Uncovered: Marilyn Monroe Exposed",
+    "poster_path": "/4NxuDLwRq10E53kMOzbQJ1aAUzN.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-05-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1709
+  },
+  {
+    "ytId": "MFdhAJMmdqU",
+    "tmdbId": 1152194,
+    "title": "Adventures of the Naked Umbrella",
+    "poster_path": "/sEYZukMm0MKsnbiEMJgKp1sRDOM.jpg",
+    "genre_ids": [
+      878,
+      28,
+      35
+    ],
+    "year": "2023",
+    "release_date": "2023-11-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1708
+  },
+  {
+    "ytId": "7jiXhvNbeoQ",
+    "tmdbId": 1419670,
+    "title": "Knight Life",
+    "poster_path": "/2H4lvQGswKM80bMcffOcspgSLer.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2025",
+    "release_date": "2025-01-28",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1707
+  },
+  {
+    "ytId": "7DYVFXbwf48",
+    "tmdbId": 1197457,
+    "title": "Aliens Uncovered: UFOs Over Vegas",
+    "poster_path": "/krGswZ6je9A1N7S3u5ofOPQkxs2.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-10-17",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1706
+  },
+  {
+    "ytId": "ZZnc_K3rrXs",
+    "tmdbId": 1241674,
+    "title": "The Last Breath",
+    "poster_path": "/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-06-28",
+    "rating": 5.962,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1705
+  },
+  {
+    "ytId": "_FUH186wGkE",
+    "tmdbId": 1533344,
+    "title": "Fire & Outer Darkness",
+    "poster_path": "/8SCaERHXLdVGZReg5a3NPlBvTUa.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-09-30",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1704
+  },
+  {
+    "ytId": "hTZjOZKbxCI",
+    "tmdbId": 42053,
+    "title": "Witchville",
+    "poster_path": "/q4cRqdKAPRxGdk6r150hQZv5EU2.jpg",
+    "genre_ids": [
+      14,
+      12
+    ],
+    "year": "2010",
+    "release_date": "2010-05-22",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1703
+  },
+  {
+    "ytId": "96Ifn_HSI80",
+    "tmdbId": 1147216,
+    "title": "Aliens Uncovered: The Golden Record",
+    "poster_path": "/lAxKj4tFkIEZtp81lATved0Ezid.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-07-04",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1702
+  },
+  {
     "ytId": "HzfVBgfnVCI",
     "tmdbId": 1627275,
     "title": "Areas of High Strangeness: Stimson Hospital",
@@ -2310,244 +2550,5 @@
     "channelName": "Sci-Fi Central",
     "addedAt": "2026-07-22",
     "id": 1566
-  },
-  {
-    "ytId": "dmfAQLkdJcg",
-    "tmdbId": 999131,
-    "title": "Taku-He",
-    "poster_path": "/gDPqDFw37AfnAZ4TFGx8DpxhDji.jpg",
-    "genre_ids": [
-      27,
-      14
-    ],
-    "year": "2017",
-    "release_date": "2017-07-28",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1565
-  },
-  {
-    "ytId": "wWQ02LeR0Nk",
-    "tmdbId": 230434,
-    "title": "The Castle Project",
-    "poster_path": "/jTqn3wYu0I3knB05RGoWEb2zgD9.jpg",
-    "genre_ids": [
-      99,
-      36,
-      9648
-    ],
-    "year": "2013",
-    "release_date": "2013-10-01",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1564
-  },
-  {
-    "ytId": "6U24tQMYEdI",
-    "tmdbId": 1496036,
-    "title": "Double Blind",
-    "poster_path": "/34GFJCKDdxuEUGfZXmd1kKJEcVC.jpg",
-    "genre_ids": [
-      53,
-      28
-    ],
-    "year": "2025",
-    "release_date": "2025-05-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1563
-  },
-  {
-    "ytId": "te-ts1F7-AU",
-    "tmdbId": 1419942,
-    "title": "Blood Moon",
-    "poster_path": "/buDEExuxlHShY4Ao1rWR6lH8daq.jpg",
-    "genre_ids": [
-      18,
-      53,
-      10749,
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-01-31",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1562
-  },
-  {
-    "ytId": "fIqY0CeIQvk",
-    "tmdbId": 425760,
-    "title": "Blood Mercury",
-    "poster_path": "/3kceJeQIzHrFYkQCGCLyZNqG4lP.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2014",
-    "release_date": "2014-10-17",
-    "rating": 1.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1561
-  },
-  {
-    "ytId": "AIr_g31jL0Q",
-    "tmdbId": 1500740,
-    "title": "Afterlife",
-    "poster_path": "/cjDUDpN2BsDOBgsKklhZsjVbaCf.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2025",
-    "release_date": "2025-06-13",
-    "rating": null,
-    "original_language": "zh",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1560
-  },
-  {
-    "ytId": "ke9BvOhR1Lc",
-    "tmdbId": 71520,
-    "title": "Last Woman on Earth",
-    "poster_path": "/tgnBd04WHJvysZxf5MYmNTXitVL.jpg",
-    "genre_ids": [
-      878,
-      18,
-      9648
-    ],
-    "year": "1960",
-    "release_date": "1960-08-05",
-    "rating": 4.451,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1559
-  },
-  {
-    "ytId": "ceiJZpJtPgs",
-    "tmdbId": 676457,
-    "title": "Unit Eleven",
-    "poster_path": "/bZKfeMEIPzwrxkQ9KplLq4KRmc8.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "2020",
-    "release_date": "2020-01-04",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1558
-  },
-  {
-    "ytId": "aRnaFSQW1tU",
-    "tmdbId": 1476425,
-    "title": "The Sacred and the Profane",
-    "poster_path": "/gEWaU9O1Bc9mBwxgLZqAJWlxs9.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2025",
-    "release_date": "2025-04-29",
-    "rating": 10,
-    "original_language": "ja",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1557
-  },
-  {
-    "ytId": "grZgCttvZyQ",
-    "tmdbId": 437249,
-    "title": "Seattle's Loch Ness: The Lake Washington Sea Monster",
-    "poster_path": null,
-    "genre_ids": [
-      12,
-      99,
-      9648
-    ],
-    "year": "2012",
-    "release_date": "2012-05-08",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1556
-  },
-  {
-    "ytId": "sodnfiNlqfw",
-    "tmdbId": 571286,
-    "title": "Mondo Hollywoodland",
-    "poster_path": "/77Mi4J7hDTBUi41UErCYb3ns3RM.jpg",
-    "genre_ids": [
-      35,
-      878
-    ],
-    "year": "2021",
-    "release_date": "2021-08-03",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1555
-  },
-  {
-    "ytId": "NZMXOB0Unmk",
-    "tmdbId": 1220028,
-    "title": "Beginning of a New Era",
-    "poster_path": "/fTA2LAiDyIQlUwo3giWrlFVKn26.jpg",
-    "genre_ids": [
-      99,
-      10402
-    ],
-    "year": "2025",
-    "release_date": "2025-03-14",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1554
-  },
-  {
-    "ytId": "gf_Gx538xcs",
-    "tmdbId": 289708,
-    "title": "Cute Little Buggers",
-    "poster_path": "/jF8qIroUMDhFApmSQGqTlMLEkjc.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2017",
-    "release_date": "2017-02-10",
-    "rating": 4.111,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1553
-  },
-  {
-    "ytId": "GFrjqn9ylU4",
-    "tmdbId": 1724215,
-    "title": "Fearless",
-    "poster_path": "/mlPYyi49QuttAGgMtTnEmRMtUgu.jpg",
-    "genre_ids": [
-      36
-    ],
-    "year": "2025",
-    "release_date": "2025-12-20",
-    "rating": null,
-    "original_language": "zh",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1552
   }
 ]
