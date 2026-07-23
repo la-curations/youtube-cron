@@ -1,5 +1,419 @@
 [
   {
+    "ytId": "KD2uzatkXO8",
+    "tmdbId": 770499,
+    "title": "Miracle on Highway 34",
+    "poster_path": "/fIH1jaCPTBpOt99a7hZjWpiWbpF.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2020",
+    "release_date": "2020-12-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1694
+  },
+  {
+    "ytId": "BGHTinvhr8k",
+    "tmdbId": 358876,
+    "title": "Christmas in Palm Springs",
+    "poster_path": "/kaCk7Xwg9m8BiLBf24KziUAp2Kj.jpg",
+    "genre_ids": [
+      35,
+      10770
+    ],
+    "year": "2014",
+    "release_date": "2014-11-23",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1693
+  },
+  {
+    "ytId": "Z4d-MD1qpiE",
+    "tmdbId": 654766,
+    "title": "Christmas Matchmakers",
+    "poster_path": "/mwys26NuCQf35gdLijuGeDFzNSq.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2019",
+    "release_date": "2019-12-08",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1692
+  },
+  {
+    "ytId": "YMnf3daGYRY",
+    "tmdbId": 550506,
+    "title": "Saint Judy",
+    "poster_path": "/pwIejqS8wU7cYXqnAJzMpxTWqsa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-09-22",
+    "rating": 6.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1691
+  },
+  {
+    "ytId": "HW11GlEjMdk",
+    "tmdbId": 249043,
+    "title": "Holiday Road Trip",
+    "poster_path": "/cRfz43odBVeVUZyI3DMsYamtdQH.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-12-01",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1690
+  },
+  {
+    "ytId": "0LxjA-3TCMU",
+    "tmdbId": 40852,
+    "title": "American Bandits: Frank and Jesse James",
+    "poster_path": "/oojAVWaOV2pckjMIcLioFUlm05H.jpg",
+    "genre_ids": [
+      28,
+      37
+    ],
+    "year": "2010",
+    "release_date": "2010-05-18",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1689
+  },
+  {
+    "ytId": "0fI8CkTq-WY",
+    "tmdbId": 488925,
+    "title": "A Christmas Cruise",
+    "poster_path": "/31fb2Nftq4j31A1PXk5XYxPeWut.jpg",
+    "genre_ids": [
+      10749,
+      10770,
+      10751,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-12-16",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1688
+  },
+  {
+    "ytId": "Eh5BdKnAEUI",
+    "tmdbId": 534344,
+    "title": "Running for Grace",
+    "poster_path": "/6EM6JvWiFPSkgpHLml6yA1hy1SL.jpg",
+    "genre_ids": [
+      10751,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-08-17",
+    "rating": 6.516,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1687
+  },
+  {
+    "ytId": "hHyzTmSYqFA",
+    "tmdbId": 208466,
+    "title": "Christmas Twister",
+    "poster_path": "/oAF5gTU1p8tjkz76d93wRnYd4oS.jpg",
+    "genre_ids": [
+      878,
+      18,
+      28,
+      10770,
+      53,
+      12
+    ],
+    "year": "2012",
+    "release_date": "2012-12-16",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1686
+  },
+  {
+    "ytId": "oqj_ACwwwS0",
+    "tmdbId": 376296,
+    "title": "The Wrong Roommate",
+    "poster_path": "/9X7TPTQ37lY9cogEYbcs9VrdRym.jpg",
+    "genre_ids": [
+      10770,
+      9648,
+      53,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-01-04",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1685
+  },
+  {
+    "ytId": "kYdVMq59M38",
+    "tmdbId": 76037,
+    "title": "The Dog Who Saved Halloween",
+    "poster_path": "/9y6hun9vS3GFjNFWM1fvteoUpqP.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10770
+    ],
+    "year": "2011",
+    "release_date": "2011-09-13",
+    "rating": 4.533,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1684
+  },
+  {
+    "ytId": "9g8F8QSV95U",
+    "tmdbId": 1045334,
+    "title": "Red Letter Day",
+    "poster_path": "/4eSwF1AyBYsGj6sPsEtcDTeg4UJ.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-03-30",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1683
+  },
+  {
+    "ytId": "LXFEDhkz3pI",
+    "tmdbId": 929449,
+    "title": "Mirror, Mirror",
+    "poster_path": "/3FUfdBpl7VjC0ZWAbhLMcave9Ar.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2022",
+    "release_date": "2022-05-20",
+    "rating": 5.7,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-23",
+    "id": 1682
+  },
+  {
+    "ytId": "FO0pAZKT1_8",
+    "tmdbId": 482034,
+    "title": "Riot Girls",
+    "poster_path": "/4b4gPmANpH26aeWSQYlg1YpVbXu.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2019",
+    "release_date": "2019-09-13",
+    "rating": 4.763,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1681
+  },
+  {
+    "ytId": "EcrjzXnZcVU",
+    "tmdbId": 639466,
+    "title": "The 11th Patient",
+    "poster_path": "/AqPsqrNYi8GLDXjc5uUTkzhAsm5.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-10-05",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1680
+  },
+  {
+    "ytId": "fzsCsqV1dtc",
+    "tmdbId": 1634674,
+    "title": "The Null Mirror",
+    "poster_path": "/kw7yie2pLBCqitw1q07k6b6wBCP.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "year": "2025",
+    "release_date": "2025-07-16",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1679
+  },
+  {
+    "ytId": "6LIfCKNyDPc",
+    "tmdbId": 1220975,
+    "title": "Kingdom in the Sky: Nick Cave & Warren Ellis Live at Hanging Rock",
+    "poster_path": "/7LB5nnyItzY6ZVYnCwR49YvNZbd.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "year": "2023",
+    "release_date": "2023-11-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1678
+  },
+  {
+    "ytId": "eEaPqQUcGg8",
+    "tmdbId": 749139,
+    "title": "Android Uprising",
+    "poster_path": "/muAHk3CxJBkx0LnLHJR4M4pJ4Ad.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2020",
+    "release_date": "2020-10-01",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1677
+  },
+  {
+    "ytId": "2Yi-HM1kABs",
+    "tmdbId": 1023665,
+    "title": "Child Machine",
+    "poster_path": "/c1uxXtAcbWLQIRfILQPx8r4XHw8.jpg",
+    "genre_ids": [
+      878,
+      35,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-05-12",
+    "rating": 5.7,
+    "original_language": "et",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1676
+  },
+  {
+    "ytId": "TFIpbsjgrEM",
+    "tmdbId": 1287557,
+    "title": "Space Command Redemption",
+    "poster_path": "/2d84IKS2gOQc1V4Ha2AapnlIQRQ.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2024",
+    "release_date": "2024-03-09",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1675
+  },
+  {
+    "ytId": "y-syaqAiaYI",
+    "tmdbId": 1501861,
+    "title": "Lizard People: Rulers of Time and Space",
+    "poster_path": "/aCWeFYs1IoeNuX5Cz7i9VUibEb5.jpg",
+    "genre_ids": [
+      878,
+      99
+    ],
+    "year": "2024",
+    "release_date": "2024-02-21",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1674
+  },
+  {
+    "ytId": "-TVAO6uu-fg",
+    "tmdbId": 1245099,
+    "title": "Under the Crystal Sky",
+    "poster_path": "/m6LvWIa4QucBdntA5N5OuaRsKyW.jpg",
+    "genre_ids": [
+      878,
+      12,
+      36
+    ],
+    "year": "2025",
+    "release_date": "2025-01-17",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1673
+  },
+  {
+    "ytId": "IfBFMJP0WJs",
+    "tmdbId": 1079236,
+    "title": "Alien Intervention",
+    "poster_path": "/zoyUselHsHqEQTKYVjtoOJnvhEu.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-02-18",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1672
+  },
+  {
+    "ytId": "PgD2LO8fH2c",
+    "tmdbId": 565620,
+    "title": "Catskill Park",
+    "poster_path": "/m8eWBGrY2mgdWogSDPLvJa49mbM.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2018",
+    "release_date": "2018-11-27",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1671
+  },
+  {
     "ytId": "n2aUUxL4I94",
     "tmdbId": 466361,
     "title": "Kingdom of Swords",
