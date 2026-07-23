@@ -1,5 +1,118 @@
 [
   {
+    "ytId": "HzfVBgfnVCI",
+    "tmdbId": 1627275,
+    "title": "Areas of High Strangeness: Stimson Hospital",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1701
+  },
+  {
+    "ytId": "QVNkaTmDC9A",
+    "tmdbId": 1244384,
+    "title": "Alien Agenda: Into the Future",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1700
+  },
+  {
+    "ytId": "Zi_2-IX6-VM",
+    "tmdbId": 506732,
+    "title": "Moon Rock City",
+    "poster_path": "/8lP0aI4AaoWBv4XxEFNlNX0zlM9.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "year": "2017",
+    "release_date": "2017-08-21",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1699
+  },
+  {
+    "ytId": "4U57ve7DXWo",
+    "tmdbId": 1236852,
+    "title": "The UFO Battle of Los Angeles",
+    "poster_path": "/8GZffvczMIHoRJwsP0EoODJmOjZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2023",
+    "release_date": "2023-02-12",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1698
+  },
+  {
+    "ytId": "oSVnyZEpbK4",
+    "tmdbId": 946587,
+    "title": "Alien Abduction: Betty and Barney Hill",
+    "poster_path": "/3Jb7ezJAqvbvetGRBtx5JdfpXGh.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2022",
+    "release_date": "2022-02-18",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1697
+  },
+  {
+    "ytId": "Dc1t5AyscAU",
+    "tmdbId": 122245,
+    "title": "The Serpent Warriors",
+    "poster_path": "/5BCjKi3rg6mdEV6M8NIfIVSxZ8e.jpg",
+    "genre_ids": [
+      28,
+      27
+    ],
+    "year": "1985",
+    "release_date": "1985-01-01",
+    "rating": 4.333,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1696
+  },
+  {
+    "ytId": "k7Eji9ZUreg",
+    "tmdbId": 941520,
+    "title": "Alien Sniperess",
+    "poster_path": "/zDNjLGCgsdbxlEanENc94ECdzw4.jpg",
+    "genre_ids": [
+      28,
+      878,
+      14,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-04-08",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-07-23",
+    "id": 1695
+  },
+  {
     "ytId": "KD2uzatkXO8",
     "tmdbId": 770499,
     "title": "Miracle on Highway 34",
