@@ -1,5 +1,240 @@
 [
   {
+    "ytId": "NiXWsq4c8Oo",
+    "tmdbId": 497110,
+    "title": "The War of Loong",
+    "poster_path": "/vB4LxwCQKGxdEFtDeE2nWqmAcN0.jpg",
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "year": "2017",
+    "release_date": "2017-08-04",
+    "rating": 6.6,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1744
+  },
+  {
+    "ytId": "aXBdoFvq4YQ",
+    "tmdbId": 131892,
+    "title": "Lucifer",
+    "poster_path": "/kF2EFmNoMDsfYKojUzPmYC6ztOe.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1987",
+    "release_date": "1987-01-01",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1743
+  },
+  {
+    "ytId": "6WE3g7jrMGk",
+    "tmdbId": 647742,
+    "title": "Mount Hideaway Mysteries: Exes and Oh No's",
+    "poster_path": "/hTdowrxXW6pg1TIYYKM5Vbfxnvu.jpg",
+    "genre_ids": [
+      10751,
+      9648,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-12-08",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1742
+  },
+  {
+    "ytId": "nSM9wiI1DAA",
+    "tmdbId": 989443,
+    "title": "You're not alone",
+    "poster_path": "/jb8BwKFk1UWSf5rXt0snhlTgSTk.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-06-23",
+    "rating": null,
+    "original_language": "ja",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1741
+  },
+  {
+    "ytId": "fsfVqnGXAJk",
+    "tmdbId": 1018522,
+    "title": "Heavy Armor 4: Monster Attack",
+    "poster_path": "/s6D8g3TZsIZtsg8Hn1WPqPgcKa6.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "year": "2022",
+    "release_date": "2022-08-30",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1740
+  },
+  {
+    "ytId": "5NBE4qOrnpo",
+    "tmdbId": 929353,
+    "title": "Rocket Hunter: Rise of the Nazi Komet",
+    "poster_path": "/hLI0JjZPguJKtLHLv5yQBvwWZHV.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2021",
+    "release_date": "2021-11-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1739
+  },
+  {
+    "ytId": "wDtu6naSksU",
+    "tmdbId": 400699,
+    "title": "Wild Bill Hickok: Swift Justice",
+    "poster_path": "/tAtfcKadkdsPuJucBlNnyN23U3m.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2016",
+    "release_date": "2016-05-31",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1738
+  },
+  {
+    "ytId": "diFpr3WNVq0",
+    "tmdbId": 633524,
+    "title": "Acts of Desperation",
+    "poster_path": "/cQZ2d90EIMB1P1Z240yNhEBSW0X.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-12-09",
+    "rating": 3.75,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1737
+  },
+  {
+    "ytId": "n5oeX6QN50I",
+    "tmdbId": 749837,
+    "title": "Red Prophecies",
+    "poster_path": "/pv5aBXJwASJiVholBLqKU3baRJl.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-03-01",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1736
+  },
+  {
+    "ytId": "yxwFfQsu0Ko",
+    "tmdbId": 68716,
+    "title": "Venus & Vegas",
+    "poster_path": "/yMHsuJNNERU6Drh8pYgb0ZeHzTr.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2010",
+    "release_date": "2010-11-01",
+    "rating": 4.096,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1735
+  },
+  {
+    "ytId": "Dfu-_cxSdWs",
+    "tmdbId": 586334,
+    "title": "Sanctuary Population One",
+    "poster_path": "/lfdca1dN9pN62fc0y01U8ssAr5K.jpg",
+    "genre_ids": [
+      878,
+      28,
+      18,
+      12,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-12-01",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1734
+  },
+  {
+    "ytId": "9hDSk_zGcAw",
+    "tmdbId": 453258,
+    "title": "A Night Without Armor",
+    "poster_path": "/uQQ07GKrmPy1WdZ6pSdG60NCrn2.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-04-21",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1733
+  },
+  {
+    "ytId": "D5YDMshEwpc",
+    "tmdbId": 757484,
+    "title": "WWII: The Long Road Home",
+    "poster_path": "/sM8R403BgWmsWJ8ewXC7xDTjfSp.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-10-25",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1732
+  },
+  {
+    "ytId": "KUl__hxEzEY",
+    "tmdbId": 205623,
+    "title": "The New Republic",
+    "poster_path": "/kIUc9lcGpyc3lfDUerTUekJGs2y.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-07-05",
+    "rating": 4.3,
+    "original_language": "ru",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1731
+  },
+  {
     "ytId": "W_nS305Mzyo",
     "tmdbId": 348392,
     "title": "Cyclone Tracy: Darwin, Christmas 1974",
@@ -2305,243 +2540,5 @@
     "channelName": "Sci-Fi Central",
     "addedAt": "2026-07-22",
     "id": 1595
-  },
-  {
-    "ytId": "2OI4ZxgkPKA",
-    "tmdbId": 817864,
-    "title": "Knights of Newgate",
-    "poster_path": "/27YIy1z4wuoWmLlfQnddqSxPGT8.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "year": "2021",
-    "release_date": "2021-04-13",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1594
-  },
-  {
-    "ytId": "hNbsOwWqqRY",
-    "tmdbId": 1367675,
-    "title": "Interview with the Extraterrestrial",
-    "poster_path": "/h2xiqTuBHTmyZ5VH41BArh9K9Fj.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2024",
-    "release_date": "2024-10-08",
-    "rating": 9,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1593
-  },
-  {
-    "ytId": "8hfrW6BqjfM",
-    "tmdbId": 531164,
-    "title": "Calling All Earthlings",
-    "poster_path": "/1eVeWkwaCcRerqWlXB5pekqxEID.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2018",
-    "release_date": "2018-08-28",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1592
-  },
-  {
-    "ytId": "xMZplFNJWf8",
-    "tmdbId": 75304,
-    "title": "Lancelot: Guardian of Time",
-    "poster_path": "/x8UMVQI8hJCcwiAdWFeBTX5dUvJ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "year": "1997",
-    "release_date": "1997-01-03",
-    "rating": 4.333,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1591
-  },
-  {
-    "ytId": "JoapODAvFaE",
-    "tmdbId": 1500927,
-    "title": "Conspiracy of Fear",
-    "poster_path": "/gPMzoMC8w2CCU4WBfHpHlXMV60t.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2025",
-    "release_date": "2025-05-13",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1590
-  },
-  {
-    "ytId": "L9fDcA4Dhd8",
-    "tmdbId": 414091,
-    "title": "District C-11",
-    "poster_path": "/l9SxBVzrieUbBKr1lhaJ8StF2wD.jpg",
-    "genre_ids": [
-      18,
-      878,
-      53,
-      28,
-      80
-    ],
-    "year": "2017",
-    "release_date": "2017-03-21",
-    "rating": 5.1,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1589
-  },
-  {
-    "ytId": "VQOI7GNTy5s",
-    "tmdbId": 1537103,
-    "title": "Anunnaki Origins: Sumeria to South America",
-    "poster_path": "/q9OQlE0cIon7GO4dq95OQ3g5I01.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2025",
-    "release_date": "2025-06-24",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1588
-  },
-  {
-    "ytId": "mpyzNB3JFOI",
-    "tmdbId": 1537136,
-    "title": "New Fight Back To School: New Order",
-    "poster_path": "/3fqsPpCHABrEXIMH16FmEeCkJZi.jpg",
-    "genre_ids": [
-      28,
-      35
-    ],
-    "year": "2025",
-    "release_date": "2025-08-28",
-    "rating": null,
-    "original_language": "zh",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1587
-  },
-  {
-    "ytId": "4f_mXzdQz7s",
-    "tmdbId": 1174194,
-    "title": "Krispr",
-    "poster_path": "/j5gPdqSBO17Ra43XQcQ5Mi7HGrg.jpg",
-    "genre_ids": [
-      878,
-      53,
-      27
-    ],
-    "year": "2023",
-    "release_date": "2023-09-05",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1586
-  },
-  {
-    "ytId": "p6vjDBWkR7s",
-    "tmdbId": 592858,
-    "title": "Road to Wasteland",
-    "poster_path": "/iofbMSnAZaROXQQVMwHWUzR6KiW.jpg",
-    "genre_ids": [
-      99,
-      12
-    ],
-    "year": "2017",
-    "release_date": "2017-06-24",
-    "rating": 7,
-    "original_language": "fr",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1585
-  },
-  {
-    "ytId": "i2Ga_FLvxG8",
-    "tmdbId": 1505267,
-    "title": "The Correction Unit",
-    "poster_path": "/qnsu5IXk4tSrWwdv1fWmyN192Sq.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "year": "2025",
-    "release_date": "2025-12-05",
-    "rating": 2.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1584
-  },
-  {
-    "ytId": "S6tEelqYh5o",
-    "tmdbId": 1399503,
-    "title": "Reel Encounters",
-    "poster_path": "/fw8ClRTZ2YTlMeboesBZ60K1NAS.jpg",
-    "genre_ids": [],
-    "year": "2024",
-    "release_date": "2024-11-27",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1583
-  },
-  {
-    "ytId": "_5PiEGMjUFY",
-    "tmdbId": 1290595,
-    "title": "Tim Travers and the Time Traveler's Paradox",
-    "poster_path": "/ttP3RsGFOCqC8NGMhl956QraMnH.jpg",
-    "genre_ids": [
-      14,
-      35,
-      878
-    ],
-    "year": "2025",
-    "release_date": "2025-05-30",
-    "rating": 5.605,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1582
-  },
-  {
-    "ytId": "RQmj36lnr0w",
-    "tmdbId": 1497201,
-    "title": "Revenge of the Alternates 3: Once & For All",
-    "poster_path": "/kAqTRFC1QzvTxueBwWOSh6eOntY.jpg",
-    "genre_ids": [
-      18,
-      28,
-      35
-    ],
-    "year": "2025",
-    "release_date": "2025-06-05",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1581
   }
 ]

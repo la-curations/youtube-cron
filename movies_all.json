@@ -1,5 +1,240 @@
 [
   {
+    "ytId": "NiXWsq4c8Oo",
+    "tmdbId": 497110,
+    "title": "The War of Loong",
+    "poster_path": "/vB4LxwCQKGxdEFtDeE2nWqmAcN0.jpg",
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "year": "2017",
+    "release_date": "2017-08-04",
+    "rating": 6.6,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1744
+  },
+  {
+    "ytId": "aXBdoFvq4YQ",
+    "tmdbId": 131892,
+    "title": "Lucifer",
+    "poster_path": "/kF2EFmNoMDsfYKojUzPmYC6ztOe.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1987",
+    "release_date": "1987-01-01",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1743
+  },
+  {
+    "ytId": "6WE3g7jrMGk",
+    "tmdbId": 647742,
+    "title": "Mount Hideaway Mysteries: Exes and Oh No's",
+    "poster_path": "/hTdowrxXW6pg1TIYYKM5Vbfxnvu.jpg",
+    "genre_ids": [
+      10751,
+      9648,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-12-08",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1742
+  },
+  {
+    "ytId": "nSM9wiI1DAA",
+    "tmdbId": 989443,
+    "title": "You're not alone",
+    "poster_path": "/jb8BwKFk1UWSf5rXt0snhlTgSTk.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-06-23",
+    "rating": null,
+    "original_language": "ja",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1741
+  },
+  {
+    "ytId": "fsfVqnGXAJk",
+    "tmdbId": 1018522,
+    "title": "Heavy Armor 4: Monster Attack",
+    "poster_path": "/s6D8g3TZsIZtsg8Hn1WPqPgcKa6.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "year": "2022",
+    "release_date": "2022-08-30",
+    "rating": null,
+    "original_language": "zh",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1740
+  },
+  {
+    "ytId": "5NBE4qOrnpo",
+    "tmdbId": 929353,
+    "title": "Rocket Hunter: Rise of the Nazi Komet",
+    "poster_path": "/hLI0JjZPguJKtLHLv5yQBvwWZHV.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2021",
+    "release_date": "2021-11-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1739
+  },
+  {
+    "ytId": "wDtu6naSksU",
+    "tmdbId": 400699,
+    "title": "Wild Bill Hickok: Swift Justice",
+    "poster_path": "/tAtfcKadkdsPuJucBlNnyN23U3m.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2016",
+    "release_date": "2016-05-31",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1738
+  },
+  {
+    "ytId": "diFpr3WNVq0",
+    "tmdbId": 633524,
+    "title": "Acts of Desperation",
+    "poster_path": "/cQZ2d90EIMB1P1Z240yNhEBSW0X.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-12-09",
+    "rating": 3.75,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1737
+  },
+  {
+    "ytId": "n5oeX6QN50I",
+    "tmdbId": 749837,
+    "title": "Red Prophecies",
+    "poster_path": "/pv5aBXJwASJiVholBLqKU3baRJl.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-03-01",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1736
+  },
+  {
+    "ytId": "yxwFfQsu0Ko",
+    "tmdbId": 68716,
+    "title": "Venus & Vegas",
+    "poster_path": "/yMHsuJNNERU6Drh8pYgb0ZeHzTr.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2010",
+    "release_date": "2010-11-01",
+    "rating": 4.096,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1735
+  },
+  {
+    "ytId": "Dfu-_cxSdWs",
+    "tmdbId": 586334,
+    "title": "Sanctuary Population One",
+    "poster_path": "/lfdca1dN9pN62fc0y01U8ssAr5K.jpg",
+    "genre_ids": [
+      878,
+      28,
+      18,
+      12,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-12-01",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1734
+  },
+  {
+    "ytId": "9hDSk_zGcAw",
+    "tmdbId": 453258,
+    "title": "A Night Without Armor",
+    "poster_path": "/uQQ07GKrmPy1WdZ6pSdG60NCrn2.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-04-21",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1733
+  },
+  {
+    "ytId": "D5YDMshEwpc",
+    "tmdbId": 757484,
+    "title": "WWII: The Long Road Home",
+    "poster_path": "/sM8R403BgWmsWJ8ewXC7xDTjfSp.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-10-25",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1732
+  },
+  {
+    "ytId": "KUl__hxEzEY",
+    "tmdbId": 205623,
+    "title": "The New Republic",
+    "poster_path": "/kIUc9lcGpyc3lfDUerTUekJGs2y.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-07-05",
+    "rating": 4.3,
+    "original_language": "ru",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1731
+  },
+  {
     "ytId": "W_nS305Mzyo",
     "tmdbId": 348392,
     "title": "Cyclone Tracy: Darwin, Christmas 1974",
