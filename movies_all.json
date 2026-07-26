@@ -1,5 +1,152 @@
 [
   {
+    "ytId": "8kCG-5rJjmQ",
+    "tmdbId": 20609,
+    "title": "30,000 Leagues Under The Sea",
+    "poster_path": "/zxcM9XbumJHpYAstef4BrUcD6zR.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "year": "2007",
+    "release_date": "2007-09-09",
+    "rating": 3.274,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1790
+  },
+  {
+    "ytId": "UAiFQYTg4RU",
+    "tmdbId": 505748,
+    "title": "The Last Bad Neighborhood",
+    "poster_path": "/ip4gPFZzhxlO6hmmhAlRN3yGkJu.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2008",
+    "release_date": "2008-01-01",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1789
+  },
+  {
+    "ytId": "ggOVJkYxM78",
+    "tmdbId": 304423,
+    "title": "Absolute Killers",
+    "poster_path": "/iJogj1HM0lEpQQvvzxVQ0pLjUH8.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-10-01",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1788
+  },
+  {
+    "ytId": "p4gJr56-IbA",
+    "tmdbId": 199588,
+    "title": "The Race-Ist",
+    "poster_path": "/hnAV3Tc464AXQqT0D46UjNrohhN.jpg",
+    "genre_ids": [],
+    "year": "2010",
+    "release_date": "2010-04-10",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1787
+  },
+  {
+    "ytId": "RLi8n3J4G1g",
+    "tmdbId": 492429,
+    "title": "The Last Gunslinger",
+    "poster_path": "/a7qEi0ORq5B8J0e6PlRNcPTTqjj.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2017",
+    "release_date": "2017-11-14",
+    "rating": 4.625,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1786
+  },
+  {
+    "ytId": "qoeXEm644AY",
+    "tmdbId": 461364,
+    "title": "Billy the Kid: Showdown in Lincoln County",
+    "poster_path": "/zGRJwh5oJVsEcgKn6BNwgzhuOIM.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2017",
+    "release_date": "2017-05-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1785
+  },
+  {
+    "ytId": "x5lewz1G7ME",
+    "tmdbId": 127374,
+    "title": "Arthur Newman",
+    "poster_path": "/ns4gt4qD5JA3QioVlKzWSEM56Dj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-09-07",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1784
+  },
+  {
+    "ytId": "U6GwZOwUFEA",
+    "tmdbId": 548786,
+    "title": "American Dresser",
+    "poster_path": "/2pMa2JE77EoSgSvya3ifHTOu9wv.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-09-21",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1783
+  },
+  {
+    "ytId": "bmBKZyMZ9pk",
+    "tmdbId": 560910,
+    "title": "Краљ Петар Први: У славу Србије",
+    "poster_path": "/94rmKabcDLiNTNiXNEuDouUaqfI.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "year": "2018",
+    "release_date": "2018-12-05",
+    "rating": 7.923,
+    "original_language": "sr",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1782
+  },
+  {
     "ytId": "eRHLcKx6ENs",
     "tmdbId": 822009,
     "title": "Danny. Legend. God.",
