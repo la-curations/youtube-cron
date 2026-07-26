@@ -1,5 +1,386 @@
 [
   {
+    "ytId": "2fQLgQ3OsL4",
+    "tmdbId": 776457,
+    "title": "The Rodeo Thief",
+    "poster_path": "/mvcL9zDRcyHDNlvVMSnL21ovjw2.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-03-02",
+    "rating": 7.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1812
+  },
+  {
+    "ytId": "QE-ge6IIbHE",
+    "tmdbId": 512731,
+    "title": "The White Storm 2: Drug Lords",
+    "poster_path": "/ja9oIIP33Pgm9295Gn67zBz8Vjy.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-07-04",
+    "rating": 6.471,
+    "original_language": "cn",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1811
+  },
+  {
+    "ytId": "xQtw9XBONX4",
+    "tmdbId": 267852,
+    "title": "Black Mountain Side",
+    "poster_path": "/pvhyPlGGL7iwc1ykjZSRc0gRw6b.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2016",
+    "release_date": "2016-01-26",
+    "rating": 5.235,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1810
+  },
+  {
+    "ytId": "Rc_qlCJ6tPE",
+    "tmdbId": 269133,
+    "title": "Pushed to the Limit",
+    "poster_path": "/wfDqbw7mNrgBu8d77ea9PZxdjy5.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "1992",
+    "release_date": "1992-04-02",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1809
+  },
+  {
+    "ytId": "it5DvD6P8gA",
+    "tmdbId": 380963,
+    "title": "Senior",
+    "poster_path": "/A39FB62f2VLkVAX9ooeRI4fxEi7.jpg",
+    "genre_ids": [
+      10749,
+      27,
+      35,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-12-03",
+    "rating": 7.35,
+    "original_language": "th",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1808
+  },
+  {
+    "ytId": "IUkeQM_QsCA",
+    "tmdbId": 582306,
+    "title": "Assassin 33 A.D.",
+    "poster_path": "/8jDvtdH327I8TgX3UPdkAsZF1dA.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2020",
+    "release_date": "2020-01-24",
+    "rating": 5.278,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1807
+  },
+  {
+    "ytId": "Xq_PZ9wbaPE",
+    "tmdbId": 207883,
+    "title": "I'm in Love with a Church Girl",
+    "poster_path": "/jgXsK9s2Nmy7T2A7Y4l7D0IMkz3.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-10-18",
+    "rating": 5.865,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1806
+  },
+  {
+    "ytId": "-f-TOYYJeBE",
+    "tmdbId": 170834,
+    "title": "Eenie Meenie Miney Moe",
+    "poster_path": "/tqhiP0JV7BC4ykfp5FDEp3GqG5d.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "year": "2013",
+    "release_date": "2013-03-07",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1805
+  },
+  {
+    "ytId": "x4P2Ru7h8Cc",
+    "tmdbId": 602645,
+    "title": "Neshima",
+    "poster_path": "/ycglhqtxY8UlGYhdyTd5loKc5Qo.jpg",
+    "genre_ids": [
+      14
+    ],
+    "year": "2016",
+    "release_date": "2016-03-28",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1804
+  },
+  {
+    "ytId": "GhvaGMBehAw",
+    "tmdbId": 554755,
+    "title": "Texas Cotton",
+    "poster_path": "/mSI37hIqDIDJgimebhk7Jwozdm0.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      37
+    ],
+    "year": "2018",
+    "release_date": "2018-10-28",
+    "rating": 5.042,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1803
+  },
+  {
+    "ytId": "x4HakcVSReg",
+    "tmdbId": 121718,
+    "title": "All In The Game",
+    "poster_path": null,
+    "genre_ids": [
+      80,
+      28,
+      53,
+      18,
+      10752
+    ],
+    "year": "2011",
+    "release_date": "2011-10-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1802
+  },
+  {
+    "ytId": "3zjHMjID3E4",
+    "tmdbId": 706857,
+    "title": "Bad Impulse",
+    "poster_path": "/rAYfDGX9jpvhsSP5Bo0FRcBYksz.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-12-07",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1801
+  },
+  {
+    "ytId": "Qzmpw8-hDqo",
+    "tmdbId": 1303054,
+    "title": "Her Secret Sessions",
+    "poster_path": "/vPo1eJaWkRRp2I0P69GIJNYCAQF.jpg",
+    "genre_ids": [],
+    "year": "2016",
+    "release_date": "2016-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1800
+  },
+  {
+    "ytId": "VLRTvb0FzMs",
+    "tmdbId": 393277,
+    "title": "The Icebreaker",
+    "poster_path": "/zvVjhgkuGXivxdyYK8nTAfpROLF.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-10-20",
+    "rating": 5.842,
+    "original_language": "ru",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1799
+  },
+  {
+    "ytId": "4U8K3L9_gbg",
+    "tmdbId": 486274,
+    "title": "The West and the Ruthless",
+    "poster_path": "/498mEqUkmOq0FJ5CUXVMCEteJDF.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-11-10",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1798
+  },
+  {
+    "ytId": "HV8YGYOd_a4",
+    "tmdbId": 74620,
+    "title": "Hollywood Flies",
+    "poster_path": "/wuye3MYUGrYvzpCYFZpNLJf97Od.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-06-28",
+    "rating": 4.409,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1797
+  },
+  {
+    "ytId": "lHGzH8NQErQ",
+    "tmdbId": 550412,
+    "title": "The Legend of Halloween Jack",
+    "poster_path": "/1PHkDuVYkuuOdcNDRJT3g7LfNXi.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-10-08",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1796
+  },
+  {
+    "ytId": "5W8qTlBezmE",
+    "tmdbId": 425774,
+    "title": "The Legend of Ben Hall",
+    "poster_path": "/w57jQVXbWgxcgZzLiG6UHd0c5Wy.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2016",
+    "release_date": "2016-12-01",
+    "rating": 6.023,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1795
+  },
+  {
+    "ytId": "ux-qeZ8Uw3s",
+    "tmdbId": 14617,
+    "title": "All the Good Ones Are Married",
+    "poster_path": "/tcEyFBB3gnIRUtoEHP7ESYsFrK9.jpg",
+    "genre_ids": [
+      18,
+      10770,
+      10749
+    ],
+    "year": "2007",
+    "release_date": "2007-09-29",
+    "rating": 4.111,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1794
+  },
+  {
+    "ytId": "uDj2nKqOud8",
+    "tmdbId": 180098,
+    "title": "The Aviation Cocktail",
+    "poster_path": "/gCWWtt280bjYtAKScZAq1iLOjmR.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-09-21",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1793
+  },
+  {
+    "ytId": "uCGf1FGIgzU",
+    "tmdbId": 694224,
+    "title": "The Droving",
+    "poster_path": "/ehRlb0SOaeLUWewaLKEyyS9UDfk.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-04-21",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1792
+  },
+  {
+    "ytId": "dwSS1GfzbLY",
+    "tmdbId": 10356,
+    "title": "The Good Shepherd",
+    "poster_path": "/AkNl18FRZcbuifRo6rYvVuYtVrf.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2004",
+    "release_date": "2004-03-21",
+    "rating": 5.258,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1791
+  },
+  {
     "ytId": "8kCG-5rJjmQ",
     "tmdbId": 20609,
     "title": "30,000 Leagues Under The Sea",
@@ -2150,380 +2531,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-22",
     "id": 1663
-  },
-  {
-    "ytId": "L6tzr7WxyZ8",
-    "tmdbId": 485811,
-    "title": "Redcon-1",
-    "poster_path": "/6t2zRldr64GZDuMxKhPzwhVxyjX.jpg",
-    "genre_ids": [
-      28,
-      27,
-      878
-    ],
-    "year": "2018",
-    "release_date": "2018-09-07",
-    "rating": 5.703,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1662
-  },
-  {
-    "ytId": "idPT0XhY1oc",
-    "tmdbId": 352548,
-    "title": "5th Passenger",
-    "poster_path": "/f8hfZCD2fSsz6LE6FA5uk5mMv11.jpg",
-    "genre_ids": [
-      878,
-      10770
-    ],
-    "year": "2018",
-    "release_date": "2018-05-30",
-    "rating": 4.203,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1661
-  },
-  {
-    "ytId": "buXRCrgvEto",
-    "tmdbId": 145186,
-    "title": "12 Wishes of Christmas",
-    "poster_path": "/xeNx3n41hy4hlQICzegF72jPuQv.jpg",
-    "genre_ids": [
-      35,
-      14,
-      10770
-    ],
-    "year": "2011",
-    "release_date": "2011-11-27",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1660
-  },
-  {
-    "ytId": "vMk3VQELi8Q",
-    "tmdbId": 931140,
-    "title": "Moon Crash",
-    "poster_path": "/3KFDOqVlH4754ZVCGOZpfhfPisR.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2022",
-    "release_date": "2022-02-04",
-    "rating": 3.55,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1659
-  },
-  {
-    "ytId": "u0nPwVvEohA",
-    "tmdbId": 565926,
-    "title": "A Christmas in Royal Fashion",
-    "poster_path": "/thmq7EgtIXWDyZxzoZbWfpdLvId.jpg",
-    "genre_ids": [
-      10770,
-      18,
-      10749
-    ],
-    "year": "2018",
-    "release_date": "2018-12-16",
-    "rating": 5.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1658
-  },
-  {
-    "ytId": "hoZwvD4ETqY",
-    "tmdbId": 307022,
-    "title": "The Tree That Saved Christmas",
-    "poster_path": "/aRyeyXgKLSdEEWoswbN5PW5PmPl.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "year": "2014",
-    "release_date": "2014-11-30",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1657
-  },
-  {
-    "ytId": "qJ6Jn5m0ylY",
-    "tmdbId": 1143211,
-    "title": "Xterminator and the AI Apocalypse",
-    "poster_path": "/fSsZfca61sA4NL582jhZ1QVarCJ.jpg",
-    "genre_ids": [
-      27,
-      16
-    ],
-    "year": "2023",
-    "release_date": "2023-07-11",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1656
-  },
-  {
-    "ytId": "lVWc4nlJ4pk",
-    "tmdbId": 1234559,
-    "title": "Earth Has Fallen",
-    "poster_path": "/ai8bvUizEO67Z3fft7hQia5rswk.jpg",
-    "genre_ids": [
-      28,
-      12,
-      27,
-      53
-    ],
-    "year": "2021",
-    "release_date": "2021-08-11",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1655
-  },
-  {
-    "ytId": "Xbav-nthI4c",
-    "tmdbId": 279965,
-    "title": "Shockwave Darkside",
-    "poster_path": "/vR6KqoDWFnXXb9dTLF3QddCAsgC.jpg",
-    "genre_ids": [
-      27,
-      878,
-      28
-    ],
-    "year": "2014",
-    "release_date": "2014-08-22",
-    "rating": 1.722,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1654
-  },
-  {
-    "ytId": "L-BikVzndvY",
-    "tmdbId": 1365149,
-    "title": "The Protos Experiment",
-    "poster_path": "/owfMEmeP7feba12nQi5juth5iGR.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2025",
-    "release_date": "2025-07-15",
-    "rating": 3.1,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1653
-  },
-  {
-    "ytId": "fbgzBKuAK8U",
-    "tmdbId": 606903,
-    "title": "Monster Force Zero",
-    "poster_path": "/T7ewImOHutKoiClwtJjWQU1GCJ.jpg",
-    "genre_ids": [
-      878,
-      35,
-      28
-    ],
-    "year": "2020",
-    "release_date": "2020-10-01",
-    "rating": 3.1,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1652
-  },
-  {
-    "ytId": "yCNXR-I2onU",
-    "tmdbId": 1352398,
-    "title": "Aliens Uncovered: The Lost Race",
-    "poster_path": "/aTLAeWEAeel8jbNcowf7ZGAYEzz.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2023",
-    "release_date": "2023-12-05",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1651
-  },
-  {
-    "ytId": "1ozMMDAhYx0",
-    "tmdbId": 1352397,
-    "title": "Aliens Uncovered: Declassified",
-    "poster_path": "/d7irIYqoq1URZYcDWTw4KI239oz.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2024",
-    "release_date": "2024-04-09",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1650
-  },
-  {
-    "ytId": "WD29Uc7yRp8",
-    "tmdbId": 1352402,
-    "title": "Aliens Uncovered: UFOs Over Arizona",
-    "poster_path": "/8lD2eP2octE32QZ36zThEAMM5NY.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2024",
-    "release_date": "2024-02-06",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1649
-  },
-  {
-    "ytId": "14Ic7JOHuAk",
-    "tmdbId": 699465,
-    "title": "Algorithm: BLISS",
-    "poster_path": "/lYtL1lK8zKPTbIzNlhUsCoswLVA.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-06-02",
-    "rating": 4.25,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1648
-  },
-  {
-    "ytId": "vIvmnbUSb9o",
-    "tmdbId": 739010,
-    "title": "LX 2048",
-    "poster_path": "/u5VqBL0TtNmV1kxwoQ2L2dWPLiM.jpg",
-    "genre_ids": [
-      878,
-      18
-    ],
-    "year": "2020",
-    "release_date": "2020-09-25",
-    "rating": 5.064,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1647
-  },
-  {
-    "ytId": "s6TXOl9ktBo",
-    "tmdbId": 741883,
-    "title": "Archaon: The Halloween Summoning",
-    "poster_path": "/9Miws898Co1KH3k1gI5hVv3DzQd.jpg",
-    "genre_ids": [
-      14,
-      27,
-      878
-    ],
-    "year": "2020",
-    "release_date": "2020-09-01",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1646
-  },
-  {
-    "ytId": "meUz5nm50jM",
-    "tmdbId": 1148834,
-    "title": "A Passing Place",
-    "poster_path": "/naUqY4yvLW5rz7eAH3yzzwmQ1m1.jpg",
-    "genre_ids": [],
-    "year": "2023",
-    "release_date": "2023-07-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1645
-  },
-  {
-    "ytId": "hhIDQhUkDkU",
-    "tmdbId": 292532,
-    "title": "Wicked Spring",
-    "poster_path": "/s9qtTzz7zcV6A9eMAz8Ml74TRON.jpg",
-    "genre_ids": [
-      37,
-      18,
-      10752
-    ],
-    "year": "2002",
-    "release_date": "2002-03-02",
-    "rating": 6.643,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1644
-  },
-  {
-    "ytId": "yabsjEJqkjU",
-    "tmdbId": 854417,
-    "title": "Bearry",
-    "poster_path": "/rjUVnC6itSxUPFHNQJR7LAucIiR.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2021",
-    "release_date": "2021-07-17",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1643
-  },
-  {
-    "ytId": "IYdQ3KI1bKk",
-    "tmdbId": 865745,
-    "title": "Astro Loco",
-    "poster_path": "/wdRx4ndKJahdSHHvxNadiUEUGx5.jpg",
-    "genre_ids": [
-      878,
-      35
-    ],
-    "year": "2021",
-    "release_date": "2021-08-25",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1642
-  },
-  {
-    "ytId": "IZs3R7VrY6Q",
-    "tmdbId": 840533,
-    "title": "Just Another Dream",
-    "poster_path": "/1Cq3sC2sdYKDfYx0rpHllklT2dy.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-07-07",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1641
   }
 ]
