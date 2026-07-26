@@ -1,5 +1,325 @@
 [
   {
+    "ytId": "LY5RZhVB2ro",
+    "tmdbId": 370964,
+    "title": "I Am Dragon",
+    "poster_path": "/9R9mwkXs0W78WMzh4M1yFP7v7RP.jpg",
+    "genre_ids": [
+      14,
+      10749
+    ],
+    "year": "2015",
+    "release_date": "2015-12-03",
+    "rating": 7.174,
+    "original_language": "ru",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1763
+  },
+  {
+    "ytId": "6JffBWaTBrg",
+    "tmdbId": 729621,
+    "title": "The 13th Cross",
+    "poster_path": "/xUeN9s0qMPumDNJqh2xsSgzX0TA.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-12-14",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1762
+  },
+  {
+    "ytId": "hPILtZBnIGo",
+    "tmdbId": 47467,
+    "title": "Kill Speed",
+    "poster_path": "/w64IOlFCuM2s7XRqW3pO5wTeHg6.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-07-02",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1761
+  },
+  {
+    "ytId": "DYLKF9QMfzs",
+    "tmdbId": 100542,
+    "title": "Vikingdom",
+    "poster_path": "/mllJZUdy0LVD7MabX1bHlDDIqI6.jpg",
+    "genre_ids": [
+      12
+    ],
+    "year": "2013",
+    "release_date": "2013-09-11",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1760
+  },
+  {
+    "ytId": "Yy1fRSaMRdk",
+    "tmdbId": 869423,
+    "title": "Outlaw's Buckle",
+    "poster_path": "/hjczt2BA1R5HAOtn6aFTO3Y0iuy.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-08-31",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1759
+  },
+  {
+    "ytId": "d1zB40q26_g",
+    "tmdbId": 690179,
+    "title": "Below the Fold",
+    "poster_path": "/wuCa9jFR54FCas9qIYDUNGOsGjT.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-11-19",
+    "rating": 7.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1758
+  },
+  {
+    "ytId": "DoYmcYy3ToU",
+    "tmdbId": 423414,
+    "title": "Last Rampage",
+    "poster_path": "/kZDF2GDto5WCPW9wbRqrqf9yRWM.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-09-22",
+    "rating": 5.367,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1757
+  },
+  {
+    "ytId": "iusBa9USos4",
+    "tmdbId": 222621,
+    "title": "Samuel Bleak",
+    "poster_path": "/vecf5OSnWX2LOCClClFGJLM6bCK.jpg",
+    "genre_ids": [],
+    "year": "2011",
+    "release_date": "2011-03-05",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1756
+  },
+  {
+    "ytId": "4SfunESHHxg",
+    "tmdbId": 611900,
+    "title": "The World Without You",
+    "poster_path": "/vtbXFRGdVpe7X27fK3l1C1wCTDR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-06-22",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1755
+  },
+  {
+    "ytId": "z3I6hthFGRM",
+    "tmdbId": 1022792,
+    "title": "Who Killed Soul Glow?",
+    "poster_path": "/vq6HQSaK3LUttsefRAEYFLsB6dp.jpg",
+    "genre_ids": [],
+    "year": "2012",
+    "release_date": "2012-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1754
+  },
+  {
+    "ytId": "SrrOS2uPKwk",
+    "tmdbId": 583024,
+    "title": "Resolution Song",
+    "poster_path": "/7YVc2aeCJ3mLYP5NrT0S3pTaM7f.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2018",
+    "release_date": "2018-02-06",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1753
+  },
+  {
+    "ytId": "U5ZYY2pBn_c",
+    "tmdbId": 24053,
+    "title": "The Merry Gentleman",
+    "poster_path": "/xN5nQC6vdxb17WRvgcpN7KsL3IG.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2008",
+    "release_date": "2008-04-16",
+    "rating": 6.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1752
+  },
+  {
+    "ytId": "15iLM3dAjZs",
+    "tmdbId": 216374,
+    "title": "I Will Follow You Into the Dark",
+    "poster_path": "/gAMP75aFXQkZFDa6Zs28ruraLj7.jpg",
+    "genre_ids": [
+      18,
+      27,
+      10749,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-12-20",
+    "rating": 4.415,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1751
+  },
+  {
+    "ytId": "E9LTj-rUW5k",
+    "tmdbId": 874705,
+    "title": "Ash & Dust",
+    "poster_path": "/rCGirSx2C7phjwHoaiqihnGx63p.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-03-11",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1750
+  },
+  {
+    "ytId": "EUN_NvBLPF4",
+    "tmdbId": 40460,
+    "title": "A Crack in the Floor",
+    "poster_path": "/rYOoVlNhHrPIxypP9FoCGutdfBO.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2001",
+    "release_date": "2001-04-24",
+    "rating": 3.575,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1749
+  },
+  {
+    "ytId": "x6qnj-1iTVk",
+    "tmdbId": 554022,
+    "title": "Torpedo: U-235",
+    "poster_path": "/wHuhFcsii1GkKPHVC1wpdvJ9Djs.jpg",
+    "genre_ids": [
+      28,
+      10752,
+      12
+    ],
+    "year": "2019",
+    "release_date": "2019-10-23",
+    "rating": 6.419,
+    "original_language": "nl",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1748
+  },
+  {
+    "ytId": "67wn1QJoSno",
+    "tmdbId": 511619,
+    "title": "Winter of The Braves",
+    "poster_path": "/bnh7yx2cqY2WOsSLkCKjffICkBS.jpg",
+    "genre_ids": [
+      36,
+      10752,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-02-07",
+    "rating": 6.6,
+    "original_language": "uk",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1747
+  },
+  {
+    "ytId": "TWYMbvwbhcI",
+    "tmdbId": 331378,
+    "title": "Laugh Killer Laugh",
+    "poster_path": "/Acz5Ogbky6yCYU9wTgwYWmtDJw1.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2015",
+    "release_date": "2015-04-25",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1746
+  },
+  {
+    "ytId": "slVjchHTEUg",
+    "tmdbId": 606443,
+    "title": "The Swerve",
+    "poster_path": "/m2ijShIEmS5Vn55VWrmi0OhBmBy.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-11-05",
+    "rating": 6.592,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-26",
+    "id": 1745
+  },
+  {
     "ytId": "NiXWsq4c8Oo",
     "tmdbId": 497110,
     "title": "The War of Loong",
@@ -2217,328 +2537,5 @@
     "channelName": "Sci-Fi Central",
     "addedAt": "2026-07-22",
     "id": 1614
-  },
-  {
-    "ytId": "JT9KSpZIbjA",
-    "tmdbId": 1121854,
-    "title": "Aliens Uncovered: Origins",
-    "poster_path": "/ykjrVmq5y9MVbnHEYAcrPoOMUPx.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2023",
-    "release_date": "2023-04-11",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1613
-  },
-  {
-    "ytId": "e2WPeXyLc9o",
-    "tmdbId": 539721,
-    "title": "Project E.1337: ALPHA",
-    "poster_path": "/mtPfO2bQUkUkUxBAkmsUnvCAd2X.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2022",
-    "release_date": "2022-04-04",
-    "rating": 5.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1612
-  },
-  {
-    "ytId": "pXcsqURY58Y",
-    "tmdbId": 278612,
-    "title": "Atlantis: Secret Star Mappers of a Lost World",
-    "poster_path": "/qwIqkCR6CpyoKeIPi4K9r6Q76Uu.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2007",
-    "release_date": "2007-07-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1611
-  },
-  {
-    "ytId": "lkuGFPJypRo",
-    "tmdbId": 961520,
-    "title": "Seal of Desire",
-    "poster_path": "/o7uTSX79piMM0zisVR4u1lX8OjF.jpg",
-    "genre_ids": [
-      10749,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-12-22",
-    "rating": 1.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1610
-  },
-  {
-    "ytId": "QYO241_CfLI",
-    "tmdbId": 756499,
-    "title": "Asteroid-a-Geddon",
-    "poster_path": "/8zzGwkkOqial1BsoY8e8yrAIUxI.jpg",
-    "genre_ids": [
-      878,
-      28
-    ],
-    "year": "2020",
-    "release_date": "2020-10-23",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1609
-  },
-  {
-    "ytId": "sAXZXhZDhQI",
-    "tmdbId": 889418,
-    "title": "Love Hurts",
-    "poster_path": "/xuIUfp5BuuHj8SbyutauxSGm9gJ.jpg",
-    "genre_ids": [
-      53,
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-10-23",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1608
-  },
-  {
-    "ytId": "RmiCw-FlDc8",
-    "tmdbId": 931152,
-    "title": "A Worrisome Thing",
-    "poster_path": "/ajygnP0CEOKNeB11STxkrw7q7RV.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-01-25",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1607
-  },
-  {
-    "ytId": "nAw8-xoZsiY",
-    "tmdbId": 1022785,
-    "title": "Mysterious Circumstance: The Death of Meriwether Lewis",
-    "poster_path": "/x1gjcSO6ABuqGeV1PdSCB2AZunu.jpg",
-    "genre_ids": [
-      9648,
-      53,
-      37
-    ],
-    "year": "2022",
-    "release_date": "2022-09-09",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1606
-  },
-  {
-    "ytId": "pe_khgYGNXE",
-    "tmdbId": 758545,
-    "title": "S.O.S. Survive or Sacrifice",
-    "poster_path": "/cqLekREuHyuX5Xe3wvRnERS8Hia.jpg",
-    "genre_ids": [
-      12,
-      53
-    ],
-    "year": "2020",
-    "release_date": "2020-10-28",
-    "rating": 5.217,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1605
-  },
-  {
-    "ytId": "AIdYATP7lpY",
-    "tmdbId": 595158,
-    "title": "Area of Conflict",
-    "poster_path": "/bCEkx4uWt7EqNsb4PNJkGiMt3bR.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18,
-      53
-    ],
-    "year": "2017",
-    "release_date": "2017-05-04",
-    "rating": 7.565,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1604
-  },
-  {
-    "ytId": "ZX_LyyXqld0",
-    "tmdbId": 828691,
-    "title": "Killer Concept",
-    "poster_path": "/kemovYayHEV1kXZkgWN1rJqxf6g.jpg",
-    "genre_ids": [
-      53,
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-05-21",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1603
-  },
-  {
-    "ytId": "iHa3KeRwMk4",
-    "tmdbId": 550067,
-    "title": "The Colors of Emily",
-    "poster_path": "/iImolelJh2PQnwK9QobdqQlBqi3.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      53
-    ],
-    "year": "2017",
-    "release_date": "2017-11-17",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1602
-  },
-  {
-    "ytId": "K5gnr-JcWDQ",
-    "tmdbId": 893608,
-    "title": "Bigfoot, UFOs and Jesus",
-    "poster_path": "/4GCvnyNcX0ZYM76dDcygvmCwxuw.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10751
-    ],
-    "year": "2021",
-    "release_date": "2021-05-25",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1601
-  },
-  {
-    "ytId": "-c3JuUwKNwo",
-    "tmdbId": 821201,
-    "title": "Pursuit of Freedom",
-    "poster_path": "/2knrOLIZooESFCJXytVh0dQZSxh.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-09-16",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-22",
-    "id": 1600
-  },
-  {
-    "ytId": "EltddmdxH_Q",
-    "tmdbId": 1559425,
-    "title": "The Conspiracists",
-    "poster_path": "/A62JCQDGVQF3OMhszWC3I7xuJp2.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2026",
-    "release_date": "2026-01-14",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1599
-  },
-  {
-    "ytId": "hk6U8Kvf3sg",
-    "tmdbId": 1189354,
-    "title": "Bigfoot vs Megalodon 2",
-    "poster_path": "/rJYHQ33M7jci56t7ACv2DLKBTtK.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "year": "2023",
-    "release_date": "2023-08-01",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1598
-  },
-  {
-    "ytId": "GUo8LZa2Lu0",
-    "tmdbId": 1299645,
-    "title": "The Mandela Effect Phenomenon",
-    "poster_path": "/rZkXQmCvb2FulL27taJn7Tcx7us.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2024",
-    "release_date": "2024-07-09",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1597
-  },
-  {
-    "ytId": "Pt9KzlqOpmM",
-    "tmdbId": 56718,
-    "title": "The Mind Snatchers",
-    "poster_path": "/zSdaX4J53ZEVnRCWgnB43Rv7tB.jpg",
-    "genre_ids": [
-      878,
-      18,
-      53
-    ],
-    "year": "1972",
-    "release_date": "1972-06-28",
-    "rating": 5.906,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1596
-  },
-  {
-    "ytId": "LoVtMIoT1-s",
-    "tmdbId": 143192,
-    "title": "Rat Scratch Fever",
-    "poster_path": "/2S2TBxOylgjx17XUQvA4oxFWoYw.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "2011",
-    "release_date": "2011-02-26",
-    "rating": 2.3,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-22",
-    "id": 1595
   }
 ]
