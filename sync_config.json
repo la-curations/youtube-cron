@@ -25,14 +25,14 @@
     "name": "Disaster Zone Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 383
+    "count": 384
   },
   {
     "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
     "name": "The Midnight Screening",
     "nextPageToken": "EAAaH1BUOkNpQ0JJaENOTlhSRmxrUnlSall4TmxObElqUTFNalE0",
     "isHistoryComplete": false,
-    "count": 15
+    "count": 16
   },
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
@@ -46,7 +46,7 @@
     "name": "Movie Central",
     "nextPageToken": "EAAaH1BUOkNPd09JaEEwUkRBMU1qSTRRemhEUWtWRE9UWTQ",
     "isHistoryComplete": false,
-    "count": 599
+    "count": 600
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
