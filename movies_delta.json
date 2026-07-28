@@ -1,5 +1,264 @@
 [
   {
+    "ytId": "A5DUBkA950U",
+    "tmdbId": 567492,
+    "title": "Grace and Goliath",
+    "poster_path": "/zsYvFKfgMf1Z55pB8ivk8u9BxjP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-10-05",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1847
+  },
+  {
+    "ytId": "UAjZoynOqxA",
+    "tmdbId": 44027,
+    "title": "My Son, My Son, What Have Ye Done",
+    "poster_path": "/sUS8WNlJblq2GMCFPKBHzhu0XDC.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53,
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-07-08",
+    "rating": 6.061,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1846
+  },
+  {
+    "ytId": "O9Q5eqsRPro",
+    "tmdbId": 755529,
+    "title": "Battle of the Bulge: Winter War",
+    "poster_path": "/em2NY3recLURRJ4d6QuXGNN5H2a.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-11-06",
+    "rating": 5.904,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1845
+  },
+  {
+    "ytId": "cMWlyQZq0bc",
+    "tmdbId": 166627,
+    "title": "Calloused Hands",
+    "poster_path": null,
+    "genre_ids": [
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-03-03",
+    "rating": 8.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1844
+  },
+  {
+    "ytId": "r1O7BUPl_NQ",
+    "tmdbId": 57173,
+    "title": "Monsterwolf",
+    "poster_path": "/kJuGPV337ojSvJDmfI33358GcYO.jpg",
+    "genre_ids": [
+      10770,
+      14,
+      27
+    ],
+    "year": "2010",
+    "release_date": "2010-10-09",
+    "rating": 3.703,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1843
+  },
+  {
+    "ytId": "PqAmmDZUles",
+    "tmdbId": 455532,
+    "title": "The Meanest Man in Texas",
+    "poster_path": "/fdmn3mdwFhBA6oEY7YsbEoWflv5.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2019",
+    "release_date": "2019-05-17",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1842
+  },
+  {
+    "ytId": "Q40rvKExmJc",
+    "tmdbId": 520939,
+    "title": "Escape and Evasion",
+    "poster_path": "/zeWShi7yEBs42lhn3Xf49HD9gnC.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "year": "2019",
+    "release_date": "2019-10-24",
+    "rating": 6.097,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1841
+  },
+  {
+    "ytId": "dqTt5Q9t_bI",
+    "tmdbId": 736491,
+    "title": "Interviewing Monsters and Bigfoot",
+    "poster_path": "/lVjuLy9PMoSET3MdK3ydxUBy6G6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2019",
+    "release_date": "2019-05-09",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1840
+  },
+  {
+    "ytId": "cvJCYmyy0rY",
+    "tmdbId": 30121,
+    "title": "Winter of Frozen Dreams",
+    "poster_path": "/j88NAnCCKJFNiVg1DaJkfJ8mQEI.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-06-01",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1839
+  },
+  {
+    "ytId": "3W-jS5_M7iY",
+    "tmdbId": 268245,
+    "title": "1000 to 1",
+    "poster_path": "/sGKWrPbYykh6H943XQODN5N8wxi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2014",
+    "release_date": "2014-03-04",
+    "rating": 6.061,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1838
+  },
+  {
+    "ytId": "z1EVDDEEeCc",
+    "tmdbId": 204968,
+    "title": "Джек Стронг",
+    "poster_path": "/3FT7StSXatyHwphNDjSlenA1KMb.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-02-07",
+    "rating": 6.526,
+    "original_language": "pl",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1837
+  },
+  {
+    "ytId": "Q0sHNLAyOTI",
+    "tmdbId": 375650,
+    "title": "The Anatomy of Monsters",
+    "poster_path": "/qBXspZY4xztufXgzchBozwHhGBO.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-12-16",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1836
+  },
+  {
+    "ytId": "p5tYWvCPcPs",
+    "tmdbId": 64832,
+    "title": "Shadows & Lies",
+    "poster_path": "/ql5LmbFxz7Hg65c12HiuYCS0E4l.jpg",
+    "genre_ids": [
+      18,
+      28,
+      10749
+    ],
+    "year": "2010",
+    "release_date": "2010-04-25",
+    "rating": 4.275,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1835
+  },
+  {
+    "ytId": "Mndncu999B0",
+    "tmdbId": 435696,
+    "title": "eHero",
+    "poster_path": "/ry0VJqcFK8nSa8L5gy1SswEGdtj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-05-24",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1834
+  },
+  {
+    "ytId": "AwgYuysaVtg",
+    "tmdbId": 415673,
+    "title": "The Mad Whale",
+    "poster_path": "/5JlefOHJDop4bzN93hKLr1uuaG4.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-06-14",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1833
+  },
+  {
     "ytId": "YlnfOwsMef4",
     "tmdbId": 451413,
     "title": "Event Zero",
@@ -2269,270 +2528,5 @@
     "channelName": "Sci-Fi Central",
     "addedAt": "2026-07-23",
     "id": 1698
-  },
-  {
-    "ytId": "oSVnyZEpbK4",
-    "tmdbId": 946587,
-    "title": "Alien Abduction: Betty and Barney Hill",
-    "poster_path": "/3Jb7ezJAqvbvetGRBtx5JdfpXGh.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2022",
-    "release_date": "2022-02-18",
-    "rating": 6.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1697
-  },
-  {
-    "ytId": "Dc1t5AyscAU",
-    "tmdbId": 122245,
-    "title": "The Serpent Warriors",
-    "poster_path": "/5BCjKi3rg6mdEV6M8NIfIVSxZ8e.jpg",
-    "genre_ids": [
-      28,
-      27
-    ],
-    "year": "1985",
-    "release_date": "1985-01-01",
-    "rating": 4.333,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1696
-  },
-  {
-    "ytId": "k7Eji9ZUreg",
-    "tmdbId": 941520,
-    "title": "Alien Sniperess",
-    "poster_path": "/zDNjLGCgsdbxlEanENc94ECdzw4.jpg",
-    "genre_ids": [
-      28,
-      878,
-      14,
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-04-08",
-    "rating": 3.7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1695
-  },
-  {
-    "ytId": "KD2uzatkXO8",
-    "tmdbId": 770499,
-    "title": "Miracle on Highway 34",
-    "poster_path": "/fIH1jaCPTBpOt99a7hZjWpiWbpF.jpg",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "year": "2020",
-    "release_date": "2020-12-01",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1694
-  },
-  {
-    "ytId": "BGHTinvhr8k",
-    "tmdbId": 358876,
-    "title": "Christmas in Palm Springs",
-    "poster_path": "/kaCk7Xwg9m8BiLBf24KziUAp2Kj.jpg",
-    "genre_ids": [
-      35,
-      10770
-    ],
-    "year": "2014",
-    "release_date": "2014-11-23",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1693
-  },
-  {
-    "ytId": "Z4d-MD1qpiE",
-    "tmdbId": 654766,
-    "title": "Christmas Matchmakers",
-    "poster_path": "/mwys26NuCQf35gdLijuGeDFzNSq.jpg",
-    "genre_ids": [
-      10749,
-      10770
-    ],
-    "year": "2019",
-    "release_date": "2019-12-08",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1692
-  },
-  {
-    "ytId": "YMnf3daGYRY",
-    "tmdbId": 550506,
-    "title": "Saint Judy",
-    "poster_path": "/pwIejqS8wU7cYXqnAJzMpxTWqsa.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2018",
-    "release_date": "2018-09-22",
-    "rating": 6.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1691
-  },
-  {
-    "ytId": "HW11GlEjMdk",
-    "tmdbId": 249043,
-    "title": "Holiday Road Trip",
-    "poster_path": "/cRfz43odBVeVUZyI3DMsYamtdQH.jpg",
-    "genre_ids": [
-      10770,
-      35,
-      10749
-    ],
-    "year": "2013",
-    "release_date": "2013-12-01",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1690
-  },
-  {
-    "ytId": "0LxjA-3TCMU",
-    "tmdbId": 40852,
-    "title": "American Bandits: Frank and Jesse James",
-    "poster_path": "/oojAVWaOV2pckjMIcLioFUlm05H.jpg",
-    "genre_ids": [
-      28,
-      37
-    ],
-    "year": "2010",
-    "release_date": "2010-05-18",
-    "rating": 3.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1689
-  },
-  {
-    "ytId": "0fI8CkTq-WY",
-    "tmdbId": 488925,
-    "title": "A Christmas Cruise",
-    "poster_path": "/31fb2Nftq4j31A1PXk5XYxPeWut.jpg",
-    "genre_ids": [
-      10749,
-      10770,
-      10751,
-      18
-    ],
-    "year": "2017",
-    "release_date": "2017-12-16",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1688
-  },
-  {
-    "ytId": "Eh5BdKnAEUI",
-    "tmdbId": 534344,
-    "title": "Running for Grace",
-    "poster_path": "/6EM6JvWiFPSkgpHLml6yA1hy1SL.jpg",
-    "genre_ids": [
-      10751,
-      10749
-    ],
-    "year": "2018",
-    "release_date": "2018-08-17",
-    "rating": 6.516,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1687
-  },
-  {
-    "ytId": "hHyzTmSYqFA",
-    "tmdbId": 208466,
-    "title": "Christmas Twister",
-    "poster_path": "/oAF5gTU1p8tjkz76d93wRnYd4oS.jpg",
-    "genre_ids": [
-      878,
-      18,
-      28,
-      10770,
-      53,
-      12
-    ],
-    "year": "2012",
-    "release_date": "2012-12-16",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1686
-  },
-  {
-    "ytId": "oqj_ACwwwS0",
-    "tmdbId": 376296,
-    "title": "The Wrong Roommate",
-    "poster_path": "/9X7TPTQ37lY9cogEYbcs9VrdRym.jpg",
-    "genre_ids": [
-      10770,
-      9648,
-      53,
-      18
-    ],
-    "year": "2016",
-    "release_date": "2016-01-04",
-    "rating": 5.1,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1685
-  },
-  {
-    "ytId": "kYdVMq59M38",
-    "tmdbId": 76037,
-    "title": "The Dog Who Saved Halloween",
-    "poster_path": "/9y6hun9vS3GFjNFWM1fvteoUpqP.jpg",
-    "genre_ids": [
-      35,
-      10751,
-      10770
-    ],
-    "year": "2011",
-    "release_date": "2011-09-13",
-    "rating": 4.533,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1684
-  },
-  {
-    "ytId": "9g8F8QSV95U",
-    "tmdbId": 1045334,
-    "title": "Red Letter Day",
-    "poster_path": "/4eSwF1AyBYsGj6sPsEtcDTeg4UJ.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "2022",
-    "release_date": "2022-03-30",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1683
   }
 ]
