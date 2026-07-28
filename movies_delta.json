@@ -1,5 +1,22 @@
 [
   {
+    "ytId": "YlnfOwsMef4",
+    "tmdbId": 451413,
+    "title": "Event Zero",
+    "poster_path": "/cG8zPyqMkpQ4H6QDfvxvmGEeCf7.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-08-31",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1832
+  },
+  {
     "ytId": "mG09xcfXBSk",
     "tmdbId": 660632,
     "title": "Shattered Memories",
@@ -2517,21 +2534,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-23",
     "id": 1683
-  },
-  {
-    "ytId": "LXFEDhkz3pI",
-    "tmdbId": 929449,
-    "title": "Mirror, Mirror",
-    "poster_path": "/3FUfdBpl7VjC0ZWAbhLMcave9Ar.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2022",
-    "release_date": "2022-05-20",
-    "rating": 5.7,
-    "original_language": "es",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-23",
-    "id": 1682
   }
 ]
