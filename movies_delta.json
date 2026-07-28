@@ -1,5 +1,227 @@
 [
   {
+    "ytId": "s4imsXGPGd8",
+    "tmdbId": 554532,
+    "title": "This Weekend Will Change Your Life",
+    "poster_path": "/35idWpnOdOr0tM57onZZG2OkMSg.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-07-14",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1860
+  },
+  {
+    "ytId": "SrWloM47vGo",
+    "tmdbId": 113752,
+    "title": "USS Seaviper",
+    "poster_path": "/eOyZge0vfP9WWIy1UzaEF7nPI8u.jpg",
+    "genre_ids": [
+      28,
+      10752,
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-05-28",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1859
+  },
+  {
+    "ytId": "l7sT2qns-C0",
+    "tmdbId": 483205,
+    "title": "Khali the Killer",
+    "poster_path": "/873rVdev0hbqhJUejzDT9FX5Qzq.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-11-02",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1858
+  },
+  {
+    "ytId": "_hnAXIh4aSE",
+    "tmdbId": 505601,
+    "title": "Strait & Narrow",
+    "poster_path": "/5bFZHVwBi2VUE6d8ruFswKpUvep.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "year": "2016",
+    "release_date": "2016-03-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1857
+  },
+  {
+    "ytId": "Shk_jukmJkc",
+    "tmdbId": 305870,
+    "title": "Iron Ridge",
+    "poster_path": "/lgMPmn28Ir3wrBoRCrTF7JxD7f0.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "year": "2008",
+    "release_date": "2008-03-28",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1856
+  },
+  {
+    "ytId": "r_Tlo8kblpU",
+    "tmdbId": 476757,
+    "title": "The Lost Number",
+    "poster_path": "/rPv0rubDPG3idbclSgrAPxSd7LE.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2012",
+    "release_date": "2012-08-12",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1855
+  },
+  {
+    "ytId": "fUjcWtA3C-s",
+    "tmdbId": 291851,
+    "title": "Field of Lost Shoes",
+    "poster_path": "/sT0UoBSZ48RbQVqctVAJddyPXdw.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36,
+      28
+    ],
+    "year": "2015",
+    "release_date": "2015-03-30",
+    "rating": 6.131,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1854
+  },
+  {
+    "ytId": "EdbmJbr9zpY",
+    "tmdbId": 760036,
+    "title": "Baby Doll",
+    "poster_path": "/rwa8CnvtnFvFbr0L6w0FfJk3niV.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "year": "2020",
+    "release_date": "2020-03-02",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1853
+  },
+  {
+    "ytId": "akYKXWxfR0g",
+    "tmdbId": 637743,
+    "title": "Point Defiance",
+    "poster_path": "/rFL7blCEk7Kvps9lVPyP1fEpihT.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-10-21",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1852
+  },
+  {
+    "ytId": "AXR76ni498I",
+    "tmdbId": 727790,
+    "title": "Battle Scars",
+    "poster_path": "/oQjiSqSN4XJYtgrswLSpWrHZQta.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2020",
+    "release_date": "2020-07-21",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1851
+  },
+  {
+    "ytId": "5r2_wpDqjVw",
+    "tmdbId": 694938,
+    "title": "R.I.A.",
+    "poster_path": "/dKo5y8mCJncnIH8cNA8l7cLcxow.jpg",
+    "genre_ids": [
+      12,
+      878,
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-01-26",
+    "rating": 4.338,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1850
+  },
+  {
+    "ytId": "2b--29RwcS8",
+    "tmdbId": 683556,
+    "title": "We Go In at Dawn",
+    "poster_path": "/nQqLA58PeF0ofPzq36lNUFRSzCa.jpg",
+    "genre_ids": [
+      36,
+      10752,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-03-16",
+    "rating": 5.892,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1849
+  },
+  {
+    "ytId": "hG0WRCI0T_s",
+    "tmdbId": 612925,
+    "title": "Dark Corners",
+    "poster_path": "/zYIZTqomHHOTRRTL13ab5fHEgmB.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-02-05",
+    "rating": 3.75,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1848
+  },
+  {
     "ytId": "A5DUBkA950U",
     "tmdbId": 567492,
     "title": "Grace and Goliath",
@@ -2318,215 +2540,5 @@
     "channelName": "Sci-Fi Central",
     "addedAt": "2026-07-23",
     "id": 1711
-  },
-  {
-    "ytId": "sueOuu_0rbA",
-    "tmdbId": 111208,
-    "title": "The 25th Reich",
-    "poster_path": "/13o2Visivhktf5KVk4Sf9NN7qcJ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14,
-      878
-    ],
-    "year": "2012",
-    "release_date": "2012-05-09",
-    "rating": 4.317,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1710
-  },
-  {
-    "ytId": "fgiS91KIhMw",
-    "tmdbId": 1360058,
-    "title": "Aliens Uncovered: Marilyn Monroe Exposed",
-    "poster_path": "/4NxuDLwRq10E53kMOzbQJ1aAUzN.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2024",
-    "release_date": "2024-05-07",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1709
-  },
-  {
-    "ytId": "MFdhAJMmdqU",
-    "tmdbId": 1152194,
-    "title": "Adventures of the Naked Umbrella",
-    "poster_path": "/sEYZukMm0MKsnbiEMJgKp1sRDOM.jpg",
-    "genre_ids": [
-      878,
-      28,
-      35
-    ],
-    "year": "2023",
-    "release_date": "2023-11-10",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1708
-  },
-  {
-    "ytId": "7jiXhvNbeoQ",
-    "tmdbId": 1419670,
-    "title": "Knight Life",
-    "poster_path": "/2H4lvQGswKM80bMcffOcspgSLer.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2025",
-    "release_date": "2025-01-28",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1707
-  },
-  {
-    "ytId": "7DYVFXbwf48",
-    "tmdbId": 1197457,
-    "title": "Aliens Uncovered: UFOs Over Vegas",
-    "poster_path": "/krGswZ6je9A1N7S3u5ofOPQkxs2.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2023",
-    "release_date": "2023-10-17",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1706
-  },
-  {
-    "ytId": "ZZnc_K3rrXs",
-    "tmdbId": 1241674,
-    "title": "The Last Breath",
-    "poster_path": "/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-06-28",
-    "rating": 5.962,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1705
-  },
-  {
-    "ytId": "_FUH186wGkE",
-    "tmdbId": 1533344,
-    "title": "Fire & Outer Darkness",
-    "poster_path": "/8SCaERHXLdVGZReg5a3NPlBvTUa.jpg",
-    "genre_ids": [],
-    "year": "2025",
-    "release_date": "2025-09-30",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1704
-  },
-  {
-    "ytId": "hTZjOZKbxCI",
-    "tmdbId": 42053,
-    "title": "Witchville",
-    "poster_path": "/q4cRqdKAPRxGdk6r150hQZv5EU2.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "year": "2010",
-    "release_date": "2010-05-22",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1703
-  },
-  {
-    "ytId": "96Ifn_HSI80",
-    "tmdbId": 1147216,
-    "title": "Aliens Uncovered: The Golden Record",
-    "poster_path": "/lAxKj4tFkIEZtp81lATved0Ezid.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2023",
-    "release_date": "2023-07-04",
-    "rating": 7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1702
-  },
-  {
-    "ytId": "HzfVBgfnVCI",
-    "tmdbId": 1627275,
-    "title": "Areas of High Strangeness: Stimson Hospital",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1701
-  },
-  {
-    "ytId": "QVNkaTmDC9A",
-    "tmdbId": 1244384,
-    "title": "Alien Agenda: Into the Future",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1700
-  },
-  {
-    "ytId": "Zi_2-IX6-VM",
-    "tmdbId": 506732,
-    "title": "Moon Rock City",
-    "poster_path": "/8lP0aI4AaoWBv4XxEFNlNX0zlM9.jpg",
-    "genre_ids": [
-      35,
-      878
-    ],
-    "year": "2017",
-    "release_date": "2017-08-21",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1699
-  },
-  {
-    "ytId": "4U57ve7DXWo",
-    "tmdbId": 1236852,
-    "title": "The UFO Battle of Los Angeles",
-    "poster_path": "/8GZffvczMIHoRJwsP0EoODJmOjZ.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2023",
-    "release_date": "2023-02-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1698
   }
 ]
