@@ -1,5 +1,289 @@
 [
   {
+    "ytId": "lzPVoUdhc-I",
+    "tmdbId": 654857,
+    "title": "2 Graves in the Desert",
+    "poster_path": "/vf6GmUqyzxVTtZYZ4LzCPgz89nV.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-01-05",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1877
+  },
+  {
+    "ytId": "0afnnekSo4E",
+    "tmdbId": 663199,
+    "title": "The Deadbeats",
+    "poster_path": "/mC2nNKTLUpugJA3hQ6aowjTWxpX.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2019",
+    "release_date": "2019-10-25",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1876
+  },
+  {
+    "ytId": "ne5fUrDrQaw",
+    "tmdbId": 595108,
+    "title": "D-Day Assassins",
+    "poster_path": "/29xobLkZsJW0Ifdc1lsNohZoaJH.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2019",
+    "release_date": "2019-04-15",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1875
+  },
+  {
+    "ytId": "4U8dUegq6Yw",
+    "tmdbId": 729987,
+    "title": "Patriot: A Nation at War",
+    "poster_path": "/skSqkG0WLVB8XpJCZsFuuFhhiGO.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-08-04",
+    "rating": 1.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1874
+  },
+  {
+    "ytId": "oRifSyJ1Bs0",
+    "tmdbId": 545302,
+    "title": "Bundy and the Green River Killer",
+    "poster_path": "/eDD36grRZveBrPs0geW0KJuyiGt.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18,
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-04-09",
+    "rating": 4.712,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1873
+  },
+  {
+    "ytId": "_9LyMgAC4IA",
+    "tmdbId": 559578,
+    "title": "Alone We Fight",
+    "poster_path": "/y0QXD8zSxpBsyQSKN9mg5diYexV.jpg",
+    "genre_ids": [
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-11-06",
+    "rating": 4.063,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1872
+  },
+  {
+    "ytId": "gmXSFGeEAow",
+    "tmdbId": 792101,
+    "title": "Bats",
+    "poster_path": "/g79oYx9fzazEJEZn38dN7vvpV7V.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-03-06",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1871
+  },
+  {
+    "ytId": "7nC0FxdrZK0",
+    "tmdbId": 45833,
+    "title": "Confessions of an Action Star",
+    "poster_path": "/uw6Jixhh36TQhzOWuvrF9d6kbHC.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2005",
+    "release_date": "2005-01-23",
+    "rating": 4.333,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1870
+  },
+  {
+    "ytId": "A07a743EyDI",
+    "tmdbId": 797528,
+    "title": "Once Upon a Time in Tombstone",
+    "poster_path": "/xIXWeKbKaBTNw2qem5JTaLDv7QK.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-02-16",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1869
+  },
+  {
+    "ytId": "Z_sxKqas9Lc",
+    "tmdbId": 19071,
+    "title": "Lost in Plainview",
+    "poster_path": "/aAVgEGV1FWB9uZkDzDAaUvRjczF.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-01-01",
+    "rating": 5.188,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1868
+  },
+  {
+    "ytId": "fml7ID9bPjg",
+    "tmdbId": 791136,
+    "title": "Bird",
+    "poster_path": "/a4UDgsVfulEPoRkERphVXGqXouV.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "year": "2020",
+    "release_date": "2020-12-19",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1867
+  },
+  {
+    "ytId": "heMoYAdgXFc",
+    "tmdbId": 85668,
+    "title": "Da' Booty Shop",
+    "poster_path": "/jUCLznrcJ6NRPf9eK5GGb7MmpHy.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2009",
+    "release_date": "2009-04-07",
+    "rating": 2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1866
+  },
+  {
+    "ytId": "_jHn3BLh5mI",
+    "tmdbId": 706489,
+    "title": "The Margarita Man",
+    "poster_path": "/cIDxEsjgqFzH5Zt0BOOyK4RFGFR.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2019",
+    "release_date": "2019-07-31",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1865
+  },
+  {
+    "ytId": "08JzMdpM7s8",
+    "tmdbId": 43213,
+    "title": "Chicago Overcoat",
+    "poster_path": "/6saeAm5xt4vVM632Hxw3tV0tRsJ.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-10-10",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1864
+  },
+  {
+    "ytId": "9KYc79spEO0",
+    "tmdbId": 798529,
+    "title": "Creature in the Dark",
+    "poster_path": "/hAhkgnUtmZ0EBIqFE9q3mTbQHAR.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-11-09",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1863
+  },
+  {
+    "ytId": "jRb8RiHFWdA",
+    "tmdbId": 115446,
+    "title": "Divorce Invitation",
+    "poster_path": "/1Au4jGHUKvckHAbuZd9bgchFetY.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2012",
+    "release_date": "2012-11-14",
+    "rating": 4.453,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1862
+  },
+  {
+    "ytId": "3RVn045aefc",
+    "tmdbId": 840202,
+    "title": "Hampton's Legion",
+    "poster_path": "/nT6R3TUIczaUqevgP6VHz1Hok57.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "year": "2021",
+    "release_date": "2021-06-09",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1861
+  },
+  {
     "ytId": "s4imsXGPGd8",
     "tmdbId": 554532,
     "title": "This Weekend Will Change Your Life",
@@ -2253,292 +2537,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-07-26",
     "id": 1728
-  },
-  {
-    "ytId": "atWU8-ilOFw",
-    "tmdbId": 613178,
-    "title": "Shadow Wolves",
-    "poster_path": "/xPLyuKO74kbFS6PmSUKLsJHnLHa.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "year": "2019",
-    "release_date": "2019-07-02",
-    "rating": 5.425,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-24",
-    "id": 1727
-  },
-  {
-    "ytId": "y29Mo_mhfDk",
-    "tmdbId": 22100,
-    "title": "Watching the Detectives",
-    "poster_path": "/wm2TaGTXpy30WNLuZaqagIMbf1K.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2007",
-    "release_date": "2007-05-01",
-    "rating": 6.3,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-07-23",
-    "id": 1726
-  },
-  {
-    "ytId": "XfKas6Qw8w0",
-    "tmdbId": 1439086,
-    "title": "Dark Side of Heaven",
-    "poster_path": "/mGmL0mEtWCj9mCeG11bMrJuDBbJ.jpg",
-    "genre_ids": [],
-    "year": "2008",
-    "release_date": "2008-03-17",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1725
-  },
-  {
-    "ytId": "Sgw3VWgm55Q",
-    "tmdbId": 646434,
-    "title": "Stone Seeker",
-    "poster_path": "/y4tJOv9hBfNW0qNNqnmJDfvigvF.jpg",
-    "genre_ids": [],
-    "year": "2018",
-    "release_date": "2018-02-14",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1724
-  },
-  {
-    "ytId": "6PWugymo32A",
-    "tmdbId": 646034,
-    "title": "Riley Parra: Better Angels",
-    "poster_path": "/6SH92umhfpYiKcKcfXqtpHjZ4fp.jpg",
-    "genre_ids": [
-      878,
-      18,
-      80
-    ],
-    "year": "2019",
-    "release_date": "2019-08-25",
-    "rating": 3.8,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1723
-  },
-  {
-    "ytId": "FdF3DDrOokU",
-    "tmdbId": 604571,
-    "title": "Deus",
-    "poster_path": "/zq9iHZTVNOXFT4SIzjpA7gfwsyZ.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-11-04",
-    "rating": 5.075,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1722
-  },
-  {
-    "ytId": "aXhseLA7c-8",
-    "tmdbId": 31243,
-    "title": "The Robot vs. The Aztec Mummy",
-    "poster_path": "/z5NR8SLZQ9bcSXig9z72YLAqtzt.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "1958",
-    "release_date": "1958-07-17",
-    "rating": 2.952,
-    "original_language": "es",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1721
-  },
-  {
-    "ytId": "04iyIi0Q1Gc",
-    "tmdbId": 1142624,
-    "title": "The Ant Farm",
-    "poster_path": "/g0Qc3SW0Z1NC068mHrXi8krFOvr.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2022",
-    "release_date": "2022-08-25",
-    "rating": 7,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1720
-  },
-  {
-    "ytId": "s5L2nY8v_NE",
-    "tmdbId": 1195727,
-    "title": "Boy Makes Girl",
-    "poster_path": "/b0tBcMFckiNSO1O6W9wyqQMBoxX.jpg",
-    "genre_ids": [
-      878,
-      18
-    ],
-    "year": "2023",
-    "release_date": "2023-10-24",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1719
-  },
-  {
-    "ytId": "EXJ8D_atNGQ",
-    "tmdbId": 258964,
-    "title": "The Random Factor",
-    "poster_path": null,
-    "genre_ids": [
-      878
-    ],
-    "year": "1995",
-    "release_date": "1995-03-03",
-    "rating": 5.083,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1718
-  },
-  {
-    "ytId": "nSO43bEvBts",
-    "tmdbId": 1327535,
-    "title": "The Reflected Self",
-    "poster_path": "/kfFRMF0zYpl7i5utSWCiaA2TmfE.jpg",
-    "genre_ids": [
-      27,
-      18,
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-12-10",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1717
-  },
-  {
-    "ytId": "4HiRjxCLh3k",
-    "tmdbId": 1589337,
-    "title": "The End of the World",
-    "poster_path": "/6lJd9yAcwWCXrCIV8K5R8DEM226.jpg",
-    "genre_ids": [],
-    "year": "2024",
-    "release_date": "2024-11-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1716
-  },
-  {
-    "ytId": "v97D8pgK2ow",
-    "tmdbId": 1189324,
-    "title": "Alien Chronicles: Antarctic Worlds Below",
-    "poster_path": "/8mFmJNwiAUR3FMAmzrjoIGXzPhF.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1715
-  },
-  {
-    "ytId": "3tW00lRI1Bo",
-    "tmdbId": 760530,
-    "title": "Eclipse: The Rise of Ink",
-    "poster_path": "/1Z2WkhZGePordhuRxa0BJv7MPRy.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "year": "2018",
-    "release_date": "2018-03-26",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1714
-  },
-  {
-    "ytId": "wNjvkaqiRPU",
-    "tmdbId": 922964,
-    "title": "Dragon: The Weapon of God",
-    "poster_path": "/3220Mn1llRXWUHFG2fW6r4O7pXC.jpg",
-    "genre_ids": [
-      28,
-      14,
-      12,
-      878
-    ],
-    "year": "2022",
-    "release_date": "2022-01-04",
-    "rating": 4.25,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1713
-  },
-  {
-    "ytId": "zhkkOxmamKo",
-    "tmdbId": 530081,
-    "title": "The Man Who Killed Hitler and Then the Bigfoot",
-    "poster_path": "/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg",
-    "genre_ids": [
-      18,
-      12,
-      14,
-      878,
-      10752
-    ],
-    "year": "2019",
-    "release_date": "2019-02-08",
-    "rating": 5.443,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1712
-  },
-  {
-    "ytId": "CjG2WAML0T8",
-    "tmdbId": 614365,
-    "title": "A.I. 187",
-    "poster_path": "/wNcTkJ38MyCaU7KvMH3C3LcMDmv.jpg",
-    "genre_ids": [
-      878,
-      14,
-      53
-    ],
-    "year": "2019",
-    "release_date": "2019-05-04",
-    "rating": 2.333,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-07-23",
-    "id": 1711
   }
 ]
