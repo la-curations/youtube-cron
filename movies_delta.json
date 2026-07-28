@@ -1,5 +1,242 @@
 [
   {
+    "ytId": "RL8PvZnJ_k8",
+    "tmdbId": 266561,
+    "title": "Slaughter Is the Best Medicine",
+    "poster_path": "/ulY1wfo8VYwp73lR3DkRoCwlrSv.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-04-21",
+    "rating": 2.071,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1891
+  },
+  {
+    "ytId": "af8vC3Bs7Zo",
+    "tmdbId": 46390,
+    "title": "Crackie",
+    "poster_path": "/zNF5UlQog7DCJRVOIWtB17aMP90.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2009",
+    "release_date": "2009-01-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1890
+  },
+  {
+    "ytId": "kQtHEqouA2E",
+    "tmdbId": 221475,
+    "title": "The Henchman's War",
+    "poster_path": "/3lWnBb8P7PxhE2EPs2Y6frUZGV8.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-10-01",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1889
+  },
+  {
+    "ytId": "CJlawYfEvQY",
+    "tmdbId": 436610,
+    "title": "Sum of Existence",
+    "poster_path": "/rQ3mT4SsYz38VXtIu7c20tbvG54.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-10-01",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1888
+  },
+  {
+    "ytId": "QWY3IHrhMn0",
+    "tmdbId": 842081,
+    "title": "What We've Become",
+    "poster_path": "/r54LNLn2pxCRT3LhS2z2f9Hx5My.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-06-16",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1887
+  },
+  {
+    "ytId": "MaH77ngE32Y",
+    "tmdbId": 791135,
+    "title": "Unfollower",
+    "poster_path": "/op37q1x1nCQOpQZQyAvR8ZbWLhu.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-01-29",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1886
+  },
+  {
+    "ytId": "PRsnYE-FWWM",
+    "tmdbId": 782954,
+    "title": "Honor Among Thieves",
+    "poster_path": "/7mz2TA8jpKkXDlF8tnLiKhcEY1L.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-06-18",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1885
+  },
+  {
+    "ytId": "K1AELsItmeY",
+    "tmdbId": 105292,
+    "title": "Lethal Eviction",
+    "poster_path": "/ahddNqVHcGxFddAHfpQJLQlE3yG.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2005",
+    "release_date": "2005-03-10",
+    "rating": 5.182,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1884
+  },
+  {
+    "ytId": "b591HqyeD_w",
+    "tmdbId": 227802,
+    "title": "Blissful Lies",
+    "poster_path": "/aL1hfoxpshb9I3zPERUJpt7Pxaf.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2012",
+    "release_date": "2012-01-15",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1883
+  },
+  {
+    "ytId": "dyPUgNTtuJA",
+    "tmdbId": 672064,
+    "title": "The Fighter's Ballad",
+    "poster_path": "/edxgxv2JXcQuuqtodPhcZ2ESctK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-06-18",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1882
+  },
+  {
+    "ytId": "BI6pbRwFdhY",
+    "tmdbId": 648819,
+    "title": "A Psycho's Path",
+    "poster_path": "/kRiztGxEiVnrGi3LQFhTzli2zxu.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-11-15",
+    "rating": 3.417,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1881
+  },
+  {
+    "ytId": "6KQuFLfmXwg",
+    "tmdbId": 561546,
+    "title": "Nazi Overlord",
+    "poster_path": "/lLL6Uy6QUskX7NgZOq4XAFQcuog.jpg",
+    "genre_ids": [
+      28,
+      27,
+      9648
+    ],
+    "year": "2018",
+    "release_date": "2018-11-13",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1880
+  },
+  {
+    "ytId": "GLUHLxAOvis",
+    "tmdbId": 681506,
+    "title": "Whiteblood",
+    "poster_path": "/mNkjiLVR0T8UKHeymgzsPlvqVrK.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-01-19",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1879
+  },
+  {
+    "ytId": "vl0vIzvxvPk",
+    "tmdbId": 441386,
+    "title": "The 6th Friend",
+    "poster_path": "/a4OQveuueClYnlnB5GkfRDUOOLd.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-07",
+    "rating": 4.586,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1878
+  },
+  {
     "ytId": "lzPVoUdhc-I",
     "tmdbId": 654857,
     "title": "2 Graves in the Desert",
@@ -2305,237 +2542,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-26",
     "id": 1742
-  },
-  {
-    "ytId": "nSM9wiI1DAA",
-    "tmdbId": 989443,
-    "title": "You're not alone",
-    "poster_path": "/jb8BwKFk1UWSf5rXt0snhlTgSTk.jpg",
-    "genre_ids": [],
-    "year": "2022",
-    "release_date": "2022-06-23",
-    "rating": null,
-    "original_language": "ja",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1741
-  },
-  {
-    "ytId": "fsfVqnGXAJk",
-    "tmdbId": 1018522,
-    "title": "Heavy Armor 4: Monster Attack",
-    "poster_path": "/s6D8g3TZsIZtsg8Hn1WPqPgcKa6.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "year": "2022",
-    "release_date": "2022-08-30",
-    "rating": null,
-    "original_language": "zh",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1740
-  },
-  {
-    "ytId": "5NBE4qOrnpo",
-    "tmdbId": 929353,
-    "title": "Rocket Hunter: Rise of the Nazi Komet",
-    "poster_path": "/hLI0JjZPguJKtLHLv5yQBvwWZHV.jpg",
-    "genre_ids": [
-      10752
-    ],
-    "year": "2021",
-    "release_date": "2021-11-16",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1739
-  },
-  {
-    "ytId": "wDtu6naSksU",
-    "tmdbId": 400699,
-    "title": "Wild Bill Hickok: Swift Justice",
-    "poster_path": "/tAtfcKadkdsPuJucBlNnyN23U3m.jpg",
-    "genre_ids": [
-      37
-    ],
-    "year": "2016",
-    "release_date": "2016-05-31",
-    "rating": 8,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1738
-  },
-  {
-    "ytId": "diFpr3WNVq0",
-    "tmdbId": 633524,
-    "title": "Acts of Desperation",
-    "poster_path": "/cQZ2d90EIMB1P1Z240yNhEBSW0X.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2018",
-    "release_date": "2018-12-09",
-    "rating": 3.75,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1737
-  },
-  {
-    "ytId": "n5oeX6QN50I",
-    "tmdbId": 749837,
-    "title": "Red Prophecies",
-    "poster_path": "/pv5aBXJwASJiVholBLqKU3baRJl.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2021",
-    "release_date": "2021-03-01",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1736
-  },
-  {
-    "ytId": "yxwFfQsu0Ko",
-    "tmdbId": 68716,
-    "title": "Venus & Vegas",
-    "poster_path": "/yMHsuJNNERU6Drh8pYgb0ZeHzTr.jpg",
-    "genre_ids": [
-      28,
-      35
-    ],
-    "year": "2010",
-    "release_date": "2010-11-01",
-    "rating": 4.096,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1735
-  },
-  {
-    "ytId": "Dfu-_cxSdWs",
-    "tmdbId": 586334,
-    "title": "Sanctuary Population One",
-    "poster_path": "/lfdca1dN9pN62fc0y01U8ssAr5K.jpg",
-    "genre_ids": [
-      878,
-      28,
-      18,
-      12,
-      53
-    ],
-    "year": "2018",
-    "release_date": "2018-12-01",
-    "rating": 5.6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1734
-  },
-  {
-    "ytId": "9hDSk_zGcAw",
-    "tmdbId": 453258,
-    "title": "A Night Without Armor",
-    "poster_path": "/uQQ07GKrmPy1WdZ6pSdG60NCrn2.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "year": "2017",
-    "release_date": "2017-04-21",
-    "rating": 6,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1733
-  },
-  {
-    "ytId": "D5YDMshEwpc",
-    "tmdbId": 757484,
-    "title": "WWII: The Long Road Home",
-    "poster_path": "/sM8R403BgWmsWJ8ewXC7xDTjfSp.jpg",
-    "genre_ids": [
-      10752,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-10-25",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1732
-  },
-  {
-    "ytId": "KUl__hxEzEY",
-    "tmdbId": 205623,
-    "title": "The New Republic",
-    "poster_path": "/kIUc9lcGpyc3lfDUerTUekJGs2y.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2011",
-    "release_date": "2011-07-05",
-    "rating": 4.3,
-    "original_language": "ru",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1731
-  },
-  {
-    "ytId": "W_nS305Mzyo",
-    "tmdbId": 348392,
-    "title": "Cyclone Tracy: Darwin, Christmas 1974",
-    "poster_path": "/r2zKq8GeSjmLD1N2CyF8TBOFwdE.jpg",
-    "genre_ids": [],
-    "year": "1975",
-    "release_date": "1975-07-12",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1730
-  },
-  {
-    "ytId": "RzQRk1vxDTM",
-    "tmdbId": 87744,
-    "title": "Carver's Gate",
-    "poster_path": "/gXp5VsSmRQIxQvblRbMNEpVRJmi.jpg",
-    "genre_ids": [
-      53,
-      878
-    ],
-    "year": "1996",
-    "release_date": "1996-10-05",
-    "rating": 3.833,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-07-26",
-    "id": 1729
-  },
-  {
-    "ytId": "tyj2teaJdNA",
-    "tmdbId": 419261,
-    "title": "Earthtastrophe",
-    "poster_path": "/PdO6DOQktCGtPeZRrtOZhtvjWf.jpg",
-    "genre_ids": [
-      878,
-      10770
-    ],
-    "year": "2016",
-    "release_date": "2016-03-05",
-    "rating": 4.609,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-07-26",
-    "id": 1728
   }
 ]

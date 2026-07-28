@@ -1,5 +1,242 @@
 [
   {
+    "ytId": "RL8PvZnJ_k8",
+    "tmdbId": 266561,
+    "title": "Slaughter Is the Best Medicine",
+    "poster_path": "/ulY1wfo8VYwp73lR3DkRoCwlrSv.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-04-21",
+    "rating": 2.071,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1891
+  },
+  {
+    "ytId": "af8vC3Bs7Zo",
+    "tmdbId": 46390,
+    "title": "Crackie",
+    "poster_path": "/zNF5UlQog7DCJRVOIWtB17aMP90.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2009",
+    "release_date": "2009-01-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1890
+  },
+  {
+    "ytId": "kQtHEqouA2E",
+    "tmdbId": 221475,
+    "title": "The Henchman's War",
+    "poster_path": "/3lWnBb8P7PxhE2EPs2Y6frUZGV8.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-10-01",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1889
+  },
+  {
+    "ytId": "CJlawYfEvQY",
+    "tmdbId": 436610,
+    "title": "Sum of Existence",
+    "poster_path": "/rQ3mT4SsYz38VXtIu7c20tbvG54.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "year": "2005",
+    "release_date": "2005-10-01",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1888
+  },
+  {
+    "ytId": "QWY3IHrhMn0",
+    "tmdbId": 842081,
+    "title": "What We've Become",
+    "poster_path": "/r54LNLn2pxCRT3LhS2z2f9Hx5My.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-06-16",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1887
+  },
+  {
+    "ytId": "MaH77ngE32Y",
+    "tmdbId": 791135,
+    "title": "Unfollower",
+    "poster_path": "/op37q1x1nCQOpQZQyAvR8ZbWLhu.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-01-29",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1886
+  },
+  {
+    "ytId": "PRsnYE-FWWM",
+    "tmdbId": 782954,
+    "title": "Honor Among Thieves",
+    "poster_path": "/7mz2TA8jpKkXDlF8tnLiKhcEY1L.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2021",
+    "release_date": "2021-06-18",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1885
+  },
+  {
+    "ytId": "K1AELsItmeY",
+    "tmdbId": 105292,
+    "title": "Lethal Eviction",
+    "poster_path": "/ahddNqVHcGxFddAHfpQJLQlE3yG.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2005",
+    "release_date": "2005-03-10",
+    "rating": 5.182,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1884
+  },
+  {
+    "ytId": "b591HqyeD_w",
+    "tmdbId": 227802,
+    "title": "Blissful Lies",
+    "poster_path": "/aL1hfoxpshb9I3zPERUJpt7Pxaf.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2012",
+    "release_date": "2012-01-15",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1883
+  },
+  {
+    "ytId": "dyPUgNTtuJA",
+    "tmdbId": 672064,
+    "title": "The Fighter's Ballad",
+    "poster_path": "/edxgxv2JXcQuuqtodPhcZ2ESctK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-06-18",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1882
+  },
+  {
+    "ytId": "BI6pbRwFdhY",
+    "tmdbId": 648819,
+    "title": "A Psycho's Path",
+    "poster_path": "/kRiztGxEiVnrGi3LQFhTzli2zxu.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-11-15",
+    "rating": 3.417,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1881
+  },
+  {
+    "ytId": "6KQuFLfmXwg",
+    "tmdbId": 561546,
+    "title": "Nazi Overlord",
+    "poster_path": "/lLL6Uy6QUskX7NgZOq4XAFQcuog.jpg",
+    "genre_ids": [
+      28,
+      27,
+      9648
+    ],
+    "year": "2018",
+    "release_date": "2018-11-13",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1880
+  },
+  {
+    "ytId": "GLUHLxAOvis",
+    "tmdbId": 681506,
+    "title": "Whiteblood",
+    "poster_path": "/mNkjiLVR0T8UKHeymgzsPlvqVrK.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-01-19",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1879
+  },
+  {
+    "ytId": "vl0vIzvxvPk",
+    "tmdbId": 441386,
+    "title": "The 6th Friend",
+    "poster_path": "/a4OQveuueClYnlnB5GkfRDUOOLd.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-10-07",
+    "rating": 4.586,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-07-28",
+    "id": 1878
+  },
+  {
     "ytId": "lzPVoUdhc-I",
     "tmdbId": 654857,
     "title": "2 Graves in the Desert",
