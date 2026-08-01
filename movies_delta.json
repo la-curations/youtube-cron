@@ -1,5 +1,21 @@
 [
   {
+    "ytId": "4AgMeWMD91Q",
+    "tmdbId": 1041165,
+    "title": "The Charisma Killers",
+    "poster_path": "/2ecd58mZZ5qyDkbz9xDaQG8NAPo.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2024",
+    "release_date": "2024-11-01",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-08-01",
+    "id": 1895
+  },
+  {
     "ytId": "vd_9mo5qiAA",
     "tmdbId": 482088,
     "title": "Better Start Running",
@@ -2520,23 +2536,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-07-26",
     "id": 1746
-  },
-  {
-    "ytId": "slVjchHTEUg",
-    "tmdbId": 606443,
-    "title": "The Swerve",
-    "poster_path": "/m2ijShIEmS5Vn55VWrmi0OhBmBy.jpg",
-    "genre_ids": [
-      53,
-      18,
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-11-05",
-    "rating": 6.592,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-07-26",
-    "id": 1745
   }
 ]
