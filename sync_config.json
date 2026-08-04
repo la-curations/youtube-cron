@@ -44,9 +44,9 @@
   {
     "channelId": "UCGBzBkV-MinlBvHBzZawfLQ",
     "name": "Movie Central",
-    "nextPageToken": "EAAaH1BUOkNJd1ZJaEF4TnpjME1URTFRME0zUTBFek56QkQ",
-    "isHistoryComplete": false,
-    "count": 843
+    "nextPageToken": null,
+    "isHistoryComplete": true,
+    "count": 847
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
