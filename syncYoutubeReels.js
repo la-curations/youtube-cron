@@ -320,6 +320,7 @@ async function syncReels() {
                 original_language: masterMatch.original_language || 'en',
                 type: 'movie',
                 ytId: ytId,
+                movieYtId: masterMatch.ytId || null,
                 channelName: channel.name,
                 createdAt: item.snippet?.publishedAt || new Date().toISOString()
               });
@@ -381,6 +382,7 @@ async function syncReels() {
                 original_language: matchedMaster.original_language || tmdb?.original_language || ai.language || 'en',
                 type: 'movie',
                 ytId: p.ytId,
+                movieYtId: matchedMaster.ytId || null,
                 channelName: p.channelName,
                 createdAt: p.item.snippet?.publishedAt || new Date().toISOString()
               });
