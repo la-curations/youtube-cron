@@ -72,6 +72,73 @@
     },
     {
         "name": "LA",
-        "data": []
+        "data": [
+            {
+                "ytId": "V_ZcYVj-vfk",
+                "tmdbId": 1045667,
+                "title": "Dear Hangman",
+                "poster_path": "/6UwLSFH91x86cH8ZY7fFJhdVFkw.jpg",
+                "genre_ids": [
+                    53
+                ],
+                "year": "2022",
+                "release_date": "2022-03-19",
+                "rating": null,
+                "original_language": "en",
+                "channelName": "The Midnight Screening",
+                "addedAt": "2026-08-08",
+                "id": 1982
+            },
+            {
+                "ytId": "Dn6U2mwjsTs",
+                "tmdbId": 336683,
+                "title": "A Date with Miss Fortune",
+                "poster_path": "/yUYYB8fNgJkXt0aWbTdfTtdCGzP.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "year": "2015",
+                "release_date": "2015-08-13",
+                "rating": 5.4,
+                "original_language": "en",
+                "channelName": "Movie Central",
+                "addedAt": "2026-08-04",
+                "id": 1972
+            },
+            {
+                "ytId": "H0mTi_sVDII",
+                "tmdbId": 854244,
+                "title": "Shark Huntress",
+                "poster_path": "/nfzSSpQecKEZp0FSol14g4nqtTT.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "year": "2021",
+                "release_date": "2021-07-20",
+                "rating": 5,
+                "original_language": "en",
+                "channelName": "Movie Central",
+                "addedAt": "2026-08-05",
+                "id": 1981
+            },
+            {
+                "ytId": "2-5vrxWCJg8",
+                "tmdbId": 127594,
+                "title": "CLONED: The Recreator Chronicles",
+                "poster_path": "/tDMjcYqsLtUVoBnTNozRrBI2sna.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "year": "2012",
+                "release_date": "2012-02-16",
+                "rating": 4.8,
+                "original_language": "en",
+                "channelName": "Movie Central",
+                "addedAt": "2026-08-04",
+                "id": 1977
+            }
+        ]
     }
 ]
