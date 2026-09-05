@@ -3,14 +3,14 @@
     "channelId": "UCHTyeZ6sjpTAo-Y9XMUHeAQ",
     "name": "The Cinematics Movies",
     "nextPageToken": null,
-    "isHistoryComplete": true,
+    "isHistoryComplete": false,
     "count": 40
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": null,
-    "isHistoryComplete": true,
+    "isHistoryComplete": false,
     "count": 203
   },
   {
@@ -54,5 +54,33 @@
     "nextPageToken": null,
     "isHistoryComplete": true,
     "count": 144
+  },
+  {
+    "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",
+    "name": "Sony LIV Tamil",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UC8IgJ65Yl6GHuMFDWj-oBgg",
+    "name": "Only Movies",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UCBvbu_TLdWgOiPHd9yHoSng",
+    "name": "StreamCore",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
+  },
+  {
+    "channelId": "UCOBMTKkkVlOi6-zCYg6R9zQ",
+    "name": "THE MOVIE ZONE",
+    "nextPageToken": null,
+    "isHistoryComplete": false,
+    "count": 0
   }
 ]
