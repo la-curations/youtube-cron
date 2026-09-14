@@ -145,63 +145,97 @@ function matchAgainstMasterCatalog(title, description, masterMovies) {
   return null;
 }
 
-// 4. Groq AI: Clean short snippet to extract movie title in batches
+const GROQ_MODELS = [
+  'openai/gpt-oss-120b',
+  'openai/gpt-oss-20b',
+  'qwen/qwen3.8-27b',
+  'qwen/qwen3.6-27b',
+  'openai/gpt-oss-safeguard-20b',
+  'groq/compound',
+  'allam-2-7b'
+];
+
+// Helper to safely parse JSON from AI response
+function extractJsonMovies(content) {
+  const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+  const rawJson = jsonMatch ? jsonMatch[1] : content;
+  const start = rawJson.indexOf('{');
+  const end = rawJson.lastIndexOf('}');
+  if (start !== -1 && end !== -1 && end > start) {
+    return JSON.parse(rawJson.substring(start, end + 1));
+  }
+  return JSON.parse(content);
+}
+
+// 4. Groq AI: Clean short snippet to extract movie title in batches with 7-tier fallback
 async function extractMovieTitleWithAIBatch(items) {
   if (items.length === 0) return [];
   if (!GROQ_API_KEY) {
-    return items.map(item => ({
-      title: item.title,
-      year: null,
-      language: null
-    }));
+    console.error('Fatal AI Failure: Missing GROQ_API_KEY environment variable');
+    process.exit(1);
   }
 
-  try {
-    const url = 'https://api.groq.com/openai/v1/chat/completions';
-    const payload = {
-      model: 'qwen/qwen3.6-27b',
-      messages: [
-        {
-          role: 'system',
-          content: 'You are an expert movie archivist. Given short YouTube video title snippets and hashtags from movie clips/shorts (e.g. "#billymadison", "#Vikram", "Billy tries to find out if his teacher is single"), identify and extract the official movie title (e.g. "Billy Madison"), release year (e.g. 1995), and original language ("en"). Suffixes like "scene", "funny clip", "4k", "status", "shorts" should be ignored. Return a valid JSON object with key "movies" matching the input array order:\n{\n  "movies": [\n    {"title": "Movie Name", "year": 1995, "language": "en"}\n  ]\n}'
-        },
-        {
-          role: 'user',
-          content: JSON.stringify(items.map(it => it.snippetText))
-        }
-      ],
-      temperature: 0.1,
-      response_format: { type: 'json_object' }
-    };
+  const url = 'https://api.groq.com/openai/v1/chat/completions';
+  let lastError = null;
 
-    const res = await makeRequest(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${GROQ_API_KEY}`
-      },
-      body: JSON.stringify(payload)
-    });
-
-    const content = res.choices[0].message.content.trim();
-    const parsed = JSON.parse(content);
-
-    return items.map((orig, index) => {
-      const resolved = parsed.movies && parsed.movies[index];
-      return {
-        title: resolved?.title || orig.title,
-        year: resolved?.year || null,
-        language: resolved?.language || null
+  for (let tier = 0; tier < GROQ_MODELS.length; tier++) {
+    const model = GROQ_MODELS[tier];
+    try {
+      console.log(`[AI Tier ${tier + 1}/${GROQ_MODELS.length}] Attempting short snippet extraction with model: ${model}`);
+      const payload = {
+        model,
+        messages: [
+          {
+            role: 'system',
+            content: 'You are an expert movie archivist. Given short YouTube video title snippets and hashtags from movie clips/shorts (e.g. "#billymadison", "#Vikram", "Billy tries to find out if his teacher is single"), identify and extract the official movie title (e.g. "Billy Madison"), release year (e.g. 1995), and original language ("en"). Suffixes like "scene", "funny clip", "4k", "status", "shorts" should be ignored. Return a valid JSON object with key "movies" matching the input array order:\n{\n  "movies": [\n    {"title": "Movie Name", "year": 1995, "language": "en"}\n  ]\n}'
+          },
+          {
+            role: 'user',
+            content: JSON.stringify(items.map(it => it.snippetText))
+          }
+        ],
+        temperature: 0.1,
+        response_format: { type: 'json_object' }
       };
-    });
-  } catch (err) {
-    console.warn(`Groq AI batch cleanup failed:`, err.message);
-    return items.map(item => ({
-      title: item.title,
-      year: null,
-      language: null
-    }));
+
+      const res = await makeRequest(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${GROQ_API_KEY}`
+        },
+        body: JSON.stringify(payload)
+      });
+
+      if (!res.choices || !res.choices[0] || !res.choices[0].message?.content) {
+        throw new Error(`Unexpected Groq AI response structure: ${JSON.stringify(res)}`);
+      }
+
+      const content = res.choices[0].message.content.trim();
+      const parsed = extractJsonMovies(content);
+
+      if (!parsed.movies || !Array.isArray(parsed.movies)) {
+        throw new Error(`Groq AI response missing 'movies' array: ${content}`);
+      }
+
+      console.log(`[AI Tier ${tier + 1}] Successfully extracted movie titles with ${model}`);
+      return items.map((orig, index) => {
+        const resolved = parsed.movies && parsed.movies[index];
+        return {
+          title: resolved?.title || orig.title,
+          year: resolved?.year || null,
+          language: resolved?.language || null
+        };
+      });
+    } catch (err) {
+      lastError = err;
+      console.warn(`[AI Tier ${tier + 1} Warning] Model ${model} failed (${err.message}). Trying next fallback model...`);
+      await new Promise(r => setTimeout(r, 1000));
+    }
   }
+
+  console.error(`Fatal AI Failure: All ${GROQ_MODELS.length} Groq models failed. Last error:`, lastError?.message);
+  process.exit(1);
 }
 
 // 5. TMDb API: Search movie metadata
@@ -437,4 +471,7 @@ async function syncReels() {
   console.log('=== YOUTUBE REELS SYNC COMPLETE ===');
 }
 
-syncReels();
+syncReels().catch(err => {
+  console.error('Fatal reels synchronization crash:', err);
+  process.exit(1);
+});

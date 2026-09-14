@@ -72,66 +72,98 @@ function parseDurationToSeconds(durationStr) {
   return hours * 3600 + minutes * 60 + seconds;
 }
 
-// 2. Groq AI: Clean YouTube titles in a single batch request
+const GROQ_MODELS = [
+  'openai/gpt-oss-120b',
+  'openai/gpt-oss-20b',
+  'qwen/qwen3.8-27b',
+  'qwen/qwen3.6-27b',
+  'openai/gpt-oss-safeguard-20b',
+  'groq/compound',
+  'allam-2-7b'
+];
+
+// Helper to safely parse JSON from AI response
+function extractJsonMovies(content) {
+  const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+  const rawJson = jsonMatch ? jsonMatch[1] : content;
+  const start = rawJson.indexOf('{');
+  const end = rawJson.lastIndexOf('}');
+  if (start !== -1 && end !== -1 && end > start) {
+    return JSON.parse(rawJson.substring(start, end + 1));
+  }
+  return JSON.parse(content);
+}
+
+// 2. Groq AI: Clean YouTube titles in a single batch request with 7-tier fallback
 async function cleanTitlesWithAIBatch(videoTitles) {
   if (videoTitles.length === 0) return [];
   if (!GROQ_API_KEY) {
-    return videoTitles.map(title => ({
-      originalTitle: title,
-      title: title,
-      year: null,
-      language: null
-    }));
+    console.error('Fatal AI Failure: Missing GROQ_API_KEY environment variable');
+    process.exit(1);
   }
 
-  try {
-    const url = 'https://api.groq.com/openai/v1/chat/completions';
-    const payload = {
-      model: 'llama-3.3-70b-versatile',
-      messages: [
-        {
-          role: 'system',
-          content: 'You are a professional movie archivist. Clean a list of YouTube video titles to extract the official movie title, release year, and original language. Suffixes like "Full Movie", "Action Film", "Free Movie", or actor names in parentheses should be stripped. Return a valid JSON object containing an array of objects under the key "movies" in the exact order of the input titles. Format:\n{\n  "movies": [\n    {"title": "Movie Name", "year": 2004, "language": "en"}\n  ]\n}'
-        },
-        {
-          role: 'user',
-          content: JSON.stringify(videoTitles)
-        }
-      ],
-      temperature: 0.1,
-      response_format: { type: 'json_object' }
-    };
+  const url = 'https://api.groq.com/openai/v1/chat/completions';
+  let lastError = null;
 
-    const res = await makeRequest(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${GROQ_API_KEY}`
-      },
-      body: JSON.stringify(payload)
-    });
-
-    const content = res.choices[0].message.content.trim();
-    const parsed = JSON.parse(content);
-
-    return videoTitles.map((original, index) => {
-      const resolved = parsed.movies && parsed.movies[index];
-      return {
-        originalTitle: original,
-        title: resolved ? resolved.title : original,
-        year: resolved ? resolved.year : null,
-        language: resolved ? resolved.language : null
+  for (let tier = 0; tier < GROQ_MODELS.length; tier++) {
+    const model = GROQ_MODELS[tier];
+    try {
+      console.log(`[AI Tier ${tier + 1}/${GROQ_MODELS.length}] Attempting title cleanup with model: ${model}`);
+      const payload = {
+        model,
+        messages: [
+          {
+            role: 'system',
+            content: 'You are a professional movie archivist. Clean a list of YouTube video titles to extract the official movie title, release year, and original language. Suffixes like "Full Movie", "Action Film", "Free Movie", or actor names in parentheses should be stripped. Return a valid JSON object containing an array of objects under the key "movies" in the exact order of the input titles. Format:\n{\n  "movies": [\n    {"title": "Movie Name", "year": 2004, "language": "en"}\n  ]\n}'
+          },
+          {
+            role: 'user',
+            content: JSON.stringify(videoTitles)
+          }
+        ],
+        temperature: 0.1,
+        response_format: { type: 'json_object' }
       };
-    });
-  } catch (err) {
-    console.warn(`Groq AI batch cleanup failed, falling back to original title:`, err.message);
-    return videoTitles.map(title => ({
-      originalTitle: title,
-      title: title,
-      year: null,
-      language: null
-    }));
+
+      const res = await makeRequest(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${GROQ_API_KEY}`
+        },
+        body: JSON.stringify(payload)
+      });
+
+      if (!res.choices || !res.choices[0] || !res.choices[0].message?.content) {
+        throw new Error(`Unexpected Groq AI response structure: ${JSON.stringify(res)}`);
+      }
+
+      const content = res.choices[0].message.content.trim();
+      const parsed = extractJsonMovies(content);
+
+      if (!parsed.movies || !Array.isArray(parsed.movies)) {
+        throw new Error(`Groq AI response missing 'movies' array: ${content}`);
+      }
+
+      console.log(`[AI Tier ${tier + 1}] Successfully cleaned titles with ${model}`);
+      return videoTitles.map((original, index) => {
+        const resolved = parsed.movies && parsed.movies[index];
+        return {
+          originalTitle: original,
+          title: resolved ? resolved.title : original,
+          year: resolved ? resolved.year : null,
+          language: resolved ? resolved.language : null
+        };
+      });
+    } catch (err) {
+      lastError = err;
+      console.warn(`[AI Tier ${tier + 1} Warning] Model ${model} failed (${err.message}). Trying next fallback model...`);
+      await new Promise(r => setTimeout(r, 1000));
+    }
   }
+
+  console.error(`Fatal AI Failure: All ${GROQ_MODELS.length} Groq models failed. Last error:`, lastError?.message);
+  process.exit(1);
 }
 
 // 3. TMDb API: Search movie by Title/Year
