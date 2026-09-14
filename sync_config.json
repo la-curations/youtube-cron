@@ -4,14 +4,14 @@
     "name": "The Cinematics Movies",
     "nextPageToken": "EAAaHlBUOkNESWlFRUkxUmpVMVFUUkRRVFl5TURoRVEwUQ",
     "isHistoryComplete": false,
-    "count": 40
+    "count": 48
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": "EAAaHlBUOkNESWlFRVkxTmpFeU5EQkdORU5HTmtaRVFUSQ",
     "isHistoryComplete": false,
-    "count": 204
+    "count": 208
   },
   {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
@@ -32,7 +32,7 @@
     "name": "The Midnight Screening",
     "nextPageToken": "EAAaHlBUOkNESWlFRVkyTWpaQlJUa3dNRVkyTVRZeU56RQ",
     "isHistoryComplete": false,
-    "count": 20
+    "count": 23
   },
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
@@ -72,15 +72,15 @@
   {
     "channelId": "UCBvbu_TLdWgOiPHd9yHoSng",
     "name": "StreamCore",
-    "nextPageToken": "EAAaHlBUOkNESWlFRFJFUkRVNE9VUkNOVVZHTnpjMk5VRQ",
+    "nextPageToken": "EAAaHlBUOkNHUWlFRVV5TlRBeE0wTkNOMEV5TlVZd09Uaw",
     "isHistoryComplete": false,
-    "count": 4
+    "count": 41
   },
   {
     "channelId": "UCOBMTKkkVlOi6-zCYg6R9zQ",
     "name": "THE MOVIE ZONE",
-    "nextPageToken": "EAAaHlBUOkNESWlFRUU0UkVVNVFqSTFOMEpDUkVFM09USQ",
-    "isHistoryComplete": false,
-    "count": 42
+    "nextPageToken": null,
+    "isHistoryComplete": true,
+    "count": 76
   }
 ]
