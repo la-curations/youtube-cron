@@ -166,49 +166,95 @@ async function cleanTitlesWithAIBatch(videoTitles) {
   process.exit(1);
 }
 
+// Helper to find the best TMDb match from search results
+function findBestTmdbMatch(results, title, year) {
+  if (!results || results.length === 0) return null;
+  const normalize = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '').trim();
+  const normTarget = normalize(title);
+
+  // 1. If year is provided, look for exact title match with that year
+  if (year) {
+    const yearMatch = results.find(m => {
+      const mYear = m.release_date ? m.release_date.split('-')[0] : '';
+      const mNormTitle = normalize(m.title);
+      const mNormOrig = normalize(m.original_title);
+      return (mNormTitle === normTarget || mNormOrig === normTarget) && mYear === String(year);
+    });
+    if (yearMatch) return yearMatch;
+  }
+
+  // 2. Look for exact title match (ignoring year)
+  const exactTitleMatch = results.find(m => {
+    const mNormTitle = normalize(m.title);
+    const mNormOrig = normalize(m.original_title);
+    return mNormTitle === normTarget || mNormOrig === normTarget;
+  });
+  if (exactTitleMatch) return exactTitleMatch;
+
+  // 3. If only 1 result returned by TMDb, accept it
+  if (results.length === 1) return results[0];
+
+  // 4. If the top result starts with or is very close to target title
+  const topResult = results[0];
+  const topNorm = normalize(topResult.title);
+  if (topNorm === normTarget || topNorm.startsWith(normTarget) || normTarget.startsWith(topNorm)) {
+    return topResult;
+  }
+  return null;
+}
+
 // 3. TMDb API: Search movie by Title/Year
 async function fetchTmdbMetadata(title, year, originalLang) {
   if (!TMDB_API_KEY) {
     throw new Error('Missing TMDB_API_KEY environment variable');
   }
 
+  const cleanTitle = title.replace(/[#@]/g, '').trim();
+
   try {
-    // Path B: Title-based search
+    // 1. Try with title + year (if provided)
     if (year) {
-      // 1. Try with name + year + lang
-      let url1 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}&primary_release_year=${year}`;
+      let url1 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}&primary_release_year=${year}`;
       if (originalLang) {
         url1 += `&language=${originalLang}`;
       }
       const res1 = await makeRequest(url1);
-      if (res1.results && res1.results.length > 0) {
-        return res1.results[0];
-      }
+      const match1 = findBestTmdbMatch(res1.results, cleanTitle, year);
+      if (match1) return match1;
 
-      // 2. Try with name + year (ignoring lang)
-      const url2 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}&primary_release_year=${year}`;
-      const res2 = await makeRequest(url2);
-      if (res2.results && res2.results.length > 0) {
-        return res2.results[0];
-      }
-
-      // 3. Try name only. If results has exactly one row, take it; otherwise skip.
-      const url3 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
-      const res3 = await makeRequest(url3);
-      if (res3.results && res3.results.length === 1) {
-        return res3.results[0];
-      }
-    } else {
-      // AI has no year
-      // 1. Try name and lang (if present). If results has exactly one row, take it; otherwise skip.
-      let url1 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`;
+      // Try without language
       if (originalLang) {
-        url1 += `&language=${originalLang}`;
+        const url2 = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}&primary_release_year=${year}`;
+        const res2 = await makeRequest(url2);
+        const match2 = findBestTmdbMatch(res2.results, cleanTitle, year);
+        if (match2) return match2;
       }
-      const res1 = await makeRequest(url1);
-      if (res1.results && res1.results.length === 1) {
-        return res1.results[0];
-      }
+    }
+
+    // 2. Fallback to title-only search (catches movies where AI guessed wrong release year)
+    let urlTitle = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}`;
+    if (originalLang) {
+      urlTitle += `&language=${originalLang}`;
+    }
+    const resTitle = await makeRequest(urlTitle);
+    const matchTitle = findBestTmdbMatch(resTitle.results, cleanTitle, year);
+    if (matchTitle) return matchTitle;
+
+    // Fallback title-only without language
+    if (originalLang) {
+      const urlTitleNoLang = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}`;
+      const resTitleNoLang = await makeRequest(urlTitleNoLang);
+      const matchNoLang = findBestTmdbMatch(resTitleNoLang.results, cleanTitle, year);
+      if (matchNoLang) return matchNoLang;
+    }
+
+    // 3. Try normalizing punctuation (e.g. "Hatton Garden: The Heist" -> "Hatton Garden The Heist")
+    if (cleanTitle.includes(':') || cleanTitle.includes(' - ')) {
+      const strippedTitle = cleanTitle.replace(/[:\-]/g, ' ').replace(/\s+/g, ' ').trim();
+      const urlStripped = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(strippedTitle)}`;
+      const resStripped = await makeRequest(urlStripped);
+      const matchStripped = findBestTmdbMatch(resStripped.results, cleanTitle, year);
+      if (matchStripped) return matchStripped;
     }
 
     return null;

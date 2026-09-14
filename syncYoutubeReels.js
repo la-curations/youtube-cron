@@ -238,6 +238,43 @@ async function extractMovieTitleWithAIBatch(items) {
   process.exit(1);
 }
 
+// Helper to find the best TMDb match from search results
+function findBestTmdbMatch(results, title, year) {
+  if (!results || results.length === 0) return null;
+  const normalize = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '').trim();
+  const normTarget = normalize(title);
+
+  // 1. If year is provided, look for exact title match with that year
+  if (year) {
+    const yearMatch = results.find(m => {
+      const mYear = m.release_date ? m.release_date.split('-')[0] : '';
+      const mNormTitle = normalize(m.title);
+      const mNormOrig = normalize(m.original_title);
+      return (mNormTitle === normTarget || mNormOrig === normTarget) && mYear === String(year);
+    });
+    if (yearMatch) return yearMatch;
+  }
+
+  // 2. Look for exact title match (ignoring year)
+  const exactTitleMatch = results.find(m => {
+    const mNormTitle = normalize(m.title);
+    const mNormOrig = normalize(m.original_title);
+    return mNormTitle === normTarget || mNormOrig === normTarget;
+  });
+  if (exactTitleMatch) return exactTitleMatch;
+
+  // 3. If only 1 result returned by TMDb, accept it
+  if (results.length === 1) return results[0];
+
+  // 4. If the top result starts with or is very close to target title
+  const topResult = results[0];
+  const topNorm = normalize(topResult.title);
+  if (topNorm === normTarget || topNorm.startsWith(normTarget) || normTarget.startsWith(topNorm)) {
+    return topResult;
+  }
+  return null;
+}
+
 // 5. TMDb API: Search movie metadata
 async function fetchTmdbMetadata(title, year, originalLang) {
   if (!TMDB_API_KEY || !title) return null;
@@ -252,9 +289,8 @@ async function fetchTmdbMetadata(title, year, originalLang) {
     let res = await makeRequest(url, {
       headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
     });
-    if (res.results && res.results.length > 0) {
-      return res.results[0];
-    }
+    const match1 = findBestTmdbMatch(res.results, cleanTitle, year);
+    if (match1) return match1;
 
     // Fallback without year or lang
     if (year || originalLang) {
@@ -262,10 +298,21 @@ async function fetchTmdbMetadata(title, year, originalLang) {
       res = await makeRequest(fallbackUrl, {
         headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
       });
-      if (res.results && res.results.length > 0) {
-        return res.results[0];
-      }
+      const match2 = findBestTmdbMatch(res.results, cleanTitle, year);
+      if (match2) return match2;
     }
+
+    // Fallback normalizing colons and dashes
+    if (cleanTitle.includes(':') || cleanTitle.includes(' - ')) {
+      const strippedTitle = cleanTitle.replace(/[:\-]/g, ' ').replace(/\s+/g, ' ').trim();
+      const strippedUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(strippedTitle)}`;
+      const strippedRes = await makeRequest(strippedUrl, {
+        headers: { 'Accept': 'application/json', 'User-Agent': 'Mozilla/5.0' }
+      });
+      const matchStripped = findBestTmdbMatch(strippedRes.results, cleanTitle, year);
+      if (matchStripped) return matchStripped;
+    }
+
     return null;
   } catch (err) {
     console.error(`TMDb lookup failed for "${title}":`, err.message);
