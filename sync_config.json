@@ -4,14 +4,14 @@
     "name": "The Cinematics Movies",
     "nextPageToken": "EAAaHlBUOkNESWlFRUkxUmpVMVFUUkRRVFl5TURoRVEwUQ",
     "isHistoryComplete": false,
-    "count": 48
+    "count": 49
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": "EAAaHlBUOkNESWlFRVkxTmpFeU5EQkdORU5HTmtaRVFUSQ",
     "isHistoryComplete": false,
-    "count": 208
+    "count": 209
   },
   {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
@@ -30,9 +30,9 @@
   {
     "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
     "name": "The Midnight Screening",
-    "nextPageToken": "EAAaHlBUOkNESWlFRVkyTWpaQlJUa3dNRVkyTVRZeU56RQ",
+    "nextPageToken": "EAAaHlBUOkNHUWlFRFE0UmpJeFJrWXdNa1F3TTBZM1FqVQ",
     "isHistoryComplete": false,
-    "count": 23
+    "count": 61
   },
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
@@ -46,14 +46,14 @@
     "name": "Movie Central",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 857
+    "count": 858
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
     "name": "FilmRise Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 156
+    "count": 157
   },
   {
     "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",
@@ -74,7 +74,7 @@
     "name": "StreamCore",
     "nextPageToken": "EAAaHlBUOkNHUWlFRVV5TlRBeE0wTkNOMEV5TlVZd09Uaw",
     "isHistoryComplete": false,
-    "count": 41
+    "count": 42
   },
   {
     "channelId": "UCOBMTKkkVlOi6-zCYg6R9zQ",
