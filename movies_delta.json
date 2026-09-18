@@ -1,5 +1,76 @@
 [
   {
+    "ytId": "PD53CnXUpnY",
+    "tmdbId": 516349,
+    "title": "Listen to Your Heart",
+    "poster_path": "/usMLWszhCWFcZg53gkMBaJMdSmQ.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10770
+    ],
+    "year": "1983",
+    "release_date": "1983-01-04",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-09-18",
+    "id": 2329
+  },
+  {
+    "ytId": "lfMMfbU2W50",
+    "tmdbId": 1361516,
+    "title": "Everything Happens at Once",
+    "poster_path": "/bY2efBr0WK0Aah9lXIIxdMfAmPh.jpg",
+    "genre_ids": [
+      878,
+      35
+    ],
+    "year": "2024",
+    "release_date": "2024-09-08",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-18",
+    "id": 2328
+  },
+  {
+    "ytId": "V3bNogj_QKk",
+    "tmdbId": 298263,
+    "title": "Ulterior Motives",
+    "poster_path": "/4cNRvk2QXiXmDN0IeCaawxlHixS.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "year": "1993",
+    "release_date": "1993-01-06",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-18",
+    "id": 2327
+  },
+  {
+    "ytId": "Ku6V5rk9DCk",
+    "tmdbId": 484638,
+    "title": "L'Intervention",
+    "poster_path": "/e7Nhv8nLTfX0osUU8BZLGCS8TUV.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      18,
+      36
+    ],
+    "year": "2019",
+    "release_date": "2019-01-30",
+    "rating": 6.789,
+    "original_language": "fr",
+    "channelName": "V Movies",
+    "addedAt": "2026-09-18",
+    "id": 2326
+  },
+  {
     "ytId": "FfKXGy07DIc",
     "tmdbId": 59961,
     "title": "Safe House",
@@ -2509,75 +2580,5 @@
     "channelName": "THE MOVIE ZONE",
     "addedAt": "2026-09-14",
     "id": 2180
-  },
-  {
-    "ytId": "brLhu42crpg",
-    "tmdbId": 1355019,
-    "title": "Stalkers",
-    "poster_path": "/iAZIBIK9T6O4nGib0kgs3Us3TMZ.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "year": "2025",
-    "release_date": "2025-08-11",
-    "rating": 5.25,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-14",
-    "id": 2179
-  },
-  {
-    "ytId": "nnTT7VQlUBQ",
-    "tmdbId": 700147,
-    "title": "Malachi's Cove",
-    "poster_path": "/xgIyOJBvhTnxMghME7U2vZuPZWW.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "1973",
-    "release_date": "1973-10-01",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-14",
-    "id": 2178
-  },
-  {
-    "ytId": "xdF7bUWNouE",
-    "tmdbId": 1201734,
-    "title": "Algea: God of Pain",
-    "poster_path": "/dF0FAFCfILaor5RBqdNHq24OaIn.jpg",
-    "genre_ids": [
-      27,
-      878,
-      53
-    ],
-    "year": "2024",
-    "release_date": "2024-08-20",
-    "rating": 6.641,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-14",
-    "id": 2177
-  },
-  {
-    "ytId": "0sUmi5Z1tKc",
-    "tmdbId": 1066383,
-    "title": "AMP House Massacre",
-    "poster_path": "/fItbeJ4usriWIYMugnxjUywlpBG.jpg",
-    "genre_ids": [
-      27,
-      53,
-      80,
-      9648
-    ],
-    "year": "2025",
-    "release_date": "2025-02-06",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-14",
-    "id": 2176
   }
 ]
