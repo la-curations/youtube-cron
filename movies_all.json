@@ -1,5 +1,691 @@
 [
   {
+    "ytId": "OR8keG3OEPg",
+    "tmdbId": 73416,
+    "title": "A Bear Named Winnie",
+    "poster_path": "/5AM32ouIdUFTk2NzyuKTEM5k3Oq.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10770
+    ],
+    "year": "2004",
+    "release_date": "2004-12-12",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-09-22",
+    "id": 2419
+  },
+  {
+    "ytId": "0tgCPyJYcns",
+    "tmdbId": 53502,
+    "title": "The Dead Undead",
+    "poster_path": "/hnRcpyyhjhjBrS5KVGXM2SA1Dz3.jpg",
+    "genre_ids": [
+      27,
+      878,
+      28
+    ],
+    "year": "2010",
+    "release_date": "2010-05-13",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2418
+  },
+  {
+    "ytId": "Zsl2uwH-S74",
+    "tmdbId": 76395,
+    "title": "The Soldier",
+    "poster_path": "/1aIohAxW05nOL6PXh05dCDgLFeS.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "1982",
+    "release_date": "1982-06-01",
+    "rating": 5.31,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2417
+  },
+  {
+    "ytId": "PA9ne2L8n1o",
+    "tmdbId": 857583,
+    "title": "Zone Drifter",
+    "poster_path": "/eqSfH3potDDnkWNjIBTR8P0BkKK.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2021",
+    "release_date": "2021-08-02",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2416
+  },
+  {
+    "ytId": "dcehy7sj2-k",
+    "tmdbId": 784217,
+    "title": "Damon's Revenge",
+    "poster_path": "/nxyLUqInaG4z89hPspLvbTNv0ay.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "year": "2022",
+    "release_date": "2022-01-28",
+    "rating": 3.583,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2415
+  },
+  {
+    "ytId": "pWdwxyBybqg",
+    "tmdbId": 84032,
+    "title": "Hatred",
+    "poster_path": "/sOoYRj4UmIIcn9DEh5nQC3L2awF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "1938",
+    "release_date": "1938-01-26",
+    "rating": 7.3,
+    "original_language": "fr",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2414
+  },
+  {
+    "ytId": "8UJUESkFJCE",
+    "tmdbId": 1048432,
+    "title": "The Killing of Billy the Kid",
+    "poster_path": "/lBcKLonYCdiN57zltS0qiSbW26M.jpg",
+    "genre_ids": [
+      37
+    ],
+    "year": "2023",
+    "release_date": "2023-08-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2413
+  },
+  {
+    "ytId": "xtd4VSowu6I",
+    "tmdbId": 1248753,
+    "title": "Amber Alert",
+    "poster_path": "/vkrmJ2fStfnvsLfBw55nimnjcd5.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-09-27",
+    "rating": 7.13,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2412
+  },
+  {
+    "ytId": "DMfTvmpWnTE",
+    "tmdbId": 286548,
+    "title": "Tekken 2: Kazuya's Revenge",
+    "poster_path": "/5e3b7xHJhpzl1p49JclT03VQVgU.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2014",
+    "release_date": "2014-08-21",
+    "rating": 3.946,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2411
+  },
+  {
+    "ytId": "rj-XpaxQns8",
+    "tmdbId": 363480,
+    "title": "Christmas Incorporated",
+    "poster_path": "/4niQ2AEHm0fRSSKALjvWdNkwOGA.jpg",
+    "genre_ids": [
+      10770,
+      18
+    ],
+    "year": "2015",
+    "release_date": "2015-11-15",
+    "rating": 6.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2410
+  },
+  {
+    "ytId": "6OrpXbJdy14",
+    "tmdbId": 550079,
+    "title": "Northern Lights of Christmas",
+    "poster_path": "/67QB6sqUxhV5lhuF6zIdYcNPYSF.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10770
+    ],
+    "year": "2018",
+    "release_date": "2018-12-15",
+    "rating": 6.366,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2409
+  },
+  {
+    "ytId": "BHPaUT2hSKU",
+    "tmdbId": 1033931,
+    "title": "Sunfall",
+    "poster_path": "/6IKCAmqvbEMtytiysDNm5rJIzk4.jpg",
+    "genre_ids": [
+      9648,
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-10-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2408
+  },
+  {
+    "ytId": "RnlZl0P5_Ws",
+    "tmdbId": 626309,
+    "title": "Christmas at Dollywood",
+    "poster_path": "/wJS8MfxkzdjjfCweZUKdlXKZamr.jpg",
+    "genre_ids": [
+      10770,
+      10749
+    ],
+    "year": "2019",
+    "release_date": "2019-12-08",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2407
+  },
+  {
+    "ytId": "FatAV1L6Wgo",
+    "tmdbId": 986212,
+    "title": "A Fargo Christmas Story",
+    "poster_path": "/mrbLgsPGe8vWmvNsg7bGPADVrKU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-12-02",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2406
+  },
+  {
+    "ytId": "9QB2GjHg0Tw",
+    "tmdbId": 257448,
+    "title": "Last Flight",
+    "poster_path": "/8OHvc0ReLTJAlnnl3UkeuIzPJDg.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-03-21",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2405
+  },
+  {
+    "ytId": "4Z9xQDqX9e0",
+    "tmdbId": 120092,
+    "title": "True Bloodthirst",
+    "poster_path": "/c3pSgFaG5yv4tbSb0kDmb0N1sjQ.jpg",
+    "genre_ids": [
+      10770,
+      878
+    ],
+    "year": "2012",
+    "release_date": "2012-07-14",
+    "rating": 4.8,
+    "original_language": "ko",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2404
+  },
+  {
+    "ytId": "rsvGs96-ddo",
+    "tmdbId": 1208138,
+    "title": "Tsunami Sharks",
+    "poster_path": "/yRJiPPoF8cMz0OnkzzDOhBsqr4F.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-10-08",
+    "rating": 1.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2403
+  },
+  {
+    "ytId": "D4HPWewW6jg",
+    "tmdbId": 301300,
+    "title": "The Death and Life of Nancy Eaton",
+    "poster_path": "/fvHz9F7zVP89CdZKNjroHcNDyyz.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2003",
+    "release_date": "2003-01-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2402
+  },
+  {
+    "ytId": "8nafX0dupow",
+    "tmdbId": 163062,
+    "title": "Lies and Deception",
+    "poster_path": "/2QLjnBtAvvf5ABbLKvmjSqv511R.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10770
+    ],
+    "year": "2005",
+    "release_date": "2005-04-24",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2401
+  },
+  {
+    "ytId": "esKGH-ThwYg",
+    "tmdbId": 57740,
+    "title": "Flirting with Danger",
+    "poster_path": "/jHITeVS7rpZPgVueojVQqAuIWyf.jpg",
+    "genre_ids": [
+      9648,
+      10770,
+      18,
+      53
+    ],
+    "year": "2006",
+    "release_date": "2006-02-13",
+    "rating": 4.294,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2400
+  },
+  {
+    "ytId": "QEdJmkXQ7k4",
+    "tmdbId": 832601,
+    "title": "The Andy Baker Tape",
+    "poster_path": "/cARzESUwjGur9LBXzKQ74Pbjhjk.jpg",
+    "genre_ids": [
+      35,
+      53,
+      27
+    ],
+    "year": "2022",
+    "release_date": "2022-08-12",
+    "rating": 5.173,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2399
+  },
+  {
+    "ytId": "WuGAw0cYHL4",
+    "tmdbId": 53070,
+    "title": "Lightning Strikes",
+    "poster_path": "/qpOnhaGCY9uyolbrud5ZjsxhKnG.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2009",
+    "release_date": "2009-09-12",
+    "rating": 4.54,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2398
+  },
+  {
+    "ytId": "z8VMcIzu-IM",
+    "tmdbId": 210471,
+    "title": "Monkey Puzzle",
+    "poster_path": "/teN4ptX5tYM4gJJbWXgnMFPArep.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2008",
+    "release_date": "2008-10-22",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2397
+  },
+  {
+    "ytId": "7Z1XDY__-LE",
+    "tmdbId": 563801,
+    "title": "The Perfect Day",
+    "poster_path": "/4OdrcrYhH18iw9ly9AbA9pKewPy.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-03-01",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2396
+  },
+  {
+    "ytId": "nt8XYemoGLE",
+    "tmdbId": 103707,
+    "title": "Afghan Luke",
+    "poster_path": "/d5MJQNy4TxvybZcQAlrPxgdDbXR.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2011",
+    "release_date": "2011-09-23",
+    "rating": 5.167,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2395
+  },
+  {
+    "ytId": "pyGDAfAZPEs",
+    "tmdbId": 135579,
+    "title": "Dead Before Dawn",
+    "poster_path": "/5eg33AUKUsnGuX5LCe1OMTSJdIC.jpg",
+    "genre_ids": [
+      12,
+      35,
+      27
+    ],
+    "year": "2012",
+    "release_date": "2012-10-10",
+    "rating": 5.206,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2394
+  },
+  {
+    "ytId": "T16Agky3he4",
+    "tmdbId": 1477431,
+    "title": "Time of Death",
+    "poster_path": "/gDbKETTKi8te7TiE0k6FfqAoSvR.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2025",
+    "release_date": "2025-08-08",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2393
+  },
+  {
+    "ytId": "ValU7jBozRs",
+    "tmdbId": 957482,
+    "title": "Escape Through Africa",
+    "poster_path": "/3h3p8Dts9SxDDsUyEtamLGRPxAe.jpg",
+    "genre_ids": [
+      12
+    ],
+    "year": "2022",
+    "release_date": "2022-03-28",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2392
+  },
+  {
+    "ytId": "CjXh4zsoZ5s",
+    "tmdbId": 152545,
+    "title": "Final Verdict",
+    "poster_path": "/mOhaZL9WBZhgkirAPwrp6IUokpy.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      10770
+    ],
+    "year": "2009",
+    "release_date": "2009-02-01",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2391
+  },
+  {
+    "ytId": "A4TOCovyckQ",
+    "tmdbId": 62219,
+    "title": "The 5th Execution",
+    "poster_path": "/w7SX5O7RPwmTAgSwiOPTYMPZMWT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "year": "2011",
+    "release_date": "2011-03-24",
+    "rating": 3.7,
+    "original_language": "ru",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2390
+  },
+  {
+    "ytId": "F1DepxHwd8U",
+    "tmdbId": 710309,
+    "title": "Burial Ground Massacre",
+    "poster_path": "/3Uc7SOQSykREi7BSeSONVUGhp8V.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-09-03",
+    "rating": 2.346,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2389
+  },
+  {
+    "ytId": "SXBHsoWAY88",
+    "tmdbId": 37682,
+    "title": "Web of Lies",
+    "poster_path": "/pIuzyNyE6uZPvIUDrjdDJRfb6Mf.jpg",
+    "genre_ids": [
+      10770,
+      80,
+      9648,
+      53
+    ],
+    "year": "2010",
+    "release_date": "2010-03-10",
+    "rating": 4.594,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2388
+  },
+  {
+    "ytId": "-agzY_WCFxk",
+    "tmdbId": 301062,
+    "title": "Pirates of Somalia",
+    "poster_path": null,
+    "genre_ids": [
+      99
+    ],
+    "year": "2011",
+    "release_date": "2011-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2387
+  },
+  {
+    "ytId": "R1lRb1-zWbo",
+    "tmdbId": 86743,
+    "title": "Death Game",
+    "poster_path": "/a4emMnKA9b9RjDgOeMKvVRBmXAT.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "1977",
+    "release_date": "1977-05-01",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2386
+  },
+  {
+    "ytId": "TItzUxzWBAY",
+    "tmdbId": 120409,
+    "title": "Crisis Point",
+    "poster_path": "/89DIXcmUviMsbhBvCS8FL75Qlc9.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-06-03",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2385
+  },
+  {
+    "ytId": "0wfYAnFg5EY",
+    "tmdbId": 776305,
+    "title": "Belle",
+    "poster_path": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+    "genre_ids": [
+      16,
+      878,
+      18,
+      10402
+    ],
+    "year": "2021",
+    "release_date": "2021-07-16",
+    "rating": 7.613,
+    "original_language": "ja",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2384
+  },
+  {
+    "ytId": "t9EmWFU2Xro",
+    "tmdbId": 213574,
+    "title": "Invasion Roswell",
+    "poster_path": "/lzVJZgHHDD8nfqiuwKTq8Srb7IW.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2013",
+    "release_date": "2013-08-07",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2383
+  },
+  {
+    "ytId": "t2tTknlT_To",
+    "tmdbId": 101420,
+    "title": "Burden of Evil",
+    "poster_path": "/nl0RcGYQCszz8GL1FmIQNNTQyLg.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2012",
+    "release_date": "2012-04-22",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-22",
+    "id": 2382
+  },
+  {
+    "ytId": "ENw_x9M7nWQ",
+    "tmdbId": 541374,
+    "title": "Steel Arena",
+    "poster_path": "/zU74BYeixnj2rUMigz3ZqmpUp9N.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "1973",
+    "release_date": "1973-04-01",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-09-22",
+    "id": 2381
+  },
+  {
+    "ytId": "IByvGEYBcpU",
+    "tmdbId": 70114,
+    "title": "Mr. Murder",
+    "poster_path": "/dImAy74gSExrCLdC95WuRQHbLCW.jpg",
+    "genre_ids": [
+      878,
+      53,
+      10770
+    ],
+    "year": "1998",
+    "release_date": "1998-09-21",
+    "rating": 5.036,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-09-22",
+    "id": 2380
+  },
+  {
     "ytId": "7iCfbBJ97VY",
     "tmdbId": 11127,
     "title": "Starship Troopers 3: Marauder",

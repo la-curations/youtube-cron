@@ -4,14 +4,14 @@
     "name": "The Cinematics Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 76
+    "count": 77
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": "EAAaHlBUOkNHUWlFRU0zTlVaRVFqTXhORFJGT1RZME5EUQ",
     "isHistoryComplete": false,
-    "count": 236
+    "count": 237
   },
   {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
@@ -30,9 +30,9 @@
   {
     "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
     "name": "The Midnight Screening",
-    "nextPageToken": "EAAaH1BUOkNQb0JJaEJDUTBZM05UUTROVU16UlRBME1EWTE",
+    "nextPageToken": "EAAaH1BUOkNLd0NJaEJHUmpGQlJEVXpPREZCT1RkQ00wRTA",
     "isHistoryComplete": false,
-    "count": 141
+    "count": 178
   },
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
@@ -53,7 +53,7 @@
     "name": "FilmRise Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 159
+    "count": 160
   },
   {
     "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",
