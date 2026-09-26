@@ -1,5 +1,144 @@
 [
   {
+    "ytId": "w1k9TI-GRXs",
+    "tmdbId": 364708,
+    "title": "All American Bikini Car Wash",
+    "poster_path": "/yOcUeObxfwPRAxH0KghQ0O7eJd7.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2015",
+    "release_date": "2015-08-29",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-09-26",
+    "id": 2518
+  },
+  {
+    "ytId": "NexsYFtf6_c",
+    "tmdbId": 11557,
+    "title": "St. Elmo's Fire",
+    "poster_path": "/g2SL3XHJas7hebZ2hhTrYLpKToD.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "year": "1985",
+    "release_date": "1985-06-28",
+    "rating": 6.125,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-09-26",
+    "id": 2517
+  },
+  {
+    "ytId": "ZfgydRfWuo8",
+    "tmdbId": 793032,
+    "title": "கோப்ரா",
+    "poster_path": "/bIyWhW4fGipuQWQ6y9Uf8iaHtSr.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-08-31",
+    "rating": 5.607,
+    "original_language": "ta",
+    "channelName": "Sony LIV Tamil",
+    "addedAt": "2026-09-26",
+    "id": 2516
+  },
+  {
+    "ytId": "ML6maJQUpMA",
+    "tmdbId": 70111,
+    "title": "Shattered City: The Halifax Explosion",
+    "poster_path": "/o0I35tv3xnLPHpcslkUYbHRL1Gj.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "year": "2003",
+    "release_date": "2003-10-26",
+    "rating": 5.75,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-09-26",
+    "id": 2515
+  },
+  {
+    "ytId": "0R9CbeejxhU",
+    "tmdbId": 1102607,
+    "title": "Shadow of Vengeance",
+    "poster_path": "/qG0ianG2hTkR0ZuEiCnEySBTXrC.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-04-30",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-26",
+    "id": 2514
+  },
+  {
+    "ytId": "sAWwZpVLc-E",
+    "tmdbId": 345918,
+    "title": "Come and Find Me",
+    "poster_path": "/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "year": "2016",
+    "release_date": "2016-11-11",
+    "rating": 5.56,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-26",
+    "id": 2513
+  },
+  {
+    "ytId": "CVNCZKKkuLk",
+    "tmdbId": 567139,
+    "title": "The Confederate",
+    "poster_path": "/1AkexZWi3gmRnvZXggXOam3VGHr.jpg",
+    "genre_ids": [
+      28,
+      36,
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-12-04",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-09-26",
+    "id": 2512
+  },
+  {
+    "ytId": "H5FLywjwW4g",
+    "tmdbId": 282821,
+    "title": "Miracle in the Woods",
+    "poster_path": "/rHStW1AAacfEZNgWQBvagft0XZG.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-10-26",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-09-26",
+    "id": 2511
+  },
+  {
     "ytId": "1ZUaZeKYSHw",
     "tmdbId": 293941,
     "title": "The Quiet Hour",

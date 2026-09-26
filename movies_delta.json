@@ -1,5 +1,144 @@
 [
   {
+    "ytId": "w1k9TI-GRXs",
+    "tmdbId": 364708,
+    "title": "All American Bikini Car Wash",
+    "poster_path": "/yOcUeObxfwPRAxH0KghQ0O7eJd7.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2015",
+    "release_date": "2015-08-29",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-09-26",
+    "id": 2518
+  },
+  {
+    "ytId": "NexsYFtf6_c",
+    "tmdbId": 11557,
+    "title": "St. Elmo's Fire",
+    "poster_path": "/g2SL3XHJas7hebZ2hhTrYLpKToD.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "year": "1985",
+    "release_date": "1985-06-28",
+    "rating": 6.125,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-09-26",
+    "id": 2517
+  },
+  {
+    "ytId": "ZfgydRfWuo8",
+    "tmdbId": 793032,
+    "title": "கோப்ரா",
+    "poster_path": "/bIyWhW4fGipuQWQ6y9Uf8iaHtSr.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-08-31",
+    "rating": 5.607,
+    "original_language": "ta",
+    "channelName": "Sony LIV Tamil",
+    "addedAt": "2026-09-26",
+    "id": 2516
+  },
+  {
+    "ytId": "ML6maJQUpMA",
+    "tmdbId": 70111,
+    "title": "Shattered City: The Halifax Explosion",
+    "poster_path": "/o0I35tv3xnLPHpcslkUYbHRL1Gj.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "year": "2003",
+    "release_date": "2003-10-26",
+    "rating": 5.75,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-09-26",
+    "id": 2515
+  },
+  {
+    "ytId": "0R9CbeejxhU",
+    "tmdbId": 1102607,
+    "title": "Shadow of Vengeance",
+    "poster_path": "/qG0ianG2hTkR0ZuEiCnEySBTXrC.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-04-30",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-26",
+    "id": 2514
+  },
+  {
+    "ytId": "sAWwZpVLc-E",
+    "tmdbId": 345918,
+    "title": "Come and Find Me",
+    "poster_path": "/iU5HQB70sL5nsa4JJuPplgqsFjk.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "year": "2016",
+    "release_date": "2016-11-11",
+    "rating": 5.56,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-09-26",
+    "id": 2513
+  },
+  {
+    "ytId": "CVNCZKKkuLk",
+    "tmdbId": 567139,
+    "title": "The Confederate",
+    "poster_path": "/1AkexZWi3gmRnvZXggXOam3VGHr.jpg",
+    "genre_ids": [
+      28,
+      36,
+      10752
+    ],
+    "year": "2018",
+    "release_date": "2018-12-04",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-09-26",
+    "id": 2512
+  },
+  {
+    "ytId": "H5FLywjwW4g",
+    "tmdbId": 282821,
+    "title": "Miracle in the Woods",
+    "poster_path": "/rHStW1AAacfEZNgWQBvagft0XZG.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "1997",
+    "release_date": "1997-10-26",
+    "rating": 6.8,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-09-26",
+    "id": 2511
+  },
+  {
     "ytId": "1ZUaZeKYSHw",
     "tmdbId": 293941,
     "title": "The Quiet Hour",
@@ -2436,140 +2575,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-20",
     "id": 2369
-  },
-  {
-    "ytId": "OSaKEiaN2O8",
-    "tmdbId": 630305,
-    "title": "All at Sea",
-    "poster_path": "/ijWF3XipbhvjstQ768sU0G0blsp.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "year": "2012",
-    "release_date": "2012-05-25",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-19",
-    "id": 2368
-  },
-  {
-    "ytId": "wbm3hn59i6Y",
-    "tmdbId": 1032553,
-    "title": "ஃபர்ஹானா",
-    "poster_path": "/pLjgNPF9d78ifCuaY7zb9Xxd9oc.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "year": "2023",
-    "release_date": "2023-05-12",
-    "rating": 5.571,
-    "original_language": "ta",
-    "channelName": "Sony LIV Tamil",
-    "addedAt": "2026-09-19",
-    "id": 2367
-  },
-  {
-    "ytId": "_AlhOE9iSdc",
-    "tmdbId": 135787,
-    "title": "The Silver Screen: Color Me Lavender",
-    "poster_path": "/s1TjxmFqj63rhvXq9zR4oo8UKXj.jpg",
-    "genre_ids": [
-      36,
-      99
-    ],
-    "year": "1997",
-    "release_date": "1997-11-01",
-    "rating": 5.267,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-09-19",
-    "id": 2366
-  },
-  {
-    "ytId": "Bpk3OdbY0S0",
-    "tmdbId": 1397117,
-    "title": "A Brooklyn Love Story",
-    "poster_path": "/uDSGrqDSkdY4PTfboJ4pS3tLqxa.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2024",
-    "release_date": "2024-12-13",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-19",
-    "id": 2365
-  },
-  {
-    "ytId": "fgh6hwePWfY",
-    "tmdbId": 121244,
-    "title": "Unstable",
-    "poster_path": "/i5gkAyaGU6EMEqfxuN2sLyQ7gAE.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2012",
-    "release_date": "2012-07-07",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-19",
-    "id": 2364
-  },
-  {
-    "ytId": "_ZFcz-9KZ1I",
-    "tmdbId": 770262,
-    "title": "Woman in the Woods",
-    "poster_path": "/ep6Jf7DQrzki6dY13TNXxSMsqX6.jpg",
-    "genre_ids": [
-      12,
-      14,
-      28
-    ],
-    "year": "2021",
-    "release_date": "2021-04-23",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-19",
-    "id": 2363
-  },
-  {
-    "ytId": "_ZC5FnUkp9w",
-    "tmdbId": 795487,
-    "title": "Norman",
-    "poster_path": "/bWXEf9JQzX13t114z8RnvJpLq0l.jpg",
-    "genre_ids": [
-      16,
-      878
-    ],
-    "year": "1968",
-    "release_date": "1968-07-01",
-    "rating": null,
-    "original_language": "ja",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-19",
-    "id": 2362
-  },
-  {
-    "ytId": "2Yuw8CtP3qU",
-    "tmdbId": 106290,
-    "title": "Heaven, Hell",
-    "poster_path": "/aa7ApzSXAbVtgliNaWsAAYD3Yzo.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2010",
-    "release_date": "2010-08-12",
-    "rating": 1,
-    "original_language": "cs",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-19",
-    "id": 2361
   }
 ]
