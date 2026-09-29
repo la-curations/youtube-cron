@@ -1,5 +1,39 @@
 [
   {
+    "ytId": "FKpj6qo5XSI",
+    "tmdbId": 949838,
+    "title": "72 HOURS",
+    "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-07-20",
+    "rating": 6.74,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-09-29",
+    "id": 2524
+  },
+  {
+    "ytId": "ZP4-KlfRWZY",
+    "tmdbId": 1523553,
+    "title": "Dark Horse",
+    "poster_path": "/jBK8cQzKLDaeqZKftB4SHFrpYco.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-11-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-09-29",
+    "id": 2523
+  },
+  {
     "ytId": "7EyYm2MRq30",
     "tmdbId": 582465,
     "title": "நடுவன்",

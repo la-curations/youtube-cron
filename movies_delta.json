@@ -1,5 +1,39 @@
 [
   {
+    "ytId": "FKpj6qo5XSI",
+    "tmdbId": 949838,
+    "title": "72 HOURS",
+    "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-07-20",
+    "rating": 6.74,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-09-29",
+    "id": 2524
+  },
+  {
+    "ytId": "ZP4-KlfRWZY",
+    "tmdbId": 1523553,
+    "title": "Dark Horse",
+    "poster_path": "/jBK8cQzKLDaeqZKftB4SHFrpYco.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-11-19",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-09-29",
+    "id": 2523
+  },
+  {
     "ytId": "7EyYm2MRq30",
     "tmdbId": 582465,
     "title": "நடுவன்",
@@ -2538,41 +2572,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-09-21",
     "id": 2375
-  },
-  {
-    "ytId": "I5cXYHAnOo8",
-    "tmdbId": 301816,
-    "title": "Christmas Icetastrophe",
-    "poster_path": "/vVmKjZLrLKBiAklTbkVzVbPc4SW.jpg",
-    "genre_ids": [
-      18,
-      878,
-      10770
-    ],
-    "year": "2014",
-    "release_date": "2014-12-20",
-    "rating": 5.345,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-21",
-    "id": 2374
-  },
-  {
-    "ytId": "PIBXYjCYxKc",
-    "tmdbId": 339533,
-    "title": "San Andreas Quake",
-    "poster_path": "/4dx0K5ZbdhQDfcyBqqHJFH1OW71.jpg",
-    "genre_ids": [
-      28,
-      878,
-      10770
-    ],
-    "year": "2015",
-    "release_date": "2015-05-19",
-    "rating": 4.255,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-21",
-    "id": 2373
   }
 ]
