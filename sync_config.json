@@ -18,7 +18,7 @@
     "name": "Sci-Fi Central",
     "nextPageToken": "EAAaH1BUOkNQUURJaEExTVRaQlFqVTNSRVk1TmpBd05UUkQ",
     "isHistoryComplete": false,
-    "count": 115
+    "count": 121
   },
   {
     "channelId": "UC_MyK1SmeN2Sji4uBEckYaA",
@@ -46,7 +46,7 @@
     "name": "Movie Central",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 872
+    "count": 875
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
@@ -81,6 +81,6 @@
     "name": "THE MOVIE ZONE",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 80
+    "count": 81
   }
 ]

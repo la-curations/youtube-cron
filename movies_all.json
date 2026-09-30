@@ -1,5 +1,171 @@
 [
   {
+    "ytId": "qgqHAmHEFc0",
+    "tmdbId": 925844,
+    "title": "Good Life",
+    "poster_path": "/poMmyiTgwZ1oZrGUxU3fT9c8Wwb.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2022",
+    "release_date": "2022-01-28",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-09-30",
+    "id": 2534
+  },
+  {
+    "ytId": "M2_LpZyq94g",
+    "tmdbId": 442965,
+    "title": "Ultra Low",
+    "poster_path": "/cdlKZEFYRF2ZBvb0WzTpXbAVofd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-04-28",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2533
+  },
+  {
+    "ytId": "BummsV240Sg",
+    "tmdbId": 1342121,
+    "title": "Bright Sky",
+    "poster_path": "/e0tgkfpjSWFsrMKvweEuDMO1aBq.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2025",
+    "release_date": "2025-02-07",
+    "rating": 2.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2532
+  },
+  {
+    "ytId": "A4rgRr_T4Ow",
+    "tmdbId": 1517162,
+    "title": "Broken Church",
+    "poster_path": "/dislfjEbXBiiVWLVvYcOgUYs0R0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2025",
+    "release_date": "2025-07-21",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2531
+  },
+  {
+    "ytId": "hQR-mj0EUtc",
+    "tmdbId": 580102,
+    "title": "Time Thieves",
+    "poster_path": "/9LSUB0LJeRwfBa9sNQD5A5mcDwD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2018",
+    "release_date": "2018-10-02",
+    "rating": 7.8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2530
+  },
+  {
+    "ytId": "0g03T1NfXu0",
+    "tmdbId": 1477826,
+    "title": "Primal Games",
+    "poster_path": "/63t1LQYUsDikZI2MYYr9pVBSoSJ.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-05-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2529
+  },
+  {
+    "ytId": "V3XT3LGhdiI",
+    "tmdbId": 1577040,
+    "title": "Sawtooth Mountain",
+    "poster_path": "/b79h209IZ9gAouKRnXy968paXiP.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-08-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2528
+  },
+  {
+    "ytId": "VNcnDiBIOio",
+    "tmdbId": 1208134,
+    "title": "Aliens Return",
+    "poster_path": "/a3CWy64JncY11NUBTzLReXtwK4A.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-11-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2527
+  },
+  {
+    "ytId": "CtmNAlHxjUw",
+    "tmdbId": 1254732,
+    "title": "Rewind or Die",
+    "poster_path": "/2roOGEP1JrZGLe5DDMRt8vbyHCL.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2023",
+    "release_date": "2023-12-08",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2526
+  },
+  {
+    "ytId": "emkXlD1M0E8",
+    "tmdbId": 1353228,
+    "title": "SYNC",
+    "poster_path": "/mR6nFWfBk9o9vlcKEWyieik5jqw.jpg",
+    "genre_ids": [
+      878,
+      53,
+      10749
+    ],
+    "year": "2026",
+    "release_date": "2026-06-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2525
+  },
+  {
     "ytId": "FKpj6qo5XSI",
     "tmdbId": 949838,
     "title": "72 HOURS",

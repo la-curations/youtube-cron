@@ -1,5 +1,171 @@
 [
   {
+    "ytId": "qgqHAmHEFc0",
+    "tmdbId": 925844,
+    "title": "Good Life",
+    "poster_path": "/poMmyiTgwZ1oZrGUxU3fT9c8Wwb.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2022",
+    "release_date": "2022-01-28",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-09-30",
+    "id": 2534
+  },
+  {
+    "ytId": "M2_LpZyq94g",
+    "tmdbId": 442965,
+    "title": "Ultra Low",
+    "poster_path": "/cdlKZEFYRF2ZBvb0WzTpXbAVofd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-04-28",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2533
+  },
+  {
+    "ytId": "BummsV240Sg",
+    "tmdbId": 1342121,
+    "title": "Bright Sky",
+    "poster_path": "/e0tgkfpjSWFsrMKvweEuDMO1aBq.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "2025",
+    "release_date": "2025-02-07",
+    "rating": 2.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2532
+  },
+  {
+    "ytId": "A4rgRr_T4Ow",
+    "tmdbId": 1517162,
+    "title": "Broken Church",
+    "poster_path": "/dislfjEbXBiiVWLVvYcOgUYs0R0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2025",
+    "release_date": "2025-07-21",
+    "rating": 7,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-09-30",
+    "id": 2531
+  },
+  {
+    "ytId": "hQR-mj0EUtc",
+    "tmdbId": 580102,
+    "title": "Time Thieves",
+    "poster_path": "/9LSUB0LJeRwfBa9sNQD5A5mcDwD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "2018",
+    "release_date": "2018-10-02",
+    "rating": 7.8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2530
+  },
+  {
+    "ytId": "0g03T1NfXu0",
+    "tmdbId": 1477826,
+    "title": "Primal Games",
+    "poster_path": "/63t1LQYUsDikZI2MYYr9pVBSoSJ.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2025",
+    "release_date": "2025-05-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2529
+  },
+  {
+    "ytId": "V3XT3LGhdiI",
+    "tmdbId": 1577040,
+    "title": "Sawtooth Mountain",
+    "poster_path": "/b79h209IZ9gAouKRnXy968paXiP.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-08-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2528
+  },
+  {
+    "ytId": "VNcnDiBIOio",
+    "tmdbId": 1208134,
+    "title": "Aliens Return",
+    "poster_path": "/a3CWy64JncY11NUBTzLReXtwK4A.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-11-22",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2527
+  },
+  {
+    "ytId": "CtmNAlHxjUw",
+    "tmdbId": 1254732,
+    "title": "Rewind or Die",
+    "poster_path": "/2roOGEP1JrZGLe5DDMRt8vbyHCL.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2023",
+    "release_date": "2023-12-08",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2526
+  },
+  {
+    "ytId": "emkXlD1M0E8",
+    "tmdbId": 1353228,
+    "title": "SYNC",
+    "poster_path": "/mR6nFWfBk9o9vlcKEWyieik5jqw.jpg",
+    "genre_ids": [
+      878,
+      53,
+      10749
+    ],
+    "year": "2026",
+    "release_date": "2026-06-27",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-09-30",
+    "id": 2525
+  },
+  {
     "ytId": "FKpj6qo5XSI",
     "tmdbId": 949838,
     "title": "72 HOURS",
@@ -2402,175 +2568,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-22",
     "id": 2385
-  },
-  {
-    "ytId": "0wfYAnFg5EY",
-    "tmdbId": 776305,
-    "title": "Belle",
-    "poster_path": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
-    "genre_ids": [
-      16,
-      878,
-      18,
-      10402
-    ],
-    "year": "2021",
-    "release_date": "2021-07-16",
-    "rating": 7.613,
-    "original_language": "ja",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-22",
-    "id": 2384
-  },
-  {
-    "ytId": "t9EmWFU2Xro",
-    "tmdbId": 213574,
-    "title": "Invasion Roswell",
-    "poster_path": "/lzVJZgHHDD8nfqiuwKTq8Srb7IW.jpg",
-    "genre_ids": [
-      878,
-      28
-    ],
-    "year": "2013",
-    "release_date": "2013-08-07",
-    "rating": 3.5,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-22",
-    "id": 2383
-  },
-  {
-    "ytId": "t2tTknlT_To",
-    "tmdbId": 101420,
-    "title": "Burden of Evil",
-    "poster_path": "/nl0RcGYQCszz8GL1FmIQNNTQyLg.jpg",
-    "genre_ids": [
-      53,
-      10770
-    ],
-    "year": "2012",
-    "release_date": "2012-04-22",
-    "rating": 5.3,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-22",
-    "id": 2382
-  },
-  {
-    "ytId": "ENw_x9M7nWQ",
-    "tmdbId": 541374,
-    "title": "Steel Arena",
-    "poster_path": "/zU74BYeixnj2rUMigz3ZqmpUp9N.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "year": "1973",
-    "release_date": "1973-04-01",
-    "rating": 5.5,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-22",
-    "id": 2381
-  },
-  {
-    "ytId": "IByvGEYBcpU",
-    "tmdbId": 70114,
-    "title": "Mr. Murder",
-    "poster_path": "/dImAy74gSExrCLdC95WuRQHbLCW.jpg",
-    "genre_ids": [
-      878,
-      53,
-      10770
-    ],
-    "year": "1998",
-    "release_date": "1998-09-21",
-    "rating": 5.036,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-09-22",
-    "id": 2380
-  },
-  {
-    "ytId": "7iCfbBJ97VY",
-    "tmdbId": 11127,
-    "title": "Starship Troopers 3: Marauder",
-    "poster_path": "/vh5nospDpMOxZhyhRiXWWMmSFQe.jpg",
-    "genre_ids": [
-      12,
-      878,
-      28
-    ],
-    "year": "2008",
-    "release_date": "2008-07-19",
-    "rating": 4.815,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-09-21",
-    "id": 2379
-  },
-  {
-    "ytId": "-dRExQIvuic",
-    "tmdbId": 181886,
-    "title": "Enemy",
-    "poster_path": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "year": "2014",
-    "release_date": "2014-03-14",
-    "rating": 6.839,
-    "original_language": "en",
-    "channelName": "Sony LIV Tamil",
-    "addedAt": "2026-09-21",
-    "id": 2378
-  },
-  {
-    "ytId": "WNXjjrrQib4",
-    "tmdbId": 187796,
-    "title": "Heaven Strewn",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "2011",
-    "release_date": "2011-05-08",
-    "rating": 3,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-21",
-    "id": 2377
-  },
-  {
-    "ytId": "jvpLU0DxStA",
-    "tmdbId": 41407,
-    "title": "The Bunker",
-    "poster_path": "/c0meiXebNi3GqFfceTG0ynGd08B.jpg",
-    "genre_ids": [
-      10752,
-      18
-    ],
-    "year": "1981",
-    "release_date": "1981-04-15",
-    "rating": 6.283,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-21",
-    "id": 2376
-  },
-  {
-    "ytId": "-KxkQlMh7mo",
-    "tmdbId": 479776,
-    "title": "First Contact",
-    "poster_path": "/cWF1BZOqL14IzPxXdp9SYRfxskK.jpg",
-    "genre_ids": [
-      99
-    ],
-    "year": "2016",
-    "release_date": "2016-09-16",
-    "rating": 7.6,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-21",
-    "id": 2375
   }
 ]
