@@ -1,5 +1,57 @@
 [
   {
+    "ytId": "Hej_BKtySHU",
+    "tmdbId": 491627,
+    "title": "5 Weddings",
+    "poster_path": "/ftgiAskwz67dDg9a39204otCK1p.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "year": "2018",
+    "release_date": "2018-10-26",
+    "rating": 3.8,
+    "original_language": "hi",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-02",
+    "id": 2542
+  },
+  {
+    "ytId": "jM9W0MK4-kw",
+    "tmdbId": 1093357,
+    "title": "Gift of Fear",
+    "poster_path": "/cOtDBY1EwypOAKLB1954DuPMRpn.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "year": "2023",
+    "release_date": "2023-03-24",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-02",
+    "id": 2541
+  },
+  {
+    "ytId": "7O52w2m0CMQ",
+    "tmdbId": 671603,
+    "title": "Bigfoot's Bride",
+    "poster_path": "/c1SalJ0jYhOQ1NXmoCUq3UfXMEi.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-02-07",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-02",
+    "id": 2540
+  },
+  {
     "ytId": "82IQhC-mjqg",
     "tmdbId": 219635,
     "title": "The Taking of Flight 847: The Uli Derickson Story",
