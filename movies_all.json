@@ -1,5 +1,651 @@
 [
   {
+    "ytId": "qrieWfblVfs",
+    "tmdbId": 467330,
+    "title": "Death Fighter",
+    "poster_path": "/3G2nPaI93RurE7wOEy5hCg0v3X5.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2017",
+    "release_date": "2017-07-25",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-10-03",
+    "id": 2579
+  },
+  {
+    "ytId": "ijPVE2zdlwU",
+    "tmdbId": 934292,
+    "title": "பன்றிக்கு நன்றி சொல்லி",
+    "poster_path": "/gSnv0zw235qfxu0WURMnXKaJXr6.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "year": "2022",
+    "release_date": "2022-02-04",
+    "rating": 8,
+    "original_language": "ta",
+    "channelName": "Sony LIV Tamil",
+    "addedAt": "2026-10-03",
+    "id": 2578
+  },
+  {
+    "ytId": "zqhNSULfn3g",
+    "tmdbId": 164331,
+    "title": "สไปเดอร์ส ฝูงแมงมุมยักษ์ถล่มโลก",
+    "poster_path": "/zmN0Y6uIDuMCBEFNuTX5cCaFScG.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "year": "2013",
+    "release_date": "2013-02-08",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-03",
+    "id": 2577
+  },
+  {
+    "ytId": "JH6ppAE5w_8",
+    "tmdbId": 1624183,
+    "title": "Blackout",
+    "poster_path": "/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-01-27",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2576
+  },
+  {
+    "ytId": "viRs4QeYvXk",
+    "tmdbId": 602,
+    "title": "Independence Day",
+    "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "year": "1996",
+    "release_date": "1996-07-02",
+    "rating": 6.9,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2575
+  },
+  {
+    "ytId": "iIx2wff85x4",
+    "tmdbId": 473902,
+    "title": "The Amityville Murders",
+    "poster_path": "/bE5ClVWxIJhzXRFqNoGIuGDWED8.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-11-05",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2574
+  },
+  {
+    "ytId": "62PE0BZlaPw",
+    "tmdbId": 242095,
+    "title": "The Signal",
+    "poster_path": "/r5v3gzfxtnO9bKebs5Ujee6LLP1.jpg",
+    "genre_ids": [
+      53,
+      878
+    ],
+    "year": "2014",
+    "release_date": "2014-03-15",
+    "rating": 6.03,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2573
+  },
+  {
+    "ytId": "dTL85SqwihM",
+    "tmdbId": 629363,
+    "title": "It's Here",
+    "poster_path": "/85iiM97Dxow0tYsx3xBmZT2hNHn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-08-06",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2572
+  },
+  {
+    "ytId": "qwkiu0sk-9k",
+    "tmdbId": 376003,
+    "title": "Mercury Plains",
+    "poster_path": "/eZXUTjxjorNQSCYewKS9mvubeBG.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-01-05",
+    "rating": 4.706,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2571
+  },
+  {
+    "ytId": "CkXMKzQdujs",
+    "tmdbId": 58791,
+    "title": "Bone Eater",
+    "poster_path": "/lQPHTuJOJJp1QNeAu00yR3HlaJy.jpg",
+    "genre_ids": [
+      27,
+      10770
+    ],
+    "year": "2008",
+    "release_date": "2008-02-15",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2570
+  },
+  {
+    "ytId": "RFL3NK6M67Q",
+    "tmdbId": 47594,
+    "title": "The Society Murders",
+    "poster_path": "/w1F242RPcuqeboGmoKVXCngTeCM.jpg",
+    "genre_ids": [
+      53,
+      80,
+      10770
+    ],
+    "year": "2006",
+    "release_date": "2006-06-18",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2569
+  },
+  {
+    "ytId": "SyaJWUDgUjE",
+    "tmdbId": 514690,
+    "title": "Global Meltdown",
+    "poster_path": "/3msVFWalwQyfXQONXh9dRM0FLpD.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53,
+      10770
+    ],
+    "year": "2017",
+    "release_date": "2017-07-06",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2568
+  },
+  {
+    "ytId": "tS8Wyz9Cd1Q",
+    "tmdbId": 285135,
+    "title": "Zodiac",
+    "poster_path": "/sczgdIDuzYZqZOoQ29BRM3O5nU8.jpg",
+    "genre_ids": [
+      878,
+      10770
+    ],
+    "year": "2014",
+    "release_date": "2014-08-16",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2567
+  },
+  {
+    "ytId": "E2DK3OoocEA",
+    "tmdbId": 356191,
+    "title": "Demon",
+    "poster_path": "/tyGOeGI6mnzkmojSnqJvWvDqtH.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-10-16",
+    "rating": 5.711,
+    "original_language": "pl",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2566
+  },
+  {
+    "ytId": "0diKLzUtPTQ",
+    "tmdbId": 455551,
+    "title": "The Recall",
+    "poster_path": "/A2sQAzHavtot2brA42pHXKgf3ww.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-06-02",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2565
+  },
+  {
+    "ytId": "woENlAQUbhQ",
+    "tmdbId": 34180,
+    "title": "Aussie and Ted's Great Adventure",
+    "poster_path": "/wpxivvKghH9YriNCtW8GIK8nmz.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2009",
+    "release_date": "2009-01-01",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2564
+  },
+  {
+    "ytId": "cZ1FKm2Qcnc",
+    "tmdbId": 435577,
+    "title": "The 12th Man",
+    "poster_path": "/dxZ8iGf5jQoLcNqBJL6uzNTivp.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-12-25",
+    "rating": 7.116,
+    "original_language": "no",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2563
+  },
+  {
+    "ytId": "En8YcWWjfZ8",
+    "tmdbId": 33931,
+    "title": "The Sea Wolf",
+    "poster_path": "/hgpzaiHupKqvozTcXuqF5Ew5QVF.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "year": "1941",
+    "release_date": "1941-03-21",
+    "rating": 7.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2562
+  },
+  {
+    "ytId": "_nyAxj0CBCw",
+    "tmdbId": 27860,
+    "title": "Pterodactyl",
+    "poster_path": "/cSSfDX8ixzA9Yb4nYIwEtqiKxPa.jpg",
+    "genre_ids": [
+      28,
+      12,
+      27,
+      878,
+      53
+    ],
+    "year": "2004",
+    "release_date": "2004-10-17",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2561
+  },
+  {
+    "ytId": "3uKYLvauWXw",
+    "tmdbId": 573641,
+    "title": "End of the World",
+    "poster_path": "/nCMh8pkYpoMqHmMplzOg57QYHVR.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "year": "2018",
+    "release_date": "2018-12-20",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2560
+  },
+  {
+    "ytId": "-D98JKO3ARY",
+    "tmdbId": 429524,
+    "title": "Drone Wars",
+    "poster_path": "/jkj96RTf6JRwqwPkFWHwhq8N08X.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "year": "2016",
+    "release_date": "2016-03-30",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2559
+  },
+  {
+    "ytId": "gK9GNgwEauE",
+    "tmdbId": 482750,
+    "title": "Doomsday Device",
+    "poster_path": "/sevqw45bR8fiCM7bMO7KJJGOhOl.jpg",
+    "genre_ids": [
+      878
+    ],
+    "year": "2017",
+    "release_date": "2017-02-19",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2558
+  },
+  {
+    "ytId": "55MgMpPSkuI",
+    "tmdbId": 21373,
+    "title": "Descent",
+    "poster_path": "/qYYfg0EB5vkEC4QZhJ5wFZZKhj1.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2007",
+    "release_date": "2007-08-10",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2557
+  },
+  {
+    "ytId": "pR4CPxtT-1A",
+    "tmdbId": 83880,
+    "title": "Super Shark",
+    "poster_path": "/5hLiYCnO00t7Q0dWjtZKUvGh5pJ.jpg",
+    "genre_ids": [
+      878,
+      28,
+      35,
+      27,
+      12
+    ],
+    "year": "2011",
+    "release_date": "2011-12-08",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2556
+  },
+  {
+    "ytId": "LDIvjmxDJuc",
+    "tmdbId": 166660,
+    "title": "Jurassic Attack",
+    "poster_path": "/jHoma8SEt8zgQF8kZgdPpDfZLxX.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2013",
+    "release_date": "2013-02-22",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2555
+  },
+  {
+    "ytId": "U-uAU-FBN_s",
+    "tmdbId": 86254,
+    "title": "Crash Landing",
+    "poster_path": "/sT9qrEC357bH0kooCGAxrUQiTvV.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2006",
+    "release_date": "2006-07-11",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2554
+  },
+  {
+    "ytId": "qBcaLNpSyNA",
+    "tmdbId": 24778,
+    "title": "Hydra",
+    "poster_path": "/yS4UuZ3kDqUUl6pkPK1Fb8cn7lY.jpg",
+    "genre_ids": [
+      10770,
+      27,
+      878,
+      28,
+      14
+    ],
+    "year": "2009",
+    "release_date": "2009-02-20",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2553
+  },
+  {
+    "ytId": "dlJDs2sqUEI",
+    "tmdbId": 109411,
+    "title": "Cellmates",
+    "poster_path": "/82RJlr4o4ZbIdnmfEMkmW3Cyu2a.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2012",
+    "release_date": "2012-06-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2552
+  },
+  {
+    "ytId": "eCfbhDquQBo",
+    "tmdbId": 17004,
+    "title": "Ba'al",
+    "poster_path": "/y3l86vkgmRHaOxkmV7Q3LfIcuPV.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10770,
+      28
+    ],
+    "year": "2008",
+    "release_date": "2008-09-13",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2551
+  },
+  {
+    "ytId": "d76A263ZLEA",
+    "tmdbId": 78712,
+    "title": "Answered by Fire",
+    "poster_path": "/e4LWMfipw1DRrJuOBkjNouWOnEK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2006",
+    "release_date": "2006-05-28",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2550
+  },
+  {
+    "ytId": "XhGDh-niEB4",
+    "tmdbId": 1475813,
+    "title": "XIII: The Conspiracy",
+    "poster_path": "/lkJlw0LMhFrQbSGwK18njoE7zoM.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648
+    ],
+    "year": "2008",
+    "release_date": "2008-10-06",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2549
+  },
+  {
+    "ytId": "iHNe7k0FvoQ",
+    "tmdbId": 1529259,
+    "title": "The Flood",
+    "poster_path": null,
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "year": "2028",
+    "release_date": "2028-08-09",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-03",
+    "id": 2548
+  },
+  {
+    "ytId": "UThu95o4rRg",
+    "tmdbId": 78068,
+    "title": "Blood Harvest",
+    "poster_path": "/kUhCjKXEjMil9tVdWWKFoLHWHPn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1987",
+    "release_date": "1987-01-01",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-03",
+    "id": 2547
+  },
+  {
+    "ytId": "bYuZ7rEx_Ts",
+    "tmdbId": 1647508,
+    "title": "Winter: Battleground",
+    "poster_path": "/3IKLg61qUiSsA1tx7SS50XJWa01.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53,
+      10752
+    ],
+    "year": "2026",
+    "release_date": "2026-04-07",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-03",
+    "id": 2546
+  },
+  {
+    "ytId": "iEJWThDffHM",
+    "tmdbId": 140174,
+    "title": "Rise of the Zombies",
+    "poster_path": "/aGyeGL033oG4eVaf0CiXNqdUTbH.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-10-27",
+    "rating": 4.217,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-03",
+    "id": 2545
+  },
+  {
+    "ytId": "cqlF7etmjNU",
+    "tmdbId": 1130579,
+    "title": "Running Time",
+    "poster_path": "/8g8LBCJ8Ju1y9eGAB5aOT6PRNgO.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "year": "1974",
+    "release_date": "1974-01-01",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-03",
+    "id": 2544
+  },
+  {
+    "ytId": "rSOFEghbw78",
+    "tmdbId": 233798,
+    "title": "Dead Easy",
+    "poster_path": "/6kkJugDofMsAjsnepcLbXM81qYc.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2004",
+    "release_date": "2004-12-13",
+    "rating": 4.7,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-10-03",
+    "id": 2543
+  },
+  {
     "ytId": "Hej_BKtySHU",
     "tmdbId": 491627,
     "title": "5 Weddings",
