@@ -1,5 +1,138 @@
 [
   {
+    "ytId": "vlhNF0-AXj4",
+    "tmdbId": 191566,
+    "title": "Crazy Kind of Love",
+    "poster_path": "/fFy97WBoUyGqlUVMh5A9YcJZsh7.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-05-31",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-04",
+    "id": 2587
+  },
+  {
+    "ytId": "tG_1AxD-fr4",
+    "tmdbId": 1709927,
+    "title": "Blood Moon",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2026",
+    "release_date": "2026-09-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2586
+  },
+  {
+    "ytId": "F1Vwc2jC7EA",
+    "tmdbId": 1221884,
+    "title": "Princess for a Day",
+    "poster_path": "/ufPZ73SmKejMpmPM9ugnnPdkNId.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      10751
+    ],
+    "year": "2025",
+    "release_date": "2025-11-25",
+    "rating": 7.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2585
+  },
+  {
+    "ytId": "YTL_RFAuxYA",
+    "tmdbId": 769017,
+    "title": "The Love Doctor",
+    "poster_path": "/kDJ5vWaCHu0PamOZwOVQeiALEbe.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "1929",
+    "release_date": "1929-01-06",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2584
+  },
+  {
+    "ytId": "zeVJK-yO2WE",
+    "tmdbId": 626285,
+    "title": "A Christmas Wish",
+    "poster_path": "/bHtond3wOw85ZqDBzTaKHRM5vvp.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-11-28",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2583
+  },
+  {
+    "ytId": "0AQ_NOXofHA",
+    "tmdbId": 1630747,
+    "title": "Brooker",
+    "poster_path": "/e9PTglhN5gXVEjPVHnhrYeIq3SZ.jpg",
+    "genre_ids": [
+      12
+    ],
+    "year": "2026",
+    "release_date": "2026-02-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-04",
+    "id": 2582
+  },
+  {
+    "ytId": "OZ5oiey2Va0",
+    "tmdbId": 1284443,
+    "title": "The House By The Lake",
+    "poster_path": "/4JTRw9q2DVegN7e32p54w2qJeF4.jpg",
+    "genre_ids": [],
+    "year": "2024",
+    "release_date": "2024-01-20",
+    "rating": 10,
+    "original_language": "de",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-04",
+    "id": 2581
+  },
+  {
+    "ytId": "krhtIt9c5M0",
+    "tmdbId": 1064178,
+    "title": "Hunt Club",
+    "poster_path": "/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-04-06",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-04",
+    "id": 2580
+  },
+  {
     "ytId": "qrieWfblVfs",
     "tmdbId": 467330,
     "title": "Death Fighter",
@@ -2445,143 +2578,5 @@
     "channelName": "V Movies",
     "addedAt": "2026-09-23",
     "id": 2438
-  },
-  {
-    "ytId": "-jQlDuN86to",
-    "tmdbId": 553884,
-    "title": "Glass Jaw",
-    "poster_path": "/jGLF31gkOWHSJVh6xQQPG0JlNpU.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "year": "2018",
-    "release_date": "2018-10-26",
-    "rating": 5.964,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2437
-  },
-  {
-    "ytId": "VzLM2urGt24",
-    "tmdbId": 728767,
-    "title": "Solar Impact",
-    "poster_path": "/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg",
-    "genre_ids": [
-      28,
-      14,
-      53
-    ],
-    "year": "2019",
-    "release_date": "2019-11-15",
-    "rating": 4.82,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2436
-  },
-  {
-    "ytId": "PJ9C7irg_KQ",
-    "tmdbId": 16992,
-    "title": "The Boxer",
-    "poster_path": "/wsbNQWMQV4HwwqXtvQUoBfiBzK8.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "year": "1997",
-    "release_date": "1997-12-31",
-    "rating": 6.706,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2435
-  },
-  {
-    "ytId": "DoPlGD1EZtY",
-    "tmdbId": 667574,
-    "title": "Battle Star Wars",
-    "poster_path": "/ocA0ECiFoB4d1HITyEDQlLk7x84.jpg",
-    "genre_ids": [
-      878,
-      28,
-      10770
-    ],
-    "year": "2020",
-    "release_date": "2020-01-28",
-    "rating": 4.674,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2434
-  },
-  {
-    "ytId": "oo_YQRAjyRE",
-    "tmdbId": 321662,
-    "title": "LA Apocalypse",
-    "poster_path": "/6hC3Yw7hu7G87HY0avTGQyKboLT.jpg",
-    "genre_ids": [
-      53,
-      878,
-      28
-    ],
-    "year": "2014",
-    "release_date": "2014-06-20",
-    "rating": 4.5,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2433
-  },
-  {
-    "ytId": "EHYcHbPLps4",
-    "tmdbId": 1275724,
-    "title": "Doc Holliday 2",
-    "poster_path": "/20Y2MOYRo86yDD6zW3re8t31Q0.jpg",
-    "genre_ids": [
-      37
-    ],
-    "year": "2024",
-    "release_date": "2024-10-27",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2432
-  },
-  {
-    "ytId": "ecZXzrJcYho",
-    "tmdbId": 313093,
-    "title": "The Christmas Switch",
-    "poster_path": "/7ZkhHCvMoOw4wdW6nGQShCQH5yS.jpg",
-    "genre_ids": [
-      10751
-    ],
-    "year": "2014",
-    "release_date": "2014-12-22",
-    "rating": 6.4,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2431
-  },
-  {
-    "ytId": "oFQ0KX0XzUk",
-    "tmdbId": 40160,
-    "title": "Meteor",
-    "poster_path": "/xMUuS1KFHRTFSf3PAY2tsbBdqkL.jpg",
-    "genre_ids": [
-      878,
-      53,
-      28
-    ],
-    "year": "1979",
-    "release_date": "1979-10-19",
-    "rating": 5.181,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2430
   }
 ]

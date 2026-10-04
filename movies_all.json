@@ -1,5 +1,138 @@
 [
   {
+    "ytId": "vlhNF0-AXj4",
+    "tmdbId": 191566,
+    "title": "Crazy Kind of Love",
+    "poster_path": "/fFy97WBoUyGqlUVMh5A9YcJZsh7.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-05-31",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-04",
+    "id": 2587
+  },
+  {
+    "ytId": "tG_1AxD-fr4",
+    "tmdbId": 1709927,
+    "title": "Blood Moon",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "2026",
+    "release_date": "2026-09-11",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2586
+  },
+  {
+    "ytId": "F1Vwc2jC7EA",
+    "tmdbId": 1221884,
+    "title": "Princess for a Day",
+    "poster_path": "/ufPZ73SmKejMpmPM9ugnnPdkNId.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      10751
+    ],
+    "year": "2025",
+    "release_date": "2025-11-25",
+    "rating": 7.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2585
+  },
+  {
+    "ytId": "YTL_RFAuxYA",
+    "tmdbId": 769017,
+    "title": "The Love Doctor",
+    "poster_path": "/kDJ5vWaCHu0PamOZwOVQeiALEbe.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "1929",
+    "release_date": "1929-01-06",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2584
+  },
+  {
+    "ytId": "zeVJK-yO2WE",
+    "tmdbId": 626285,
+    "title": "A Christmas Wish",
+    "poster_path": "/bHtond3wOw85ZqDBzTaKHRM5vvp.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-11-28",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-04",
+    "id": 2583
+  },
+  {
+    "ytId": "0AQ_NOXofHA",
+    "tmdbId": 1630747,
+    "title": "Brooker",
+    "poster_path": "/e9PTglhN5gXVEjPVHnhrYeIq3SZ.jpg",
+    "genre_ids": [
+      12
+    ],
+    "year": "2026",
+    "release_date": "2026-02-07",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-04",
+    "id": 2582
+  },
+  {
+    "ytId": "OZ5oiey2Va0",
+    "tmdbId": 1284443,
+    "title": "The House By The Lake",
+    "poster_path": "/4JTRw9q2DVegN7e32p54w2qJeF4.jpg",
+    "genre_ids": [],
+    "year": "2024",
+    "release_date": "2024-01-20",
+    "rating": 10,
+    "original_language": "de",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-04",
+    "id": 2581
+  },
+  {
+    "ytId": "krhtIt9c5M0",
+    "tmdbId": 1064178,
+    "title": "Hunt Club",
+    "poster_path": "/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-04-06",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-04",
+    "id": 2580
+  },
+  {
     "ytId": "qrieWfblVfs",
     "tmdbId": 467330,
     "title": "Death Fighter",
