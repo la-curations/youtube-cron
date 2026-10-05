@@ -1,5 +1,77 @@
 [
   {
+    "ytId": "kTbIFuCpbYo",
+    "tmdbId": 606216,
+    "title": "Hydra",
+    "poster_path": "/bgCERhRmKJwrlQisTMBrLUasRF6.jpg",
+    "genre_ids": [
+      53,
+      28,
+      80,
+      18
+    ],
+    "year": "2019",
+    "release_date": "2019-05-24",
+    "rating": 5.8,
+    "original_language": "ja",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-05",
+    "id": 2591
+  },
+  {
+    "ytId": "kGKSKDo3d78",
+    "tmdbId": 505579,
+    "title": "Bent",
+    "poster_path": "/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "2018",
+    "release_date": "2018-03-09",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-05",
+    "id": 2590
+  },
+  {
+    "ytId": "L1HADME4YhI",
+    "tmdbId": 293205,
+    "title": "Recipe for Love",
+    "poster_path": "/ufxmSBb5CbmxdruL45WQYsW4mEI.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "2014",
+    "release_date": "2014-10-11",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-05",
+    "id": 2589
+  },
+  {
+    "ytId": "qD9DqJqJqz4",
+    "tmdbId": 14805,
+    "title": "Bait",
+    "poster_path": "/jon5ux36iUn6GnntxkZaNtB6AZT.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "year": "2000",
+    "release_date": "2000-09-15",
+    "rating": 5.742,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-05",
+    "id": 2588
+  },
+  {
     "ytId": "vlhNF0-AXj4",
     "tmdbId": 191566,
     "title": "Crazy Kind of Love",
@@ -2510,73 +2582,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-09-23",
     "id": 2442
-  },
-  {
-    "ytId": "mYHoIK9BgWQ",
-    "tmdbId": 218329,
-    "title": "Breakout",
-    "poster_path": "/1tFa4YTAiTfdnLhvTQP0awlE8N9.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2013",
-    "release_date": "2013-09-04",
-    "rating": 4.324,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2441
-  },
-  {
-    "ytId": "CP5Dfc3cKlM",
-    "tmdbId": 306128,
-    "title": "Painkiller",
-    "poster_path": "/xwSLkO2btDJA9U7vDpnUU1JRk6s.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "2011",
-    "release_date": "2011-12-31",
-    "rating": 1,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2440
-  },
-  {
-    "ytId": "iobwyCuOAMM",
-    "tmdbId": 842927,
-    "title": "State of Consciousness",
-    "poster_path": "/6sdKYVGIrUTIHZZxUJf1PdBPN5e.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2023",
-    "release_date": "2023-01-19",
-    "rating": 5.871,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2439
-  },
-  {
-    "ytId": "tS_CtCn_BVg",
-    "tmdbId": 25360,
-    "title": "Jack the Giant Killer",
-    "poster_path": "/nQYitRN2Wyy2sf8VQ6AvWBaVB2z.jpg",
-    "genre_ids": [
-      12,
-      14,
-      10751
-    ],
-    "year": "1962",
-    "release_date": "1962-05-18",
-    "rating": 6.6,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-23",
-    "id": 2438
   }
 ]
