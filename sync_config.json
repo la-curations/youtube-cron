@@ -4,14 +4,14 @@
     "name": "The Cinematics Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 80
+    "count": 81
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": "EAAaH1BUOkNKWUJJaEF4UkRRNU1UQXpSVGhETlVRd01rRTU",
     "isHistoryComplete": false,
-    "count": 265
+    "count": 266
   },
   {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
@@ -25,7 +25,7 @@
     "name": "Disaster Zone Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 402
+    "count": 404
   },
   {
     "channelId": "UC6A_LC-A5NVJ2vw9A0OjCug",
@@ -53,7 +53,7 @@
     "name": "FilmRise Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 164
+    "count": 165
   },
   {
     "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",

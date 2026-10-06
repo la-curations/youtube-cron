@@ -1,5 +1,93 @@
 [
   {
+    "ytId": "uPBWSFV0PGg",
+    "tmdbId": 10854,
+    "title": "Wicked Little Things",
+    "poster_path": "/wXymWZpjkeHUIi0G2YZYdcO1OH0.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-11-17",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-06",
+    "id": 2596
+  },
+  {
+    "ytId": "C12SknDywaY",
+    "tmdbId": 571908,
+    "title": "Nightmare on 34th Street",
+    "poster_path": "/jJL8JtG9Psot7l6r79kM1XNdbOT.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2023",
+    "release_date": "2023-12-05",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-06",
+    "id": 2595
+  },
+  {
+    "ytId": "jmsr6bjLgCM",
+    "tmdbId": 145738,
+    "title": "40 Days and Nights",
+    "poster_path": "/bAHXPIZy1t8kiEqb7hn4BRbuuBd.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-11-27",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-06",
+    "id": 2594
+  },
+  {
+    "ytId": "qjzoTVXDT-I",
+    "tmdbId": 72174,
+    "title": "Doomsday Prophecy",
+    "poster_path": "/cJ0q94RFbj0l1odJidX4FDW6RPT.jpg",
+    "genre_ids": [
+      10770,
+      878,
+      12,
+      28
+    ],
+    "year": "2011",
+    "release_date": "2011-08-13",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-06",
+    "id": 2593
+  },
+  {
+    "ytId": "nq16s0MVy8Y",
+    "tmdbId": 71682,
+    "title": "Coffin Baby",
+    "poster_path": "/k4pBspIEC0lzVwKVW1vA3GCyVnj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2013",
+    "release_date": "2013-03-15",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-10-06",
+    "id": 2592
+  },
+  {
     "ytId": "kTbIFuCpbYo",
     "tmdbId": 606216,
     "title": "Hydra",

@@ -1,5 +1,93 @@
 [
   {
+    "ytId": "uPBWSFV0PGg",
+    "tmdbId": 10854,
+    "title": "Wicked Little Things",
+    "poster_path": "/wXymWZpjkeHUIi0G2YZYdcO1OH0.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-11-17",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-06",
+    "id": 2596
+  },
+  {
+    "ytId": "C12SknDywaY",
+    "tmdbId": 571908,
+    "title": "Nightmare on 34th Street",
+    "poster_path": "/jJL8JtG9Psot7l6r79kM1XNdbOT.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2023",
+    "release_date": "2023-12-05",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-06",
+    "id": 2595
+  },
+  {
+    "ytId": "jmsr6bjLgCM",
+    "tmdbId": 145738,
+    "title": "40 Days and Nights",
+    "poster_path": "/bAHXPIZy1t8kiEqb7hn4BRbuuBd.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12,
+      53
+    ],
+    "year": "2012",
+    "release_date": "2012-11-27",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-06",
+    "id": 2594
+  },
+  {
+    "ytId": "qjzoTVXDT-I",
+    "tmdbId": 72174,
+    "title": "Doomsday Prophecy",
+    "poster_path": "/cJ0q94RFbj0l1odJidX4FDW6RPT.jpg",
+    "genre_ids": [
+      10770,
+      878,
+      12,
+      28
+    ],
+    "year": "2011",
+    "release_date": "2011-08-13",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-06",
+    "id": 2593
+  },
+  {
+    "ytId": "nq16s0MVy8Y",
+    "tmdbId": 71682,
+    "title": "Coffin Baby",
+    "poster_path": "/k4pBspIEC0lzVwKVW1vA3GCyVnj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2013",
+    "release_date": "2013-03-15",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-10-06",
+    "id": 2592
+  },
+  {
     "ytId": "kTbIFuCpbYo",
     "tmdbId": 606216,
     "title": "Hydra",
@@ -2496,91 +2584,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-23",
     "id": 2447
-  },
-  {
-    "ytId": "j88XB-Re6Ow",
-    "tmdbId": 599362,
-    "title": "Solum",
-    "poster_path": "/knuswbnLUfnbnjJONlVWll0quVt.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2019",
-    "release_date": "2019-05-01",
-    "rating": 5.25,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2446
-  },
-  {
-    "ytId": "B-B7V3IJLnU",
-    "tmdbId": 279092,
-    "title": "Partners in Crime",
-    "poster_path": "/cGYFuHqxfysGxM3xJtxptQAGeIT.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "year": "2014",
-    "release_date": "2014-09-26",
-    "rating": 5.9,
-    "original_language": "zh",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2445
-  },
-  {
-    "ytId": "tRYj2g-dR_s",
-    "tmdbId": 955916,
-    "title": "Lift",
-    "poster_path": "/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
-    "genre_ids": [
-      28,
-      35,
-      80
-    ],
-    "year": "2024",
-    "release_date": "2024-01-10",
-    "rating": 6.441,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2444
-  },
-  {
-    "ytId": "UZNhxFoODRU",
-    "tmdbId": 34977,
-    "title": "Penthouse",
-    "poster_path": "/mUJCt9wBvsspffPacWFo66F8VoM.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "year": "1933",
-    "release_date": "1933-09-08",
-    "rating": 6.857,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2443
-  },
-  {
-    "ytId": "OjN0AHdUpBk",
-    "tmdbId": 31954,
-    "title": "Subzero",
-    "poster_path": "/8DIYoRSIo1FdtfL8ucbL0I5yWmv.jpg",
-    "genre_ids": [
-      53,
-      878
-    ],
-    "year": "2005",
-    "release_date": "2005-07-20",
-    "rating": 4.971,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-23",
-    "id": 2442
   }
 ]
