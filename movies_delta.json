@@ -1,5 +1,24 @@
 [
   {
+    "ytId": "oaf9JaDiuh4",
+    "tmdbId": 10020,
+    "title": "Beauty and the Beast",
+    "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "genre_ids": [
+      10749,
+      10751,
+      16,
+      14
+    ],
+    "year": "1991",
+    "release_date": "1991-10-22",
+    "rating": 7.7,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-08",
+    "id": 2600
+  },
+  {
     "ytId": "lvXVdi4pjdo",
     "tmdbId": 748412,
     "title": "The Calm Beyond",
@@ -2567,21 +2586,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-23",
     "id": 2451
-  },
-  {
-    "ytId": "Nh_fbpmOtUQ",
-    "tmdbId": 171272,
-    "title": "Adrenaline",
-    "poster_path": "/1uZ1dVfutxL25snyOAhHGpWka3o.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "1990",
-    "release_date": "1990-01-17",
-    "rating": 6.1,
-    "original_language": "fr",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2450
   }
 ]

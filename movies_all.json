@@ -1,5 +1,24 @@
 [
   {
+    "ytId": "oaf9JaDiuh4",
+    "tmdbId": 10020,
+    "title": "Beauty and the Beast",
+    "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "genre_ids": [
+      10749,
+      10751,
+      16,
+      14
+    ],
+    "year": "1991",
+    "release_date": "1991-10-22",
+    "rating": 7.7,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-08",
+    "id": 2600
+  },
+  {
     "ytId": "lvXVdi4pjdo",
     "tmdbId": 748412,
     "title": "The Calm Beyond",
