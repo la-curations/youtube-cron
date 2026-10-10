@@ -1,5 +1,337 @@
 [
   {
+    "ytId": "68LHlojPilQ",
+    "tmdbId": 35032,
+    "title": "The Pirate",
+    "poster_path": "/ltoy9asHYuLcEq78jjvZPjH6LCG.jpg",
+    "genre_ids": [
+      10402,
+      10749,
+      35,
+      12
+    ],
+    "year": "1948",
+    "release_date": "1948-06-11",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-10",
+    "id": 2626
+  },
+  {
+    "ytId": "hpSYf_AxyoI",
+    "tmdbId": 18502,
+    "title": "The Stuff",
+    "poster_path": "/bT0PxmeePfzX8YrZHGaAXau9RLN.jpg",
+    "genre_ids": [
+      27,
+      878,
+      35
+    ],
+    "year": "1985",
+    "release_date": "1985-06-14",
+    "rating": 5.999,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-10",
+    "id": 2625
+  },
+  {
+    "ytId": "yknQmRynSvY",
+    "tmdbId": 34337,
+    "title": "Deadly Encounter",
+    "poster_path": "/x9m701MvaQlBHXB2nkekuYWShuo.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      18
+    ],
+    "year": "1982",
+    "release_date": "1982-12-19",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2624
+  },
+  {
+    "ytId": "p7MHwo84pTU",
+    "tmdbId": 50334,
+    "title": "Deadly Isolation",
+    "poster_path": "/vjItW5kbNVxxNiNRNir5plDLtFV.jpg",
+    "genre_ids": [
+      80,
+      10749,
+      53,
+      10770,
+      9648
+    ],
+    "year": "2005",
+    "release_date": "2005-03-15",
+    "rating": 5.6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2623
+  },
+  {
+    "ytId": "2VKF6FiNmck",
+    "tmdbId": 41953,
+    "title": "Crusoe",
+    "poster_path": "/v2l2B7dvzqTCh57OzhHroTRAFXp.jpg",
+    "genre_ids": [
+      12
+    ],
+    "year": "1989",
+    "release_date": "1989-03-30",
+    "rating": 5.737,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2622
+  },
+  {
+    "ytId": "6Xqah9T9mYQ",
+    "tmdbId": 1006462,
+    "title": "The Flood",
+    "poster_path": "/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-07-14",
+    "rating": 6.088,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2621
+  },
+  {
+    "ytId": "KlLKgMOV-Eg",
+    "tmdbId": 227707,
+    "title": "The Adventurer: The Curse of the Midas Box",
+    "poster_path": "/31ykUoOS2RNdARk3B8z3y25gD8b.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10751
+    ],
+    "year": "2013",
+    "release_date": "2013-12-05",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2620
+  },
+  {
+    "ytId": "IR7R7kate4Y",
+    "tmdbId": 10895,
+    "title": "Pinocchio",
+    "poster_path": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "year": "1940",
+    "release_date": "1940-02-23",
+    "rating": 7.1,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2619
+  },
+  {
+    "ytId": "y2iwhPRYrJU",
+    "tmdbId": 498276,
+    "title": "A Frozen Christmas",
+    "poster_path": "/hZRS6nGSdTOxDRTsGrQtUSfr0lV.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "year": "2016",
+    "release_date": "2016-11-21",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2618
+  },
+  {
+    "ytId": "g45ns2eYVC8",
+    "tmdbId": 440642,
+    "title": "The Spacewalker",
+    "poster_path": "/hDNVRmrprxI9NQ0zc2Uu03p65Fw.jpg",
+    "genre_ids": [
+      12,
+      18,
+      36,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-04-06",
+    "rating": 7,
+    "original_language": "ru",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2617
+  },
+  {
+    "ytId": "M5sDhorTmB8",
+    "tmdbId": 371446,
+    "title": "The Free World",
+    "poster_path": "/8YzGqiaOzErI8i7VK57hUwbMudH.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-09-23",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2616
+  },
+  {
+    "ytId": "73UsGKo65x4",
+    "tmdbId": 309889,
+    "title": "The Culling",
+    "poster_path": "/cSuTZbBzBeyVMiI2qGn6f8hhEYd.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2015",
+    "release_date": "2015-03-15",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2615
+  },
+  {
+    "ytId": "enNt_u7g3AM",
+    "tmdbId": 14637,
+    "title": "Nothing But the Truth",
+    "poster_path": "/ueJXKG3PFoDPEhcKtIjP52fCRQ5.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "2008",
+    "release_date": "2008-12-19",
+    "rating": 6.931,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2614
+  },
+  {
+    "ytId": "rxgyfqBNImM",
+    "tmdbId": 522758,
+    "title": "Hooligan Escape The Russian Job",
+    "poster_path": "/aTdMe0jeKCPOwr2f1xkZTPD1p7M.jpg",
+    "genre_ids": [
+      80
+    ],
+    "year": "2018",
+    "release_date": "2018-05-18",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2613
+  },
+  {
+    "ytId": "VzB2IrpxNgA",
+    "tmdbId": 447427,
+    "title": "King Arthur: Excalibur Rising",
+    "poster_path": "/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2017",
+    "release_date": "2017-03-01",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-10",
+    "id": 2612
+  },
+  {
+    "ytId": "3cIhFJifOL8",
+    "tmdbId": 669748,
+    "title": "Crocodile Island",
+    "poster_path": "/pNMQr2Gb2TeoMZdLVL4h0P23VS6.jpg",
+    "genre_ids": [
+      12,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-02-04",
+    "rating": 4.4,
+    "original_language": "zh",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-10",
+    "id": 2611
+  },
+  {
+    "ytId": "M1k0Ab75nio",
+    "tmdbId": 1391511,
+    "title": "Rose's Last Session",
+    "poster_path": "/imsvmONgNf5cmWyr7rcXyECK2kc.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-09-10",
+    "rating": 3.2,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-10",
+    "id": 2610
+  },
+  {
+    "ytId": "29WKqZpJVXk",
+    "tmdbId": 1118343,
+    "title": "Black Rose",
+    "poster_path": "/iBzx09Fvm7fLFYf2YA2icKRkfRx.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-11-24",
+    "rating": 5,
+    "original_language": "vi",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-10",
+    "id": 2609
+  },
+  {
+    "ytId": "aGnSrX7F9VA",
+    "tmdbId": 68572,
+    "title": "Possessed",
+    "poster_path": "/y69KzSWrryMLJJZ7aVOy1qjnFg4.jpg",
+    "genre_ids": [
+      27,
+      10770
+    ],
+    "year": "2000",
+    "release_date": "2000-10-22",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-10-10",
+    "id": 2608
+  },
+  {
     "ytId": "VOmcalrh5Nw",
     "tmdbId": 1082195,
     "title": "The Order",
@@ -2266,324 +2598,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-24",
     "id": 2477
-  },
-  {
-    "ytId": "nkBHs1QIXuM",
-    "tmdbId": 302828,
-    "title": "Against the Sun",
-    "poster_path": "/dFtfIBvdJP0kvNnL7tJv3MA8tnr.jpg",
-    "genre_ids": [
-      10752,
-      12
-    ],
-    "year": "2014",
-    "release_date": "2014-11-22",
-    "rating": 6.982,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2476
-  },
-  {
-    "ytId": "72Zju1ncemU",
-    "tmdbId": 407626,
-    "title": "Ozark Sharks",
-    "poster_path": "/rqXnTVEaDV2U07QIR8rum2bmqya.jpg",
-    "genre_ids": [
-      28,
-      27,
-      878,
-      10770
-    ],
-    "year": "2016",
-    "release_date": "2016-07-30",
-    "rating": 4.429,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-24",
-    "id": 2475
-  },
-  {
-    "ytId": "85bqHpthbUc",
-    "tmdbId": 481880,
-    "title": "Trial by Fire",
-    "poster_path": "/Aeon31iP17ys9FesAK3bLycXI6v.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "year": "2019",
-    "release_date": "2019-05-17",
-    "rating": 6.973,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-24",
-    "id": 2474
-  },
-  {
-    "ytId": "46z2sG9_LDE",
-    "tmdbId": 345937,
-    "title": "Unleashed",
-    "poster_path": "/zpTg32caIadhYln2cLRKHWDkGHQ.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      878
-    ],
-    "year": "2017",
-    "release_date": "2017-08-25",
-    "rating": 6.128,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-09-23",
-    "id": 2473
-  },
-  {
-    "ytId": "rs47TrCfB3Q",
-    "tmdbId": 35402,
-    "title": "Icarus",
-    "poster_path": "/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "year": "2010",
-    "release_date": "2010-02-09",
-    "rating": 4.909,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-09-23",
-    "id": 2472
-  },
-  {
-    "ytId": "3iTtXj9iPKg",
-    "tmdbId": 1304700,
-    "title": "All That Glitters",
-    "poster_path": "/ymswOaGnIHxJOIP04DzPDAaovbv.jpg",
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "year": "1990",
-    "release_date": "1990-01-25",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-23",
-    "id": 2471
-  },
-  {
-    "ytId": "Z0UsmjvTL70",
-    "tmdbId": 243599,
-    "title": "A Holiday Heist",
-    "poster_path": "/xyFRSEpdyjpaUIoO6L6iTyKRqHe.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2011",
-    "release_date": "2011-11-27",
-    "rating": 4.583,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-23",
-    "id": 2470
-  },
-  {
-    "ytId": "7rs_CifzGnY",
-    "tmdbId": 276597,
-    "title": "The Investigation",
-    "poster_path": "/hAZ86nWb1DaVmqFZe95pJjxlmfq.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2002",
-    "release_date": "2002-01-01",
-    "rating": 6.667,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2469
-  },
-  {
-    "ytId": "IuRgZrJYS94",
-    "tmdbId": 321999,
-    "title": "Super Collider",
-    "poster_path": "/5TSAzFo48bffaOJTsr1gaaKkhzD.jpg",
-    "genre_ids": [],
-    "year": "2015",
-    "release_date": "2015-04-02",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2468
-  },
-  {
-    "ytId": "jSqWU8fBt40",
-    "tmdbId": 69853,
-    "title": "Voodoo",
-    "poster_path": "/7BKfYNJAfizwRhUXrMkD6QwQsVP.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "1995",
-    "release_date": "1995-11-28",
-    "rating": 5.241,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2467
-  },
-  {
-    "ytId": "jTR6N8Ip6DM",
-    "tmdbId": 112473,
-    "title": "Assassin",
-    "poster_path": "/AoMM2CGN7JDMxoeXGAhypRd3Tqs.jpg",
-    "genre_ids": [
-      10770,
-      878,
-      28,
-      53,
-      9648
-    ],
-    "year": "1986",
-    "release_date": "1986-03-19",
-    "rating": 5.071,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2466
-  },
-  {
-    "ytId": "t7zbGjXvUxA",
-    "tmdbId": 981348,
-    "title": "Sky Monster",
-    "poster_path": "/mSxoGm17YDXPe0B0j14qRHXGytG.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2023",
-    "release_date": "2023-10-27",
-    "rating": 2.563,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2465
-  },
-  {
-    "ytId": "TslKVmjjFTM",
-    "tmdbId": 862545,
-    "title": "Election Night",
-    "poster_path": "/lFoM2xWQRnEjZuT7DzYxfBGcEFN.jpg",
-    "genre_ids": [],
-    "year": "2020",
-    "release_date": "2020-11-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2464
-  },
-  {
-    "ytId": "yx-rkVnfifU",
-    "tmdbId": 66741,
-    "title": "Total Reality",
-    "poster_path": "/yfNxUtcP2R8aBKZ8MjlzyIa2UpZ.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "year": "1997",
-    "release_date": "1997-04-03",
-    "rating": 4.9,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2463
-  },
-  {
-    "ytId": "mhgLH3GIDuQ",
-    "tmdbId": 46429,
-    "title": "Gallowwalkers",
-    "poster_path": "/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg",
-    "genre_ids": [
-      28,
-      27,
-      37
-    ],
-    "year": "2012",
-    "release_date": "2012-10-27",
-    "rating": 4.799,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2462
-  },
-  {
-    "ytId": "EZxIKaSQF_E",
-    "tmdbId": 80200,
-    "title": "Velocity Trap",
-    "poster_path": "/tTszsaA4VcNrZ2z7jvbf2KtiUqX.jpg",
-    "genre_ids": [
-      878,
-      28
-    ],
-    "year": "1999",
-    "release_date": "1999-02-22",
-    "rating": 4.682,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2461
-  },
-  {
-    "ytId": "K0p98iM3-k4",
-    "tmdbId": 14782,
-    "title": "The Unsaid",
-    "poster_path": "/5tPbEeT5oQTOatgwBxYYfGf2DwV.jpg",
-    "genre_ids": [
-      53
-    ],
-    "year": "2001",
-    "release_date": "2001-09-14",
-    "rating": 6.6,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2460
-  },
-  {
-    "ytId": "lFm560UUaKw",
-    "tmdbId": 589834,
-    "title": "Koma",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "2009",
-    "release_date": "2009-06-26",
-    "rating": 5,
-    "original_language": "de",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2459
-  },
-  {
-    "ytId": "tGsyuXSoPlg",
-    "tmdbId": 787950,
-    "title": "Respite",
-    "poster_path": "/dvXQ0Q0Tx4S8326yACe9GkZRsXm.jpg",
-    "genre_ids": [
-      28,
-      18,
-      80
-    ],
-    "year": "2020",
-    "release_date": "2020-11-11",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-23",
-    "id": 2458
   }
 ]
