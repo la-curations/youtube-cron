@@ -1,5 +1,72 @@
 [
   {
+    "ytId": "P8st_EL2SKU",
+    "tmdbId": 464247,
+    "title": "Peel",
+    "poster_path": "/5n6lxGDZLkVBqB0bdKQaqAJ8zjd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-07-01",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-11",
+    "id": 2630
+  },
+  {
+    "ytId": "Vcj_nyr75xk",
+    "tmdbId": 972727,
+    "title": "Rebirth",
+    "poster_path": "/rPrVz7gkSdpNBMMtyptudsyCbyN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-12-28",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-11",
+    "id": 2629
+  },
+  {
+    "ytId": "q8jStyPEdv4",
+    "tmdbId": 1330373,
+    "title": "Alien: Rubicon",
+    "poster_path": "/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-08-23",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-11",
+    "id": 2628
+  },
+  {
+    "ytId": "U94AzgeSk0U",
+    "tmdbId": 1766421,
+    "title": "Blood Money",
+    "poster_path": "/9QUYumP27aAciwDF9bF1PchSc7W.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-10-02",
+    "rating": null,
+    "original_language": "sq",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-11",
+    "id": 2627
+  },
+  {
     "ytId": "68LHlojPilQ",
     "tmdbId": 35032,
     "title": "The Pirate",
@@ -2525,78 +2592,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-24",
     "id": 2481
-  },
-  {
-    "ytId": "6FqnV4iUBiA",
-    "tmdbId": 10606,
-    "title": "The Philadelphia Experiment",
-    "poster_path": "/loKzciPI19uLZ6GeSYjInzdGg60.jpg",
-    "genre_ids": [
-      878,
-      12,
-      53
-    ],
-    "year": "1984",
-    "release_date": "1984-10-05",
-    "rating": 6.123,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2480
-  },
-  {
-    "ytId": "xYr6Ty0AMuY",
-    "tmdbId": 10690,
-    "title": "Space Truckers",
-    "poster_path": "/f0NNTJxBzAwC0wvqmBgD9pPiHnG.jpg",
-    "genre_ids": [
-      35,
-      878,
-      53,
-      12
-    ],
-    "year": "1996",
-    "release_date": "1996-10-04",
-    "rating": 5.448,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2479
-  },
-  {
-    "ytId": "8fbF_eWlw9o",
-    "tmdbId": 141824,
-    "title": "Loophole",
-    "poster_path": "/pqOPDPz0WfvvUDsocHEGSdg8NWh.jpg",
-    "genre_ids": [
-      80,
-      18,
-      12
-    ],
-    "year": "1981",
-    "release_date": "1981-06-25",
-    "rating": 6.259,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2478
-  },
-  {
-    "ytId": "y_9tB4pcRng",
-    "tmdbId": 1783,
-    "title": "To End All Wars",
-    "poster_path": "/4fXRE02M2EckpGPZNbuZIo05dmL.jpg",
-    "genre_ids": [
-      18,
-      10752,
-      28
-    ],
-    "year": "2001",
-    "release_date": "2001-09-02",
-    "rating": 6.406,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2477
   }
 ]

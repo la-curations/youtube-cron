@@ -1,5 +1,72 @@
 [
   {
+    "ytId": "P8st_EL2SKU",
+    "tmdbId": 464247,
+    "title": "Peel",
+    "poster_path": "/5n6lxGDZLkVBqB0bdKQaqAJ8zjd.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-07-01",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-11",
+    "id": 2630
+  },
+  {
+    "ytId": "Vcj_nyr75xk",
+    "tmdbId": 972727,
+    "title": "Rebirth",
+    "poster_path": "/rPrVz7gkSdpNBMMtyptudsyCbyN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2018",
+    "release_date": "2018-12-28",
+    "rating": null,
+    "original_language": "fr",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-11",
+    "id": 2629
+  },
+  {
+    "ytId": "q8jStyPEdv4",
+    "tmdbId": 1330373,
+    "title": "Alien: Rubicon",
+    "poster_path": "/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "year": "2024",
+    "release_date": "2024-08-23",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-11",
+    "id": 2628
+  },
+  {
+    "ytId": "U94AzgeSk0U",
+    "tmdbId": 1766421,
+    "title": "Blood Money",
+    "poster_path": "/9QUYumP27aAciwDF9bF1PchSc7W.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-10-02",
+    "rating": null,
+    "original_language": "sq",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-11",
+    "id": 2627
+  },
+  {
     "ytId": "68LHlojPilQ",
     "tmdbId": 35032,
     "title": "The Pirate",
