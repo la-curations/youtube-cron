@@ -1,5 +1,108 @@
 [
   {
+    "ytId": "0BI38hD6sxk",
+    "tmdbId": 187719,
+    "title": "The Great Divide",
+    "poster_path": "/cyo74U4W989oy1y2YEsuuw6jatt.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2012",
+    "release_date": "2012-09-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-12",
+    "id": 2636
+  },
+  {
+    "ytId": "buM6QvUkm9Q",
+    "tmdbId": 81332,
+    "title": "A Christmas Kiss",
+    "poster_path": "/ecgrk0VsqzMMTUg5VsfqJADgaeM.jpg",
+    "genre_ids": [
+      10770,
+      10749,
+      10751,
+      18
+    ],
+    "year": "2011",
+    "release_date": "2011-11-12",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2635
+  },
+  {
+    "ytId": "y_u0LCuEBdc",
+    "tmdbId": 1018609,
+    "title": "Hope Again",
+    "poster_path": "/gEvMH9KofMA8s9IZ854Edj1UMs9.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2022",
+    "release_date": "2022-05-05",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2634
+  },
+  {
+    "ytId": "WC1gZEd8x3U",
+    "tmdbId": 790894,
+    "title": "Paradise Cove",
+    "poster_path": "/nrs7xjq4iwZvk5bfOEGFLvr4B3v.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-02-12",
+    "rating": 4.387,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2633
+  },
+  {
+    "ytId": "JuSsXjQCcJA",
+    "tmdbId": 690548,
+    "title": "Murder RX",
+    "poster_path": "/Uos6Plk4wVcTpu2t18lo8VR0O1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2020",
+    "release_date": "2020-04-07",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-12",
+    "id": 2632
+  },
+  {
+    "ytId": "C5q4a76z9kw",
+    "tmdbId": 101206,
+    "title": "Action in Arabia",
+    "poster_path": "/iGOAwvrKIOBp5gmeCW25QSPCbUj.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "1944",
+    "release_date": "1944-02-18",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-12",
+    "id": 2631
+  },
+  {
     "ytId": "P8st_EL2SKU",
     "tmdbId": 464247,
     "title": "Peel",

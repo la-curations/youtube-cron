@@ -1,5 +1,108 @@
 [
   {
+    "ytId": "0BI38hD6sxk",
+    "tmdbId": 187719,
+    "title": "The Great Divide",
+    "poster_path": "/cyo74U4W989oy1y2YEsuuw6jatt.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2012",
+    "release_date": "2012-09-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-12",
+    "id": 2636
+  },
+  {
+    "ytId": "buM6QvUkm9Q",
+    "tmdbId": 81332,
+    "title": "A Christmas Kiss",
+    "poster_path": "/ecgrk0VsqzMMTUg5VsfqJADgaeM.jpg",
+    "genre_ids": [
+      10770,
+      10749,
+      10751,
+      18
+    ],
+    "year": "2011",
+    "release_date": "2011-11-12",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2635
+  },
+  {
+    "ytId": "y_u0LCuEBdc",
+    "tmdbId": 1018609,
+    "title": "Hope Again",
+    "poster_path": "/gEvMH9KofMA8s9IZ854Edj1UMs9.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "year": "2022",
+    "release_date": "2022-05-05",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2634
+  },
+  {
+    "ytId": "WC1gZEd8x3U",
+    "tmdbId": 790894,
+    "title": "Paradise Cove",
+    "poster_path": "/nrs7xjq4iwZvk5bfOEGFLvr4B3v.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "year": "2021",
+    "release_date": "2021-02-12",
+    "rating": 4.387,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-12",
+    "id": 2633
+  },
+  {
+    "ytId": "JuSsXjQCcJA",
+    "tmdbId": 690548,
+    "title": "Murder RX",
+    "poster_path": "/Uos6Plk4wVcTpu2t18lo8VR0O1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2020",
+    "release_date": "2020-04-07",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-12",
+    "id": 2632
+  },
+  {
+    "ytId": "C5q4a76z9kw",
+    "tmdbId": 101206,
+    "title": "Action in Arabia",
+    "poster_path": "/iGOAwvrKIOBp5gmeCW25QSPCbUj.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "year": "1944",
+    "release_date": "1944-02-18",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-12",
+    "id": 2631
+  },
+  {
     "ytId": "P8st_EL2SKU",
     "tmdbId": 464247,
     "title": "Peel",
@@ -2487,110 +2590,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-24",
     "id": 2487
-  },
-  {
-    "ytId": "Hci4ZwHlWmg",
-    "tmdbId": 429691,
-    "title": "Mind Blown",
-    "poster_path": "/59xSj93nnF9UG6kNoI62hlq11Gw.jpg",
-    "genre_ids": [
-      878,
-      10770,
-      28
-    ],
-    "year": "2016",
-    "release_date": "2016-12-01",
-    "rating": 4.886,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2486
-  },
-  {
-    "ytId": "ZvMA_Siv1Vs",
-    "tmdbId": 339406,
-    "title": "Showdown in Manila",
-    "poster_path": "/pQGE2nZ6OQKSDWekXyfiBYWFMxA.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2016",
-    "release_date": "2016-02-18",
-    "rating": 3.4,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2485
-  },
-  {
-    "ytId": "eh1mveEuZ-k",
-    "tmdbId": 10491,
-    "title": "Enigma",
-    "poster_path": "/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      53,
-      10749,
-      10752
-    ],
-    "year": "2001",
-    "release_date": "2001-01-22",
-    "rating": 6.281,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2484
-  },
-  {
-    "ytId": "eAZQOyarux0",
-    "tmdbId": 199074,
-    "title": "Route 9",
-    "poster_path": "/x4COKYODbCCaLMwCrRLn357Tj1j.jpg",
-    "genre_ids": [
-      80
-    ],
-    "year": "1998",
-    "release_date": "1998-11-20",
-    "rating": 7.033,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2483
-  },
-  {
-    "ytId": "cbAY2rQ1FRg",
-    "tmdbId": 30526,
-    "title": "Pentathlon",
-    "poster_path": "/kD5SvLTd1MSvuwPrshoIaGIDlgC.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "1994",
-    "release_date": "1994-06-04",
-    "rating": 4.365,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2482
-  },
-  {
-    "ytId": "FnJERVM9oJw",
-    "tmdbId": 16432,
-    "title": "Day of Wrath",
-    "poster_path": "/rrLnvAAyFngYN8YmlfI8ZH3hFg3.jpg",
-    "genre_ids": [
-      12,
-      18,
-      28
-    ],
-    "year": "2006",
-    "release_date": "2006-06-27",
-    "rating": 4.461,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2481
   }
 ]
