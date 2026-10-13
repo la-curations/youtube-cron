@@ -18,7 +18,7 @@
     "name": "Sci-Fi Central",
     "nextPageToken": "EAAaH1BUOkNQUURJaEExTVRaQlFqVTNSRVk1TmpBd05UUkQ",
     "isHistoryComplete": false,
-    "count": 128
+    "count": 129
   },
   {
     "channelId": "UC_MyK1SmeN2Sji4uBEckYaA",
@@ -46,14 +46,14 @@
     "name": "Movie Central",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 889
+    "count": 890
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
     "name": "FilmRise Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 167
+    "count": 168
   },
   {
     "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",
@@ -74,7 +74,7 @@
     "name": "StreamCore",
     "nextPageToken": "EAAaHlBUOkNHUWlFRVV5TlRBeE0wTkNOMEV5TlVZd09Uaw",
     "isHistoryComplete": false,
-    "count": 61
+    "count": 62
   },
   {
     "channelId": "UCOBMTKkkVlOi6-zCYg6R9zQ",

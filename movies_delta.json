@@ -1,5 +1,72 @@
 [
   {
+    "ytId": "WnqnT8O-rhY",
+    "tmdbId": 316010,
+    "title": "The Other Side",
+    "poster_path": "/cOz87IyQpj2K7jSgbGDglrKJOgm.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "year": "2014",
+    "release_date": "2014-10-25",
+    "rating": 2.3,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-13",
+    "id": 2640
+  },
+  {
+    "ytId": "8d7ct2tMZog",
+    "tmdbId": 26957,
+    "title": "Puppet Master 4",
+    "poster_path": "/fRIpNpZVL73MGJ7E2ZYt03tggeX.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1993",
+    "release_date": "1993-11-24",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-13",
+    "id": 2639
+  },
+  {
+    "ytId": "VhISM2HCUf8",
+    "tmdbId": 1074322,
+    "title": "Ghost Hunters",
+    "poster_path": "/jx8avlhhcrKxsoe6J87Nh7Ey4hi.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-01-23",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-13",
+    "id": 2638
+  },
+  {
+    "ytId": "duYG7zoE8MU",
+    "tmdbId": 1457984,
+    "title": "The Cursed Tapes",
+    "poster_path": "/qi8uk1lqspVU7eWLROShuBNiCoF.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2025",
+    "release_date": "2025-04-08",
+    "rating": 10,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-13",
+    "id": 2637
+  },
+  {
     "ytId": "0BI38hD6sxk",
     "tmdbId": 187719,
     "title": "The Great Divide",
@@ -2520,75 +2587,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-24",
     "id": 2491
-  },
-  {
-    "ytId": "5n1ona-z1RI",
-    "tmdbId": 63971,
-    "title": "Deserter",
-    "poster_path": "/nb7fYnVnWeTRYNxvKFLDbcRV87f.jpg",
-    "genre_ids": [
-      18,
-      10752
-    ],
-    "year": "2002",
-    "release_date": "2002-04-30",
-    "rating": 5.264,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2490
-  },
-  {
-    "ytId": "LMB-rN8e9LE",
-    "tmdbId": 646150,
-    "title": "Acceleration",
-    "poster_path": "/50F3NSV89s13oN43h1wXpCoqY5t.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2019",
-    "release_date": "2019-11-08",
-    "rating": 5.336,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2489
-  },
-  {
-    "ytId": "7pexL2RXnmE",
-    "tmdbId": 36609,
-    "title": "Asteroid",
-    "poster_path": "/5J99UfKU8xv66OF3uqi8sqlEAVO.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53,
-      10770
-    ],
-    "year": "1997",
-    "release_date": "1997-02-16",
-    "rating": 5.745,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2488
-  },
-  {
-    "ytId": "JGXFGFUew1k",
-    "tmdbId": 28506,
-    "title": "A.I. Assault",
-    "poster_path": "/vmZBuUV9h3zI95tjyvC1SO1aeym.jpg",
-    "genre_ids": [
-      53,
-      878
-    ],
-    "year": "2006",
-    "release_date": "2006-09-11",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2487
   }
 ]
