@@ -1,5 +1,107 @@
 [
   {
+    "ytId": "QVN1ClOiPXI",
+    "tmdbId": 108334,
+    "title": "Not Like Everyone Else",
+    "poster_path": "/xt6OvcclhvkFdqZ8XixPQ74qGIy.jpg",
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "year": "2006",
+    "release_date": "2006-07-10",
+    "rating": 6.2,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-16",
+    "id": 2656
+  },
+  {
+    "ytId": "O8oLjIdgy3Q",
+    "tmdbId": 932329,
+    "title": "Night Sweats",
+    "poster_path": "/mVBHULQqtt65fRFcURI9BrXuXJ7.jpg",
+    "genre_ids": [],
+    "year": "2015",
+    "release_date": "2015-01-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-16",
+    "id": 2655
+  },
+  {
+    "ytId": "A_rOEaChxEw",
+    "tmdbId": 39158,
+    "title": "Kaw",
+    "poster_path": "/lYfWo6bS9IX8rMIkTyDb1LN3GmD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-04-07",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-16",
+    "id": 2654
+  },
+  {
+    "ytId": "5-sKJhXptAI",
+    "tmdbId": 297544,
+    "title": "Age of Ice",
+    "poster_path": "/s6RwbGCnffcLso2ua8U99RR6H4Y.jpg",
+    "genre_ids": [
+      12,
+      878
+    ],
+    "year": "2014",
+    "release_date": "2014-12-09",
+    "rating": 3.897,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-16",
+    "id": 2653
+  },
+  {
+    "ytId": "9z_S7uJHjD0",
+    "tmdbId": 546328,
+    "title": "Scarecrows of the Third Reich",
+    "poster_path": "/1tiAl4lxzStbYRUNWldfml1OmFQ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2018",
+    "release_date": "2018-07-10",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-16",
+    "id": 2652
+  },
+  {
+    "ytId": "zAOqsZvXJC4",
+    "tmdbId": 11618,
+    "title": "The Haunting",
+    "poster_path": "/xwLldS5JnB4441iS50ha9ZrkaA8.jpg",
+    "genre_ids": [
+      27,
+      53,
+      14,
+      9648
+    ],
+    "year": "1999",
+    "release_date": "1999-07-23",
+    "rating": 5.524,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-16",
+    "id": 2651
+  },
+  {
     "ytId": "IBZN2D9S71g",
     "tmdbId": 496297,
     "title": "Off the Menu",
@@ -2474,103 +2576,5 @@
     "channelName": "Movie Central",
     "addedAt": "2026-09-25",
     "id": 2507
-  },
-  {
-    "ytId": "O2IN3AI0SPY",
-    "tmdbId": 848192,
-    "title": "Rattle Can",
-    "poster_path": "/vheqV1E2cx3JxhBF6lhaMDUYsFr.jpg",
-    "genre_ids": [
-      18
-    ],
-    "year": "2021",
-    "release_date": "2021-07-06",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-25",
-    "id": 2506
-  },
-  {
-    "ytId": "JMfPkK1OL0c",
-    "tmdbId": 1341243,
-    "title": "The Midnight Screening Society",
-    "poster_path": "/h7s9EyaNdKEI0Ill7wxJrE0Lfbd.jpg",
-    "genre_ids": [
-      80,
-      35
-    ],
-    "year": "2024",
-    "release_date": "2024-09-01",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-25",
-    "id": 2505
-  },
-  {
-    "ytId": "al1M0DYKiHY",
-    "tmdbId": 1078907,
-    "title": "Plague of the Dead",
-    "poster_path": "/uZj8uJXaCPcBR4Umod0odZwi3Ok.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2021",
-    "release_date": "2021-10-31",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-09-25",
-    "id": 2504
-  },
-  {
-    "ytId": "8fvERwNrp_k",
-    "tmdbId": 972280,
-    "title": "Allegiance",
-    "poster_path": "/qb1Se2rOASU5Apn7de3kPWNRiyz.jpg",
-    "genre_ids": [],
-    "year": "2022",
-    "release_date": "2022-05-05",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-09-24",
-    "id": 2503
-  },
-  {
-    "ytId": "yLSAAok0uIs",
-    "tmdbId": 120798,
-    "title": "The Hot Potato",
-    "poster_path": "/1dUhHRUBU2ce98lVFpKGxOBBa0t.jpg",
-    "genre_ids": [
-      35,
-      80
-    ],
-    "year": "2011",
-    "release_date": "2011-01-01",
-    "rating": 6.1,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-09-24",
-    "id": 2502
-  },
-  {
-    "ytId": "BUQB_nhJjZw",
-    "tmdbId": 656851,
-    "title": "Hearts of Winter",
-    "poster_path": "/7sbTpwoG0MtS8OpmOWx0t0GTF7C.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      10770
-    ],
-    "year": "2020",
-    "release_date": "2020-01-25",
-    "rating": 6.2,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-24",
-    "id": 2501
   }
 ]
