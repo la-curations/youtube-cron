@@ -1,5 +1,110 @@
 [
   {
+    "ytId": "UbQrbUW_6I0",
+    "tmdbId": 1198754,
+    "title": "Carnage",
+    "poster_path": "/nWII5qq7VPwgrHI4otsRWLsYyRb.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-02-09",
+    "rating": 6,
+    "original_language": "fi",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-10-17",
+    "id": 2662
+  },
+  {
+    "ytId": "C2Re2psiTi4",
+    "tmdbId": 316215,
+    "title": "Deceitful",
+    "poster_path": "/1ilNGUd1b5zBKWDU8o61ExVuPh4.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-06-06",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-17",
+    "id": 2661
+  },
+  {
+    "ytId": "raz1Zn0BajQ",
+    "tmdbId": 13570,
+    "title": "Tourist Trap",
+    "poster_path": "/c19pSkUfNElrmVn0iYtiJys5dK8.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "year": "1979",
+    "release_date": "1979-03-14",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-17",
+    "id": 2660
+  },
+  {
+    "ytId": "68NEd9MS-Dg",
+    "tmdbId": 11706,
+    "title": "War and Peace",
+    "poster_path": "/f3a1MyH12PSl3LFDahnooGy6mv8.jpg",
+    "genre_ids": [
+      10752,
+      10749,
+      18,
+      36
+    ],
+    "year": "1956",
+    "release_date": "1956-08-21",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-17",
+    "id": 2659
+  },
+  {
+    "ytId": "JGRyYKBTC6k",
+    "tmdbId": 269519,
+    "title": "Robbery Under Arms",
+    "poster_path": "/a6VC61wtytymu6FU2ShGKg3Nflc.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "year": "1957",
+    "release_date": "1957-01-10",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-17",
+    "id": 2658
+  },
+  {
+    "ytId": "lsjnz7te0fM",
+    "tmdbId": 27896,
+    "title": "Planet Raptor",
+    "poster_path": "/aoetIO34uXYXwRqruH4DxGa0QGW.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-08-08",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-17",
+    "id": 2657
+  },
+  {
     "ytId": "QVN1ClOiPXI",
     "tmdbId": 108334,
     "title": "Not Like Everyone Else",

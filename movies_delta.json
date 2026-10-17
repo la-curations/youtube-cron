@@ -1,5 +1,110 @@
 [
   {
+    "ytId": "UbQrbUW_6I0",
+    "tmdbId": 1198754,
+    "title": "Carnage",
+    "poster_path": "/nWII5qq7VPwgrHI4otsRWLsYyRb.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2024",
+    "release_date": "2024-02-09",
+    "rating": 6,
+    "original_language": "fi",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-10-17",
+    "id": 2662
+  },
+  {
+    "ytId": "C2Re2psiTi4",
+    "tmdbId": 316215,
+    "title": "Deceitful",
+    "poster_path": "/1ilNGUd1b5zBKWDU8o61ExVuPh4.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2013",
+    "release_date": "2013-06-06",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-17",
+    "id": 2661
+  },
+  {
+    "ytId": "raz1Zn0BajQ",
+    "tmdbId": 13570,
+    "title": "Tourist Trap",
+    "poster_path": "/c19pSkUfNElrmVn0iYtiJys5dK8.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "year": "1979",
+    "release_date": "1979-03-14",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-10-17",
+    "id": 2660
+  },
+  {
+    "ytId": "68NEd9MS-Dg",
+    "tmdbId": 11706,
+    "title": "War and Peace",
+    "poster_path": "/f3a1MyH12PSl3LFDahnooGy6mv8.jpg",
+    "genre_ids": [
+      10752,
+      10749,
+      18,
+      36
+    ],
+    "year": "1956",
+    "release_date": "1956-08-21",
+    "rating": 6.6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-17",
+    "id": 2659
+  },
+  {
+    "ytId": "JGRyYKBTC6k",
+    "tmdbId": 269519,
+    "title": "Robbery Under Arms",
+    "poster_path": "/a6VC61wtytymu6FU2ShGKg3Nflc.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "year": "1957",
+    "release_date": "1957-01-10",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-17",
+    "id": 2658
+  },
+  {
+    "ytId": "lsjnz7te0fM",
+    "tmdbId": 27896,
+    "title": "Planet Raptor",
+    "poster_path": "/aoetIO34uXYXwRqruH4DxGa0QGW.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "year": "2007",
+    "release_date": "2007-08-08",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-17",
+    "id": 2657
+  },
+  {
     "ytId": "QVN1ClOiPXI",
     "tmdbId": 108334,
     "title": "Not Like Everyone Else",
@@ -2469,112 +2574,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-09-26",
     "id": 2513
-  },
-  {
-    "ytId": "CVNCZKKkuLk",
-    "tmdbId": 567139,
-    "title": "The Confederate",
-    "poster_path": "/1AkexZWi3gmRnvZXggXOam3VGHr.jpg",
-    "genre_ids": [
-      28,
-      36,
-      10752
-    ],
-    "year": "2018",
-    "release_date": "2018-12-04",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-26",
-    "id": 2512
-  },
-  {
-    "ytId": "H5FLywjwW4g",
-    "tmdbId": 282821,
-    "title": "Miracle in the Woods",
-    "poster_path": "/rHStW1AAacfEZNgWQBvagft0XZG.jpg",
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "year": "1997",
-    "release_date": "1997-10-26",
-    "rating": 6.8,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-09-26",
-    "id": 2511
-  },
-  {
-    "ytId": "1ZUaZeKYSHw",
-    "tmdbId": 293941,
-    "title": "The Quiet Hour",
-    "poster_path": "/9PCAqaRs6x9kIUhY9PptMhFsWE9.jpg",
-    "genre_ids": [
-      18,
-      878,
-      53
-    ],
-    "year": "2016",
-    "release_date": "2016-06-24",
-    "rating": 4.6,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-09-25",
-    "id": 2510
-  },
-  {
-    "ytId": "Cpiq3kDgvCc",
-    "tmdbId": 1270125,
-    "title": "Monster on a Plane",
-    "poster_path": "/9fBcq5WiH3z4YGjS2iVESRKxcW4.jpg",
-    "genre_ids": [
-      27,
-      35
-    ],
-    "year": "2024",
-    "release_date": "2024-11-07",
-    "rating": 5.039,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-25",
-    "id": 2509
-  },
-  {
-    "ytId": "irB4mOZRvoQ",
-    "tmdbId": 45504,
-    "title": "Love Undercover",
-    "poster_path": "/4x33eDdiLuOIuTRUvwJhkE9nVdn.jpg",
-    "genre_ids": [
-      35,
-      80,
-      10749
-    ],
-    "year": "2002",
-    "release_date": "2002-03-07",
-    "rating": 7,
-    "original_language": "cn",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-25",
-    "id": 2508
-  },
-  {
-    "ytId": "kPkLfjK_HqA",
-    "tmdbId": 244628,
-    "title": "Ned Blessing: The True Story Of My Life",
-    "poster_path": "/r7a39pZbIRBrSY35BkBMei95eUe.jpg",
-    "genre_ids": [
-      80,
-      18,
-      37,
-      10770
-    ],
-    "year": "1992",
-    "release_date": "1992-04-14",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-09-25",
-    "id": 2507
   }
 ]
