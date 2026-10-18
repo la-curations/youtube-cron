@@ -1,5 +1,103 @@
 [
   {
+    "ytId": "bO6C9I4859o",
+    "tmdbId": 475408,
+    "title": "Murder on the Cape",
+    "poster_path": "/GCj7mXk5oekYKGQTzHOiWUEm4c.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2017",
+    "release_date": "2017-09-12",
+    "rating": 3.5,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-18",
+    "id": 2668
+  },
+  {
+    "ytId": "99DH9mtm5KM",
+    "tmdbId": 1190330,
+    "title": "Haunted Stories And Tales Of Horror",
+    "poster_path": "/5KnpRIHl1ppn3uMZ1K1kB8Cg7PA.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-10-03",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-18",
+    "id": 2667
+  },
+  {
+    "ytId": "tZTffjdtvcw",
+    "tmdbId": 1214361,
+    "title": "Bad Men Must Bleed",
+    "poster_path": "/cMJCAyK0m8gVGEzuwrlPqOPNc5r.jpg",
+    "genre_ids": [
+      37,
+      80,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-03-12",
+    "rating": 7.059,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-18",
+    "id": 2666
+  },
+  {
+    "ytId": "Lvqt3ohPel0",
+    "tmdbId": 457832,
+    "title": "Reset",
+    "poster_path": "/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2017",
+    "release_date": "2017-06-28",
+    "rating": 6.904,
+    "original_language": "zh",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-10-18",
+    "id": 2665
+  },
+  {
+    "ytId": "_pmF_NKKueU",
+    "tmdbId": 966565,
+    "title": "Borrowed Time",
+    "poster_path": "/AonIqRIt9FBeilRHC6uGONnpr19.jpg",
+    "genre_ids": [],
+    "year": "2022",
+    "release_date": "2022-10-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-18",
+    "id": 2664
+  },
+  {
+    "ytId": "co6i7wSJ1r0",
+    "tmdbId": 531820,
+    "title": "Made in Chinatown",
+    "poster_path": "/u7DONfe2myYN0famORX006LIkQA.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "year": "2021",
+    "release_date": "2021-05-10",
+    "rating": 5.5,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-10-18",
+    "id": 2663
+  },
+  {
     "ytId": "UbQrbUW_6I0",
     "tmdbId": 1198754,
     "title": "Carnage",
