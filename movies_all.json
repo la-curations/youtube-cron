@@ -1,5 +1,89 @@
 [
   {
+    "ytId": "TZ7H4XlbZsU",
+    "tmdbId": 66597,
+    "title": "Falling in Love Again",
+    "poster_path": "/raDuzonXvhXBrDPzKwOiy2c5Urk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "1980",
+    "release_date": "1980-11-21",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-19",
+    "id": 2673
+  },
+  {
+    "ytId": "BZWX_kyTk3s",
+    "tmdbId": 1683796,
+    "title": "Buried Alive: The Clay Killer",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-19",
+    "id": 2672
+  },
+  {
+    "ytId": "tY-Q6KzDQqU",
+    "tmdbId": 809347,
+    "title": "The Haunting of Hell Hole Mine",
+    "poster_path": "/mM22bxFTbOmbWRANAeG0DfU55Qb.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2023",
+    "release_date": "2023-05-18",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-19",
+    "id": 2671
+  },
+  {
+    "ytId": "nXD16hH77N8",
+    "tmdbId": 1729773,
+    "title": "Killer Clown",
+    "poster_path": "/uL8lh3SN5Cx3gTNcD9NwNsQWv2t.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2026",
+    "release_date": "2026-08-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-19",
+    "id": 2670
+  },
+  {
+    "ytId": "xxAgiS_hOsM",
+    "tmdbId": 752307,
+    "title": "Blood From Stone",
+    "poster_path": "/j1UYyOm5H3fJjuL8J0nXNXgSyk9.jpg",
+    "genre_ids": [
+      10749,
+      53,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-10-30",
+    "rating": 7.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-19",
+    "id": 2669
+  },
+  {
     "ytId": "bO6C9I4859o",
     "tmdbId": 475408,
     "title": "Murder on the Cape",

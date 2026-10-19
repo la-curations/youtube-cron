@@ -1,5 +1,89 @@
 [
   {
+    "ytId": "TZ7H4XlbZsU",
+    "tmdbId": 66597,
+    "title": "Falling in Love Again",
+    "poster_path": "/raDuzonXvhXBrDPzKwOiy2c5Urk.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "1980",
+    "release_date": "1980-11-21",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-10-19",
+    "id": 2673
+  },
+  {
+    "ytId": "BZWX_kyTk3s",
+    "tmdbId": 1683796,
+    "title": "Buried Alive: The Clay Killer",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-10-19",
+    "id": 2672
+  },
+  {
+    "ytId": "tY-Q6KzDQqU",
+    "tmdbId": 809347,
+    "title": "The Haunting of Hell Hole Mine",
+    "poster_path": "/mM22bxFTbOmbWRANAeG0DfU55Qb.jpg",
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "year": "2023",
+    "release_date": "2023-05-18",
+    "rating": 3.4,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-10-19",
+    "id": 2671
+  },
+  {
+    "ytId": "nXD16hH77N8",
+    "tmdbId": 1729773,
+    "title": "Killer Clown",
+    "poster_path": "/uL8lh3SN5Cx3gTNcD9NwNsQWv2t.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2026",
+    "release_date": "2026-08-01",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-19",
+    "id": 2670
+  },
+  {
+    "ytId": "xxAgiS_hOsM",
+    "tmdbId": 752307,
+    "title": "Blood From Stone",
+    "poster_path": "/j1UYyOm5H3fJjuL8J0nXNXgSyk9.jpg",
+    "genre_ids": [
+      10749,
+      53,
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-10-30",
+    "rating": 7.3,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-10-19",
+    "id": 2669
+  },
+  {
     "ytId": "bO6C9I4859o",
     "tmdbId": 475408,
     "title": "Murder on the Cape",
@@ -2483,90 +2567,5 @@
     "channelName": "StreamCore",
     "addedAt": "2026-09-29",
     "id": 2524
-  },
-  {
-    "ytId": "ZP4-KlfRWZY",
-    "tmdbId": 1523553,
-    "title": "Dark Horse",
-    "poster_path": "/jBK8cQzKLDaeqZKftB4SHFrpYco.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "year": "2026",
-    "release_date": "2026-11-19",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-09-29",
-    "id": 2523
-  },
-  {
-    "ytId": "7EyYm2MRq30",
-    "tmdbId": 582465,
-    "title": "நடுவன்",
-    "poster_path": "/ymorFfQOW6w8KUd4WFFtBSl9LMA.jpg",
-    "genre_ids": [
-      53,
-      18
-    ],
-    "year": "2021",
-    "release_date": "2021-09-24",
-    "rating": 7.5,
-    "original_language": "ta",
-    "channelName": "Sony LIV Tamil",
-    "addedAt": "2026-09-28",
-    "id": 2522
-  },
-  {
-    "ytId": "0RM1ZZOleCs",
-    "tmdbId": 768051,
-    "title": "The Bouncer",
-    "poster_path": "/skgw94m4B69avvSG5wALcJUnq5w.jpg",
-    "genre_ids": [
-      35
-    ],
-    "year": "2020",
-    "release_date": "2020-11-01",
-    "rating": 7,
-    "original_language": "fi",
-    "channelName": "V Movies",
-    "addedAt": "2026-09-28",
-    "id": 2521
-  },
-  {
-    "ytId": "7FdUFSoeuDE",
-    "tmdbId": 387742,
-    "title": "I Think My Babysitter is an Alien",
-    "poster_path": "/hvP1HKT92RvM8NfVtKhKMvlKLuu.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      878
-    ],
-    "year": "2015",
-    "release_date": "2015-08-11",
-    "rating": 6.3,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-09-27",
-    "id": 2520
-  },
-  {
-    "ytId": "lHWvs448j9A",
-    "tmdbId": 760731,
-    "title": "The Last Drop",
-    "poster_path": null,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "year": "",
-    "release_date": null,
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-09-27",
-    "id": 2519
   }
 ]
