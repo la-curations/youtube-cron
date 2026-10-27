@@ -4,21 +4,21 @@
     "name": "The Cinematics Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 82
+    "count": 83
   },
   {
     "channelId": "UCPPPrnT5080hPMxK1N4QSjA",
     "name": "V Movies",
     "nextPageToken": "EAAaH1BUOkNKWUJJaEF4UkRRNU1UQXpSVGhETlVRd01rRTU",
     "isHistoryComplete": false,
-    "count": 276
+    "count": 277
   },
   {
     "channelId": "UCOpzwVUNsep7FpN5687XYEA",
     "name": "Sci-Fi Central",
     "nextPageToken": "EAAaH1BUOkNQUURJaEExTVRaQlFqVTNSRVk1TmpBd05UUkQ",
     "isHistoryComplete": false,
-    "count": 134
+    "count": 136
   },
   {
     "channelId": "UC_MyK1SmeN2Sji4uBEckYaA",
@@ -32,7 +32,7 @@
     "name": "The Midnight Screening",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 284
+    "count": 286
   },
   {
     "channelId": "UCVFYikepF-avelvuIaQ_lHA",
@@ -46,14 +46,14 @@
     "name": "Movie Central",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 903
+    "count": 906
   },
   {
     "channelId": "UC8IHAQMuiJdY6ALuhG7iU8Q",
     "name": "FilmRise Movies",
     "nextPageToken": null,
     "isHistoryComplete": true,
-    "count": 172
+    "count": 173
   },
   {
     "channelId": "UCQmxcMxjYcBM5Pel4qUW2hA",
@@ -74,7 +74,7 @@
     "name": "StreamCore",
     "nextPageToken": "EAAaHlBUOkNHUWlFRVV5TlRBeE0wTkNOMEV5TlVZd09Uaw",
     "isHistoryComplete": false,
-    "count": 71
+    "count": 72
   },
   {
     "channelId": "UCOBMTKkkVlOi6-zCYg6R9zQ",
