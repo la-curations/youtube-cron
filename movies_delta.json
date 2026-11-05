@@ -1,5 +1,667 @@
 [
   {
+    "ytId": "DRCPTkqPAJg",
+    "tmdbId": 655080,
+    "title": "The Winter Lake",
+    "poster_path": "/wYr82hxQupve2okGR5msozlWEfa.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2020",
+    "release_date": "2020-10-01",
+    "rating": 5.008,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-11-05",
+    "id": 2743
+  },
+  {
+    "ytId": "YsKg3o9OqOU",
+    "tmdbId": 588064,
+    "title": "The Fare",
+    "poster_path": "/mLqhPBNyHkTkJGb93DwqlisIJ6Y.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      10749,
+      878
+    ],
+    "year": "2018",
+    "release_date": "2018-11-19",
+    "rating": 6.395,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-11-05",
+    "id": 2742
+  },
+  {
+    "ytId": "u2mGOvEyY7U",
+    "tmdbId": 25188,
+    "title": "The Last Picture Show",
+    "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "year": "1971",
+    "release_date": "1971-10-03",
+    "rating": 7.615,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-05",
+    "id": 2741
+  },
+  {
+    "ytId": "zv8OhC1PbU4",
+    "tmdbId": 145451,
+    "title": "L'ossessa",
+    "poster_path": "/1qxErFnoZmzGLoQgDVtUFl9EYKn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "1974",
+    "release_date": "1974-11-06",
+    "rating": 5,
+    "original_language": "it",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-05",
+    "id": 2740
+  },
+  {
+    "ytId": "5VLPEI9zo_g",
+    "tmdbId": 464879,
+    "title": "Cabin 28",
+    "poster_path": "/crvqys951H0yVoPR38oSg6YAxSj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-08-01",
+    "rating": 4.478,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-05",
+    "id": 2739
+  },
+  {
+    "ytId": "X41y8Sb78Ao",
+    "tmdbId": 620079,
+    "title": "Murder at the Mansion",
+    "poster_path": "/78DAavhmGrGHCTLMT00yab32WGN.jpg",
+    "genre_ids": [
+      53,
+      10770
+    ],
+    "year": "2020",
+    "release_date": "2020-05-15",
+    "rating": 5.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-05",
+    "id": 2738
+  },
+  {
+    "ytId": "unV0X-6_lDs",
+    "tmdbId": 1108405,
+    "title": "Return to the Theatre of Terror",
+    "poster_path": "/3S51ckLzNEms4Xgy5BQEqISFvDs.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-01-28",
+    "rating": 8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2737
+  },
+  {
+    "ytId": "G6R5vBHuY1I",
+    "tmdbId": 144087,
+    "title": "A Holiday to Remember",
+    "poster_path": "/D3xptFq5GGEevMyK2JipkJYkUQ.jpg",
+    "genre_ids": [
+      10770,
+      18,
+      10749
+    ],
+    "year": "1995",
+    "release_date": "1995-12-12",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2736
+  },
+  {
+    "ytId": "O1GNckKr7Ns",
+    "tmdbId": 24341,
+    "title": "Dolls",
+    "poster_path": "/oMCysbLhEK3xHTavrTLayWT6bnN.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "year": "1987",
+    "release_date": "1987-03-12",
+    "rating": 6.357,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2735
+  },
+  {
+    "ytId": "dYiycggP8qc",
+    "tmdbId": 748898,
+    "title": "Christmas Together",
+    "poster_path": "/MKgopT6vlEc6aUR71MUOs7SCaR.jpg",
+    "genre_ids": [
+      10749,
+      10770
+    ],
+    "year": "2020",
+    "release_date": "2020-12-02",
+    "rating": 6.4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2734
+  },
+  {
+    "ytId": "OxWHXFCcofY",
+    "tmdbId": 369061,
+    "title": "A Christmas Reunion",
+    "poster_path": "/MsAh9o8r0Gvjb3D0aNBjgiPaY3.jpg",
+    "genre_ids": [
+      35,
+      10770,
+      10751,
+      10749
+    ],
+    "year": "2015",
+    "release_date": "2015-11-28",
+    "rating": 5.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2733
+  },
+  {
+    "ytId": "rQNQ8IC75WE",
+    "tmdbId": 913673,
+    "title": "Nefarious",
+    "poster_path": "/xwjWUAajQJPj5aik1tounPguZbz.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-04-14",
+    "rating": 6.718,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2732
+  },
+  {
+    "ytId": "5MgBJanyIr0",
+    "tmdbId": 1220802,
+    "title": "Was Once a Hero",
+    "poster_path": "/2V7H4QSpkA3ncLjOfgbWlMwPOF3.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "year": "2025",
+    "release_date": "2025-04-25",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2731
+  },
+  {
+    "ytId": "mOw1MLwjTdY",
+    "tmdbId": 1163952,
+    "title": "Pickleball Princess",
+    "poster_path": "/supViZhzFFhab57dT22EnbQwQCd.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-08-04",
+    "rating": 3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-05",
+    "id": 2730
+  },
+  {
+    "ytId": "g_U1yUK4sjU",
+    "tmdbId": 863835,
+    "title": "Into the Soul",
+    "poster_path": "/hGPv07qmKWQJkDaZSAKNKkszkYJ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2021",
+    "release_date": "2021-08-21",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-05",
+    "id": 2729
+  },
+  {
+    "ytId": "PyVypc-lvFA",
+    "tmdbId": 1588197,
+    "title": "Dystopia",
+    "poster_path": "/3Yjpxg9r4qP1mxAQ85SBGlWE4vk.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "2017",
+    "release_date": "2017-12-05",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-05",
+    "id": 2728
+  },
+  {
+    "ytId": "flPUrK9EWYU",
+    "tmdbId": 852696,
+    "title": "Immanence",
+    "poster_path": "/6LSDQPjtDpkMLfGzzYhKAjrNn9V.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18,
+      878
+    ],
+    "year": "2022",
+    "release_date": "2022-02-04",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2727
+  },
+  {
+    "ytId": "iguhU3eXa20",
+    "tmdbId": 46719,
+    "title": "Night of the Living Dead: Reanimated",
+    "poster_path": "/aLgBPvZLntT6GecHYUm5OmixM4O.jpg",
+    "genre_ids": [
+      16,
+      28,
+      18,
+      14,
+      27,
+      53
+    ],
+    "year": "2009",
+    "release_date": "2009-09-01",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2726
+  },
+  {
+    "ytId": "KE79AuZP3Vk",
+    "tmdbId": 85558,
+    "title": "Hip Hop Locos",
+    "poster_path": "/7PgMkcOdM9AScwHI8IQcJkx0opM.jpg",
+    "genre_ids": [
+      80,
+      53,
+      27
+    ],
+    "year": "2001",
+    "release_date": "2001-01-01",
+    "rating": 1.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2725
+  },
+  {
+    "ytId": "9NUabgbBx5U",
+    "tmdbId": 518240,
+    "title": "The Nursery",
+    "poster_path": "/oX1nGXnw2wQXuwwfXneyNCvWFD2.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-06-15",
+    "rating": 3.8,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2724
+  },
+  {
+    "ytId": "EBY5HVvwCtY",
+    "tmdbId": 258088,
+    "title": "Three Blind Mice",
+    "poster_path": "/4qth8j95yOPVXGWnTBS9bxbktXh.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "1938",
+    "release_date": "1938-06-18",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2723
+  },
+  {
+    "ytId": "QwwwC5udRz4",
+    "tmdbId": 308017,
+    "title": "Silent Retreat",
+    "poster_path": "/cnHlByq8goU1JfIivWb7L3zvAxf.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      27
+    ],
+    "year": "2016",
+    "release_date": "2016-01-12",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2722
+  },
+  {
+    "ytId": "BzyJneqa2aE",
+    "tmdbId": 614696,
+    "title": "#Alive",
+    "poster_path": "/lZPvLUMYEPLTE2df1VW5FHTYC8N.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "year": "2020",
+    "release_date": "2020-06-24",
+    "rating": 7.192,
+    "original_language": "ko",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2721
+  },
+  {
+    "ytId": "i2wmylyDXIM",
+    "tmdbId": 1190071,
+    "title": "Decade of the Dead",
+    "poster_path": "/AjxP8ZKhlBf0kdzc6X2fm8VMmOr.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-10-03",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-05",
+    "id": 2720
+  },
+  {
+    "ytId": "vDhTQ3Reneo",
+    "tmdbId": 1219533,
+    "title": "Adventure King",
+    "poster_path": "/mQVbnJjZt4DYhr5FmqXOd9Nmfla.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2023",
+    "release_date": "2023-12-17",
+    "rating": 6,
+    "original_language": "zh",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2719
+  },
+  {
+    "ytId": "Rgb9s2eQnx0",
+    "tmdbId": 1185029,
+    "title": "Visitors from Hell: Paranormal Horror Stories",
+    "poster_path": "/iTZaiW5VOPVWVZZDrXEB9wCFK61.jpg",
+    "genre_ids": [
+      99,
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-10-01",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2718
+  },
+  {
+    "ytId": "XmV2Jd_SMAI",
+    "tmdbId": 286372,
+    "title": "Treehouse",
+    "poster_path": "/6kOvkJDDi9qghFrQEkYlv2MDksq.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-06-25",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2717
+  },
+  {
+    "ytId": "MtkME2TXeqI",
+    "tmdbId": 591459,
+    "title": "Pet Graveyard",
+    "poster_path": "/yj8vYLY5yrJC8AgNsLgJc5e1IY3.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2019",
+    "release_date": "2019-04-02",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2716
+  },
+  {
+    "ytId": "4MJDsITU9a0",
+    "tmdbId": 1666881,
+    "title": "Freeze",
+    "poster_path": "/eU3yhwmFisXk9dEfC6EsHXJbXgO.jpg",
+    "genre_ids": [
+      80,
+      28,
+      18,
+      35,
+      37
+    ],
+    "year": "2026",
+    "release_date": "2026-03-25",
+    "rating": null,
+    "original_language": "it",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2715
+  },
+  {
+    "ytId": "jxCsfe9KJHU",
+    "tmdbId": 1574181,
+    "title": "Inthralled",
+    "poster_path": "/7mnv3Dcyskyyrthdi8ataaNsacG.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2025",
+    "release_date": "2025-10-07",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2714
+  },
+  {
+    "ytId": "ZvOyYLBv4Sg",
+    "tmdbId": 339992,
+    "title": "The Redwood Massacre",
+    "poster_path": "/tzMrAlzURdxRD0wpai3zTPozKAn.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2014",
+    "release_date": "2014-09-28",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2713
+  },
+  {
+    "ytId": "30LoYZiIo9w",
+    "tmdbId": 981347,
+    "title": "The Loch Ness Horror",
+    "poster_path": "/fFdG5U2PzhRrHRpbbORQrcAMn8D.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2023",
+    "release_date": "2023-11-07",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2712
+  },
+  {
+    "ytId": "6KPnMkMCs-o",
+    "tmdbId": 341741,
+    "title": "Don't Speak",
+    "poster_path": "/6bUckj6vh1zbPoYWBIPolc3S0P2.jpg",
+    "genre_ids": [
+      53,
+      27,
+      9648
+    ],
+    "year": "2015",
+    "release_date": "2015-10-10",
+    "rating": 2.9,
+    "original_language": "es",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2711
+  },
+  {
+    "ytId": "E47SZlg5dRA",
+    "tmdbId": 10063,
+    "title": "The Breed",
+    "poster_path": "/84wIp36RZ1zpVBoJTjwzGjZVRxD.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2006",
+    "release_date": "2006-05-17",
+    "rating": 5.49,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-05",
+    "id": 2710
+  },
+  {
+    "ytId": "MpZcdvPtYIo",
+    "tmdbId": 1357809,
+    "title": "The Bird Catcher",
+    "poster_path": "/lJ3TcLdXLdmsjcMtAehRYC8lovB.jpg",
+    "genre_ids": [
+      16
+    ],
+    "year": "1984",
+    "release_date": "1984-02-14",
+    "rating": null,
+    "original_language": "ru",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-05",
+    "id": 2709
+  },
+  {
+    "ytId": "J3ftExcNviA",
+    "tmdbId": 525554,
+    "title": "The Bouncer",
+    "poster_path": "/w7rFgyr7rujNYRex9oxzG26Zq6z.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-08-22",
+    "rating": 6.246,
+    "original_language": "fr",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-05",
+    "id": 2708
+  },
+  {
+    "ytId": "Zd7Vr3S6-6s",
+    "tmdbId": 117550,
+    "title": "Helga: She Wolf of Stilberg",
+    "poster_path": "/j6UsjINEgL0Ox7LOOr29Z9KMwvA.jpg",
+    "genre_ids": [
+      18,
+      53,
+      27
+    ],
+    "year": "1977",
+    "release_date": "1977-10-20",
+    "rating": 4.1,
+    "original_language": "fr",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-05",
+    "id": 2707
+  },
+  {
+    "ytId": "RIqW6yN1oCo",
+    "tmdbId": 35951,
+    "title": "Dark Asylum",
+    "poster_path": "/zyta5ZffNU1SExVQNHW5dZiskqJ.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "year": "2001",
+    "release_date": "2001-11-08",
+    "rating": 4.1,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-11-05",
+    "id": 2706
+  },
+  {
     "ytId": "AQ0pxtUWaj4",
     "tmdbId": 1388236,
     "title": "Fortune Cookie",
@@ -1913,663 +2575,5 @@
     "channelName": "Disaster Zone Movies",
     "addedAt": "2026-10-06",
     "id": 2594
-  },
-  {
-    "ytId": "qjzoTVXDT-I",
-    "tmdbId": 72174,
-    "title": "Doomsday Prophecy",
-    "poster_path": "/cJ0q94RFbj0l1odJidX4FDW6RPT.jpg",
-    "genre_ids": [
-      10770,
-      878,
-      12,
-      28
-    ],
-    "year": "2011",
-    "release_date": "2011-08-13",
-    "rating": 4.1,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-10-06",
-    "id": 2593
-  },
-  {
-    "ytId": "nq16s0MVy8Y",
-    "tmdbId": 71682,
-    "title": "Coffin Baby",
-    "poster_path": "/k4pBspIEC0lzVwKVW1vA3GCyVnj.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2013",
-    "release_date": "2013-03-15",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "The Cinematics Movies",
-    "addedAt": "2026-10-06",
-    "id": 2592
-  },
-  {
-    "ytId": "kTbIFuCpbYo",
-    "tmdbId": 606216,
-    "title": "Hydra",
-    "poster_path": "/bgCERhRmKJwrlQisTMBrLUasRF6.jpg",
-    "genre_ids": [
-      53,
-      28,
-      80,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-05-24",
-    "rating": 5.8,
-    "original_language": "ja",
-    "channelName": "StreamCore",
-    "addedAt": "2026-10-05",
-    "id": 2591
-  },
-  {
-    "ytId": "kGKSKDo3d78",
-    "tmdbId": 505579,
-    "title": "Bent",
-    "poster_path": "/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg",
-    "genre_ids": [
-      53,
-      80
-    ],
-    "year": "2018",
-    "release_date": "2018-03-09",
-    "rating": 5.2,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-05",
-    "id": 2590
-  },
-  {
-    "ytId": "L1HADME4YhI",
-    "tmdbId": 293205,
-    "title": "Recipe for Love",
-    "poster_path": "/ufxmSBb5CbmxdruL45WQYsW4mEI.jpg",
-    "genre_ids": [
-      10770,
-      18,
-      10749
-    ],
-    "year": "2014",
-    "release_date": "2014-10-11",
-    "rating": 5.9,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-05",
-    "id": 2589
-  },
-  {
-    "ytId": "qD9DqJqJqz4",
-    "tmdbId": 14805,
-    "title": "Bait",
-    "poster_path": "/jon5ux36iUn6GnntxkZaNtB6AZT.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80
-    ],
-    "year": "2000",
-    "release_date": "2000-09-15",
-    "rating": 5.742,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-10-05",
-    "id": 2588
-  },
-  {
-    "ytId": "vlhNF0-AXj4",
-    "tmdbId": 191566,
-    "title": "Crazy Kind of Love",
-    "poster_path": "/fFy97WBoUyGqlUVMh5A9YcJZsh7.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10749
-    ],
-    "year": "2013",
-    "release_date": "2013-05-31",
-    "rating": 5.4,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-10-04",
-    "id": 2587
-  },
-  {
-    "ytId": "tG_1AxD-fr4",
-    "tmdbId": 1709927,
-    "title": "Blood Moon",
-    "poster_path": null,
-    "genre_ids": [],
-    "year": "2026",
-    "release_date": "2026-09-11",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-04",
-    "id": 2586
-  },
-  {
-    "ytId": "F1Vwc2jC7EA",
-    "tmdbId": 1221884,
-    "title": "Princess for a Day",
-    "poster_path": "/ufPZ73SmKejMpmPM9ugnnPdkNId.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      10751
-    ],
-    "year": "2025",
-    "release_date": "2025-11-25",
-    "rating": 7.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-04",
-    "id": 2585
-  },
-  {
-    "ytId": "YTL_RFAuxYA",
-    "tmdbId": 769017,
-    "title": "The Love Doctor",
-    "poster_path": "/kDJ5vWaCHu0PamOZwOVQeiALEbe.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "1929",
-    "release_date": "1929-01-06",
-    "rating": 10,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-04",
-    "id": 2584
-  },
-  {
-    "ytId": "zeVJK-yO2WE",
-    "tmdbId": 626285,
-    "title": "A Christmas Wish",
-    "poster_path": "/bHtond3wOw85ZqDBzTaKHRM5vvp.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      18
-    ],
-    "year": "2019",
-    "release_date": "2019-11-28",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "Movie Central",
-    "addedAt": "2026-10-04",
-    "id": 2583
-  },
-  {
-    "ytId": "0AQ_NOXofHA",
-    "tmdbId": 1630747,
-    "title": "Brooker",
-    "poster_path": "/e9PTglhN5gXVEjPVHnhrYeIq3SZ.jpg",
-    "genre_ids": [
-      12
-    ],
-    "year": "2026",
-    "release_date": "2026-02-07",
-    "rating": null,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-04",
-    "id": 2582
-  },
-  {
-    "ytId": "OZ5oiey2Va0",
-    "tmdbId": 1284443,
-    "title": "The House By The Lake",
-    "poster_path": "/4JTRw9q2DVegN7e32p54w2qJeF4.jpg",
-    "genre_ids": [],
-    "year": "2024",
-    "release_date": "2024-01-20",
-    "rating": 10,
-    "original_language": "de",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-10-04",
-    "id": 2581
-  },
-  {
-    "ytId": "krhtIt9c5M0",
-    "tmdbId": 1064178,
-    "title": "Hunt Club",
-    "poster_path": "/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg",
-    "genre_ids": [
-      28,
-      53,
-      27
-    ],
-    "year": "2023",
-    "release_date": "2023-04-06",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-10-04",
-    "id": 2580
-  },
-  {
-    "ytId": "qrieWfblVfs",
-    "tmdbId": 467330,
-    "title": "Death Fighter",
-    "poster_path": "/3G2nPaI93RurE7wOEy5hCg0v3X5.jpg",
-    "genre_ids": [
-      28
-    ],
-    "year": "2017",
-    "release_date": "2017-07-25",
-    "rating": 6.6,
-    "original_language": "en",
-    "channelName": "THE MOVIE ZONE",
-    "addedAt": "2026-10-03",
-    "id": 2579
-  },
-  {
-    "ytId": "ijPVE2zdlwU",
-    "tmdbId": 934292,
-    "title": "பன்றிக்கு நன்றி சொல்லி",
-    "poster_path": "/gSnv0zw235qfxu0WURMnXKaJXr6.jpg",
-    "genre_ids": [
-      35,
-      80
-    ],
-    "year": "2022",
-    "release_date": "2022-02-04",
-    "rating": 8,
-    "original_language": "ta",
-    "channelName": "Sony LIV Tamil",
-    "addedAt": "2026-10-03",
-    "id": 2578
-  },
-  {
-    "ytId": "zqhNSULfn3g",
-    "tmdbId": 164331,
-    "title": "สไปเดอร์ส ฝูงแมงมุมยักษ์ถล่มโลก",
-    "poster_path": "/zmN0Y6uIDuMCBEFNuTX5cCaFScG.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "year": "2013",
-    "release_date": "2013-02-08",
-    "rating": 4.4,
-    "original_language": "en",
-    "channelName": "FilmRise Movies",
-    "addedAt": "2026-10-03",
-    "id": 2577
-  },
-  {
-    "ytId": "JH6ppAE5w_8",
-    "tmdbId": 1624183,
-    "title": "Blackout",
-    "poster_path": "/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "year": "2026",
-    "release_date": "2026-01-27",
-    "rating": 6.6,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2576
-  },
-  {
-    "ytId": "viRs4QeYvXk",
-    "tmdbId": 602,
-    "title": "Independence Day",
-    "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "year": "1996",
-    "release_date": "1996-07-02",
-    "rating": 6.9,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2575
-  },
-  {
-    "ytId": "iIx2wff85x4",
-    "tmdbId": 473902,
-    "title": "The Amityville Murders",
-    "poster_path": "/bE5ClVWxIJhzXRFqNoGIuGDWED8.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-11-05",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2574
-  },
-  {
-    "ytId": "62PE0BZlaPw",
-    "tmdbId": 242095,
-    "title": "The Signal",
-    "poster_path": "/r5v3gzfxtnO9bKebs5Ujee6LLP1.jpg",
-    "genre_ids": [
-      53,
-      878
-    ],
-    "year": "2014",
-    "release_date": "2014-03-15",
-    "rating": 6.03,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2573
-  },
-  {
-    "ytId": "dTL85SqwihM",
-    "tmdbId": 629363,
-    "title": "It's Here",
-    "poster_path": "/85iiM97Dxow0tYsx3xBmZT2hNHn.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2019",
-    "release_date": "2019-08-06",
-    "rating": 5,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2572
-  },
-  {
-    "ytId": "qwkiu0sk-9k",
-    "tmdbId": 376003,
-    "title": "Mercury Plains",
-    "poster_path": "/eZXUTjxjorNQSCYewKS9mvubeBG.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "year": "2016",
-    "release_date": "2016-01-05",
-    "rating": 4.706,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2571
-  },
-  {
-    "ytId": "CkXMKzQdujs",
-    "tmdbId": 58791,
-    "title": "Bone Eater",
-    "poster_path": "/lQPHTuJOJJp1QNeAu00yR3HlaJy.jpg",
-    "genre_ids": [
-      27,
-      10770
-    ],
-    "year": "2008",
-    "release_date": "2008-02-15",
-    "rating": 3.3,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2570
-  },
-  {
-    "ytId": "RFL3NK6M67Q",
-    "tmdbId": 47594,
-    "title": "The Society Murders",
-    "poster_path": "/w1F242RPcuqeboGmoKVXCngTeCM.jpg",
-    "genre_ids": [
-      53,
-      80,
-      10770
-    ],
-    "year": "2006",
-    "release_date": "2006-06-18",
-    "rating": 6.5,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2569
-  },
-  {
-    "ytId": "SyaJWUDgUjE",
-    "tmdbId": 514690,
-    "title": "Global Meltdown",
-    "poster_path": "/3msVFWalwQyfXQONXh9dRM0FLpD.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53,
-      10770
-    ],
-    "year": "2017",
-    "release_date": "2017-07-06",
-    "rating": 5.8,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2568
-  },
-  {
-    "ytId": "tS8Wyz9Cd1Q",
-    "tmdbId": 285135,
-    "title": "Zodiac",
-    "poster_path": "/sczgdIDuzYZqZOoQ29BRM3O5nU8.jpg",
-    "genre_ids": [
-      878,
-      10770
-    ],
-    "year": "2014",
-    "release_date": "2014-08-16",
-    "rating": 3.8,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2567
-  },
-  {
-    "ytId": "E2DK3OoocEA",
-    "tmdbId": 356191,
-    "title": "Demon",
-    "poster_path": "/tyGOeGI6mnzkmojSnqJvWvDqtH.jpg",
-    "genre_ids": [
-      18,
-      27,
-      53
-    ],
-    "year": "2015",
-    "release_date": "2015-10-16",
-    "rating": 5.711,
-    "original_language": "pl",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2566
-  },
-  {
-    "ytId": "0diKLzUtPTQ",
-    "tmdbId": 455551,
-    "title": "The Recall",
-    "poster_path": "/A2sQAzHavtot2brA42pHXKgf3ww.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "year": "2017",
-    "release_date": "2017-06-02",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2565
-  },
-  {
-    "ytId": "woENlAQUbhQ",
-    "tmdbId": 34180,
-    "title": "Aussie and Ted's Great Adventure",
-    "poster_path": "/wpxivvKghH9YriNCtW8GIK8nmz.jpg",
-    "genre_ids": [
-      18,
-      10751
-    ],
-    "year": "2009",
-    "release_date": "2009-01-01",
-    "rating": 4.2,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2564
-  },
-  {
-    "ytId": "cZ1FKm2Qcnc",
-    "tmdbId": 435577,
-    "title": "The 12th Man",
-    "poster_path": "/dxZ8iGf5jQoLcNqBJL6uzNTivp.jpg",
-    "genre_ids": [
-      10752,
-      18
-    ],
-    "year": "2017",
-    "release_date": "2017-12-25",
-    "rating": 7.116,
-    "original_language": "no",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2563
-  },
-  {
-    "ytId": "En8YcWWjfZ8",
-    "tmdbId": 33931,
-    "title": "The Sea Wolf",
-    "poster_path": "/hgpzaiHupKqvozTcXuqF5Ew5QVF.jpg",
-    "genre_ids": [
-      12,
-      18
-    ],
-    "year": "1941",
-    "release_date": "1941-03-21",
-    "rating": 7.2,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2562
-  },
-  {
-    "ytId": "_nyAxj0CBCw",
-    "tmdbId": 27860,
-    "title": "Pterodactyl",
-    "poster_path": "/cSSfDX8ixzA9Yb4nYIwEtqiKxPa.jpg",
-    "genre_ids": [
-      28,
-      12,
-      27,
-      878,
-      53
-    ],
-    "year": "2004",
-    "release_date": "2004-10-17",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2561
-  },
-  {
-    "ytId": "3uKYLvauWXw",
-    "tmdbId": 573641,
-    "title": "End of the World",
-    "poster_path": "/nCMh8pkYpoMqHmMplzOg57QYHVR.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "year": "2018",
-    "release_date": "2018-12-20",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2560
-  },
-  {
-    "ytId": "-D98JKO3ARY",
-    "tmdbId": 429524,
-    "title": "Drone Wars",
-    "poster_path": "/jkj96RTf6JRwqwPkFWHwhq8N08X.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53
-    ],
-    "year": "2016",
-    "release_date": "2016-03-30",
-    "rating": 4.8,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2559
-  },
-  {
-    "ytId": "gK9GNgwEauE",
-    "tmdbId": 482750,
-    "title": "Doomsday Device",
-    "poster_path": "/sevqw45bR8fiCM7bMO7KJJGOhOl.jpg",
-    "genre_ids": [
-      878
-    ],
-    "year": "2017",
-    "release_date": "2017-02-19",
-    "rating": 4.7,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2558
-  },
-  {
-    "ytId": "55MgMpPSkuI",
-    "tmdbId": 21373,
-    "title": "Descent",
-    "poster_path": "/qYYfg0EB5vkEC4QZhJ5wFZZKhj1.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "year": "2007",
-    "release_date": "2007-08-10",
-    "rating": 4.3,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2557
-  },
-  {
-    "ytId": "pR4CPxtT-1A",
-    "tmdbId": 83880,
-    "title": "Super Shark",
-    "poster_path": "/5hLiYCnO00t7Q0dWjtZKUvGh5pJ.jpg",
-    "genre_ids": [
-      878,
-      28,
-      35,
-      27,
-      12
-    ],
-    "year": "2011",
-    "release_date": "2011-12-08",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "The Midnight Screening",
-    "addedAt": "2026-10-03",
-    "id": 2556
   }
 ]
