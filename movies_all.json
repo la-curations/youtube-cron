@@ -1,5 +1,58 @@
 [
   {
+    "ytId": "trD-DSm4u4I",
+    "tmdbId": 404580,
+    "title": "Spin Out",
+    "poster_path": "/9M4kLmtyi5XgbukVVNfJecKCGWp.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "2016",
+    "release_date": "2016-09-15",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-06",
+    "id": 2746
+  },
+  {
+    "ytId": "HHpKEohLrbo",
+    "tmdbId": 28904,
+    "title": "The Dog Who Saved Christmas",
+    "poster_path": "/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      10770
+    ],
+    "year": "2009",
+    "release_date": "2009-11-09",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-06",
+    "id": 2745
+  },
+  {
+    "ytId": "-Huh-WHJ10A",
+    "tmdbId": 1096443,
+    "title": "Summoning the Spirit",
+    "poster_path": "/7Ez8G9wOiA45Huri4j02SLpqMpx.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "year": "2023",
+    "release_date": "2023-03-06",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-06",
+    "id": 2744
+  },
+  {
     "ytId": "DRCPTkqPAJg",
     "tmdbId": 655080,
     "title": "The Winter Lake",
