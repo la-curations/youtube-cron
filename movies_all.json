@@ -1,5 +1,296 @@
 [
   {
+    "ytId": "LS7AHnKibNA",
+    "tmdbId": 472722,
+    "title": "Party Boat",
+    "poster_path": "/kWk9NJvlEqIcl98wK3nQDYTFmys.jpg",
+    "genre_ids": [
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-09-15",
+    "rating": 5.8,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-11",
+    "id": 2763
+  },
+  {
+    "ytId": "r23cVFuSx4o",
+    "tmdbId": 23159,
+    "title": "The Talk of the Town",
+    "poster_path": "/naMSxieb5cD1bGCu0rZ7zLJ6mtA.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "1942",
+    "release_date": "1942-08-20",
+    "rating": 7.4,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-11",
+    "id": 2762
+  },
+  {
+    "ytId": "XX8gYDXE8Jw",
+    "tmdbId": 1171664,
+    "title": "Federal Reserves",
+    "poster_path": null,
+    "genre_ids": [],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-11",
+    "id": 2761
+  },
+  {
+    "ytId": "H9Yjuul5GIU",
+    "tmdbId": 111969,
+    "title": "Stuck in Love",
+    "poster_path": "/byic4VFVrpPyjDWK54CcsxYWW85.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "year": "2013",
+    "release_date": "2013-06-14",
+    "rating": 7.369,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-11",
+    "id": 2760
+  },
+  {
+    "ytId": "3Eh7dVNKWNU",
+    "tmdbId": 685411,
+    "title": "Marvelous and the Black Hole",
+    "poster_path": "/p8JiuRrSdg6qXNnJWTqOftTy6D.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-04-22",
+    "rating": 6.519,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-11",
+    "id": 2759
+  },
+  {
+    "ytId": "1NKq2wL_CcY",
+    "tmdbId": 1662051,
+    "title": "Shadows",
+    "poster_path": "/2s5IHmo37qoaBLCxrgyXNRunntV.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-04-05",
+    "rating": null,
+    "original_language": "pt",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-11",
+    "id": 2758
+  },
+  {
+    "ytId": "qQCp3KR3ToI",
+    "tmdbId": 1613798,
+    "title": "Vengeance",
+    "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2026",
+    "release_date": "2026-02-26",
+    "rating": 7.539,
+    "original_language": "es",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-11",
+    "id": 2757
+  },
+  {
+    "ytId": "9LxNXP5l0-U",
+    "tmdbId": 1771692,
+    "title": "Bòghes – The story of a Sardinian choir in New York",
+    "poster_path": "/hit82Ct4iM1JlQWMebNBsDL5Alq.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "year": "2026",
+    "release_date": "2026-09-18",
+    "rating": null,
+    "original_language": "it",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-11",
+    "id": 2756
+  },
+  {
+    "ytId": "hSjpCmL2vi4",
+    "tmdbId": 421632,
+    "title": "I'll Be Home for Christmas",
+    "poster_path": "/jecVCKLA2rttDps4jiFdtd0pA3n.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      18
+    ],
+    "year": "2016",
+    "release_date": "2016-11-27",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-11",
+    "id": 2755
+  },
+  {
+    "ytId": "kd0qYf_6FLo",
+    "tmdbId": 1295689,
+    "title": "Hidden Creek",
+    "poster_path": "/7BTwQMwvrDLvvMB3l6w2yKfuSI.jpg",
+    "genre_ids": [],
+    "year": "2025",
+    "release_date": "2025-01-16",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-11",
+    "id": 2754
+  },
+  {
+    "ytId": "NL09KpSJUXQ",
+    "tmdbId": 200803,
+    "title": "Altered Species",
+    "poster_path": "/1ki6TnBxlKG81ZbaXvaxEa7BXcK.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2001",
+    "release_date": "2001-09-01",
+    "rating": 3.7,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-11",
+    "id": 2753
+  },
+  {
+    "ytId": "y8_lMD2GKDc",
+    "tmdbId": 502791,
+    "title": "Bullitt County",
+    "poster_path": "/idg9LHvRTmVr4d4uxJpzl74uyPd.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "year": "2018",
+    "release_date": "2018-10-26",
+    "rating": 4.9,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-11",
+    "id": 2752
+  },
+  {
+    "ytId": "sDQM-xx99JQ",
+    "tmdbId": 1091923,
+    "title": "Ingress",
+    "poster_path": "/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "year": "2023",
+    "release_date": "2023-09-23",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-11",
+    "id": 2751
+  },
+  {
+    "ytId": "2tNnFYGDSyQ",
+    "tmdbId": 197013,
+    "title": "The Set Up",
+    "poster_path": "/aD0X1Ia2UmXa94f6hjZfeNzUY0E.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648,
+      10770
+    ],
+    "year": "1995",
+    "release_date": "1995-07-23",
+    "rating": 4.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-11",
+    "id": 2750
+  },
+  {
+    "ytId": "hAHznjKSM-8",
+    "tmdbId": 353267,
+    "title": "Fire Twister",
+    "poster_path": "/fDzT3cixUuzTYzCAddDmqZCLI8k.jpg",
+    "genre_ids": [
+      53,
+      28,
+      12,
+      878
+    ],
+    "year": "2015",
+    "release_date": "2015-06-21",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-11",
+    "id": 2749
+  },
+  {
+    "ytId": "ZKHoCcMcVVs",
+    "tmdbId": 462181,
+    "title": "Palm Swings",
+    "poster_path": "/e65F1qDaThjdmthr94SwrA4McaA.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "year": "2017",
+    "release_date": "2017-10-03",
+    "rating": 5.9,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-11-11",
+    "id": 2748
+  },
+  {
+    "ytId": "c8Tz3JWlDfM",
+    "tmdbId": 445962,
+    "title": "Larceny",
+    "poster_path": "/qUviwREBPSuST9DQ243hKaUbhgR.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "year": "2017",
+    "release_date": "2017-03-09",
+    "rating": 3.9,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-11-11",
+    "id": 2747
+  },
+  {
     "ytId": "trD-DSm4u4I",
     "tmdbId": 404580,
     "title": "Spin Out",
