@@ -1,5 +1,484 @@
 [
   {
+    "ytId": "i_APXLuHwUA",
+    "tmdbId": 575842,
+    "title": "Red Ghost",
+    "poster_path": "/9OFF92pkqDgR5d5yp0JhdjXXwrc.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      36
+    ],
+    "year": "2021",
+    "release_date": "2021-08-30",
+    "rating": 5.935,
+    "original_language": "ru",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-11-17",
+    "id": 2791
+  },
+  {
+    "ytId": "apcphTTHfHs",
+    "tmdbId": 68270,
+    "title": "Scarred",
+    "poster_path": "/phtiATGi5DJiOIQcm1JUHl8X6IU.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2005",
+    "release_date": "2005-12-06",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-17",
+    "id": 2790
+  },
+  {
+    "ytId": "qUjwSVY6u6Q",
+    "tmdbId": 873633,
+    "title": "Honey Girls",
+    "poster_path": "/mH1WZ0pZQuYxL3HnBwvZ4cEF1p2.jpg",
+    "genre_ids": [
+      10402,
+      10751
+    ],
+    "year": "2021",
+    "release_date": "2021-10-19",
+    "rating": 5.4,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-17",
+    "id": 2789
+  },
+  {
+    "ytId": "4EiNEwqwsxM",
+    "tmdbId": 1133152,
+    "title": "Twisted Vines",
+    "poster_path": "/qorw3HKTswcsfijLpp50YbMT0vX.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "year": "2022",
+    "release_date": "2022-09-17",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-17",
+    "id": 2788
+  },
+  {
+    "ytId": "frfba3VfNC8",
+    "tmdbId": 14675,
+    "title": "The Awful Truth",
+    "poster_path": "/2VtsJoxvjpcMpwh0gweS8IMfHxO.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "year": "1937",
+    "release_date": "1937-10-21",
+    "rating": 7.2,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-17",
+    "id": 2787
+  },
+  {
+    "ytId": "JVRyTUTK270",
+    "tmdbId": 28120,
+    "title": "Crossfire",
+    "poster_path": "/s3EFBiCsc4Ckc1tntoHAEnhZtSO.jpg",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "year": "1947",
+    "release_date": "1947-08-15",
+    "rating": 6.677,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-17",
+    "id": 2786
+  },
+  {
+    "ytId": "ZgFY6jPX-Og",
+    "tmdbId": 613703,
+    "title": "கடைசி விவசாயி",
+    "poster_path": "/wRyJqZ3X1MUsEbivc0X4NFaAnAA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2022",
+    "release_date": "2022-02-11",
+    "rating": 8.6,
+    "original_language": "ta",
+    "channelName": "Sony LIV Tamil",
+    "addedAt": "2026-11-17",
+    "id": 2785
+  },
+  {
+    "ytId": "difxuFbSbRA",
+    "tmdbId": 58244,
+    "title": "Upside Down",
+    "poster_path": "/wImo0dC72HRoI5QO85dGavmxW6q.jpg",
+    "genre_ids": [
+      10749,
+      878,
+      18,
+      14
+    ],
+    "year": "2012",
+    "release_date": "2012-09-27",
+    "rating": 6.278,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-17",
+    "id": 2784
+  },
+  {
+    "ytId": "fSWQRS3nty4",
+    "tmdbId": 18602,
+    "title": "Morvern Callar",
+    "poster_path": "/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2002",
+    "release_date": "2002-11-01",
+    "rating": 6.7,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-17",
+    "id": 2783
+  },
+  {
+    "ytId": "hZf6pQbm028",
+    "tmdbId": 67214,
+    "title": "Miracle Dogs",
+    "poster_path": "/ij4beKv5K2MKvECtTj6h8EXEj5Y.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "year": "2003",
+    "release_date": "2003-07-20",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "FilmRise Movies",
+    "addedAt": "2026-11-17",
+    "id": 2782
+  },
+  {
+    "ytId": "_ZdRNfr9l5k",
+    "tmdbId": 1182601,
+    "title": "Meth Gator",
+    "poster_path": "/zmoj2xsGpZy2vLyVjubrc5js5cU.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2024",
+    "release_date": "2024-05-25",
+    "rating": 4.8,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-17",
+    "id": 2781
+  },
+  {
+    "ytId": "aR3B6rbCjFU",
+    "tmdbId": 879918,
+    "title": "The Broker",
+    "poster_path": "/6JvtrG2frSh5kgttdH0sISrIJyb.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "2021",
+    "release_date": "2021-10-01",
+    "rating": 6,
+    "original_language": "bn",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-17",
+    "id": 2780
+  },
+  {
+    "ytId": "5qOruKS8d9E",
+    "tmdbId": 179207,
+    "title": "Desert Killer",
+    "poster_path": "/yk2w0PcHuSEUqjEQaRowGFDgQFl.jpg",
+    "genre_ids": [
+      99
+    ],
+    "year": "1953",
+    "release_date": "1953-06-27",
+    "rating": 5.3,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-17",
+    "id": 2779
+  },
+  {
+    "ytId": "rSdPI3r3mHg",
+    "tmdbId": 52268,
+    "title": "The Dog Who Saved Christmas Vacation",
+    "poster_path": "/yYsyMBcS4KXO2l2sQhsJp7tcDRH.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "year": "2013",
+    "release_date": "2013-10-11",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-17",
+    "id": 2778
+  },
+  {
+    "ytId": "cHxIPY82gvE",
+    "tmdbId": 1464258,
+    "title": "The Invisible Half",
+    "poster_path": "/etukP9n2NWDP0QvsSn2MBjsqBq8.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2026",
+    "release_date": "2026-07-30",
+    "rating": null,
+    "original_language": "ja",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-17",
+    "id": 2777
+  },
+  {
+    "ytId": "9uwnBrcGif8",
+    "tmdbId": 1587535,
+    "title": "Wasteland Cop",
+    "poster_path": "/9RXE3CdUXEHzFfsI9gKwdUhY3Hn.jpg",
+    "genre_ids": [
+      878,
+      14,
+      28,
+      12,
+      80
+    ],
+    "year": "2026",
+    "release_date": "2026-04-13",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-17",
+    "id": 2776
+  },
+  {
+    "ytId": "hcjZXLuBhCA",
+    "tmdbId": 232462,
+    "title": "Styx",
+    "poster_path": "/x2OgY2ij2EJeb5eS8Xaox2Ocsmn.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "year": "2001",
+    "release_date": "2001-10-15",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-17",
+    "id": 2775
+  },
+  {
+    "ytId": "_I9Rz-6y59I",
+    "tmdbId": 37035,
+    "title": "Swarmed",
+    "poster_path": "/5EZYd7m2Pl6O1Dt8UwhX2M1JTIR.jpg",
+    "genre_ids": [
+      28,
+      27,
+      53,
+      10770
+    ],
+    "year": "2005",
+    "release_date": "2005-12-06",
+    "rating": 4.3,
+    "original_language": "en",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-17",
+    "id": 2774
+  },
+  {
+    "ytId": "sFutzkoNhfg",
+    "tmdbId": 1011604,
+    "title": "Shark Waters",
+    "poster_path": "/iSvT8vTAtZzgf3uc5QJchLYgtYF.jpg",
+    "genre_ids": [
+      53,
+      27,
+      28,
+      10770
+    ],
+    "year": "2022",
+    "release_date": "2022-08-12",
+    "rating": 4.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-17",
+    "id": 2773
+  },
+  {
+    "ytId": "brGw47cSUIg",
+    "tmdbId": 1247729,
+    "title": "Amityvillenado",
+    "poster_path": "/gG6fPTz1Dg2KnVNBv6PwdLC152z.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "year": "2026",
+    "release_date": "2026-02-27",
+    "rating": 6.5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-17",
+    "id": 2772
+  },
+  {
+    "ytId": "b0G6MedCPog",
+    "tmdbId": 420279,
+    "title": "Monster Island",
+    "poster_path": "/wAwyhGDOdeqeWW9OGVQfRULiSzj.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "year": "2017",
+    "release_date": "2017-07-21",
+    "rating": 5.2,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-17",
+    "id": 2771
+  },
+  {
+    "ytId": "pIISoSC9z5U",
+    "tmdbId": 31042,
+    "title": "Target Earth",
+    "poster_path": "/stBO3utMARye8eIxWSdei4d0b4W.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "year": "1954",
+    "release_date": "1954-11-07",
+    "rating": 5.838,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-17",
+    "id": 2770
+  },
+  {
+    "ytId": "7oElMx4YnRI",
+    "tmdbId": 1572064,
+    "title": "Krampus in Space",
+    "poster_path": "/m96MOM5bEsTCyR6Ngz2aGaLAcF4.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2026",
+    "release_date": "2026-04-20",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-17",
+    "id": 2769
+  },
+  {
+    "ytId": "gnZHLSce5aA",
+    "tmdbId": 1559637,
+    "title": "Dracula in Space",
+    "poster_path": "/9tlykNIu36D7AEglAXZwY0JoKcA.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "year": "2026",
+    "release_date": "2026-02-21",
+    "rating": 3.3,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-17",
+    "id": 2768
+  },
+  {
+    "ytId": "1AdeOzBck54",
+    "tmdbId": 136568,
+    "title": "Dragon Wasps",
+    "poster_path": "/xYW9kuRPpkumbyOK3znajiKNEQu.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "year": "2012",
+    "release_date": "2012-09-17",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-17",
+    "id": 2767
+  },
+  {
+    "ytId": "Ge2cgO_qDEg",
+    "tmdbId": 675554,
+    "title": "Amityville Island",
+    "poster_path": "/eS0Az3kyZSVKmUmSutjhC6G6y2V.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2020",
+    "release_date": "2020-02-21",
+    "rating": 2.9,
+    "original_language": "en",
+    "channelName": "V Movies",
+    "addedAt": "2026-11-17",
+    "id": 2766
+  },
+  {
+    "ytId": "okMjjRtfZCM",
+    "tmdbId": 89465,
+    "title": "Stranger by Night",
+    "poster_path": "/50htGCyAdu3kxdYcLnKuSIVsVGC.jpg",
+    "genre_ids": [
+      53
+    ],
+    "year": "1994",
+    "release_date": "1994-11-23",
+    "rating": 4.2,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-11-17",
+    "id": 2765
+  },
+  {
+    "ytId": "Tv7jCfamvOQ",
+    "tmdbId": 1118195,
+    "title": "Miracle in East Texas",
+    "poster_path": "/vgBGPUm4clPU5DC3SuC1Q5ZPPpC.jpg",
+    "genre_ids": [
+      18
+    ],
+    "year": "2020",
+    "release_date": "2020-02-07",
+    "rating": 4,
+    "original_language": "en",
+    "channelName": "The Cinematics Movies",
+    "addedAt": "2026-11-17",
+    "id": 2764
+  },
+  {
     "ytId": "LS7AHnKibNA",
     "tmdbId": 472722,
     "title": "Party Boat",
