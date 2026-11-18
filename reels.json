@@ -7,10 +7,10 @@
     "release_date": "2023-08-04",
     "original_language": "ta",
     "type": "movie",
-    "ytId": "aQGchAs9E_M",
+    "ytId": "b8Mr2Lk60RU",
     "movieYtId": "VK7RqkESlj4",
     "channelName": "Sci-Fi Central",
-    "createdAt": "2026-11-16T02:00:35Z"
+    "createdAt": "2026-11-14T02:00:00Z"
   },
   {
     "id": 449612,
@@ -20,10 +20,10 @@
     "release_date": "2009-12-08",
     "original_language": "en",
     "type": "movie",
-    "ytId": "BLlaSPES7EE",
+    "ytId": "6_nDYQkeyyE",
     "movieYtId": "k9dUDIaX9MQ",
     "channelName": "Movie Central",
-    "createdAt": "2026-11-14T02:00:14Z"
+    "createdAt": "2026-11-18T02:00:46Z"
   },
   {
     "id": 1613798,
@@ -33,10 +33,10 @@
     "release_date": "2026-02-26",
     "original_language": "es",
     "type": "movie",
-    "ytId": "DRrrfQNyADw",
+    "ytId": "H8ihQsPPpyA",
     "movieYtId": "qQCp3KR3ToI",
     "channelName": "Movie Central",
-    "createdAt": "2026-10-18T02:00:21Z"
+    "createdAt": "2026-10-21T02:00:01Z"
   },
   {
     "id": 232777,
@@ -46,10 +46,10 @@
     "release_date": "2000-06-23",
     "original_language": "en",
     "type": "movie",
-    "ytId": "qWFJU4s8QbE",
+    "ytId": "odm7wNjSeq4",
     "movieYtId": "zjgkW-xklDo",
     "channelName": "Movie Central",
-    "createdAt": "2026-10-08T02:00:11Z"
+    "createdAt": "2026-10-07T02:00:16Z"
   },
   {
     "id": 55081,
@@ -59,10 +59,10 @@
     "release_date": "2006-11-07",
     "original_language": "en",
     "type": "movie",
-    "ytId": "F_GGtFN_E4Q",
+    "ytId": "EjgYofIzRU4",
     "movieYtId": "yDaLDTtQgxg",
     "channelName": "Movie Central",
-    "createdAt": "2026-09-20T03:00:03Z"
+    "createdAt": "2026-09-21T03:00:28Z"
   },
   {
     "id": 30331,
@@ -358,23 +358,10 @@
     "release_date": "2023-08-04",
     "original_language": "ta",
     "type": "movie",
-    "ytId": "jet9VTmipMw",
+    "ytId": "ESyQlhfgBSg",
     "movieYtId": "VK7RqkESlj4",
     "channelName": "Sci-Fi Central",
-    "createdAt": "2026-11-15T02:00:15Z"
-  },
-  {
-    "id": 449612,
-    "tmdbId": 449612,
-    "title": "Double Duty",
-    "poster_path": "https://image.tmdb.org/t/p/w500/goTLAqPg1pt6v4nZCWgbhfnQ0vZ.jpg",
-    "release_date": "2009-12-08",
-    "original_language": "en",
-    "type": "movie",
-    "ytId": "2tekFw5Tr4w",
-    "movieYtId": "k9dUDIaX9MQ",
-    "channelName": "Movie Central",
-    "createdAt": "2026-11-12T02:00:01Z"
+    "createdAt": "2026-11-13T02:00:31Z"
   },
   {
     "id": 1613798,
@@ -384,10 +371,10 @@
     "release_date": "2026-02-26",
     "original_language": "es",
     "type": "movie",
-    "ytId": "nUr9tKdWLNQ",
+    "ytId": "Q3slbldp0vg",
     "movieYtId": "qQCp3KR3ToI",
     "channelName": "Movie Central",
-    "createdAt": "2026-10-16T02:00:26Z"
+    "createdAt": "2026-10-19T02:00:13Z"
   },
   {
     "id": 232777,
@@ -397,10 +384,10 @@
     "release_date": "2000-06-23",
     "original_language": "en",
     "type": "movie",
-    "ytId": "e4HuEkXZEqk",
+    "ytId": "B7dodqZBVOU",
     "movieYtId": "zjgkW-xklDo",
     "channelName": "Movie Central",
-    "createdAt": "2026-10-03T03:00:23Z"
+    "createdAt": "2026-09-29T03:00:02Z"
   },
   {
     "id": 55081,
@@ -410,10 +397,23 @@
     "release_date": "2006-11-07",
     "original_language": "en",
     "type": "movie",
-    "ytId": "1HX5bOiNbfE",
+    "ytId": "iaWbVwgxlYs",
     "movieYtId": "yDaLDTtQgxg",
     "channelName": "Movie Central",
-    "createdAt": "2026-09-19T03:00:07Z"
+    "createdAt": "2026-09-18T03:00:25Z"
+  },
+  {
+    "id": 449612,
+    "tmdbId": 449612,
+    "title": "Double Duty",
+    "poster_path": "https://image.tmdb.org/t/p/w500/goTLAqPg1pt6v4nZCWgbhfnQ0vZ.jpg",
+    "release_date": "2009-12-08",
+    "original_language": "en",
+    "type": "movie",
+    "ytId": "BLlaSPES7EE",
+    "movieYtId": "k9dUDIaX9MQ",
+    "channelName": "Movie Central",
+    "createdAt": "2026-11-14T02:00:14Z"
   },
   {
     "id": 65946,
@@ -566,6 +566,58 @@
     "release_date": "2005-05-01",
     "original_language": "en",
     "type": "movie",
+    "ytId": "Xf9T2RATqqQ",
+    "channelName": "FilmRise Movies",
+    "createdAt": "2025-09-29T15:17:43Z",
+    "movieYtId": "ARSHL8QGX1o"
+  },
+  {
+    "id": 290541,
+    "tmdbId": 290541,
+    "title": "Justice",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4lZAFUQnr6YYMxGB0Ybnq4z5ejO.jpg",
+    "release_date": "1999-01-14",
+    "original_language": "en",
+    "type": "movie",
+    "ytId": "zwZ0HYUOg7g",
+    "channelName": "FilmRise Movies",
+    "createdAt": "2026-01-19T20:00:51Z",
+    "movieYtId": "4pA1EPoc_s8"
+  },
+  {
+    "id": 36196,
+    "tmdbId": 36196,
+    "title": "Party Girl",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
+    "release_date": "1995-06-09",
+    "original_language": "en",
+    "type": "movie",
+    "ytId": "j-HrbOYVqqk",
+    "channelName": "FilmRise Movies",
+    "createdAt": "2025-06-09T21:32:31Z",
+    "movieYtId": "ImNmTjLAsG8"
+  },
+  {
+    "id": 13401,
+    "tmdbId": 13401,
+    "title": "The Accidental Husband",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hbmHBXL7KyqNapDj6m3pqdV1qx3.jpg",
+    "release_date": "2008-02-29",
+    "original_language": "en",
+    "type": "movie",
+    "ytId": "xYTV6dMrq0s",
+    "channelName": "FilmRise Movies",
+    "createdAt": "2025-04-29T19:00:51Z",
+    "movieYtId": "gaHiCF_keWs"
+  },
+  {
+    "id": 10252,
+    "tmdbId": 10252,
+    "title": "Animal",
+    "poster_path": "https://image.tmdb.org/t/p/w500/f0r2kdF3TitkTxAwb0kKdsTfIvi.jpg",
+    "release_date": "2005-05-01",
+    "original_language": "en",
+    "type": "movie",
     "ytId": "oFYt3nejJso",
     "channelName": "Movie Central",
     "createdAt": "2026-06-16T03:00:21Z",
@@ -635,58 +687,6 @@
     "movieYtId": "4z7iUWs-Ox4",
     "channelName": "FilmRise Movies",
     "createdAt": "2026-02-17T21:30:00Z"
-  },
-  {
-    "id": 10252,
-    "tmdbId": 10252,
-    "title": "Animal",
-    "poster_path": "https://image.tmdb.org/t/p/w500/f0r2kdF3TitkTxAwb0kKdsTfIvi.jpg",
-    "release_date": "2005-05-01",
-    "original_language": "en",
-    "type": "movie",
-    "ytId": "Xf9T2RATqqQ",
-    "channelName": "FilmRise Movies",
-    "createdAt": "2025-09-29T15:17:43Z",
-    "movieYtId": "ARSHL8QGX1o"
-  },
-  {
-    "id": 290541,
-    "tmdbId": 290541,
-    "title": "Justice",
-    "poster_path": "https://image.tmdb.org/t/p/w500/4lZAFUQnr6YYMxGB0Ybnq4z5ejO.jpg",
-    "release_date": "1999-01-14",
-    "original_language": "en",
-    "type": "movie",
-    "ytId": "zwZ0HYUOg7g",
-    "channelName": "FilmRise Movies",
-    "createdAt": "2026-01-19T20:00:51Z",
-    "movieYtId": "4pA1EPoc_s8"
-  },
-  {
-    "id": 36196,
-    "tmdbId": 36196,
-    "title": "Party Girl",
-    "poster_path": "https://image.tmdb.org/t/p/w500/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
-    "release_date": "1995-06-09",
-    "original_language": "en",
-    "type": "movie",
-    "ytId": "j-HrbOYVqqk",
-    "channelName": "FilmRise Movies",
-    "createdAt": "2025-06-09T21:32:31Z",
-    "movieYtId": "ImNmTjLAsG8"
-  },
-  {
-    "id": 13401,
-    "tmdbId": 13401,
-    "title": "The Accidental Husband",
-    "poster_path": "https://image.tmdb.org/t/p/w500/hbmHBXL7KyqNapDj6m3pqdV1qx3.jpg",
-    "release_date": "2008-02-29",
-    "original_language": "en",
-    "type": "movie",
-    "ytId": "xYTV6dMrq0s",
-    "channelName": "FilmRise Movies",
-    "createdAt": "2025-04-29T19:00:51Z",
-    "movieYtId": "gaHiCF_keWs"
   },
   {
     "id": 1121903,

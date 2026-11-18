@@ -1,5 +1,74 @@
 [
   {
+    "ytId": "fCXn6Ep7Yx4",
+    "tmdbId": 41118,
+    "title": "Scrooge",
+    "poster_path": "/vqRuJyux0KEr4vojK9ytXIrEU46.jpg",
+    "genre_ids": [
+      18,
+      14,
+      27
+    ],
+    "year": "1935",
+    "release_date": "1935-11-26",
+    "rating": 6.1,
+    "original_language": "en",
+    "channelName": "THE MOVIE ZONE",
+    "addedAt": "2026-11-18",
+    "id": 2795
+  },
+  {
+    "ytId": "NxJ3xkTA4qk",
+    "tmdbId": 993074,
+    "title": "Cartel: The Genesis",
+    "poster_path": "/rcLdLaY3EmFNaIvwZJnP8L5Au8O.jpg",
+    "genre_ids": [
+      28
+    ],
+    "year": "2015",
+    "release_date": "2015-10-10",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-18",
+    "id": 2794
+  },
+  {
+    "ytId": "Mva4LZ78_Yg",
+    "tmdbId": 1230522,
+    "title": "ElemenTory",
+    "poster_path": "/oH7GtcoJ1oGFGq3iGUKCKx3UTZz.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "year": "2024",
+    "release_date": "2024-02-13",
+    "rating": 6,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-18",
+    "id": 2793
+  },
+  {
+    "ytId": "-uQ5sP5GoZk",
+    "tmdbId": 778919,
+    "title": "Arachnado",
+    "poster_path": "/60liwQuiBQLmtYBuXkWs3CFltiK.jpg",
+    "genre_ids": [
+      27,
+      12,
+      28
+    ],
+    "year": "2020",
+    "release_date": "2020-11-01",
+    "rating": 1,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-18",
+    "id": 2792
+  },
+  {
     "ytId": "i_APXLuHwUA",
     "tmdbId": 575842,
     "title": "Red Ghost",
