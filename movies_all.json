@@ -1,5 +1,76 @@
 [
   {
+    "ytId": "QzMublABP84",
+    "tmdbId": 38914,
+    "title": "Here Comes Mr. Jordan",
+    "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10749
+    ],
+    "year": "1941",
+    "release_date": "1941-08-07",
+    "rating": 7.004,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-19",
+    "id": 2799
+  },
+  {
+    "ytId": "_bOzKYX70IY",
+    "tmdbId": 10384,
+    "title": "Supernova",
+    "poster_path": "/AmHGUjhgXnOYRYrF2ZYMtzfwxPe.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "year": "2000",
+    "release_date": "2000-01-14",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-19",
+    "id": 2798
+  },
+  {
+    "ytId": "MGoGCcxrfV8",
+    "tmdbId": 1683097,
+    "title": "No Budget Theater Double Feature",
+    "poster_path": "/Af2Xs1587AC31Xru4jl8Qxadhz4.jpg",
+    "genre_ids": [
+      35,
+      27,
+      878
+    ],
+    "year": "",
+    "release_date": null,
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Disaster Zone Movies",
+    "addedAt": "2026-11-19",
+    "id": 2797
+  },
+  {
+    "ytId": "1xKsZj46TYo",
+    "tmdbId": 1512304,
+    "title": "Alien in the Heartland",
+    "poster_path": "/i1FJUkpkieGodBdTkeQKb7PIEZ7.jpg",
+    "genre_ids": [
+      9648,
+      878
+    ],
+    "year": "2026",
+    "release_date": "2026-04-30",
+    "rating": 5,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-19",
+    "id": 2796
+  },
+  {
     "ytId": "fCXn6Ep7Yx4",
     "tmdbId": 41118,
     "title": "Scrooge",
