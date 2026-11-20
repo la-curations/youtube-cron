@@ -1,5 +1,74 @@
 [
   {
+    "ytId": "xAGiUexS3XM",
+    "tmdbId": 287775,
+    "title": "Obsessions",
+    "poster_path": "/iUMHRtDvgxaSFI5FPSgZQBo2cm7.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "1969",
+    "release_date": "1969-08-15",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-20",
+    "id": 2803
+  },
+  {
+    "ytId": "VTBvrMWGOBw",
+    "tmdbId": 10649,
+    "title": "The Enforcer",
+    "poster_path": "/l0W85fpnsfnpLSSF3D6bKKlH1dD.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53,
+      18
+    ],
+    "year": "1976",
+    "release_date": "1976-12-16",
+    "rating": 6.736,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-20",
+    "id": 2802
+  },
+  {
+    "ytId": "COI4uUbXcEg",
+    "tmdbId": 1255020,
+    "title": "Cruel War",
+    "poster_path": "/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2024",
+    "release_date": "2024-03-06",
+    "rating": 7,
+    "original_language": "zh",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-20",
+    "id": 2801
+  },
+  {
+    "ytId": "gFf6UI0ATMI",
+    "tmdbId": 281897,
+    "title": "Anomalies 2: Kill a Prophet",
+    "poster_path": "/hdTpGaHjcKTvHlESdBskQjvBmE0.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-11-03",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-20",
+    "id": 2800
+  },
+  {
     "ytId": "QzMublABP84",
     "tmdbId": 38914,
     "title": "Here Comes Mr. Jordan",

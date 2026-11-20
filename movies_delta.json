@@ -1,5 +1,74 @@
 [
   {
+    "ytId": "xAGiUexS3XM",
+    "tmdbId": 287775,
+    "title": "Obsessions",
+    "poster_path": "/iUMHRtDvgxaSFI5FPSgZQBo2cm7.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "year": "1969",
+    "release_date": "1969-08-15",
+    "rating": 4.6,
+    "original_language": "en",
+    "channelName": "StreamCore",
+    "addedAt": "2026-11-20",
+    "id": 2803
+  },
+  {
+    "ytId": "VTBvrMWGOBw",
+    "tmdbId": 10649,
+    "title": "The Enforcer",
+    "poster_path": "/l0W85fpnsfnpLSSF3D6bKKlH1dD.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53,
+      18
+    ],
+    "year": "1976",
+    "release_date": "1976-12-16",
+    "rating": 6.736,
+    "original_language": "en",
+    "channelName": "Movie Central",
+    "addedAt": "2026-11-20",
+    "id": 2802
+  },
+  {
+    "ytId": "COI4uUbXcEg",
+    "tmdbId": 1255020,
+    "title": "Cruel War",
+    "poster_path": "/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "year": "2024",
+    "release_date": "2024-03-06",
+    "rating": 7,
+    "original_language": "zh",
+    "channelName": "The Midnight Screening",
+    "addedAt": "2026-11-20",
+    "id": 2801
+  },
+  {
+    "ytId": "gFf6UI0ATMI",
+    "tmdbId": 281897,
+    "title": "Anomalies 2: Kill a Prophet",
+    "poster_path": "/hdTpGaHjcKTvHlESdBskQjvBmE0.jpg",
+    "genre_ids": [
+      27
+    ],
+    "year": "2023",
+    "release_date": "2023-11-03",
+    "rating": null,
+    "original_language": "en",
+    "channelName": "Sci-Fi Central",
+    "addedAt": "2026-11-20",
+    "id": 2800
+  },
+  {
     "ytId": "QzMublABP84",
     "tmdbId": 38914,
     "title": "Here Comes Mr. Jordan",
@@ -2510,74 +2579,5 @@
     "channelName": "The Midnight Screening",
     "addedAt": "2026-10-16",
     "id": 2654
-  },
-  {
-    "ytId": "5-sKJhXptAI",
-    "tmdbId": 297544,
-    "title": "Age of Ice",
-    "poster_path": "/s6RwbGCnffcLso2ua8U99RR6H4Y.jpg",
-    "genre_ids": [
-      12,
-      878
-    ],
-    "year": "2014",
-    "release_date": "2014-12-09",
-    "rating": 3.897,
-    "original_language": "en",
-    "channelName": "Disaster Zone Movies",
-    "addedAt": "2026-10-16",
-    "id": 2653
-  },
-  {
-    "ytId": "9z_S7uJHjD0",
-    "tmdbId": 546328,
-    "title": "Scarecrows of the Third Reich",
-    "poster_path": "/1tiAl4lxzStbYRUNWldfml1OmFQ.jpg",
-    "genre_ids": [
-      27
-    ],
-    "year": "2018",
-    "release_date": "2018-07-10",
-    "rating": 4,
-    "original_language": "en",
-    "channelName": "Sci-Fi Central",
-    "addedAt": "2026-10-16",
-    "id": 2652
-  },
-  {
-    "ytId": "zAOqsZvXJC4",
-    "tmdbId": 11618,
-    "title": "The Haunting",
-    "poster_path": "/xwLldS5JnB4441iS50ha9ZrkaA8.jpg",
-    "genre_ids": [
-      27,
-      53,
-      14,
-      9648
-    ],
-    "year": "1999",
-    "release_date": "1999-07-23",
-    "rating": 5.524,
-    "original_language": "en",
-    "channelName": "V Movies",
-    "addedAt": "2026-10-16",
-    "id": 2651
-  },
-  {
-    "ytId": "IBZN2D9S71g",
-    "tmdbId": 496297,
-    "title": "Off the Menu",
-    "poster_path": "/y1vv48urzwEqn8t5hQ8L6Twp4Pc.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "year": "2018",
-    "release_date": "2018-02-01",
-    "rating": 5.86,
-    "original_language": "en",
-    "channelName": "StreamCore",
-    "addedAt": "2026-10-15",
-    "id": 2650
   }
 ]
